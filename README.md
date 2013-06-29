@@ -1,4 +1,5 @@
-europe
-======
+# Europe
 
-Free open public domain football data (football.db) for Europe / National Teams (e.g. Euro 2008, Euro 2012)
+Free open public domain football data for Euro 2008, Euro 2012, etc. including national teams.
+
+

@@ -1,0 +1,15 @@
+###########
+# all
+
+seasons:
+- europe!/setups/data/seasons
+
+leagues:
+- europe!/leagues
+
+euro_teams:
+- europe!/teams
+
+euro:
+- europe!/2008/euro
+- europe!/2012/euro

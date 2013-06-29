@@ -1,0 +1,2 @@
+
+euro, Euro      # change key to europe (to match folder structure) - why? why not?

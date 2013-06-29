@@ -27,7 +27,7 @@ geo, Georgia,     GEO, ge
   
 ## some more teams for wm 2010
 
-sui, Switzerland,      SUI, ch 
+sui, Switzerland,      SUI, ch
 srb, Serbia,      SRB, rs
 svn, Slovenia,    SVN, si
 svk, Slovakia,     SVK, sk
