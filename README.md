@@ -1,5 +1,8 @@
-# Europe
+# Euro / European Championship Cup
 
-Free open public domain football data for Euro 2008, Euro 2012, etc. including national teams.
+Free open public domain football data for Euro 2008, Euro 2012, etc.
+including national teams.
+
+
 
 
