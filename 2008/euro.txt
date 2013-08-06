@@ -1,19 +1,9 @@
-#########################################################
-#  Euro 2008  Austria-Switzerland (7 June - 29 June)
-#
-
-# see en.wikipedia.org/wiki/UEFA_Euro_2008
-#     de.wikipedia.org/wiki/Fußball-Europameisterschaft_2008
-#
-#  16 teams
-#  31 games
-#  22 days
-
+####################################
+#  Euro 2008  Austria-Switzerland 
 
 
 ############
 # Groups
-#
 
 Group A  |  Switzerland    Czech Republic  Portugal     Turkey
 Group B  |  Austria        Croatia         Germany      Poland
@@ -22,7 +12,7 @@ Group D  |  Greece         Sweden          Spain        Russia
 
 
 ##################
-## Group stage
+# Group stage
 
 
 ## todo: change 1. Round, 2. Round to ??
