@@ -13,12 +13,18 @@ Free open public domain football data for Euro 2008, Euro 2012, etc.
 including national teams.
 
 
+## Build Your Own `football.db` Copy
+
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+
+
 
 ## Links
 
 ### Euro / European Championship Cup
 
-Oficial -> [`www.uefa.com/uefaeuro`](http://www.uefa.com/uefaeuro)
+Official site - [`www.uefa.com/uefaeuro`](http://www.uefa.com/uefaeuro)
 
 - 16 teams
 - 31 games
