@@ -33,6 +33,8 @@ svn, Slovenia,    SVN, si
 svk, Slovakia,     SVK, sk
 tur, Turkey,  TUR, tr
 rou, Romania,   ROU, ro
+isl, Iceland, ISL, is
+bel, Belgium, BEL, be
 
 ## some more teams for world cup 2014
 
