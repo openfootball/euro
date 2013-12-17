@@ -16,7 +16,7 @@ swe, Sweden,     SWE, se
 fra, France,   FRA, fr
 eng, England,      ENG, en
 
-## some more teams for wm quali
+## some more teams for world cup quali
 
 fro, Faroe Islands,  FRO, fo
 kaz, Kazakhstan,   KAZ, kz
@@ -25,7 +25,7 @@ blr, Belarus, BLR, by
 fin, Finland,     FIN, fi
 geo, Georgia,     GEO, ge
   
-## some more teams for wm 2010
+## some more teams for world cup 2010
 
 sui, Switzerland,      SUI, ch
 srb, Serbia,      SRB, rs
@@ -33,3 +33,7 @@ svn, Slovenia,    SVN, si
 svk, Slovakia,     SVK, sk
 tur, Turkey,  TUR, tr
 rou, Romania,   ROU, ro
+
+## some more teams for world cup 2014
+
+bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia, BIH, ba
