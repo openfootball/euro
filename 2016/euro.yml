@@ -1,0 +1,16 @@
+###############################
+#  Euro 2016 France
+
+league: euro
+season: 2016
+start_at: 2016-06-10
+team3: false
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+##########
+# 24 Teams (in ?? Groups - ??x??)
+
+teams:
+- fra

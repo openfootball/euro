@@ -2,6 +2,12 @@
 #  Euro 2008  Austria-Switzerland 
 
 
+################
+## fix:
+##   cleanup dates - use Jun/9 etc. as formata
+##   add official match number if available (1) (2) etc.
+
+
 ############
 # Groups
 
@@ -22,18 +28,18 @@ Group D  |  Greece         Sweden          Spain        Russia
 
 1. Round / Group A
 
-2008-06-07 18:00   Switzerland     -  Czech Republic    0:1
-2008-06-07 20:45   Portugal      -  Turkey        2:0
+Jun/7 18:00   Switzerland     0:1  Czech Republic
+Jun/7 20:45   Portugal        2:0  Turkey
 
 2. Round / Group A
 
-2008-06-11 18:00   Czech Republic  -  Portugal      1:3
-2008-06-11 20:45   Switzerland     -  Turkey        1:2
+Jun/11 18:00   Czech Republic  1:3  Portugal
+Jun/11 20:45   Switzerland     1:2  Turkey
 
 3. Round / Group A
 
-2008-06-15 20:45   Switzerland     -  Portugal      2:0
-2008-06-15 20:45   Turkey      -  Czech Republic    3:2
+Jun/15 20:45   Switzerland   2:0  Portugal
+Jun/15 20:45   Turkey        3:2  Czech Republic
 
 
 #######
@@ -106,11 +112,11 @@ Su 2008-06-22 20:45   Spain     -    Italy       4:2iE  0:0nV  0:0
 
 (5) Semi-finals
 
-We 2008-06-25 20:45  Germany   -   Turkey   3:2
-Th 2008-06-26 20:45  Russia      -   Spain  0:3
+We Jun/25 20:45  Germany   3:2   Turkey
+Th Jun/26 20:45  Russia    0:3   Spain
 
 
 (6) Final
 
-Su 2008-06-29 20:45   Germany  -   Spain  0:1
+Su Jun/29 20:45   Germany  0:1   Spain
 

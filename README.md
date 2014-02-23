@@ -9,8 +9,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for Euro 2008, Euro 2012, etc.
-including national teams.
+Free open public domain football data for Euro 2008, Euro 2012, Euro 2016, Euro 2020,
+etc. including national teams.
 
 
 ## Build Your Own `football.db` Copy

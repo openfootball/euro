@@ -1,4 +1,4 @@
 
-euro, Euro
-
+euro,        Euro
+euro.quali,  Euro Quali
 

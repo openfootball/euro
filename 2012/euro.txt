@@ -1,14 +1,18 @@
 #################################
 #  Euro 2012 Poland-Ukraine
 
+####
+## todo/fix:
+##   cleanup fixtures - use country name instead of three-letter FIFA code
+
 
 ############
 # Groups
 
-Group A  |  POL  GRE  RUS  CZE
-Group B  |  NED  DEN  GER  POR
-Group C  |  ESP  ITA  IRL  CRO
-Group D  |  UKR  SWE  FRA  ENG
+Group A  |  Poland       Greece   Russia   Czech Republic
+Group B  |  Netherlands  Denmark  Germany  Portugal
+Group C  |  Spain        Italy    Ireland  Croatia
+Group D  |  Ukraine      Sweden   France   England
 
 
 
@@ -17,25 +21,25 @@ Group D  |  UKR  SWE  FRA  ENG
 
 
 
-## todo: change 1. Round, 2. Round to ??
+## todo: change 1. Round, 2. Round to  Matchday 1, Matchday 2 ??
 
 #############
 # Group A
 
 1. Round / Group A
 
-(1) POL   1:1  GRE   2012-06-08 18:00
-(2) RUS   4:1  CZE   2012-06-08 20:45
+(1) Jun/8 18:00   Poland   1:1  Greece
+(2) Jun/8 20:45   Russia   4:1  Czech Republic
 
 2. Round / Group A
 
-(9)   GRE  1:2  CZE   2012-06-12 18:00
-(10)  POL  1:1  RUS   2012-06-12 20:45
+(9)  Jun/12 18:00  Greece  1:2  Czech Republic
+(10) Jun/12 20:45  Poland  1:1  Russia
 
 3. Round / Group A
 
-(17) CZE  1:0  POL   2012-06-16 20:45
-(18) GRE  1:0  RUS   2012-06-16 20:45
+(17) Jun/16 20:45  Czech Republic  1:0  Poland
+(18) Jun/16 20:45  Greece          1:0  Russia
 
 
 #############
@@ -108,10 +112,10 @@ Group D  |  UKR  SWE  FRA  ENG
 
 (5) Semi-finals
 
-(29)  POR  0:0 0:0nV 2:4iE  ESP  2012-06-27 20:45
-(30)  GER  1:2              ITA  2012-06-28 20:45
+(29) Jun/27 20:45   Portugal  0:0 0:0nV 2:4iE  Spain
+(30) Jun/28 20:45   Germany   1:2              Italy
 
 
 (6) Final
 
-(31)  ESP  4:0  ITA   2012-07-01 20:45
+(31) Jul/1 20:45   Spain  4:0  Italy

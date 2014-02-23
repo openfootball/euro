@@ -1,0 +1,25 @@
+#######################################
+# Euro Cup 2016 - Qualification
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+league: euro.quali
+season:  2016
+start_at: 2014-09-01    ## fix: change date to first match??
+
+fixtures:
+- quali_euro_a          # group a
+- quali_euro_b          # group b
+- quali_euro_c          # group c
+- quali_euro_d          # group d
+- quali_euro_e          # group e
+- quali_euro_f          # group f
+- quali_euro_g          # group g
+- quali_euro_h          # group h
+- quali_euro_i          # group i
+
+
+teams:
+- fra   # todo: add all 53 ?? teams
