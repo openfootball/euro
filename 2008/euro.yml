@@ -28,3 +28,16 @@ teams:
 - swe
 - esp
 - rus
+
+######################################################
+# 8 stadiums (4 in Austria/4 in Switzerland)
+
+grounds:
+- happelstadion
+- woertherseestadion
+- walssiezenheimstadion
+- tivoli
+- stadedegeneve
+- stjakobpark
+- stadeeesuisse
+- letzigrund 
