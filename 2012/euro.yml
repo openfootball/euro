@@ -30,3 +30,15 @@ teams:
 - fra
 - eng
 
+########################################
+# 8 Stadiums (4 Poland + 4 Ukraine)
+
+grounds:
+- nationalstadiumwarszawa
+- pgearena
+- municipalstadiumwroclaw
+- municipalstadiumpoznan
+- olympicstadiumkiev
+- donbassarena
+- metaliststadium
+- arenalviv
