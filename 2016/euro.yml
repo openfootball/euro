@@ -14,3 +14,19 @@ team3: false
 
 teams:
 - fra
+
+
+#####################
+# 10 Stadiums
+
+grounds:
+- stadedefrance
+- parcdesprinces
+- stadevelodrome
+- stadedelyon  
+- stadepierremauroy
+- stadebollaertdelelis
+- stadedebordeaux
+- stadegeoffroyguichard
+- stadiummunicipal
+- stadedenice
