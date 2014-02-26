@@ -28,18 +28,18 @@ Group D  |  Greece         Sweden          Spain        Russia
 
 1. Round / Group A
 
-Jun/7 18:00   Switzerland     0:1  Czech Republic
-Jun/7 20:45   Portugal        2:0  Turkey
+Jun/7 18:00   Switzerland     0:1  Czech Republic   @ St. Jakob-Park, Basel
+Jun/7 20:45   Portugal        2:0  Turkey           @ Stade de Genève, Geneva
 
 2. Round / Group A
 
-Jun/11 18:00   Czech Republic  1:3  Portugal
-Jun/11 20:45   Switzerland     1:2  Turkey
+Jun/11 18:00   Czech Republic  1:3  Portugal        @ Stade de Genève, Geneva
+Jun/11 20:45   Switzerland     1:2  Turkey          @ St. Jakob-Park, Basel
 
 3. Round / Group A
 
-Jun/15 20:45   Switzerland   2:0  Portugal
-Jun/15 20:45   Turkey        3:2  Czech Republic
+Jun/15 20:45   Switzerland   2:0  Portugal         @ St. Jakob-Park, Basel
+Jun/15 20:45   Turkey        3:2  Czech Republic   @ Stade de Genève, Geneva
 
 
 #######
