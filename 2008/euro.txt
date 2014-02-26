@@ -47,18 +47,18 @@ Jun/15 20:45   Turkey        3:2  Czech Republic   @ Stade de Genève, Geneva
 
 1. Round / Group B
 
-2008-06-08 18:00   Austria  -  Croatia     0:1
-2008-06-08 20:45   Germany -  Poland        2:0
+Jun/8 18:00   Austria      0:1  Croatia   @ Ernst-Happel-Stadion, Wien
+Jun/8 20:45   Germany      2:0  Poland    @ Wörtherseestadion, Klagenfurt
 
 2. Round / Group B
 
-2008-06-12 18:00   Croatia    -  Germany  2:1
-2008-06-12 20:45   Austria  -  Poland        1:1
+Jun/12 18:00   Croatia     2:1   Germany  @ Wörtherseestadion, Klagenfurt
+Jun/12 20:45   Austria     1:1   Poland   @ Ernst-Happel-Stadion, Wien
 
 3. Round / Group B
 
-2008-06-16 20:45   Poland       -  Croatia     0:1
-2008-06-16 20:45   Austria  -  Germany  0:1
+Jun/16 20:45   Poland      0:1   Croatia  @ Wörtherseestadion, Klagenfurt
+Jun/16 20:45   Austria     0:1   Germany  @ Ernst-Happel-Stadion, Wien
 
 
 ###########
