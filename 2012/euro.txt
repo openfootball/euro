@@ -28,18 +28,18 @@ Group D  |  Ukraine      Sweden   France   England
 
 1. Round / Group A
 
-(1) Jun/8 18:00   Poland   1:1  Greece
-(2) Jun/8 20:45   Russia   4:1  Czech Republic
+(1) Jun/8 18:00   Poland   1:1  Greece             @ National Stadium Warszawa, Warszawa
+(2) Jun/8 20:45   Russia   4:1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
 
 2. Round / Group A
 
-(9)  Jun/12 18:00  Greece  1:2  Czech Republic
-(10) Jun/12 20:45  Poland  1:1  Russia
+(9)  Jun/12 18:00  Greece  1:2  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+(10) Jun/12 20:45  Poland  1:1  Russia             @ National Stadium Warszawa, Warszawa
 
 3. Round / Group A
 
-(17) Jun/16 20:45  Czech Republic  1:0  Poland
-(18) Jun/16 20:45  Greece          1:0  Russia
+(17) Jun/16 20:45  Czech Republic  1:0  Poland     @ Municipal Stadium Wrocław, Wrocław
+(18) Jun/16 20:45  Greece          1:0  Russia     @ National Stadium Warszawa, Warszawa
 
 
 #############
