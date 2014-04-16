@@ -1,0 +1,12 @@
+###########
+# All
+
+# Leagues
+euro-cup!/leagues
+
+# 2008
+euro-cup!/2008/euro
+
+# 2012
+euro-cup!/2012/euro
+

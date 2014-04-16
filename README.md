@@ -10,8 +10,25 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 ## Intro
 
 Free open public domain football data for Euro 2008, Euro 2012, Euro 2016, Euro 2020,
-etc. including national teams.
+etc.
+Example:
 
+~~~
+#################################
+#  Euro 2012 Poland-Ukraine
+
+Group A  |  Poland       Greece   Russia   Czech Republic
+Group B  |  Netherlands  Denmark  Germany  Portugal
+Group C  |  Spain        Italy    Ireland  Croatia
+Group D  |  Ukraine      Sweden   France   England
+
+
+1. Round / Group A
+
+(1) Jun/8 18:00   Poland   1:1  Greece             @ National Stadium Warszawa, Warszawa
+(2) Jun/8 20:45   Russia   4:1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+...
+~~~
 
 ## Build Your Own `football.db` Copy
 
