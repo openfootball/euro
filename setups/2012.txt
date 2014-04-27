@@ -1,6 +1,4 @@
-
-# Leagues
-euro-cup!/leagues
-
+###########
 # 2012
+
 euro-cup!/2012/euro

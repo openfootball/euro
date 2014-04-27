@@ -1,4 +1,0 @@
-
-euro,        Euro
-euro.quali,  Euro Quali
-
