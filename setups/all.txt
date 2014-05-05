@@ -2,8 +2,8 @@
 # All
 
 # -- 2008
-euro-cup!/2008/euro
+euro-cup!/2008--austria-switzerland/euro
 
 # -- 2012
-euro-cup!/2012/euro
+euro-cup!/2012--poland-ukraine/euro
 

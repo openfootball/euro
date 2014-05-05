@@ -1,4 +1,5 @@
 ###########
 # 2012
 
-euro-cup!/2012/euro
+euro-cup!/2012--poland-ukraine/euro
+
