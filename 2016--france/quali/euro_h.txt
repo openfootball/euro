@@ -15,3 +15,55 @@ Group H  |   Italy   Croatia   Norway   Bulgaria   Azerbaijan   Malta
 # Matchday 8  6–8 September 2015
 # Matchday 9  8–10 October 2015
 # Matchday 10  11–13 October 2015
+
+
+[Sep/9 2014]
+  18:00   Azerbaijan  v   Bulgaria  @ Bakcell Arena, Baku (UTC+5)
+  20:45   Croatia     v   Malta     @ Stadion Maksimir, Zagreb (UTC+2)
+  20:45   Norway      v   Italy     @ Ullevaal Stadion, Oslo (UTC+2)
+
+[Oct/10 2014]
+  20:45   Bulgaria   v   Croatia     @ Vasil Levski National Stadium, Sofia (UTC+3)
+  20:45   Italy      v   Azerbaijan  @ Stadio Renzo Barbera, Palermo (UTC+2)
+  20:45   Malta      v   Norway      @ Ta' Qali National Stadium, Ta' Qali (UTC+2)
+
+[Oct/13 2014]
+  20:45   Croatia   v   Azerbaijan  @ Stadion Gradski vrt, Osijek (UTC+2)
+  20:45   Malta     v   Italy       @ Ta' Qali National Stadium, Ta' Qali (UTC+2)
+  20:45   Norway    v   Bulgaria    @ Ullevaal Stadion, Oslo (UTC+2)
+
+[Nov/16 2014]
+  18:00   Azerbaijan   v   Norway   @ Bakcell Arena, Baku (UTC+4)
+  20:45   Bulgaria     v   Malta    @ Vasil Levski National Stadium, Sofia (UTC+2)
+  20:45   Italy        v   Croatia  @ San Siro, Milan (UTC+1)
+
+[Mar/28 2015]
+  18:00  Azerbaijan   v   Malta   @ Tofiq Bahramov Republican Stadium, Baku (UTC+4)
+  18:00  Croatia      v   Norway  @ Stadion Maksimir, Zagreb (UTC+1)
+  20:45  Bulgaria     v   Italy   @ Vasil Levski National Stadium, Sofia (UTC+2)
+
+[Jun/12 2015]
+  20:45  Croatia    v   Italy       @ Stadion Maksimir, Zagreb (UTC+2)
+  20:45  Malta      v   Bulgaria    @ Ta' Qali National Stadium, Ta' Qali (UTC+2)
+  20:45  Norway     v   Azerbaijan  @ Ullevaal Stadion, Oslo (UTC+2)
+
+[Sep/3 2015]
+  18:00  Azerbaijan   v   Croatia  @ Tofiq Bahramov Republican Stadium, Baku (UTC+5)
+  20:45  Bulgaria     v   Norway   @ Vasil Levski National Stadium, Sofia (UTC+3)
+  20:45  Italy        v   Malta    @ ? (UTC+2)
+
+[Sep/6 2015]
+  18:00  Malta      v   Azerbaijan  @ Ta' Qali National Stadium, Ta' Qali (UTC+2)
+  18:00  Norway     v   Croatia     @ Ullevaal Stadion, Oslo (UTC+2)
+  20:45  Italy      v   Bulgaria    @ ? (UTC+2)
+
+[Oct/10 2015]
+  18:00  Azerbaijan   v   Italy     @ Tofiq Bahramov Republican Stadium, Baku (UTC+5)
+  18:00  Norway       v   Malta     @ Ullevaal Stadion, Oslo (UTC+2)
+  20:45  Croatia      v   Bulgaria  @ Stadion Maksimir, Zagreb (UTC+2)
+
+[Oct/13 2015]
+  20:45  Bulgaria   v   Azerbaijan  @ Vasil Levski National Stadium, Sofia (UTC+3)
+  20:45  Italy      v   Norway      @ ? (UTC+2)
+  20:45  Malta      v   Croatia     @ Ta' Qali National Stadium, Ta' Qali (UTC+2)
+
