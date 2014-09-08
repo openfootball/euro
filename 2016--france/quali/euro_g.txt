@@ -15,3 +15,55 @@ Group G  |   Russia   Sweden   Austria   Montenegro   Moldova   Liechtenstein
 # Matchday 8  6–8 September 2015
 # Matchday 9  8–10 October 2015
 # Matchday 10  11–13 October 2015
+
+
+[Sep/8 2014]
+  18:00   Russia      v  Liechtenstein @ Arena Khimki, Khimki (UTC+4)
+  20:45   Austria     v  Sweden        @ Ernst-Happel-Stadion, Vienna (UTC+2)
+  20:45   Montenegro  v  Moldova       @ Stadion pod Goricom, Podgorica (UTC+2)
+
+[Oct/9 2014]
+  20:45   Liechtenstein   v   Montenegro @ Rheinpark Stadion, Vaduz (UTC+2)
+  20:45   Moldova         v   Austria    @ Stadionul Zimbru, Chișinău (UTC+3)
+  20:45   Sweden          v   Russia     @ Friends Arena, Solna (UTC+2)
+
+[Oct/12 2014]
+  18:00   Austria   v   Montenegro  @ Ernst-Happel-Stadion, Vienna (UTC+2)
+  18:00   Russia   v   Moldova  @ Petrovsky Stadium, Saint Petersburg (UTC+4)
+  20:45   Sweden   v   Liechtenstein  @ Friends Arena, Solna (UTC+2)
+
+[Nov/15 2014]
+  18:00   Austria   v   Russia  @ Ernst-Happel-Stadion, Vienna (UTC+1)
+  18:00   Moldova   v   Liechtenstein  @ Stadionul Zimbru, Chișinău (UTC+2)
+  20:45   Montenegro  v   Sweden   @ Stadion pod Goricom, Podgorica (UTC+1)
+
+[Mar/27 2015]
+  20:45   Liechtenstein  v   Austria @ Rheinpark Stadion, Vaduz (UTC+1)
+  20:45   Moldova        v   Sweden  @ Stadionul Zimbru, Chișinău (UTC+2)
+  20:45   Montenegro     v   Russia  @ Stadion pod Goricom, Podgorica (UTC+1)
+
+[Jun/14 2015]
+  18:00   Liechtenstein   v   Moldova @ Rheinpark Stadion, Vaduz (UTC+2)
+  18:00   Russia          v   Austria @ ? (UTC+3)  
+  20:45   Sweden          v   Montenegro  @ Friends Arena, Solna (UTC+2)
+
+[Sep/5 2015]
+  18:00   Russia    v   Sweden    @ ? (UTC+3)
+  20:45   Austria   v   Moldova   @ Ernst-Happel-Stadion, Vienna (UTC+2)
+  20:45   Montenegro   v   Liechtenstein  @ Stadion pod Goricom, Podgorica (UTC+2)
+
+[Sep/8 2015]
+  20:45   Liechtenstein   v   Russia  @ Rheinpark Stadion, Vaduz (UTC+2)
+  20:45   Moldova   v   Montenegro    @ Stadionul Zimbru, Chișinău (UTC+3)
+  20:45   Sweden   v   Austria   @ Friends Arena, Solna (UTC+2)
+
+[Oct/9 2015]
+  20:45   Liechtenstein  v   Sweden  @ Rheinpark Stadion, Vaduz (UTC+2)
+  20:45   Moldova        v   Russia  @ Stadionul Zimbru, Chișinău (UTC+3)
+  20:45   Montenegro     v   Austria @ Stadion pod Goricom, Podgorica (UTC+2)
+
+[Oct/12 2015]
+  18:00   Austria   v   Liechtenstein @ Ernst-Happel-Stadion, Vienna (UTC+2)
+  18:00   Russia    v   Montenegro    @ ? (UTC+3)
+  18:00   Sweden    v   Moldova       @ Friends Arena, Solna (UTC+2)
+

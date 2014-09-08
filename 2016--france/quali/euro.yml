@@ -10,10 +10,10 @@ season:  2016
 start_at: 2014-09-01    ## fix: change date to first match??
 
 fixtures:
-- euro_a          # group a
-- euro_b          # group b
-- euro_c          # group c
-- euro_d          # group d
+- euro_a          # group a  - to be done
+- euro_b          # group b  - to be done
+- euro_c          # group c  - to be done
+- euro_d          # group d  - to be done
 - euro_e          # group e
 - euro_f          # group f
 - euro_g          # group g
@@ -23,8 +23,24 @@ fixtures:
 
 teams:
 
-Italy   Croatia   Norway   Bulgaria   Azerbaijan   Malta
-
+- eng # group e
+- sui
+- svn
+- est
+- ltu
+- smr
+- gre # group f
+- hun
+- rou
+- fin
+- nir
+- fro
+- rus # group G
+- swe
+- aut
+- mne
+- mda
+- lie
 - ita # group H
 - cro
 - nor
