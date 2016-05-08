@@ -1,3 +1,15 @@
 #################################
 #  Euro 2016 France
 
+############
+# Groups
+
+Group A | France    Romania         Albania  Switzerland
+Group B | England   Russia          Wales    Slovakia
+Group C | Germany   Ukraine         Poland   Northern Ireland
+Group D | Spain     Czech Republic  Turkey   Croatia
+Group E | Belgium   Italy           Ireland  Sweden
+Group F | Portugal  Iceland         Austria  Hungary
+
+##################
+## Group phase
