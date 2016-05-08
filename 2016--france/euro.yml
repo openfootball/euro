@@ -13,8 +13,30 @@ team3: false
 # 24 Teams (in ?? Groups - ??x??)
 
 teams:
+- alb
+- aut
+- bel
+- cro
+- cze
+- eng
 - fra
-
+- ger
+- hun
+- isl
+- ita
+- nir
+- pol
+- por
+- irl
+- rou
+- rus
+- svk
+- esp
+- swe
+- sui
+- tur
+- ukr
+- wal
 
 
 #####################
