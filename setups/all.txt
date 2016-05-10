@@ -7,3 +7,5 @@ euro-cup!/2008--austria-switzerland/euro
 # -- 2012
 euro-cup!/2012--poland-ukraine/euro
 
+# -- 2016
+euro-cup!/2016--france/euro
