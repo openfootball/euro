@@ -1,7 +1,6 @@
-#################################
 #  Euro 2016 France
 
-############
+################
 # Groups
 
 Group A | France    Romania         Albania  Switzerland
@@ -11,77 +10,147 @@ Group D | Spain     Czech Republic  Turkey   Croatia
 Group E | Belgium   Italy           Ireland  Sweden
 Group F | Portugal  Iceland         Austria  Hungary
 
-##################
-## Group phase
 
-1. Round / Group A
-(1) Jun/10 21:00 France vs Romania @ Stade de France, Saint-Denis
-(2) Jun/11 15:00 Albania vs Switzerland @ Stade Bollaert-Delelis, Lens
+###############################################################################
+# Group phase
+###############################################################################
 
-2. Round / Group A
-(14) Jun/15 18:00 Romania vs Switzerland @ Parc des Princes, Paris
-(15) Jun/15 21:00 France vs Albania @ Stade Vélodrome, Marseille
+################
+# Group A
 
-3. Round / Group A
-(25) Jun/19 21:00 Romania vs Albania @ Stade Pierre-Mauroy, Lille
-(26) Jun/19 21:00 Switzerland vs France @ Parc Olympique Lyonnais, Lyon
+Matchday 1
+(1) Jun/10  21:00   France            2:1 Romania           @ Stade de France, Saint-Denis
+(2) Jun/11  15:00   Albania           0:1 Switzerland       @ Stade Bollaert-Delelis, Lens
 
-1. Round / Group B
-(3) Jun/11 18:00 Wales vs Slovakia @ Nouveau Stade de Bordeaux, Bordeaux
-(4) Jun/11 21:00 England vs Russia @ Stade Vélodrome, Marseille
+Matchday 2
+(14) Jun/15 18:00   Romania           1:1 Switzerland       @ Parc des Princes, Paris
+(15) Jun/15 21:00   France            2:0 Albania           @ Stade Vélodrome, Marseille
 
-2. Round / Group B
-(13) Jun/15 15:00 Russia vs Slovakia @ Stade Pierre-Mauroy, Lille
-(16) Jun/16 15:00 England vs Wales @ Stade Bollaert-Delelis, Lens
+Matchday 3
+(25) Jun/19 21:00   Romania           0:1 Albania           @ Stade Pierre-Mauroy, Lille
+(26) Jun/19 21:00   Switzerland       0:0 France            @ Parc Olympique Lyonnais, Lyon
 
-3. Round / Group B
-(27) Jun/20 21:00 Russia vs Wales @ Stadium Municipal, Toulouse
-(28) Jun/20 21:00 Slovakia vs England @ Stade Geoffroy-Guichard, Saint-Étienne
 
-1. Round / Group C
-(6) Jun/12 18:00 Poland vs Northern Ireland @ Allianz Riviera, Nice
-(7) Jun/12 21:00 Germany vs Ukraine @ Stade Pierre-Mauroy, Lille
+################
+# Group B
 
-2. Round / Group C
-(17) Jun/16 18:00 Ukraine vs Northern Ireland @ Parc Olympique Lyonnais, Lyon
-(18) Jun/16 21:00 Germany vs Poland @ Stade de France, Saint-Denis
+Matchday 1
+(3) Jun/11 18:00    Wales             2:1 Slovakia          @ Nouveau Stade de Bordeaux, Bordeaux
+(4) Jun/11 21:00    England           1:1 Russia            @ Stade Vélodrome, Marseille
 
-3. Round / Group C
-(29) Jun/21 18:00 Northern Ireland vs Germany @ Parc des Princes, Paris
-(30) Jun/21 18:00 Ukraine vs Poland @ Stade Vélodrome, Marseille
+Matchday 2
+(13) Jun/15 15:00   Russia            1:2 Slovakia          @ Stade Pierre-Mauroy, Lille
+(16) Jun/16 15:00   England           2:1 Wales             @ Stade Bollaert-Delelis, Lens
 
-1. Round / Group D
-(5) Jun/12 15:00 Turkey vs Croatia @ Parc des Princes, Paris
-(8) Jun/13 15:00 Spain vs Czech Republic @ Stadium Municipal, Toulouse
+Matchday 3
+(27) Jun/20 21:00   Russia            0:3 Wales             @ Stadium Municipal, Toulouse
+(28) Jun/20 21:00   Slovakia          0:0 England           @ Stade Geoffroy-Guichard, Saint-Étienne
 
-2. Round / Group D
-(20) Jun/17 18:00 Czech Republic vs Croatia @ Stade Geoffroy-Guichard, Saint-Étienne
-(21) Jun/17 21:00 Spain vs Turkey @ Allianz Riviera, Nice
 
-3. Round / Group D
-(31) Jun/21 21:00 Croatia vs Spain @ Nouveau Stade de Bordeaux, Bordeaux
-(32) Jun/21 21:00 Czech Republic vs Turkey @ Stade Bollaert-Delelis, Lens
+################
+# Group C
 
-1. Round / Group E
-(10) Jun/13 21:00 Belgium vs Italy @ Parc Olympique Lyonnais, Lyon
-(9) Jun/13 18:00 Ireland vs Sweden @ Stade de France, Saint-Denis
+Matchday 1
+(6) Jun/12 18:00    Poland            1:0 Northern Ireland  @ Allianz Riviera, Nice
+(7) Jun/12 21:00    Germany           2:0 Ukraine           @ Stade Pierre-Mauroy, Lille
 
-2. Round / Group E
-(19) Jun/17 15:00 Italy vs Sweden @ Stadium Municipal, Toulouse
-(22) Jun/18 15:00 Belgium vs Ireland @ Nouveau Stade de Bordeaux, Bordeaux
+Matchday 2
+(17) Jun/16 18:00   Ukraine           0:2 Northern Ireland  @ Parc Olympique Lyonnais, Lyon
+(18) Jun/16 21:00   Germany           0:0 Poland            @ Stade de France, Saint-Denis
 
-3. Round / Group E
-(35) Jun/21 21:00 Italy vs Ireland @ Stade Pierre-Mauroy, Lille
-(36) Jun/21 21:00 Sweden vs Belgium @ Allianz Riviera, Nice
+Matchday 3
+(29) Jun/21 18:00   Northern Ireland  0:1 Germany           @ Parc des Princes, Paris
+(30) Jun/21 18:00   Ukraine           0:1 Poland            @ Stade Vélodrome, Marseille
 
-1. Round / Group F
-(11) Jun/14 18:00 Austria vs Hungary @ Nouveau Stade de Bordeaux, Bordeaux
-(12) Jun/14 21:00 Portugal vs Iceland @ Stade Geoffroy-Guichard, Saint-Étienne
 
-2. Round / Group F
-(23) Jun/18 18:00 Iceland vs Hungary @ Stade Vélodrome, Marseille
-(24) Jun/18 21:00 Portugal vs Austria @ Parc des Princes, Paris
+################
+# Group D
 
-3. Round / Group F
-(33) Jun/22 18:00 Hungary vs Portugal @ Parc Olympique Lyonnais, Lyon
-(34) Jun/21 18:00 Iceland vs Austria @ Stade de France, Saint-Denis
+Matchday 1
+(5) Jun/12 15:00    Turkey            0:1 Croatia           @ Parc des Princes, Paris
+(8) Jun/13 15:00    Spain             1:0 Czech Republic    @ Stadium Municipal, Toulouse
+
+Matchday 2
+(20) Jun/17 18:00   Czech Republic    2:2 Croatia           @ Stade Geoffroy-Guichard, Saint-Étienne
+(21) Jun/17 21:00   Spain             3:0 Turkey            @ Allianz Riviera, Nice
+
+Matchday 3
+(31) Jun/21 21:00   Croatia           2:1 Spain             @ Nouveau Stade de Bordeaux, Bordeaux
+(32) Jun/21 21:00   Czech Republic    0:2 Turkey            @ Stade Bollaert-Delelis, Lens
+
+
+################
+# Group E
+
+Matchday 1
+(10) Jun/13 21:00   Belgium           0:2 Italy             @ Parc Olympique Lyonnais, Lyon
+(9) Jun/13 18:00    Ireland           1:1 Sweden            @ Stade de France, Saint-Denis
+
+Matchday 2
+(19) Jun/17 15:00   Italy             1:0 Sweden            @ Stadium Municipal, Toulouse
+(22) Jun/18 15:00   Belgium           3:0 Ireland           @ Nouveau Stade de Bordeaux, Bordeaux
+
+Matchday 3
+(35) Jun/21 21:00   Italy             0:1 Ireland           @ Stade Pierre-Mauroy, Lille
+(36) Jun/21 21:00   Sweden            0:1 Belgium           @ Allianz Riviera, Nice
+
+
+################
+# Group F
+
+Matchday 1
+(11) Jun/14 18:00   Austria           0:2 Hungary           @ Nouveau Stade de Bordeaux, Bordeaux
+(12) Jun/14 21:00   Portugal          1:1 Iceland           @ Stade Geoffroy-Guichard, Saint-Étienne
+
+Matchday 2
+(23) Jun/18 18:00   Iceland           1:1 Hungary           @ Stade Vélodrome, Marseille
+(24) Jun/18 21:00   Portugal          0:0 Austria           @ Parc des Princes, Paris
+
+Matchday 3
+(33) Jun/22 18:00   Hungary           3:3 Portugal          @ Parc Olympique Lyonnais, Lyon
+(34) Jun/21 18:00   Iceland           2:1 Austria           @ Stade de France, Saint-Denis
+
+
+###############################################################################
+# Round of 16
+###############################################################################
+
+Matchday 1
+(37) Jun/25 15:00   Switzerland       vs. Poland            @ Stade Geoffroy-Guichard, Saint-Étienne
+(38) Jun/25 18:00   Wales             vs. Northern Ireland  @ Parc des Princes, Paris
+(39) Jun/25 21:00   Croatia           vs. Portugal          @ Stade Bollaert-Delelis, Lens
+
+Matchday 2
+(40) Jun/26 15:00   France            vs. Ireland           @ Parc Olympique Lyonnais, Lyon
+(41) Jun/26 18:00   Germany           vs. Slovakia          @ Stade Pierre-Mauroy, Lille
+(42) Jun/26 21:00   Hungary           vs. Belgium           @ Stadium Municipal, Toulouse
+
+Matchday 3
+(43) Jun/27 18:00   Italy             vs. Spain             @ Stade de France, Saint-Denis
+(44) Jun/27 21:00   England           vs. Iceland           @ Allianz Riviera, Nice
+
+
+###############################################################################
+# Finals
+###############################################################################
+
+################
+# Quarter-finals
+
+(45) Jun/30 21:00   W37               vs. W39               @ Stade Vélodrome, Marseille
+(46) Jul/01 21:00   W38               vs. W42               @ Stade Pierre-Mauroy, Lille
+(47) Jul/02 21:00   W41               vs. W43               @ Nouveau Stade de Bordeaux, Bordeaux
+(48) Jul/03 21:00   W40               vs. W44               @ Stade de France, Saint-Denis
+
+
+################
+# Semi-finals
+
+(49) Jul/06 21:00   W45               vs. W46               @ Parc Olympique Lyonnais, Lyon
+(50) Jul/07 21:00   W47               vs. W48               @ Stade Vélodrome, Marseille
+
+
+################
+# Final
+
+(51) Jul/10 21:00   W49               vs. W50               @ Stade de France, Saint-Denis
