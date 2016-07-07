@@ -146,7 +146,7 @@ Matchday 3
 ################
 # Semi-finals
 
-(49) Jul/06 21:00   Portugal     vs.              Wales             @ Parc Olympique Lyonnais, Lyon
+(49) Jul/06 21:00   Portugal     2:0              Wales             @ Parc Olympique Lyonnais, Lyon
 (50) Jul/07 21:00   Germany      vs.              France            @ Stade Vélodrome, Marseille
 
 
