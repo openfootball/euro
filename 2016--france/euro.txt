@@ -153,4 +153,4 @@ Matchday 3
 ################
 # Final
 
-(51) Jul/10 21:00   Portugal     vs.              France            @ Stade de France, Saint-Denis
+(51) Jul/10 21:00   Portugal     0:0 1:0nV        France            @ Stade de France, Saint-Denis
