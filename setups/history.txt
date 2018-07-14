@@ -1,0 +1,19 @@
+#########################
+# All Eurocups up to 2016
+
+ 
+euro-cup!/1960--france/euro
+euro-cup!/1964--spain/euro
+euro-cup!/1968--italy/euro
+euro-cup!/1972--belgium/euro
+euro-cup!/1976--yugoslavia/euro
+euro-cup!/1980--italy/euro
+euro-cup!/1984--france/euro
+euro-cup!/1988--west-germany/euro
+euro-cup!/1992--sweden/euro
+euro-cup!/1996--england/euro
+euro-cup!/2000--belgium-netherlands/euro
+euro-cup!/2004--portugal/euro
+euro-cup!/2008--austria-switzerland/euro
+euro-cup!/2012--poland-ukraine/euro
+euro-cup!/2016--france/euro
