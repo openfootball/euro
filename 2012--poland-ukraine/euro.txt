@@ -6,9 +6,6 @@
 ##   cleanup fixtures - use country name instead of three-letter FIFA code
 
 
-############
-# Groups
-
 Group A  |  Poland       Greece   Russia   Czech Republic
 Group B  |  Netherlands  Denmark  Germany  Portugal
 Group C  |  Spain        Italy    Ireland  Croatia
@@ -17,8 +14,11 @@ Group D  |  Ukraine      Sweden   France   England
 
 
 ##################
-## Group phase
+# Group phase
 
+Matchday 1 | Jun/8  - Jun/11
+Matchday 2 | Jun/12 - Jun/15
+Matchday 3 | Jun/16 - Jun/19
 
 
 ## todo: change 1. Round, 2. Round to  Matchday 1, Matchday 2 ??
@@ -47,17 +47,17 @@ Group D  |  Ukraine      Sweden   France   England
 
 1. Round / Group B
 
-(3) Jun/9 18:00  Netherlands    0:1  Denmark     @ Metalist Stadium, Kharkiv   
-(4) Jun/9 20:45  Germany        1:0  Portugal    @ Arena Lviv, Lviv 
+(3) Jun/9 18:00  Netherlands    0:1  Denmark     @ Metalist Stadium, Kharkiv
+(4) Jun/9 20:45  Germany        1:0  Portugal    @ Arena Lviv, Lviv
 
 2. Round / Group B
 
 (11) Jun/13 18:00  Denmark      2:3  Portugal    @ Arena Lviv, Lviv
-(12) Jun/13 20:45  Netherlands  1:2  Germany     @ Metalist Stadium, Kharkiv 
+(12) Jun/13 20:45  Netherlands  1:2  Germany     @ Metalist Stadium, Kharkiv
 
 3. Round / Group B
 
-(19) Jun/17 20:45  Portugal     2:1  Netherlands  @ Metalist Stadium, Kharkiv 
+(19) Jun/17 20:45  Portugal     2:1  Netherlands  @ Metalist Stadium, Kharkiv
 (20) Jun/17 20:45  Denmark      1:2  Germany      @ Arena Lviv, Lviv
 
 
