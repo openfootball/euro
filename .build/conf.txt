@@ -1,0 +1,106 @@
+15 datafiles:
+[1/15] >1960--france/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[2/15] >1964--spain/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[3/15] >1968--italy/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[4/15] >1972--belgium/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[5/15] >1976--yugoslavia/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[6/15] >1980--italy/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[7/15] >1984--france/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[8/15] >1988--west-germany/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[9/15] >1992--sweden/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[10/15] >1996--england/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[11/15] >2000--belgium-netherlands/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[12/15] >2004--portugal/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[13/15] >2008--austria-switzerland/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[14/15] >2012--poland-ukraine/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[15/15] >2016--france/euro.txt<
+  1 section(s):
+    70 lines - league: >Euro< (euro), season: >2016<, 24 teams, 6 group def, 6 groups, 3 round defs, 4 rounds
+
+
+[1/15] >1960--france/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[2/15] >1964--spain/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[3/15] >1968--italy/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[4/15] >1972--belgium/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[5/15] >1976--yugoslavia/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[6/15] >1980--italy/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[7/15] >1984--france/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[8/15] >1988--west-germany/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[9/15] >1992--sweden/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[10/15] >1996--england/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[11/15] >2000--belgium-netherlands/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[12/15] >2004--portugal/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[13/15] >2008--austria-switzerland/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[14/15] >2012--poland-ukraine/euro.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[15/15] >2016--france/euro.txt<
+  1 section(s):
+    70 lines - league: >Euro< (euro), season: >2016<
+      24 teams:
+        7× France
+        7× Portugal
+        6× Germany
+        6× Wales
+        5× Belgium
+        5× Iceland
+        5× Italy
+        5× Poland
+        4× Croatia
+        4× England
+        4× Hungary
+        4× Ireland
+        4× Northern Ireland
+        4× Slovakia
+        4× Spain
+        4× Switzerland
+        3× Albania
+        3× Austria
+        3× Czech Republic
+        3× Romania
+        3× Russia
+        3× Sweden
+        3× Turkey
+        3× Ukraine
+      6 groups:
+        Group A:, 6 matches
+        Group B:, 6 matches
+        Group C:, 6 matches
+        Group D:, 6 matches
+        Group E:, 6 matches
+        Group F:, 21 matches
+      3 round defs:
+        Matchday 1 | Jun/10 - Jun/14
+        Matchday 2 | Jun/15 - Jun/18
+        Matchday 3 | Jun/19 - Jun/22
+      4 rounds:
+        Round of 16, 8 matches
+        Quarter-finals, 4 matches
+        Semi-finals, 2 matches
+        Final, 1 matches
