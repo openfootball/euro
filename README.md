@@ -21,8 +21,7 @@ Group B  |  Netherlands  Denmark  Germany  Portugal
 Group C  |  Spain        Italy    Ireland  Croatia
 Group D  |  Ukraine      Sweden   France   England
 
-
-1. Round / Group A
+Group A:
 
 (1) Jun/8 18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
 (2) Jun/8 20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław

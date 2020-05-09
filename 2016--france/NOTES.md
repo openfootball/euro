@@ -1,18 +1,12 @@
-###############################
-#  Euro 2016 France
+= Euro 2016 - France
 
-league: euro
-season: 2016
-start_at: 2016-06-10
-team3: false
+- start_at: 2016-06-10
+- team3: false
 
-# note: timezone for games (play_at) is *always* CET (central european time)
+note: timezone for games (play_at) is *always* CET (central european time)
 
 
-##########
-# 24 Teams (in 6 Groups - 6x4)
-
-teams:
+## 24 Teams (in 6 Groups - 6x4)
 - alb
 - aut
 - bel
@@ -39,10 +33,7 @@ teams:
 - wal
 
 
-#####################
-# 10 Stadiums
-
-grounds:
+## 10 Stadiums
 - stadedefrance
 - parcdesprinces
 - stadevelodrome
