@@ -1,16 +1,15 @@
 = Euro 2016       # in France
 
 
+#############################################
+# Group phase
+
 Group A | France    Romania         Albania  Switzerland
 Group B | England   Russia          Wales    Slovakia
 Group C | Germany   Ukraine         Poland   Northern Ireland
 Group D | Spain     Czech Republic  Turkey   Croatia
 Group E | Belgium   Italy           Ireland  Sweden
 Group F | Portugal  Iceland         Austria  Hungary
-
-
-#############################################
-# Group phase
 
 Matchday 1 | Jun/10 - Jun/14
 Matchday 2 | Jun/15 - Jun/18
@@ -90,13 +89,13 @@ Group F:
 
 
 #############################
-# Knockout phase
+# Knockout phase / Finals
 
 Round of 16
 
-(37) Jun/25 15:00   Switzerland  4-5 pen. 1-1 a.e.t. (0-0,) Poland            @ Stade Geoffroy-Guichard, Saint-Étienne
-(38) Jun/25 18:00   Wales        1-0              Northern Ireland  @ Parc des Princes, Paris
-(39) Jun/25 21:00   Croatia      0-1 a.e.t. (0-0,)    Portugal          @ Stade Bollaert-Delelis, Lens
+(37) Jun/25 15:00   Switzerland  4-5 pen. 1-1 a.e.t. (0-0)  Poland            @ Stade Geoffroy-Guichard, Saint-Étienne
+(38) Jun/25 18:00   Wales        1-0                  Northern Ireland  @ Parc des Princes, Paris
+(39) Jun/25 21:00   Croatia      0-1 a.e.t. (0-0)    Portugal          @ Stade Bollaert-Delelis, Lens
 
 (40) Jun/26 15:00   France       2-1              Ireland           @ Parc Olympique Lyonnais, Lyon
 (41) Jun/26 18:00   Germany      3-0              Slovakia          @ Stade Pierre-Mauroy, Lille
@@ -108,9 +107,9 @@ Round of 16
 
 Quarter-finals
 
-(45) Jun/30 21:00   Poland       3-5 pen. 1-1 a.e.t. (0-0,)   Portugal          @ Stade Vélodrome, Marseille
+(45) Jun/30 21:00   Poland       3-5 pen. 1-1 a.e.t. (0-0)   Portugal          @ Stade Vélodrome, Marseille
 (46) Jul/01 21:00   Wales        3-1              Belgium           @ Stade Pierre-Mauroy, Lille
-(47) Jul/02 21:00   Germany      6-5 pen. 1-1 a.e.t. (0-0,)   Italy             @ Nouveau Stade de Bordeaux, Bordeaux
+(47) Jul/02 21:00   Germany      6-5 pen. 1-1 a.e.t. (0-0)   Italy             @ Nouveau Stade de Bordeaux, Bordeaux
 (48) Jul/03 21:00   France       5-2              Iceland           @ Stade de France, Saint-Denis
 
 
@@ -122,4 +121,4 @@ Semi-finals
 
 Final
 
-(51) Jul/10 21:00   Portugal     1-0 a.e.t. (0-0,)     France            @ Stade de France, Saint-Denis
+(51) Jul/10 21:00   Portugal     1-0 a.e.t. (0-0)     France            @ Stade de France, Saint-Denis

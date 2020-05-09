@@ -1,122 +1,86 @@
-####################################
-#  Euro 2008  Austria-Switzerland 
+= Euro 2008     # in Austria-Switzerland
 
 
-################
-## fix:
-##   cleanup dates - use Jun/9 etc. as formata
-##   add official match number if available (1) (2) etc.
-
-
-############
-# Groups
+####################
+# Group stage
 
 Group A  |  Switzerland    Czech Republic  Portugal     Turkey
 Group B  |  Austria        Croatia         Germany      Poland
 Group C  |  Netherlands    Italy           Romania      France
 Group D  |  Greece         Sweden          Spain        Russia
 
-
-##################
-# Group stage
-
-
-## todo: change 1. Round, 2. Round to ??
-
-#########
-# Group A
-
-1. Round / Group A
-
-Jun/7 18:00   Switzerland     0:1  Czech Republic   @ St. Jakob-Park, Basel
-Jun/7 20:45   Portugal        2:0  Turkey           @ Stade de Genève, Geneva
-
-2. Round / Group A
-
-Jun/11 18:00   Czech Republic  1:3  Portugal        @ Stade de Genève, Geneva
-Jun/11 20:45   Switzerland     1:2  Turkey          @ St. Jakob-Park, Basel
-
-3. Round / Group A
-
-Jun/15 20:45   Switzerland   2:0  Portugal         @ St. Jakob-Park, Basel
-Jun/15 20:45   Turkey        3:2  Czech Republic   @ Stade de Genève, Geneva
+Matchday 1 | Jun/7  - Jun/10
+Matchday 2 | Jun/11 - Jun/14
+Matchday 3 | Jun/15 - Jun/18
 
 
-#######
-# Group B
+Group A:
 
-1. Round / Group B
+Jun/7 18:00   Switzerland     0-1  Czech Republic   @ St. Jakob-Park, Basel
+Jun/7 20:45   Portugal        2-0  Turkey           @ Stade de Genève, Geneva
 
-Jun/8 18:00   Austria      0:1  Croatia   @ Ernst-Happel-Stadion, Wien
-Jun/8 20:45   Germany      2:0  Poland    @ Wörtherseestadion, Klagenfurt
+Jun/11 18:00   Czech Republic  1-3  Portugal        @ Stade de Genève, Geneva
+Jun/11 20:45   Switzerland     1-2  Turkey          @ St. Jakob-Park, Basel
 
-2. Round / Group B
-
-Jun/12 18:00   Croatia     2:1   Germany  @ Wörtherseestadion, Klagenfurt
-Jun/12 20:45   Austria     1:1   Poland   @ Ernst-Happel-Stadion, Wien
-
-3. Round / Group B
-
-Jun/16 20:45   Poland      0:1   Croatia  @ Wörtherseestadion, Klagenfurt
-Jun/16 20:45   Austria     0:1   Germany  @ Ernst-Happel-Stadion, Wien
+Jun/15 20:45   Switzerland   2-0  Portugal         @ St. Jakob-Park, Basel
+Jun/15 20:45   Turkey        3-2  Czech Republic   @ Stade de Genève, Geneva
 
 
-###########
-# Group C
+Group B:
 
-1. Round / Group C
+Jun/8 18:00   Austria      0-1  Croatia   @ Ernst-Happel-Stadion, Wien
+Jun/8 20:45   Germany      2-0  Poland    @ Wörtherseestadion, Klagenfurt
 
-2008-06-09 18:00  Romania     -    France  0:0
-2008-06-09 20:45  Netherlands  -    Italy     3:0
+Jun/12 18:00   Croatia     2-1   Germany  @ Wörtherseestadion, Klagenfurt
+Jun/12 20:45   Austria     1-1   Poland   @ Ernst-Happel-Stadion, Wien
 
-2. Round / Group C
-
-2008-06-13 18:00  Italy      -    Romania    1:1
-2008-06-13 20:45  Netherlands  -    France  4:1
-
-3. Round / Group C
-
-2008-06-17 20:45  Netherlands  -    Romania    2:0
-2008-06-17 20:45  France   -    Italy     0:2
+Jun/16 20:45   Poland      0-1   Croatia  @ Wörtherseestadion, Klagenfurt
+Jun/16 20:45   Austria     0-1   Germany  @ Ernst-Happel-Stadion, Wien
 
 
-############
-# Group D
+Group C:
 
-1. Round / Group D
+Jun/09 18:00  Romania      0-0    France
+Jun/09 20:45  Netherlands  3-0    Italy
 
-2008-06-10 18:00  Spain       -    Russia   4:1
-2008-06-10 20:45  Greece  -    Sweden   0:2
+Jun/13 18:00  Italy        1-1    Romania
+Jun/13 20:45  Netherlands  4-1    France
 
-2. Round / Group D
+Jun/17 20:45  Netherlands  2-0    Romania
+Jun/17 20:45  France       0-2    Italy
 
-2008-06-14 18:00  Sweden      -    Spain    1:2
-2008-06-14 20:45  Greece  -    Russia   0:1
 
-3. Round / Group D
+Group D:
 
-2008-06-18 20:45  Greece  -    Spain    1:2
-2008-06-18 20:45  Russia      -    Sweden   2:0
+Jun/10 18:00  Spain       4-1    Russia
+Jun/10 20:45  Greece      0-2    Sweden
+
+Jun/14 18:00  Sweden      1-2    Spain
+Jun/14 20:45  Greece      0-1    Russia
+
+Jun/18 20:45  Greece      1-2    Spain
+Jun/18 20:45  Russia      2-0    Sweden
 
 
 #################
-# Finals
+# Knockout phase / Finals
 
 
-(4) Quarter-finals
+Quarter-finals
 
-Th 2008-06-19 20:45   Portugal    -    Germany   2:3
-Fr 2008-06-20 20:45   Croatia    -    Turkey        1:3iE  1:1nV  0:0
-Sa 2008-06-21 20:45   Netherlands -    Russia      1:3nV  1:1
-Su 2008-06-22 20:45   Spain     -    Italy       4:2iE  0:0nV  0:0
-
-(5) Semi-finals
-
-We Jun/25 20:45  Germany   3:2   Turkey
-Th Jun/26 20:45  Russia    0:3   Spain
+Th Jun/19 20:45   Portugal    2-3    Germany
+Fr Jun/20 20:45   Croatia     1-3 pen. 1-1 a.e.t. (0-0)   Turkey
+Sa Jun/21 20:45   Netherlands   1-3 a.e.t. (1-1)    Russia
+Su Jun/22 20:45   Spain         4-2 pen. 0-0 a.e.t. (0-0)   Italy
 
 
-(6) Final
+Semi-finals
 
-Su Jun/29 20:45   Germany  0:1   Spain
+We Jun/25 20:45  Germany   3-2   Turkey
+Th Jun/26 20:45  Russia    0-3   Spain
+
+
+Final
+
+Su Jun/29 20:45   Germany  0-1   Spain
 

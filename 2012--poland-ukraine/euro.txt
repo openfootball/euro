@@ -1,122 +1,84 @@
-#################################
-#  Euro 2012 Poland-Ukraine
+= Euro 2012       # in Poland-Ukraine
 
-####
-## todo/fix:
-##   cleanup fixtures - use country name instead of three-letter FIFA code
 
+#############################################
+# Group phase
 
 Group A  |  Poland       Greece   Russia   Czech Republic
 Group B  |  Netherlands  Denmark  Germany  Portugal
 Group C  |  Spain        Italy    Ireland  Croatia
 Group D  |  Ukraine      Sweden   France   England
 
-
-
-##################
-# Group phase
-
 Matchday 1 | Jun/8  - Jun/11
 Matchday 2 | Jun/12 - Jun/15
 Matchday 3 | Jun/16 - Jun/19
 
 
-## todo: change 1. Round, 2. Round to  Matchday 1, Matchday 2 ??
+Group A:
 
-#############
-# Group A
+(1)  Jun/8 18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
+(2)  Jun/8 20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
 
-1. Round / Group A
+(9)  Jun/12 18:00  Greece  1-2  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+(10) Jun/12 20:45  Poland  1-1  Russia             @ National Stadium Warszawa, Warszawa
 
-(1) Jun/8 18:00   Poland   1:1  Greece             @ National Stadium Warszawa, Warszawa
-(2) Jun/8 20:45   Russia   4:1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
-
-2. Round / Group A
-
-(9)  Jun/12 18:00  Greece  1:2  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
-(10) Jun/12 20:45  Poland  1:1  Russia             @ National Stadium Warszawa, Warszawa
-
-3. Round / Group A
-
-(17) Jun/16 20:45  Czech Republic  1:0  Poland     @ Municipal Stadium Wrocław, Wrocław
-(18) Jun/16 20:45  Greece          1:0  Russia     @ National Stadium Warszawa, Warszawa
+(17) Jun/16 20:45  Czech Republic  1-0  Poland     @ Municipal Stadium Wrocław, Wrocław
+(18) Jun/16 20:45  Greece          1-0  Russia     @ National Stadium Warszawa, Warszawa
 
 
-#############
-# Group B
+Group B:
 
-1. Round / Group B
+(3) Jun/9 18:00  Netherlands    0-1  Denmark     @ Metalist Stadium, Kharkiv
+(4) Jun/9 20:45  Germany        1-0  Portugal    @ Arena Lviv, Lviv
 
-(3) Jun/9 18:00  Netherlands    0:1  Denmark     @ Metalist Stadium, Kharkiv
-(4) Jun/9 20:45  Germany        1:0  Portugal    @ Arena Lviv, Lviv
+(11) Jun/13 18:00  Denmark      2-3  Portugal    @ Arena Lviv, Lviv
+(12) Jun/13 20:45  Netherlands  1-2  Germany     @ Metalist Stadium, Kharkiv
 
-2. Round / Group B
-
-(11) Jun/13 18:00  Denmark      2:3  Portugal    @ Arena Lviv, Lviv
-(12) Jun/13 20:45  Netherlands  1:2  Germany     @ Metalist Stadium, Kharkiv
-
-3. Round / Group B
-
-(19) Jun/17 20:45  Portugal     2:1  Netherlands  @ Metalist Stadium, Kharkiv
-(20) Jun/17 20:45  Denmark      1:2  Germany      @ Arena Lviv, Lviv
+(19) Jun/17 20:45  Portugal     2-1  Netherlands  @ Metalist Stadium, Kharkiv
+(20) Jun/17 20:45  Denmark      1-2  Germany      @ Arena Lviv, Lviv
 
 
+Group C:
 
-#############
-# Group C
+(5)  Jun/10 18:00  Spain     1-1  Italy
+(6)  Jun/10 20:45  Ireland   1-3  Croatia
 
-1. Round / Group C
+(13) Jun/14 18:00  Italy  1-1  Croatia
+(14) Jun/14 20:45  Spain  4-0  Ireland
 
-(5) ESP   1:1  ITA   2012-06-10 18:00
-(6) IRL   1:3  CRO   2012-06-10 20:45
-
-2. Round / Group C
-
-(13)  ITA  1:1  CRO   2012-06-14 18:00
-(14)  ESP  4:0  IRL   2012-06-14 20:45
-
-3. Round / Group C
-
-(21) CRO  0:1  ESP   2012-06-18 20:45
-(22) ITA  2:0  IRL   2012-06-18 20:45
-
-###############
-# Group D
-
-1. Round / Group D
-
-(7) FRA  1:1  ENG   2012-06-11 18:00
-(8) UKR  2:1  SWE   2012-06-11 20:45
-
-2. Round / Group D
-
-(15)  SWE  2:3  ENG  2012-06-15 20:45
-(16)  UKR  0:2  FRA  2012-06-15 18:00
-
-3. Round / Group D
-
-(23) ENG  1:0  UKR   2012-06-19 20:45
-(24) SWE  2:0  FRA   2012-06-19 20:45
+(21) Jun/18 20:45  Croatia  0-1  Spain
+(22) Jun/18 20:45  Italy  2-0  Ireland
 
 
+Group D:
 
-#################
-# Finals
+(7) Jun/11 18:00  France  1-1  England
+(8) Jun/11 20:45  Ukraine  2-1  Sweden
 
-(4) Quarter-finals
+(15) Jun/15 20:45  Sweden  2-3  England
+(16) Jun/15 18:00  Ukraine  0-2  France
 
-(25) CZE  0:1             POR  2012-06-21 20:45
-(26) GER  4:2             GRE  2012-06-22 20:45
-(27) ESP  2:0             FRA  2012-06-23 20:45
-(28) ENG  0:0 0:0nV 2:4iE ITA  2012-06-24 20:45
-
-
-(5) Semi-finals
-
-(29) Jun/27 20:45   Portugal  0:0 0:0nV 2:4iE  Spain
-(30) Jun/28 20:45   Germany   1:2              Italy
+(23) Jun/19 20:45  England  1-0  Ukraine
+(24) Jun/19 20:45  Sweden  2-0  France
 
 
-(6) Final
+#############################
+# Knockout phase / Finals
 
-(31) Jul/1 20:45   Spain  4:0  Italy
+Quarter-finals
+
+(25) Jun/21 20:45  Czech Republic  0-1             Portugal
+(26) Jun/22 20:45  Germany  4-2             Greece
+(27) Jun/23 20:45  Spain  2-0             France
+(28) Jun/24 20:45  England  2-4 pen. 0-0 a.e.t. (0-0)  Italy
+
+
+Semi-finals
+
+(29) Jun/27 20:45   Portugal 2-4 pen. 0-0 a.e.t. (0-0)   Spain
+(30) Jun/28 20:45   Germany   1-2              Italy
+
+
+Final
+
+(31) Jul/1 20:45   Spain  4-0  Italy
