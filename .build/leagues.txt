@@ -1,0 +1,38 @@
+# Leagues
+
+  Euro - 3 records
+    Euro 2008  - teams: 16, matches: 31, rounds: 6
+    Euro 2012  - teams: 16, matches: 31, rounds: 6
+    Euro 2016  - teams: 24, matches: 51, rounds: 7
+
+Euro  - 3 seasons
+
+  1. Croatia                    3  (2016, 2012, 2008)
+  2. Czech Republic             3  (2016, 2012, 2008)
+  3. France                     3  (2016, 2012, 2008)
+  4. Germany                    3  (2016, 2012, 2008)
+  5. Italy                      3  (2016, 2012, 2008)
+  6. Poland                     3  (2016, 2012, 2008)
+  7. Portugal                   3  (2016, 2012, 2008)
+  8. Russia                     3  (2016, 2012, 2008)
+  9. Spain                      3  (2016, 2012, 2008)
+ 10. Sweden                     3  (2016, 2012, 2008)
+ 11. Austria                    2  (2016, 2008)
+ 12. England                    2  (2016, 2012)
+ 13. Greece                     2  (2012, 2008)
+ 14. Ireland                    2  (2016, 2012)
+ 15. Netherlands                2  (2012, 2008)
+ 16. Romania                    2  (2016, 2008)
+ 17. Switzerland                2  (2016, 2008)
+ 18. Turkey                     2  (2016, 2008)
+ 19. Ukraine                    2  (2016, 2012)
+ 20. Albania                    1  (2016)
+ 21. Belgium                    1  (2016)
+ 22. Denmark                    1  (2012)
+ 23. Hungary                    1  (2016)
+ 24. Iceland                    1  (2016)
+ 25. Northern Ireland           1  (2016)
+ 26. Slovakia                   1  (2016)
+ 27. Wales                      1  (2016)
+
+

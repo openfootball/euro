@@ -1,0 +1,36 @@
+# Stats
+
+27 teams, 113 matches
+
+
+1 leagues
+euro - Euro |  3 events
+
+
+3 seasons
+2016 |  1 events
+2012 |  1 events
+2008 |  1 events
+
+
+3 events:
+  2016 (1):
+== euro - Euro 2016 |  24 Teams, 51 Matches, 100 Goals (+0 a.e.t.)
+    6 Groups, 7 Rounds (7 Matchdays, 0 K.O.s)
+
+
+  2012 (1):
+== euro - Euro 2012 |  16 Teams, 31 Matches, 76 Goals (+0 a.e.t.)
+    4 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
+
+
+  2008 (1):
+== euro - Euro 2008 |  16 Teams, 31 Matches, 73 Goals (+0 a.e.t.)
+    4 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
+
+
+
+
+## Logs
+
+1 logs:
