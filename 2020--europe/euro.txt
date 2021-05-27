@@ -1,0 +1,115 @@
+= Euro 2021       # in 12 cities across Europe
+
+
+#############################################
+# Group phase
+
+Group A | Turkey       Italy     Wales      Switzerland
+Group B | Denmark      Finland   Belgium    Russia
+Group C | Netherlands  Ukraine   Austria    North Macedonia
+Group D | England      Croatia   Scotland   Czech Republic
+Group E | Spain        Sweden    Poland     Slovakia
+Group F | Hungary      Portugal  France     Germany
+
+
+Matchday 1 | Jun/11 - Jun/15         # 1 v 2, 3 v 4
+Matchday 2 | Jun/16 - Jun/19         # 1 v 3, 2 v 4
+Matchday 3 | Jun/20 - Jun/23         # 4 v 1, 2 v 3
+
+
+
+
+
+
+Group A:
+
+(1)  June/11   21:00    Turkey   -   Italy         @ Stadio Olimpico, Rome
+(2)  June/12   15:00    Wales    -   Switzerland   @ Olympic Stadium, Baku   # 17:00 UTC+4
+
+(13) June/16   18:00    Turkey   -   Wales         @ Olympic Stadium, Baku   # 20:00 UTC+4
+(14) June/16   21:00    Italy    -   Switzerland   @ Stadio Olimpico, Rome
+
+(25) June/20   18:00    Switzerland  - Turkey      @ Olympic Stadium, Baku   # 20:00 UTC+4
+(26) June/20   18:00    Italy        - Wales       @ Stadio Olimpico, Rome
+
+
+
+Group B:
+
+(3)  June/12  18:00     Denmark    -   Finland     @ Parken Stadium, Copenhagen
+(4)  June/12  21:00     Belgium    -   Russia      @ Krestovsky Stadium, Saint Petersburg  # 22:00 UTC+3
+
+(15) June/16  15:00     Finland    -   Russia      @ Krestovsky Stadium, Saint Petersburg  # 16:00 UTC+3
+(16) June/17  18:00     Denmark    -   Belgium     @ Parken Stadium, Copenhagen
+
+(27) June/21  21:00     Russia     -   Denmark     @ Parken Stadium, Copenhagen
+(28) June/21  21:00     Finland    -   Belgium     @ Krestovsky Stadium, Saint Petersburg   # 22:00 UTC+3
+
+
+
+
+Group C:
+
+(6)  June/13  18:00    Austria      -   North Macedonia   @ Arena Națională, Bucharest   # 19:00 UTC+3
+(5)  June/13  21:00    Netherlands  -   Ukraine           @ Johan Cruyff Arena, Amsterdam
+
+(18) June/17  15:00    Ukraine      -   North Macedonia   @ Arena Națională, Bucharest   # 16:00 UTC+3
+(17) June/17  21:00    Netherlands  -   Austria           @ Johan Cruyff Arena, Amsterdam
+
+(29) June/21  18:00    North Macedonia  -   Netherlands   @ Johan Cruyff Arena, Amsterdam
+(30) June/21  18:00    Ukraine          -   Austria       @ Arena Națională, Bucharest   # 19:00 UTC+3
+
+
+
+
+Group D:
+
+(7)  June/13  15:00    England         -  Croatia         @ Wembley Stadium, London  # 14:00 UTC+1
+(8)  June/14  15:00    Scotland        -  Czech Republic  @ Hampden Park, Glasgow   # 14:00 UTC+1
+
+(19) June/18  18:00    Croatia         -  Czech Republic  @ Hampden Park, Glasgow  # 17:00 UTC+1
+(20) June/18  21:00    England         -  Scotland        @ Wembley Stadium, London  # 20:00 UTC+1
+
+(31) June/22  21:00    Croatia         -  Scotland        @ Hampden Park, Glasgow  # 20:00 UTC+1
+(32) June/22  21:00    Czech Republic  -  England         @ Wembley Stadium, London  # 20:00 UTC+1
+
+
+
+
+Group E:
+
+(10) June/14  18:00    Poland          -  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 19:00 UTC+3
+(9)  June/14  21:00    Spain           -  Sweden          @ La Cartuja, Seville
+
+(21) June/18  15:00    Sweden          -  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 16:00 UTC+3
+(22) June/19  21:00    Spain           -  Poland          @ La Cartuja, Seville
+
+(33) June/23  18:00    Slovakia        -  Spain           @ La Cartuja, Seville
+(34) June/23  18:00    Sweden          -  Poland          @ Krestovsky Stadium, Saint Petersburg   # 19:00 UTC+3
+
+
+
+Group F:
+
+(11) June/15  18:00    Hungary         -  Portugal        @ Puskás Aréna, Budapest
+(12) June/15  21:00    France          -  Germany         @ Allianz Arena, Munich
+
+(23) June/19  15:00    Hungary         -  France          @ Puskás Aréna, Budapest
+(24) June/19  18:00    Portugal        -  Germany         @ Allianz Arena, Munich
+
+(35) June/23  21:00    Portugal        -  France          @ Puskás Aréna, Budapest
+(36) June/23  21:00    Germany         -  Hungary         @ Allianz Arena, Munich
+
+
+
+
+#############################
+# Knockout phase / Finals
+
+# Round of 16
+
+# Quarter-finals
+
+# Semi-finals
+
+# Final
