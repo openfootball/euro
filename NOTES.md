@@ -48,3 +48,27 @@ Euro 2008 Austria-Switzerland
 - [Fußball-Europameisterschaft_2012 (de)](http://de.wikipedia.org/wiki/Fußball-Europameisterschaft_2012)
 - [Fußball-Europameisterschaft_2008 (de)](http://de.wikipedia.org/wiki/Fußball-Europameisterschaft_2008)
 
+
+
+
+
+
+## Readme Attic
+
+
+```
+= Euro 2012          # in Poland-Ukraine
+
+Group A  |  Poland       Greece   Russia   Czech Republic
+Group B  |  Netherlands  Denmark  Germany  Portugal
+Group C  |  Spain        Italy    Ireland  Croatia
+Group D  |  Ukraine      Sweden   France   England
+
+Group A:
+
+(1) Jun/8 18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
+(2) Jun/8 20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+...
+```
+
+
