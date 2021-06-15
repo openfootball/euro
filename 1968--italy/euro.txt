@@ -1,0 +1,29 @@
+= Euro 1968      # Italy, 5-10 June
+
+
+# In all matches but the final, extra time and a coin toss were used
+# to decide the winner if necessary.
+# If the final remained level after extra time,
+# a replay would be used to determine the winner.
+
+# All times are local, CEST (UTC+2).
+
+
+Semi-finals
+June/5 18:00      Italy   0-0 a.e.t.  Soviet Union   @ Stadio San Paolo, Naples
+ # Italy won on coin toss
+June/5 21:15     Yugoslavia   1-0   England    @ Stadio Comunale, Florence
+    [Džajić 86']
+
+Third place play-off
+June/8 15:00   England   2-0   Soviet Union   @ Stadio Olimpico, Rome
+    [B. Charlton 39' Hurst 63']
+
+Final
+June/8 21:15    Italy   1-1 a.e.t.   Yugoslavia   @ Stadio Olimpico, Rome
+    [Domenghini 80'; Džajić 39']
+Final Replay
+June/10 21:15   Italy   2-0   Yugoslavia     @ Stadio Olimpico, Rome
+    [Riva 12' Anastasi 31']
+
+

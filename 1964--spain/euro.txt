@@ -1,0 +1,25 @@
+= Euro 1964      # European Nations' Cup 1964, Spain, 17-21 June
+
+
+# In all matches but the final, extra time and a coin toss were used
+# to decide the winner if necessary.
+# If the final remained level after extra time,
+# a replay would be used to determine the winner.
+
+# All times are local, CET (UTC+1).
+
+
+Semi-finals
+June/17 20:00      Spain   2-1 a.e.t.   Hungary   @ Santiago Bernabéu, Madrid
+   [Pereda 35' Amancio 112'; Bene 84']
+June/17 22:30      Denmark   0-3   Soviet Union   @ Camp Nou, Barcelona
+   [Voronin 19' Ponedelnik 40' Ivanov 87']
+
+Third place play-off
+June/20 20:00     Hungary   3-1 a.e.t.   Denmark  @ Camp Nou, Barcelona
+   [Bene 11' Novák 107' (pen.), 110'; Bertelsen 82']
+
+Final
+June/21 18:30     Spain   2-1   Soviet Union  @ Santiago Bernabéu, Madrid
+   [Pereda 6' Marcelino 84'; Khusainov 8']
+
