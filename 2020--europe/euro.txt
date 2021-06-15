@@ -54,8 +54,10 @@ Group B:
 
 Group C:
 
-(6)  June/13  18:00    Austria      -   North Macedonia   @ Arena Națională, Bucharest   # 19:00 UTC+3
-(5)  June/13  21:00    Netherlands  -   Ukraine           @ Johan Cruyff Arena, Amsterdam
+(6)  June/13  18:00    Austria      3-1 (1-1)   North Macedonia   @ Arena Națională, Bucharest   # 19:00 UTC+3
+         [Lainer 18' Gregoritsch 78' Arnautović 89'; Pandev 28']
+(5)  June/13  21:00    Netherlands  3-2 (0-0)   Ukraine           @ Johan Cruyff Arena, Amsterdam
+         [Wijnaldum 52' Weghorst 58' Dumfries 85'; Yarmolenko 75' Yaremchuk 79']
 
 (18) June/17  15:00    Ukraine      -   North Macedonia   @ Arena Națională, Bucharest   # 16:00 UTC+3
 (17) June/17  21:00    Netherlands  -   Austria           @ Johan Cruyff Arena, Amsterdam
@@ -68,8 +70,10 @@ Group C:
 
 Group D:
 
-(7)  June/13  15:00    England         -  Croatia         @ Wembley Stadium, London  # 14:00 UTC+1
-(8)  June/14  15:00    Scotland        -  Czech Republic  @ Hampden Park, Glasgow   # 14:00 UTC+1
+(7)  June/13  15:00    England         1-0 (0-0)  Croatia         @ Wembley Stadium, London  # 14:00 UTC+1
+        [Sterling 57']
+(8)  June/14  15:00    Scotland        0-2 (0-1)  Czech Republic  @ Hampden Park, Glasgow   # 14:00 UTC+1
+        [Schick 42', 52']
 
 (19) June/18  18:00    Croatia         -  Czech Republic  @ Hampden Park, Glasgow  # 17:00 UTC+1
 (20) June/18  21:00    England         -  Scotland        @ Wembley Stadium, London  # 20:00 UTC+1
@@ -82,9 +86,10 @@ Group D:
 
 Group E:
 
-(10) June/14  18:00    Poland          -  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 19:00 UTC+3
-(9)  June/14  21:00    Spain           -  Sweden          @ La Cartuja, Seville
-
+(10) June/14  18:00    Poland          1-2 (0-1)  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 19:00 UTC+3
+        [Linetty 46'; Szczęsny 18' (o.g.) Škriniar 69']
+(9)  June/14  21:00    Spain           0-0        Sweden          @ La Cartuja, Seville
+       
 (21) June/18  15:00    Sweden          -  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 16:00 UTC+3
 (22) June/19  21:00    Spain           -  Poland          @ La Cartuja, Seville
 
