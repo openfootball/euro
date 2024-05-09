@@ -37,7 +37,62 @@ Group A:
 
 Group B:
 
+ (3) Sat Jun/15 18:00         Spain   -    Croatia    @ Olympiastadion, Berlin
+ (4) Sat Jun/15 21:00         Italy   -   Albania    @ BVB Stadion Dortmund, Dortmund
 
+(15) Wed Jun/19 15:00         Croatia   -   Albania    @ Volksparkstadion, Hamburg
+(16) Thu Jun/20 21:00         Spain   -   Italy      @ Arena AufSchalke, Gelsenkirchen
+
+(27) Mon Jun/24 21:00         Albania   -   Spain      @ Düsseldorf Arena, Düsseldorf
+(28) Mon Jun/24 21:00         Croatia   -   Italy      @ Leipzig Stadium, Leipzig
+
+
+Group C:
+
+ (6) Sun Jun/16 18:00        Slovenia   -   Denmark    @ Stuttgart Arena, Stuttgart
+ (5) Sun Jun/16 21:00        Serbia   -   England    @ Arena AufSchalke, Gelsenkirchen
+
+(18) Thu Jun/20 15:00        Slovenia   -   Serbia     @ Munich Football Arena, Munich
+(17) Thu Jun/20 18:00        Denmark   -   England    @ Waldstadion, Frankfurt
+
+(29) Tue Jun/25 21:00        England   -   Slovenia   @ Cologne Stadium, Cologne
+(30) Tue Jun/25 21:00        Denmark   -   Serbia     @ Munich Football Arena, Munich
+
+
+Group D:
+
+ (7) Sun Jun/16 15:00       Poland    -   Netherlands   @ Volksparkstadion, Hamburg
+ (8) Mon Jun/17 21:00       Austria  -   France        @ Düsseldorf Arena, Düsseldorf
+
+(19) Fri Jun/21 18:00       Poland       -   Austria       @ Olympiastadion, Berlin
+(20) Fri Jun/21 21:00       Netherlands -   France        @ Leipzig Stadium, Leipzig
+
+(31) Tue Jun/25 18:00       Netherlands  -   Austria       @ Olympiastadion, Berlin
+(32) Tue Jun/25 18:00       France        -   Poland        @ BVB Stadion Dortmund, Dortmund
+
+
+Group E:
+
+(10) Mon Jun/17 15:00      Romania     -   Ukraine       @ Munich Football Arena, Munich
+ (9) Mon Jun/17 18:00      Belgium     -   Slovakia      @ Frankfurt Arena, Frankfurt
+
+(21) Fri Jun/21 15:00      Slovakia   -  Ukraine       @ Düsseldorf Arena, Düsseldorf
+(22) Sat Jun/22 21:00      Belgium     -   Romania       @ Cologne Stadium, Cologne
+
+(33) Wed Jun/26 18:00      Slovakia   -  Romania       @ Waldstadion, Frankfurt
+(34) Wed Jun/26 18:00      Ukraine     -   Belgium       @ Stuttgart Arena, Stuttgart
+
+
+Group F:
+
+(11) Tue Jun/18 18:00      Turkey    -   Georgia   @ BVB Stadion Dortmund, Dortmund
+(12) Tue Jun/18 21:00      Portugal   -   Czech Republic  @ Leipzig Stadium, Leipzig
+
+(24) Sat Jun/22 15:00     Georgia   -   Czech Republic  @ Volksparkstadion, Hamburg
+(23) Sat Jun/22 18:00     Turkey   -   Portugal   @ BVB Stadion Dortmund, Dortmund
+
+(35) Wed Jun/26 21:00     Georgia   -   Portugal   @ Arena AufSchalke, Gelsenkirchen
+(36) Wed Jun/26 21:00     Czech Republic -   Turkey  @ Volksparkstadion, Hamburg
 
 
 
@@ -45,9 +100,27 @@ Group B:
 # Knockout phase / Finals
 
 # Round of 16
+# (38) Sat Jun/29 18:00   Runner-up Group A  -  Runner-up Group B  @ Olympiastadion, Berlin
+# (37) Sat Jun/29 21:00   Winner Group A    -  Runner-up Group C  @ BVB Stadion Dortmund, Dortmund
+# (40) Sun Jun/30 18:00   Winner Group C   -  3rd Group D/E/F  @ Arena AufSchalke, Gelsenkirchen
+# (39) Sun Jun/30 21:00   Winner Group B   -  3rd Group A/D/E/F  @ Cologne Stadium, Cologne
+# (42) Mon Jul/1 18:00    Runner-up Group D  -  Runner-up Group E  @ Düsseldorf Arena, Düsseldorf
+# (41) Mon Jul/1 21:00    Winner Group F    -   3rd Group A/B/C  @ Frankfurt Arena, Frankfurt
+# (43) Tue Jul/2 18:00    Winner Group E    -  3rd Group A/B/C/D  @ Fußball Arena München, Munich
+# (44) Tue Jul/2 21:00   Winner Group D   -  Runner-up Group F  @ Leipzig Stadium, Leipzig
+
 
 # Quarter-finals
+# (45) Fri Jul/5 18:00   Winner Match 39  - Winner Match 37  @ Stuttgart Arena, Stuttgart
+# (46) Fri Jul/5 21:00   Winner Match 41  - Winner Match 42  @ Volksparkstadion, Hamburg
+
+# (48) Sat Jul/6 18:00   Winner Match 40  - Winner Match 38  @ Düsseldorf Arena, Düsseldorf
+# (47) Sat Jul/6 21:00   Winner Match 43  - Winner Match 44 @ Olympiastadion, Berlin
+
 
 # Semi-finals
+# (49) Tue Jul/9 21:00   Winner Match 45  - Winner Match 46  @ Fußball Arena München, Munich
+# (50) Wed Jul/10 21:00  Winner Match 47  - Winner Match 48  @ BVB Stadion Dortmund, Dortmund
 
 # Final
+# (51) Sun Jul/14 21:00     Winner Match 49 - Winner Match 50       @ Olympiastadion, Berlin
