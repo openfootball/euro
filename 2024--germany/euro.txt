@@ -1,0 +1,53 @@
+= Euro 2024  
+
+# 24 teams in 10 venues (in 10 host cities), June 14th to July 14th
+# all times are local, CEST (UTC+2)
+
+
+
+#############################################
+# Group phase
+
+
+Group A  |  Germany   Scotland     Hungary   Switzerland
+Group B  |  Spain     Croatia      Italy     Albania
+Group C  |  Slovenia  Denmark      Serbia    England
+Group D  |  Poland    Netherlands  Austria   France
+Group E  |  Belgium   Slovakia     Romania   Ukraine 
+Group F  |  Turkey    Georgia      Portugal  Czech Republic
+ 
+
+
+Matchday 1 | Fri Jun/14 - Tue Jun/18   
+Matchday 2 | Wed Jun/19 - Sat Jun/22   
+Matchday 3 | Sun Jun/23 - Wed Jun/26        
+
+
+Group A:
+
+ (1) Fri Jun/14 21:00         Germany   -   Scotland     @ Fußball Arena München, Munich
+ (2) Sat Jun/15 15:00         Hungary   -   Switzerland  @ Cologne Stadium, Cologne
+
+(14) Wed Jun/19 18:00         Germany   -   Hungary      @ Stuttgart Arena, Stuttgart
+(13) Wed Jun/19 21:00         Scotland   -   Switzerland  @ Cologne Stadium, Cologne
+
+(25) Sun Jun/23 21:00         Switzerland - Germany       @ Frankfurt Arena, Frankfurt
+(26) Sun Jun/23 21:00         Scotland     - Hungary       @ Stuttgart Arena, Stuttgart
+
+
+Group B:
+
+
+
+
+
+#############################
+# Knockout phase / Finals
+
+# Round of 16
+
+# Quarter-finals
+
+# Semi-finals
+
+# Final
