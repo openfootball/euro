@@ -52,9 +52,38 @@ Final
 ## Build Your Own `euro.db` Copy
 
 Use the `sportdb` command line tool to build your own `euro.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/quick-starter)
+from the plain text fixtures. 
 
 
+### Alternative I - Use the Quick Starter Templates
+
+Use the quick starter datafile templates to start from scratch. Examples:
+
+Build the database for the 2024 tournament:
+
+    $ sportdb new euro2024
+
+[More »](https://github.com/openfootball/quick-starter)
+
+
+### Alternative II - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+
+Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
+get a local copy.
+
+Try in your working folder (that is, `/euro`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db` and
+- read in all datasets in plain text (`.txt`)
+
+That's it.
 
 
 
