@@ -1,7 +1,3 @@
-# Euro / European Championship Cup
-
-
-## Intro
 
 Free open public domain football data for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021),
 etc.
@@ -42,10 +38,4 @@ Group B:
 
 ...
 ```
-
-
-## Build Your Own `euro.db` Copy
-
-Use the `sportdb` command line tool to build your own `euro.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/quick-starter)
 
