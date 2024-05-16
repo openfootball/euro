@@ -137,57 +137,57 @@ Group F:
 
 Round of 16
 
-June/26  18:00           Wales    0-4  Denmark    @ Johan Cruyff Arena, Amsterdam
+(38) June/26  18:00           Wales    0-4  Denmark    @ Johan Cruyff Arena, Amsterdam
                      [-; Dolberg 27', 48' Mæhle 88' Braithwaite 90+4']
 
-June/26 21:00          Italy  2-1 a.e.t. (1-1)    Austria  @ Wembley Stadium, London   # (20:00 UTC+1)
+(37) June/26 21:00          Italy  2-1 a.e.t. (1-1)    Austria  @ Wembley Stadium, London   # (20:00 UTC+1)
                    [Chiesa 95' Pessina 105'; Kalajdžić 114']
 
-June/27 18:00      Netherlands    0-2  Czech Republic  @ Puskás Aréna, Budapest
+(40) June/27 18:00      Netherlands    0-2  Czech Republic  @ Puskás Aréna, Budapest
                 [-; Holeš 68' Schick 80']
 
-June/27 21:00      Belgium  1-0  Portugal  @ Estadio de La Cartuja, Seville
+(39) June/27 21:00      Belgium  1-0  Portugal  @ Estadio de La Cartuja, Seville
                 [T. Hazard 42']
 
-June/28 18:00    Croatia  3-5 a.e.t. (3-3)  Spain   @ Parken Stadium, Copenhagen
+(42) June/28 18:00    Croatia  3-5 a.e.t. (3-3)  Spain   @ Parken Stadium, Copenhagen
                   [Pedri 20' (o.g.) Oršić 85' Pašalić 90+2';  Sarabia 38' Azpilicueta  57' F. Torres 77' Morata 100' Oyarzabal 103']
 
-June/28 21:00    France    4-5 pen. 3-3 a.e.t. (3-3)   Switzerland     @ Arena Națională, Bucharest  # (22:00 UTC+3)
+(41) June/28 21:00    France    4-5 pen. 3-3 a.e.t. (3-3)   Switzerland     @ Arena Națională, Bucharest  # (22:00 UTC+3)
                    [Benzema 57', 59' Pogba 75'; Seferovic 15', 81' Gavranović 90']
 
-June/29 18:00    England  2-0  Germany   @ Wembley Stadium, London  # (17:00 UTC+1)
+(44) June/29 18:00    England  2-0  Germany   @ Wembley Stadium, London  # (17:00 UTC+1)
                    [Sterling 75' Kane 86']
  
-June/29 21:00     Sweden  1-2 a.e.t. (1-1)  Ukraine  @ Hampden Park, Glasgow  # (20:00 UTC+1)
+(43) June/29 21:00     Sweden  1-2 a.e.t. (1-1)  Ukraine  @ Hampden Park, Glasgow  # (20:00 UTC+1)
                    [Forsberg  43'; Zinchenko 27' Dovbyk 120+1']
 
 
 
 Quarter-finals
 
-July/2 18:00    Switzerland   1-3 pen. 1-1 a.e.t. (1-1)  Spain  @ Krestovsky Stadium, Saint Petersburg # (19:00 UTC+3)
+(45) July/2 18:00    Switzerland   1-3 pen. 1-1 a.e.t. (1-1)  Spain  @ Krestovsky Stadium, Saint Petersburg # (19:00 UTC+3)
                   [Shaqiri  68'; Zakaria  8' (o.g.)]
 
-July/2  21:00    Belgium   1-2  Italy     @ Allianz Arena, Munich
+(46) July/2  21:00    Belgium   1-2  Italy     @ Allianz Arena, Munich
                  [Lukaku 45+2' (pen.); Barella  31' Insigne  44']
 
-July/3  18:00     Czech Republic    1-2   Denmark   @ Olympic Stadium, Baku  # (20:00 UTC+4)
+(47) July/3  18:00     Czech Republic    1-2   Denmark   @ Olympic Stadium, Baku  # (20:00 UTC+4)
                  [Schick  49'; Delaney  5' Dolberg  42']
 
-July/3  21:00   Ukraine   0-4  England   @ Stadio Olimpico, Rome
+(48) July/3  21:00   Ukraine   0-4  England   @ Stadio Olimpico, Rome
               [Kane 4', 50' Maguire 46' J. Henderson 63']
 
 
 Semi-finals
 
-July/6 21:00     Italy    4-2 pen. 1-1 a.e.t. (1-1)  Spain  @ Wembley Stadium, London  # (20:00 UTC+1)
+(49) July/6 21:00     Italy    4-2 pen. 1-1 a.e.t. (1-1)  Spain  @ Wembley Stadium, London  # (20:00 UTC+1)
                  [Chiesa  60'; Morata  80']
 
-July/7 21:00     England   2–1 a.e.t. (1-1)  Denmark  @ Wembley Stadium, London  # (20:00 UTC+1)
+(50) July/7 21:00     England   2–1 a.e.t. (1-1)  Denmark  @ Wembley Stadium, London  # (20:00 UTC+1)
               [Kjær 39' (o.g.) Kane 104'; Damsgaard 30']
 
 
 Final
 
-July/11 21:00     Italy   3-2 pen. 1-1 a.e.t. (1-1)  England    @ Wembley Stadium, London  # (20:00 UTC+1)
+(51) July/11 21:00     Italy   3-2 pen. 1-1 a.e.t. (1-1)  England    @ Wembley Stadium, London  # (20:00 UTC+1)
                [Bonucci 67'; Shaw 2']
