@@ -30,11 +30,11 @@ Matchday 3 | Sun Jun/23 - Wed Jun/26
 
 Group A:
 
- (1) Fri Jun/14 21:00         Germany   -   Scotland     @ Fußball Arena München, Munich
- (2) Sat Jun/15 15:00         Hungary   -   Switzerland  @ Cologne Stadium, Cologne
+ (1) Fri Jun/14 21:00         Germany   -   Scotland     @ München Fußball Arena, München
+ (2) Sat Jun/15 15:00         Hungary   -   Switzerland  @ Köln Stadion, Köln
 
 (14) Wed Jun/19 18:00         Germany   -   Hungary      @ Stuttgart Arena, Stuttgart
-(13) Wed Jun/19 21:00         Scotland   -   Switzerland  @ Cologne Stadium, Cologne
+(13) Wed Jun/19 21:00         Scotland   -   Switzerland  @ Köln Stadion, Köln
 
 (25) Sun Jun/23 21:00         Switzerland - Germany       @ Frankfurt Arena, Frankfurt
 (26) Sun Jun/23 21:00         Scotland     - Hungary       @ Stuttgart Arena, Stuttgart
