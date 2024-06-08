@@ -1,0 +1,34 @@
+==========================
+=  Romania 
+
+
+  1,  Florin Niță,                       GK,     21/0  ,  Gaziantep F.K. (TUR)
+ 12,  Horațiu Moldovan,                  GK,     10/0  ,  Atlético Madrid (ESP)
+ 16,  Ștefan Târnovanu,                  GK,      1/0  ,  FCSB (ROU)
+
+  2,  Andrei Rațiu,                      DF,     17/1  ,  Rayo Vallecano (ESP)
+  3,  Radu Drăgușin,                     DF,     16/0  ,  Tottenham Hotspur F.C. (ENG)
+  4,  Adrian Rus,                        DF,     20/1  ,  Pafos FC (CYP)
+  5,  Ionuț Nedelcearu,                  DF,     27/2  ,  Palermo FC (ITA)
+ 11,  Nicușor Bancu,                     DF,     35/2  ,  CS Universitatea Craiova (ROU)
+ 15,  Andrei Burcă,                      DF,     27/1  ,  Al-Okhdood Club (KSA)
+ 22,  Vasile Mogoș,                      DF,      6/0  ,  CFR Cluj (ROU)
+ 24,  Bogdan Racovițan,                  DF,      1/0  ,  Raków Częstochowa (POL)
+
+  6,  Marius Marin,                      MF,     17/0  ,  Pisa SC (ITA)
+  8,  Alexandru Cicâldău,                MF,     36/4  ,  Konyaspor (TUR)
+ 10,  Nicolae Stanciu,                   MF,     69/14 ,  Damac FC (KSA)
+ 13,  Valentin Mihăilă,                  MF,     20/4  ,  Parma Calcio 1913 (ITA)
+ 14,  Ianis Hagi,                        MF,     34/5  ,  Deportivo Alavés (ESP)
+ 17,  Florinel Coman,                    MF,     14/1  ,  FCSB (ROU)
+ 18,  Răzvan Marin,                      MF,     55/3  ,  Empoli FC (ITA)
+ 20,  Dennis Man,                        MF,     23/7  ,  Parma Calcio 1913 (ITA)
+ 21,  Darius Olaru,                      MF,     17/0  ,  FCSB (ROU)
+ 23,  Deian Sorescu,                     MF,     16/0  ,  Gaziantep F.K. (TUR)
+ 26,  Adrian Șut,                        MF,      1/0  ,  FCSB (ROU)
+
+  7,  Denis Alibec,                      FW,     37/5  ,  Muaither SC (QAT)
+  9,  George Pușcaș,                     FW,     41/11 ,  SSC Bari (ITA)
+ 19,  Denis Drăguș,                      FW,     10/2  ,  Gaziantep F.K. (TUR)
+ 25,  Daniel Bîrligea,                   FW,      2/0  ,  CFR Cluj (ROU)
+

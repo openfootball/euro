@@ -1,0 +1,34 @@
+==========================
+=  Poland 
+
+
+  1,  Wojciech Szczęsny,                 GK,     81/0  ,  Juventus FC (ITA)
+ 12,  Łukasz Skorupski,                  GK,     10/0  ,  Bologna FC 1909 (ITA)
+ 22,  Marcin Bułka,                      GK,      1/0  ,  OGC Nice (FRA)
+
+  2,  Bartosz Salamon,                   DF,     13/0  ,  Lech Poznań (POL)
+  3,  Paweł Dawidowicz,                  DF,     10/0  ,  Hellas Verona FC (ITA)
+  4,  Sebastian Walukiewicz,             DF,      4/1  ,  Empoli FC (ITA)
+  5,  Jan Bednarek,                      DF,     56/1  ,  Southampton F.C. (ENG)
+ 14,  Jakub Kiwior,                      DF,     22/1  ,  Arsenal F.C. (ENG)
+ 15,  Tymoteusz Puchacz,                 DF,     14/0  ,  1. FC Kaiserslautern (GER)
+ 18,  Bartosz Bereszyński,               DF,     55/0  ,  Empoli FC (ITA)
+
+  6,  Jakub Piotrowski,                  MF,      5/2  ,  PFC Ludogorets Razgrad (BUL)
+  8,  Jakub Moder,                       MF,     22/2  ,  Brighton & Hove Albion F.C. (ENG)
+ 10,  Piotr Zieliński,                   MF,     89/12 ,  SSC Napoli (ITA)
+ 11,  Kamil Grosicki,                    MF,     93/17 ,  Pogoń Szczecin (POL)
+ 13,  Taras Romanczuk,                   MF,      3/1  ,  Jagiellonia Białystok (POL)
+ 17,  Damian Szymański,                  MF,     17/2  ,  AEK Athens F.C. (GRE)
+ 19,  Przemysław Frankowski,             MF,     40/3  ,  RC Lens (FRA)
+ 20,  Sebastian Szymański,               MF,     33/3  ,  Fenerbahçe S.K. (TUR)
+ 21,  Nicola Zalewski,                   MF,     17/0  ,  AS Roma (ITA)
+ 24,  Bartosz Slisz,                     MF,      8/0  ,  Atlanta United FC (USA)
+ 25,  Michał Skóraś,                     MF,      8/0  ,  Club Brugge KV (BEL)
+ 26,  Kacper Urbański,                   MF,      1/0  ,  Bologna FC 1909 (ITA)
+
+  7,  Karol Świderski,                   FW,     30/10 ,  Hellas Verona FC (ITA)
+  9,  Robert Lewandowski,                FW,    149/82 ,  FC Barcelona (ESP)
+ 16,  Adam Buksa,                        FW,     15/6  ,  Antalyaspor (TUR)
+ 23,  Krzysztof Piątek,                  FW,     28/11 ,  İstanbul Başakşehir F.K. (TUR)
+

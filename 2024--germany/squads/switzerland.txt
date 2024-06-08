@@ -1,0 +1,34 @@
+==========================
+=  Switzerland 
+
+
+  1,  Yann Sommer,                       GK,     88/0  ,  Inter Milan (ITA)
+ 12,  Yvon Mvogo,                        GK,      9/0  ,  FC Lorient (FRA)
+ 21,  Gregor Kobel,                      GK,      5/0  ,  Borussia Dortmund (GER)
+
+  2,  Leonidas Stergiou,                 DF,      2/0  ,  VfB Stuttgart (GER)
+  3,  Silvan Widmer,                     DF,     42/3  ,  1. FSV Mainz 05 (GER)
+  4,  Nico Elvedi,                       DF,     52/2  ,  Borussia Mönchengladbach (GER)
+  5,  Manuel Akanji,                     DF,     59/3  ,  Manchester City F.C. (ENG)
+ 13,  Ricardo Rodriguez,                 DF,    114/9  ,  Torino FC (ITA)
+ 15,  Cédric Zesiger,                    DF,      3/0  ,  VfL Wolfsburg (GER)
+ 22,  Fabian Schär,                      DF,     81/8  ,  Newcastle United F.C. (ENG)
+
+  6,  Denis Zakaria,                     MF,     54/3  ,  AS Monaco FC (FRA)
+  8,  Remo Freuler,                      MF,     66/8  ,  Bologna FC 1909 (ITA)
+ 10,  Granit Xhaka,                      MF,    124/14 ,  Bayer 04 Leverkusen (GER)
+ 16,  Vincent Sierro,                    MF,      2/0  ,  Toulouse FC (FRA)
+ 20,  Michel Aebischer,                  MF,     19/0  ,  Bologna FC 1909 (ITA)
+ 23,  Xherdan Shaqiri,                   MF,    122/31 ,  Chicago Fire FC (USA)
+ 24,  Ardon Jashari,                     MF,      2/0  ,  FC Luzern (SUI)
+ 26,  Fabian Rieder,                     MF,      5/0  ,  Stade Rennais F.C. (FRA)
+
+  7,  Breel Embolo,                      FW,     63/13 ,  AS Monaco FC (FRA)
+  9,  Noah Okafor,                       FW,     21/2  ,  AC Milan (ITA)
+ 11,  Renato Steffen,                    FW,     39/4  ,  FC Lugano (SUI)
+ 14,  Steven Zuber,                      FW,     53/11 ,  AEK Athens F.C. (GRE)
+ 17,  Ruben Vargas,                      FW,     42/7  ,  FC Augsburg (GER)
+ 18,  Kwadwo Duah,                       FW,      1/0  ,  PFC Ludogorets Razgrad (BUL)
+ 19,  Dan Ndoye,                         FW,     10/0  ,  Bologna FC 1909 (ITA)
+ 25,  Zeki Amdouni,                      FW,     14/7  ,  Burnley F.C. (ENG)
+

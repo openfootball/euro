@@ -1,0 +1,34 @@
+==========================
+=  Slovakia 
+
+
+  1,  Martin Dúbravka,                   GK,     42/0  ,  Newcastle United F.C. (ENG)
+ 12,  Marek Rodák,                       GK,     22/0  ,  Fulham F.C. (ENG)
+ 23,  Henrich Ravas,                     GK,      0/0  ,  New England Revolution (USA)
+
+  2,  Peter Pekarík,                     DF,    126/2  ,  Hertha BSC (GER)
+  3,  Denis Vavro,                       DF,     19/2  ,  F.C. Copenhagen (DEN)
+  4,  Adam Obert,                        DF,      4/0  ,  Cagliari Calcio (ITA)
+  6,  Norbert Gyömbér,                   DF,     39/0  ,  US Salernitana 1919 (ITA)
+ 14,  Milan Škriniar,                    DF,     67/3  ,  Paris Saint-Germain F.C. (FRA)
+ 15,  Vernon De Marco,                   DF,      9/1  ,  Hatta Club (UAE)
+ 16,  Dávid Hancko,                      DF,     37/4  ,  Feyenoord (NED)
+ 25,  Sebastian Kóša,                    DF,      1/0  ,  FC Spartak Trnava (SVK)
+
+  5,  Tomáš Rigo,                        MF,      1/1  ,  FC Baník Ostrava (CZE)
+  8,  Ondrej Duda,                       MF,     71/13 ,  Hellas Verona FC (ITA)
+ 11,  László Bénes,                      MF,     21/1  ,  Hamburger SV (GER)
+ 13,  Patrik Hrošovský,                  MF,     55/0  ,  K.R.C. Genk (BEL)
+ 19,  Juraj Kucka,                       MF,    106/13 ,  ŠK Slovan Bratislava (SVK)
+ 21,  Matúš Bero,                        MF,     29/1  ,  VfL Bochum (GER)
+ 22,  Stanislav Lobotka,                 MF,     54/4  ,  SSC Napoli (ITA)
+
+  7,  Tomáš Suslov,                      FW,     27/3  ,  Hellas Verona FC (ITA)
+  9,  Róbert Boženík,                    FW,     39/6  ,  Boavista F.C. (POR)
+ 10,  Ľubomír Tupta,                     FW,      5/0  ,  FC Slovan Liberec (CZE)
+ 17,  Lukáš Haraslín,                    FW,     35/6  ,  AC Sparta Prague (CZE)
+ 18,  David Strelec,                     FW,     18/3  ,  ŠK Slovan Bratislava (SVK)
+ 20,  Dávid Ďuriš,                       FW,     12/1  ,  Ascoli Calcio 1898 FC (ITA)
+ 24,  Leo Sauer,                         FW,      2/0  ,  Feyenoord (NED)
+ 26,  Ivan Schranz,                      FW,     21/3  ,  SK Slavia Prague (CZE)
+

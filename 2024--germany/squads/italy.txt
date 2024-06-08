@@ -1,0 +1,34 @@
+==========================
+=  Italy 
+
+
+  1,  Gianluigi Donnarumma,              GK,     61/0  ,  Paris Saint-Germain F.C. (FRA)
+ 12,  Guglielmo Vicario,                 GK,      2/0  ,  Tottenham Hotspur F.C. (ENG)
+ 21,  Alex Meret,                        GK,      3/0  ,  SSC Napoli (ITA)
+
+  2,  Giovanni Di Lorenzo,               DF,     35/3  ,  SSC Napoli (ITA)
+  3,  Federico Dimarco,                  DF,     18/2  ,  Inter Milan (ITA)
+  4,  Alessandro Buongiorno,             DF,      3/0  ,  Torino FC (ITA)
+  5,  Gianluca Mancini,                  DF,     13/0  ,  AS Roma (ITA)
+ 13,  Matteo Darmian,                    DF,     42/2  ,  Inter Milan (ITA)
+ 15,  Riccardo Calafiori,                DF,      1/0  ,  Bologna FC 1909 (ITA)
+ 19,  Raoul Bellanova,                   DF,      1/0  ,  Torino FC (ITA)
+ 23,  Alessandro Bastoni,                DF,     23/1  ,  Inter Milan (ITA)
+ 24,  Andrea Cambiaso,                   DF,      3/0  ,  Juventus FC (ITA)
+ 25,  Federico Gatti,                    DF,      3/0  ,  Juventus FC (ITA)
+
+  6,  Nicolò Fagioli,                    MF,      2/0  ,  Juventus FC (ITA)
+  7,  Davide Frattesi,                   MF,     14/4  ,  Inter Milan (ITA)
+  8,  Jorginho,                          MF,     53/5  ,  Arsenal F.C. (ENG)
+ 10,  Lorenzo Pellegrini,                MF,     29/6  ,  AS Roma (ITA)
+ 16,  Bryan Cristante,                   MF,     39/2  ,  AS Roma (ITA)
+ 18,  Nicolò Barella,                    MF,     53/9  ,  Inter Milan (ITA)
+ 26,  Michael Folorunsho,                MF,      0/0  ,  Hellas Verona FC (ITA)
+
+  9,  Mateo Retegui,                     FW,      7/4  ,  Genoa CFC (ITA)
+ 11,  Giacomo Raspadori,                 FW,     27/6  ,  SSC Napoli (ITA)
+ 14,  Federico Chiesa,                   FW,     46/7  ,  Juventus FC (ITA)
+ 17,  Gianluca Scamacca,                 FW,     15/1  ,  Atalanta BC (ITA)
+ 20,  Mattia Zaccagni,                   FW,      5/0  ,  SS Lazio (ITA)
+ 22,  Stephan El Shaarawy,               FW,     31/7  ,  AS Roma (ITA)
+

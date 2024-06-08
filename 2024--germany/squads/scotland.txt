@@ -1,0 +1,34 @@
+==========================
+=  Scotland 
+
+
+  1,  Angus Gunn,                        GK,     10/0  ,  Norwich City F.C. (ENG)
+ 12,  Liam Kelly,                        GK,      1/0  ,  Motherwell F.C. (SCO)
+ 21,  Zander Clark,                      GK,      4/0  ,  Heart of Midlothian F.C. (SCO)
+
+  2,  Anthony Ralston,                   DF,      9/1  ,  Celtic F.C. (SCO)
+  3,  Andrew Robertson,                  DF,     71/3  ,  Liverpool F.C. (ENG)
+  5,  Grant Hanley,                      DF,     50/2  ,  Norwich City F.C. (ENG)
+  6,  Kieran Tierney,                    DF,     45/1  ,  Real Sociedad (ESP)
+ 13,  Jack Hendry,                       DF,     31/3  ,  Ettifaq FC (KSA)
+ 15,  Ryan Porteous,                     DF,     11/1  ,  Watford F.C. (ENG)
+ 16,  Liam Cooper,                       DF,     19/0  ,  Leeds United F.C. (ENG)
+ 22,  Ross McCrorie,                     DF,      1/0  ,  Bristol City F.C. (ENG)
+ 24,  Greg Taylor,                       DF,     14/0  ,  Celtic F.C. (SCO)
+ 26,  Scott McKenna,                     DF,     35/1  ,  F.C. Copenhagen (DEN)
+
+  4,  Scott McTominay,                   MF,     49/8  ,  Manchester United F.C. (ENG)
+  7,  John McGinn,                       MF,     66/18 ,  Aston Villa F.C. (ENG)
+  8,  Callum McGregor,                   MF,     60/3  ,  Celtic F.C. (SCO)
+ 11,  Ryan Christie,                     MF,     49/6  ,  AFC Bournemouth (ENG)
+ 14,  Billy Gilmour,                     MF,     27/1  ,  Brighton & Hove Albion F.C. (ENG)
+ 17,  Stuart Armstrong,                  MF,     50/5  ,  Southampton F.C. (ENG)
+ 20,  Ryan Jack,                         MF,     20/0  ,  Rangers F.C. (SCO)
+ 23,  Kenny McLean,                      MF,     39/2  ,  Norwich City F.C. (ENG)
+
+  9,  Lawrence Shankland,                FW,     11/3  ,  Heart of Midlothian F.C. (SCO)
+ 10,  Ché Adams,                         FW,     30/6  ,  Southampton F.C. (ENG)
+ 18,  Lewis Morgan,                      FW,      3/0  ,  New York Red Bulls (USA)
+ 19,  Tommy Conway,                      FW,      1/0  ,  Bristol City F.C. (ENG)
+ 25,  James Forrest,                     FW,     39/5  ,  Celtic F.C. (SCO)
+

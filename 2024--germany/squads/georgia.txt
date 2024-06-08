@@ -1,0 +1,34 @@
+==========================
+=  Georgia 
+
+
+  1,  Giorgi Loria,                      GK,     78/0  ,  FC Dinamo Tbilisi (GEO)
+ 12,  Giorgi Mamardashvili,              GK,     16/0  ,  Valencia CF (ESP)
+ 23,  Luka Gugeshashvili,                GK,      1/0  ,  Qarabağ FK (AZE)
+
+  2,  Otar Kakabadze,                    DF,     60/0  ,  MKS Cracovia (POL)
+  3,  Lasha Dvali,                       DF,     31/1  ,  APOEL FC (CYP)
+  4,  Guram Kashia,                      DF,    112/3  ,  ŠK Slovan Bratislava (SVK)
+  5,  Solomon Kvirkvelia,                DF,     58/0  ,  Al-Okhdood Club (KSA)
+ 13,  Giorgi Gocholeishvili,             DF,      8/0  ,  FC Shakhtar Donetsk (UKR)
+ 14,  Luka Lochoshvili,                  DF,     10/1  ,  U.S. Cremonese (ITA)
+ 15,  Giorgi Gvelesiani,                 DF,      0/0  ,  Persepolis F.C. (IRI)
+ 24,  Jemal Tabidze,                     DF,     15/1  ,  Panetolikos F.C. (GRE)
+
+  6,  Giorgi Kochorashvili,              MF,      7/0  ,  Levante UD (ESP)
+  9,  Zuriko Davitashvili,               MF,     34/6  ,  FC Girondins de Bordeaux (FRA)
+ 10,  Giorgi Chakvetadze,                MF,     24/8  ,  Watford F.C. (ENG)
+ 16,  Nika Kvekveskiri,                  MF,     59/0  ,  Lech Poznań (POL)
+ 17,  Otar Kiteishvili,                  MF,     36/2  ,  SK Sturm Graz (AUT)
+ 18,  Saba Lobzhanidze,                  MF,     36/3  ,  Atlanta United FC (USA)
+ 19,  Levan Shengelia,                   MF,     16/1  ,  Panetolikos F.C. (GRE)
+ 20,  Gabriel Sigua,                     MF,      2/0  ,  FC Basel (SUI)
+ 21,  Giorgi Tsitaishvili,               MF,     16/1  ,  FC Dinamo Batumi (GEO)
+ 25,  Sandro Altunashvili,               MF,      4/0  ,  Wolfsberger AC (AUT)
+ 26,  Anzor Mekvabishvili,               MF,     13/0  ,  CS Universitatea Craiova (ROU)
+
+  7,  Khvicha Kvaratskhelia,             FW,     29/15 ,  SSC Napoli (ITA)
+  8,  Budu Zivzivadze,                   FW,     25/7  ,  Karlsruher SC (GER)
+ 11,  Giorgi Kvilitaia,                  FW,     37/6  ,  APOEL FC (CYP)
+ 22,  Georges Mikautadze,                FW,     24/9  ,  FC Metz (FRA)
+

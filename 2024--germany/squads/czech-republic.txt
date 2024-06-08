@@ -1,0 +1,34 @@
+==========================
+=  Czech Republic 
+
+
+  1,  Jindřich Staněk,                   GK,      9/0  ,  SK Slavia Prague (CZE)
+ 16,  Matěj Kovář,                       GK,      1/0  ,  Bayer 04 Leverkusen (GER)
+ 23,  Vítězslav Jaroš,                   GK,      0/0  ,  SK Sturm Graz (AUT)
+
+  2,  David Zima,                        DF,     20/1  ,  SK Slavia Prague (CZE)
+  3,  Tomáš Holeš,                       DF,     27/2  ,  SK Slavia Prague (CZE)
+  4,  Robin Hranáč,                      DF,      1/0  ,  FC Viktoria Plzeň (CZE)
+  5,  Vladimír Coufal,                   DF,     40/1  ,  West Ham United F.C. (ENG)
+  6,  Martin Vitík,                      DF,      1/0  ,  AC Sparta Prague (CZE)
+ 12,  David Douděra,                     DF,      8/1  ,  SK Slavia Prague (CZE)
+ 15,  David Jurásek,                     DF,      7/0  ,  TSG 1899 Hoffenheim (GER)
+ 18,  Ladislav Krejčí,                   DF,      9/3  ,  AC Sparta Prague (CZE)
+ 24,  Tomáš Vlček,                       DF,      1/0  ,  SK Slavia Prague (CZE)
+
+  7,  Antonín Barák,                     MF,     39/9  ,  ACF Fiorentina (ITA)
+  8,  Michal Sadílek,                    MF,     23/1  ,  FC Twente (NED)
+ 14,  Lukáš Provod,                      MF,     18/2  ,  SK Slavia Prague (CZE)
+ 20,  Ondřej Lingr,                      MF,     13/0  ,  Feyenoord (NED)
+ 21,  Lukáš Červ,                        MF,      0/0  ,  FC Viktoria Plzeň (CZE)
+ 22,  Tomáš Souček,                      MF,     68/12 ,  West Ham United F.C. (ENG)
+ 25,  Pavel Šulc,                        MF,      1/0  ,  FC Viktoria Plzeň (CZE)
+ 26,  Matěj Jurásek,                     MF,      1/0  ,  SK Slavia Prague (CZE)
+
+  9,  Adam Hložek,                       FW,     31/2  ,  Bayer 04 Leverkusen (GER)
+ 10,  Patrik Schick,                     FW,     37/18 ,  Bayer 04 Leverkusen (GER)
+ 11,  Jan Kuchta,                        FW,     20/2  ,  AC Sparta Prague (CZE)
+ 13,  Mojmír Chytil,                     FW,     12/4  ,  SK Slavia Prague (CZE)
+ 17,  Václav Černý,                      FW,     15/5  ,  VfL Wolfsburg (GER)
+ 19,  Tomáš Chorý,                       FW,      3/2  ,  FC Viktoria Plzeň (CZE)
+

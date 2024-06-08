@@ -1,0 +1,34 @@
+==========================
+=  Netherlands 
+
+
+  1,  Bart Verbruggen,                   GK,      6/0  ,  Brighton & Hove Albion F.C. (ENG)
+ 13,  Justin Bijlow,                     GK,      8/0  ,  Feyenoord (NED)
+ 23,  Mark Flekken,                      GK,      7/0  ,  Brentford F.C. (ENG)
+
+  2,  Lutsharel Geertruida,              DF,      8/0  ,  Feyenoord (NED)
+  3,  Matthijs de Ligt,                  DF,     45/2  ,  FC Bayern Munich (GER)
+  4,  Virgil van Dijk,                   DF,     67/8  ,  Liverpool F.C. (ENG)
+  5,  Nathan Aké,                        DF,     44/5  ,  Manchester City F.C. (ENG)
+  6,  Stefan de Vrij,                    DF,     63/3  ,  Inter Milan (ITA)
+ 12,  Jeremie Frimpong,                  DF,      3/1  ,  Bayer 04 Leverkusen (GER)
+ 15,  Micky van de Ven,                  DF,      3/0  ,  Tottenham Hotspur F.C (ENG)
+ 17,  Daley Blind,                       DF,    107/3  ,  Girona FC (ESP)
+ 22,  Denzel Dumfries,                   DF,     52/6  ,  Inter Milan (ITA)
+
+  7,  Xavi Simons,                       MF,     13/0  ,  RB Leipzig (GER)
+  8,  Georginio Wijnaldum,               MF,     92/28 ,  Al-Ettifaq FC (KSA)
+ 14,  Tijjani Reijnders,                 MF,      8/1  ,  AC Milan (ITA)
+ 16,  Joey Veerman,                      MF,      9/1  ,  PSV Eindhoven (NED)
+ 20,  Teun Koopmeiners,                  MF,     21/2  ,  Atalanta BC (ITA)
+ 21,  Frenkie de Jong,                   MF,     54/2  ,  FC Barcelona (ESP)
+ 24,  Jerdy Schouten,                    MF,      4/0  ,  PSV Eindhoven (NED)
+ 26,  Ryan Gravenberch,                  MF,     12/1  ,  Liverpool F.C. (ENG)
+
+  9,  Wout Weghorst,                     FW,     32/10 ,  TSG 1899 Hoffenheim (GER)
+ 10,  Memphis Depay,                     FW,     91/45 ,  Atlético Madrid (ESP)
+ 11,  Cody Gakpo,                        FW,     23/9  ,  Liverpool F.C. (ENG)
+ 18,  Donyell Malen,                     FW,     31/6  ,  Borussia Dortmund (GER)
+ 19,  Brian Brobbey,                     FW,      2/0  ,  AFC Ajax (NED)
+ 25,  Steven Bergwijn,                   FW,     33/8  ,  AFC Ajax (NED)
+

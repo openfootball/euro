@@ -1,0 +1,34 @@
+==========================
+=  Austria 
+
+
+  1,  Heinz Lindner,                     GK,     36/0  ,  Royale Union Saint-Gilloise (BEL)
+ 12,  Niklas Hedl,                       GK,      1/0  ,  SK Rapid Wien (AUT)
+ 13,  Patrick Pentz,                     GK,      6/0  ,  Brøndby IF (DEN)
+
+  2,  Maximilian Wöber,                  DF,     24/0  ,  Borussia Mönchengladbach (GER)
+  3,  Gernot Trauner,                    DF,     10/1  ,  Feyenoord (NED)
+  4,  Kevin Danso,                       DF,     19/0  ,  RC Lens (FRA)
+  5,  Stefan Posch,                      DF,     31/1  ,  Bologna FC 1909 (ITA)
+ 14,  Leopold Querfeld,                  DF,      2/0  ,  SK Rapid Wien (AUT)
+ 15,  Philipp Lienhart,                  DF,     20/1  ,  SC Freiburg (GER)
+ 16,  Philipp Mwene,                     DF,     11/0  ,  1. FSV Mainz 05 (GER)
+ 21,  Flavius Daniliuc,                  DF,      2/0  ,  FC Red Bull Salzburg (AUT)
+
+  6,  Nicolas Seiwald,                   MF,     23/0  ,  RB Leipzig (GER)
+  8,  Alexander Prass,                   MF,      5/0  ,  SK Sturm Graz (AUT)
+  9,  Marcel Sabitzer,                   MF,     78/17 ,  Borussia Dortmund (GER)
+ 10,  Florian Grillitsch,                MF,     42/1  ,  TSG 1899 Hoffenheim (GER)
+ 17,  Florian Kainz,                     MF,     27/1  ,  1. FC Köln (GER)
+ 18,  Romano Schmid,                     MF,     10/0  ,  SV Werder Bremen (GER)
+ 19,  Christoph Baumgartner,             MF,     37/14 ,  RB Leipzig (GER)
+ 20,  Konrad Laimer,                     MF,     35/4  ,  FC Bayern Munich (GER)
+ 22,  Matthias Seidl,                    MF,      3/0  ,  SK Rapid Wien (AUT)
+ 23,  Patrick Wimmer,                    MF,     11/1  ,  VfL Wolfsburg (GER)
+ 26,  Marco Grüll,                       MF,      5/0  ,  SK Rapid Wien (AUT)
+
+  7,  Marko Arnautović,                  FW,    112/36 ,  Inter Milan (ITA)
+ 11,  Michael Gregoritsch,               FW,     54/15 ,  SC Freiburg (GER)
+ 24,  Andreas Weimann,                   FW,     24/2  ,  West Bromwich Albion F.C. (ENG)
+ 25,  Maximilian Entrup,                 FW,      3/1  ,  TSV Hartberg (AUT)
+
