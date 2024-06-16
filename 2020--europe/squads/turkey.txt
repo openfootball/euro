@@ -1,0 +1,34 @@
+==========================
+=  Turkey - Euro 2021
+
+
+  1,  Mert Günok,                        GK,     22/0  , b. 1989,  İstanbul Başakşehir F.K. (TUR)
+ 12,  Altay Bayındır,                    GK,      1/0  , b. 1998,  Fenerbahçe S.K. (TUR)
+ 23,  Uğurcan Çakır,                     GK,      8/0  , b. 1996,  Trabzonspor (TUR)
+
+  2,  Zeki Çelik,                        DF,     20/2  , b. 1997,  Lille OSC (FRA)
+  3,  Merih Demiral,                     DF,     21/0  , b. 1998,  Juventus FC (ITA)
+  4,  Çağlar Söyüncü,                    DF,     35/2  , b. 1996,  Leicester City F.C. (ENG)
+ 13,  Umut Meraş,                        DF,     13/0  , b. 1995,  Le Havre AC (FRA)
+ 15,  Ozan Kabak,                        DF,     12/0  , b. 2000,  Liverpool F.C. (ENG)
+ 18,  Rıdvan Yılmaz,                     DF,      2/0  , b. 2001,  Beşiktaş J.K. (TUR)
+ 22,  Kaan Ayhan,                        DF,     37/4  , b. 1994,  U.S. Sassuolo Calcio (ITA)
+ 25,  Mert Müldür,                       DF,      8/0  , b. 1999,  U.S. Sassuolo Calcio (ITA)
+
+  5,  Okay Yokuşlu,                      MF,     34/1  , b. 1994,  West Bromwich Albion F.C. (ENG)
+  6,  Ozan Tufan,                        MF,     60/9  , b. 1995,  Fenerbahçe S.K. (TUR)
+  8,  Dorukhan Toköz,                    MF,      9/1  , b. 1996,  Beşiktaş J.K. (TUR)
+ 10,  Hakan Çalhanoğlu,                  MF,     56/13 , b. 1994,  A.C. Milan (ITA)
+ 14,  Taylan Antalyalı,                  MF,      6/0  , b. 1995,  Galatasaray S.K. (TUR)
+ 19,  Orkun Kökçü,                       MF,      6/0  , b. 2000,  Feyenoord (NED)
+ 20,  Abdülkadir Ömür,                   MF,      9/0  , b. 1999,  Trabzonspor (TUR)
+ 21,  İrfan Kahveci,                     MF,     18/0  , b. 1995,  Fenerbahçe S.K. (TUR)
+ 24,  Kerem Aktürkoğlu,                  MF,      1/0  , b. 1998,  Galatasaray S.K. (TUR)
+ 26,  Halil Dervişoğlu,                  MF,      2/1  , b. 1999,  Galatasaray S.K. (TUR)
+
+  7,  Cengiz Ünder,                      FW,     29/9  , b. 1997,  Leicester City F.C. (ENG)
+  9,  Kenan Karaman,                     FW,     22/5  , b. 1994,  Fortuna Düsseldorf (GER)
+ 11,  Yusuf Yazıcı,                      FW,     31/1  , b. 1997,  Lille OSC (FRA)
+ 16,  Enes Ünal,                         FW,     22/2  , b. 1997,  Getafe CF (ESP)
+ 17,  Burak Yılmaz,                      FW,     67/29 , b. 1985,  Lille OSC (FRA)
+

@@ -1,0 +1,34 @@
+==========================
+=  Finland - Euro 2021
+
+
+  1,  Lukas Hradecky,                    GK,     65/0  , b. 1989,  Bayer 04 Leverkusen (GER)
+ 12,  Jesse Joronen,                     GK,     14/0  , b. 1993,  Brescia Calcio (ITA)
+ 23,  Anssi Jaakkola,                    GK,      3/0  , b. 1987,  Bristol Rovers F.C. (ENG)
+
+  2,  Paulus Arajuuri,                   DF,     51/3  , b. 1988,  Pafos FC (CYP)
+  3,  Daniel O'Shaughnessy,              DF,     11/0  , b. 1994,  Helsingin Jalkapalloklubi (FIN)
+  4,  Joona Toivio,                      DF,     73/3  , b. 1988,  BK Häcken (SWE)
+  5,  Leo Väisänen,                      DF,      8/0  , b. 1997,  IF Elfsborg (SWE)
+ 15,  Niko Hämäläinen,                   DF,      7/0  , b. 1997,  Queens Park Rangers F.C. (ENG)
+ 16,  Thomas Lam,                        DF,     26/0  , b. 1993,  PEC Zwolle (NED)
+ 18,  Jere Uronen,                       DF,     49/1  , b. 1994,  K.R.C. Genk (BEL)
+ 22,  Jukka Raitala,                     DF,     52/0  , b. 1988,  Minnesota United FC (USA)
+ 25,  Robert Ivanov,                     DF,      4/0  , b. 1994,  Warta Poznań (POL)
+
+  6,  Glen Kamara,                       MF,     31/1  , b. 1995,  Rangers F.C. (SCO)
+  7,  Robert Taylor,                     MF,     19/1  , b. 1994,  SK Brann (NOR)
+  8,  Robin Lod,                         MF,     43/4  , b. 1993,  Minnesota United FC (USA)
+  9,  Fredrik Jensen,                    MF,     18/7  , b. 1997,  FC Augsburg (GER)
+ 11,  Rasmus Schüller,                   MF,     49/0  , b. 1991,  Djurgårdens IF Fotboll (SWE)
+ 13,  Pyry Soiri,                        MF,     31/5  , b. 1994,  Esbjerg fB (DEN)
+ 14,  Tim Sparv,                         MF,     81/1  , b. 1987,  Athlitiki Enosi Larissa F.C. (GRE)
+ 17,  Nikolai Alho,                      MF,     12/0  , b. 1993,  MTK Budapest FC (HUN)
+ 19,  Joni Kauko,                        MF,     25/0  , b. 1990,  Esbjerg fB (DEN)
+ 24,  Onni Valakari,                     MF,      5/1  , b. 1999,  Pafos FC (CYP)
+
+ 10,  Teemu Pukki,                       FW,     91/30 , b. 1990,  Norwich City F.C. (ENG)
+ 20,  Joel Pohjanpalo,                   FW,     42/9  , b. 1994,  1. FC Union Berlin (GER)
+ 21,  Lassi Lappalainen,                 FW,      8/0  , b. 1998,  CF Montréal (CAN)
+ 26,  Marcus Forss,                      FW,      5/1  , b. 1999,  Brentford F.C. (ENG)
+

@@ -1,0 +1,35 @@
+==========================
+=  England - Euro 2021
+
+
+  1,  Jordan Pickford,                   GK,     31/0  , b. 1994,  Everton F.C. (ENG)
+ 13,  Aaron Ramsdale,                    GK,      0/0  , b. 1998,  Sheffield United F.C. (ENG)
+ 13,  Dean Henderson,                    GK,      1/0  , b. 1997,  Manchester United F.C. (ENG)
+ 23,  Sam Johnstone,                     GK,      1/0  , b. 1993,  West Bromwich Albion F.C. (ENG)
+
+  2,  Kyle Walker,                       DF,     55/0  , b. 1990,  Manchester City F.C. (ENG)
+  3,  Luke Shaw,                         DF,     10/0  , b. 1995,  Manchester United F.C. (ENG)
+  5,  John Stones,                       DF,     42/2  , b. 1994,  Manchester City F.C. (ENG)
+  6,  Harry Maguire,                     DF,     32/3  , b. 1993,  Manchester United F.C. (ENG)
+ 12,  Kieran Trippier,                   DF,     28/1  , b. 1990,  Atlético Madrid (ESP)
+ 15,  Tyrone Mings,                      DF,     10/0  , b. 1993,  Aston Villa F.C. (ENG)
+ 16,  Conor Coady,                       DF,      5/1  , b. 1993,  Wolverhampton Wanderers F.C. (ENG)
+ 21,  Ben Chilwell,                      DF,     14/0  , b. 1996,  Chelsea F.C. (ENG)
+ 22,  Ben White,                         DF,      2/0  , b. 1997,  Brighton & Hove Albion F.C. (ENG)
+ 24,  Reece James,                       DF,      6/0  , b. 1999,  Chelsea F.C. (ENG)
+
+  4,  Declan Rice,                       MF,     17/1  , b. 1999,  West Ham United F.C. (ENG)
+  7,  Jack Grealish,                     MF,      7/0  , b. 1995,  Aston Villa F.C. (ENG)
+  8,  Jordan Henderson,                  MF,     59/0  , b. 1990,  Liverpool F.C. (ENG)
+ 14,  Kalvin Phillips,                   MF,      8/0  , b. 1995,  Leeds United F.C. (ENG)
+ 17,  Jadon Sancho,                      MF,     19/3  , b. 2000,  Borussia Dortmund (GER)
+ 19,  Mason Mount,                       MF,     16/4  , b. 1999,  Chelsea F.C. (ENG)
+ 20,  Phil Foden,                        MF,      6/2  , b. 2000,  Manchester City F.C. (ENG)
+ 25,  Bukayo Saka,                       MF,      5/1  , b. 2001,  Arsenal F.C. (ENG)
+ 26,  Jude Bellingham,                   MF,      4/0  , b. 2003,  Borussia Dortmund (GER)
+
+  9,  Harry Kane,                        FW,     54/34 , b. 1993,  Tottenham Hotspur F.C. (ENG)
+ 10,  Raheem Sterling,                   FW,     61/14 , b. 1994,  Manchester City F.C. (ENG)
+ 11,  Marcus Rashford,                   FW,     41/12 , b. 1997,  Manchester United F.C. (ENG)
+ 18,  Dominic Calvert-Lewin,             FW,      9/4  , b. 1997,  Everton F.C. (ENG)
+

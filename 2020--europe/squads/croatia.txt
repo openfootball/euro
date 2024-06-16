@@ -1,0 +1,34 @@
+==========================
+=  Croatia - Euro 2021
+
+
+  1,  Dominik Livaković,                 GK,     21/0  , b. 1995,  GNK Dinamo Zagreb (CRO)
+ 12,  Lovre Kalinić,                     GK,     19/0  , b. 1990,  HNK Hajduk Split (CRO)
+ 23,  Simon Sluga,                       GK,      3/0  , b. 1993,  Luton Town F.C. (ENG)
+
+  2,  Šime Vrsaljko,                     DF,     49/0  , b. 1992,  Atlético Madrid (ESP)
+  3,  Borna Barišić,                     DF,     20/1  , b. 1992,  Rangers F.C. (SCO)
+  5,  Duje Ćaleta-Car,                   DF,     14/0  , b. 1996,  Olympique de Marseille (FRA)
+  6,  Dejan Lovren,                      DF,     64/4  , b. 1989,  FC Zenit Saint Petersburg (RUS)
+ 16,  Mile Škorić,                       DF,      5/0  , b. 1991,  NK Osijek (CRO)
+ 21,  Domagoj Vida,                      DF,     88/4  , b. 1989,  Beşiktaş J.K. (TUR)
+ 22,  Josip Juranović,                   DF,      8/0  , b. 1995,  Legia Warsaw (POL)
+ 24,  Domagoj Bradarić,                  DF,      4/0  , b. 1999,  Lille OSC (FRA)
+ 25,  Joško Gvardiol,                    DF,      1/0  , b. 2002,  GNK Dinamo Zagreb (CRO)
+
+  4,  Ivan Perišić,                      MF,    101/28 , b. 1989,  Inter Milan (ITA)
+  8,  Mateo Kovačić,                     MF,     67/3  , b. 1994,  Chelsea F.C. (ENG)
+ 10,  Luka Modrić,                       MF,    138/17 , b. 1985,  Real Madrid CF (ESP)
+ 11,  Marcelo Brozović,                  MF,     59/6  , b. 1992,  Inter Milan (ITA)
+ 13,  Nikola Vlašić,                     MF,     22/5  , b. 1997,  PFC CSKA Moscow (RUS)
+ 15,  Mario Pašalić,                     MF,     25/3  , b. 1995,  Atalanta B.C. (ITA)
+ 18,  Mislav Oršić,                      MF,      9/0  , b. 1992,  GNK Dinamo Zagreb (CRO)
+ 19,  Milan Badelj,                      MF,     55/2  , b. 1989,  Genoa C.F.C. (ITA)
+ 26,  Luka Ivanušec,                     MF,      2/1  , b. 1998,  GNK Dinamo Zagreb (CRO)
+
+  7,  Josip Brekalo,                     FW,     24/4  , b. 1998,  VfL Wolfsburg (GER)
+  9,  Andrej Kramarić,                   FW,     54/14 , b. 1991,  TSG 1899 Hoffenheim (GER)
+ 14,  Ante Budimir,                      FW,      7/1  , b. 1991,  CA Osasuna (ESP)
+ 17,  Ante Rebić,                        FW,     38/3  , b. 1993,  A.C. Milan (ITA)
+ 20,  Bruno Petković,                    FW,     15/6  , b. 1994,  GNK Dinamo Zagreb (CRO)
+

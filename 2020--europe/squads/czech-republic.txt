@@ -1,0 +1,34 @@
+==========================
+=  Czech Republic - Euro 2021
+
+
+  1,  Tomáš Vaclík,                      GK,     37/0  , b. 1989,  Sevilla FC (ESP)
+ 16,  Aleš Mandous,                      GK,      1/0  , b. 1992,  SK Sigma Olomouc (CZE)
+ 23,  Tomáš Koubek,                      GK,     11/0  , b. 1992,  FC Augsburg (GER)
+
+  2,  Pavel Kadeřábek,                   DF,     47/3  , b. 1992,  TSG 1899 Hoffenheim (GER)
+  3,  Ondřej Čelůstka,                   DF,     26/3  , b. 1989,  AC Sparta Prague (CZE)
+  4,  Jakub Brabec,                      DF,     21/1  , b. 1992,  FC Viktoria Plzeň (CZE)
+  5,  Vladimír Coufal,                   DF,     16/1  , b. 1992,  West Ham United F.C. (ENG)
+  6,  Tomáš Kalas,                       DF,     23/2  , b. 1993,  Bristol City F.C. (ENG)
+  9,  Tomáš Holeš,                       DF,      8/1  , b. 1993,  SK Slavia Prague (CZE)
+ 17,  David Zima,                        DF,      2/0  , b. 2000,  SK Slavia Prague (CZE)
+ 18,  Jan Bořil,                         DF,     23/0  , b. 1991,  SK Slavia Prague (CZE)
+ 22,  Aleš Matějů,                       DF,      4/0  , b. 1996,  Brescia Calcio (ITA)
+
+  7,  Antonín Barák,                     MF,     20/6  , b. 1994,  Hellas Verona F.C. (ITA)
+  8,  Vladimír Darida,                   MF,     72/8  , b. 1990,  Hertha BSC (GER)
+ 12,  Lukáš Masopust,                    MF,     22/2  , b. 1993,  SK Slavia Prague (CZE)
+ 13,  Petr Ševčík,                       MF,      7/0  , b. 1994,  SK Slavia Prague (CZE)
+ 14,  Jakub Jankto,                      MF,     35/4  , b. 1996,  U.C. Sampdoria (ITA)
+ 15,  Tomáš Souček,                      MF,     35/7  , b. 1995,  West Ham United F.C. (ENG)
+ 21,  Alex Král,                         MF,     18/2  , b. 1998,  FC Spartak Moscow (RUS)
+ 25,  Jakub Pešek,                       MF,      2/1  , b. 1993,  FC Slovan Liberec (CZE)
+ 26,  Michal Sadílek,                    MF,      1/0  , b. 1999,  FC Slovan Liberec (CZE)
+
+ 10,  Patrik Schick,                     FW,     26/11 , b. 1996,  Bayer 04 Leverkusen (GER)
+ 11,  Michael Krmenčík,                  FW,     29/9  , b. 1993,  PAOK FC (GRE)
+ 19,  Adam Hložek,                       FW,      3/0  , b. 2002,  AC Sparta Prague (CZE)
+ 20,  Matěj Vydra,                       FW,     36/6  , b. 1992,  Burnley F.C. (ENG)
+ 24,  Tomáš Pekhart,                     FW,     22/2  , b. 1989,  Legia Warsaw (POL)
+

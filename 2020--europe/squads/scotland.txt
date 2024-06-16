@@ -1,0 +1,34 @@
+==========================
+=  Scotland - Euro 2021
+
+
+  1,  David Marshall,                    GK,     44/0  , b. 1985,  Derby County F.C. (ENG)
+ 12,  Craig Gordon,                      GK,     57/0  , b. 1982,  Heart of Midlothian F.C. (SCO)
+ 21,  Jon McLaughlin,                    GK,      2/0  , b. 1987,  Rangers F.C. (SCO)
+
+  2,  Stephen O'Donnell,                 DF,     19/0  , b. 1992,  Motherwell F.C. (SCO)
+  3,  Andrew Robertson,                  DF,     45/3  , b. 1994,  Liverpool F.C. (ENG)
+  5,  Grant Hanley,                      DF,     33/2  , b. 1991,  Norwich City F.C. (ENG)
+  6,  Kieran Tierney,                    DF,     21/0  , b. 1997,  Arsenal F.C. (ENG)
+ 13,  Greg Taylor,                       DF,      5/0  , b. 1997,  Celtic F.C. (SCO)
+ 15,  Declan Gallagher,                  DF,      9/0  , b. 1991,  Motherwell F.C. (SCO)
+ 16,  Liam Cooper,                       DF,      6/0  , b. 1991,  Leeds United F.C. (ENG)
+ 22,  Nathan Patterson,                  DF,      1/0  , b. 2001,  Rangers F.C. (SCO)
+ 24,  Jack Hendry,                       DF,      6/1  , b. 1995,  K.V. Oostende (BEL)
+ 26,  Scott McKenna,                     DF,     21/0  , b. 1996,  Nottingham Forest F.C. (ENG)
+
+  4,  Scott McTominay,                   MF,     23/0  , b. 1996,  Manchester United F.C. (ENG)
+  7,  John McGinn,                       MF,     33/10 , b. 1994,  Aston Villa F.C. (ENG)
+  8,  Callum McGregor,                   MF,     31/0  , b. 1993,  Celtic F.C. (SCO)
+ 11,  Ryan Christie,                     MF,     19/4  , b. 1995,  Celtic F.C. (SCO)
+ 14,  John Fleck,                        MF,      5/0  , b. 1991,  Sheffield United F.C. (ENG)
+ 17,  Stuart Armstrong,                  MF,     25/2  , b. 1992,  Southampton F.C. (ENG)
+ 18,  David Turnbull,                    MF,      1/0  , b. 1999,  Celtic F.C. (SCO)
+ 20,  Ryan Fraser,                       MF,     18/4  , b. 1994,  Newcastle United F.C. (ENG)
+ 23,  Billy Gilmour,                     MF,      2/0  , b. 2001,  Chelsea F.C. (ENG)
+ 25,  James Forrest,                     MF,     37/5  , b. 1991,  Celtic F.C. (SCO)
+
+  9,  Lyndon Dykes,                      FW,     12/2  , b. 1995,  Queens Park Rangers F.C. (ENG)
+ 10,  Ché Adams,                         FW,      4/2  , b. 1996,  Southampton F.C. (ENG)
+ 19,  Kevin Nisbet,                      FW,      3/1  , b. 1997,  Hibernian F.C. (SCO)
+

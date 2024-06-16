@@ -1,0 +1,34 @@
+==========================
+=  Sweden - Euro 2021
+
+
+  1,  Robin Olsen,                       GK,     44/0  , b. 1990,  Everton F.C. (ENG)
+ 12,  Karl-Johan Johnsson,               GK,      9/0  , b. 1990,  F.C. Copenhagen (DEN)
+ 23,  Kristoffer Nordfeldt,              GK,     14/0  , b. 1989,  Gençlerbirliği S.K. (TUR)
+
+  2,  Mikael Lustig,                     DF,     90/6  , b. 1986,  AIK Fotboll (SWE)
+  3,  Victor Lindelöf,                   DF,     41/3  , b. 1994,  Manchester United F.C. (ENG)
+  4,  Andreas Granqvist,                 DF,     88/9  , b. 1985,  Helsingborgs IF (SWE)
+  5,  Pierre Bengtsson,                  DF,     38/0  , b. 1988,  Vejle Boldklub (DEN)
+  6,  Ludwig Augustinsson,               DF,     32/2  , b. 1994,  SV Werder Bremen (GER)
+ 14,  Filip Helander,                    DF,     15/0  , b. 1993,  Rangers F.C. (SCO)
+ 16,  Emil Krafth,                       DF,     28/0  , b. 1994,  Newcastle United F.C. (ENG)
+ 18,  Pontus Jansson,                    DF,     27/0  , b. 1991,  Brentford F.C. (ENG)
+ 24,  Marcus Danielson,                  DF,      9/3  , b. 1989,  Dalian Professional F.C. (CHN)
+
+  7,  Sebastian Larsson,                 MF,    129/10 , b. 1985,  AIK Fotboll (SWE)
+  8,  Albin Ekdal,                       MF,     57/0  , b. 1989,  U.C. Sampdoria (ITA)
+ 10,  Emil Forsberg,                     MF,     58/9  , b. 1991,  RB Leipzig (GER)
+ 13,  Gustav Svensson,                   MF,     31/0  , b. 1987,  Guangzhou City F.C. (CHN)
+ 15,  Ken Sema,                          MF,     12/0  , b. 1993,  Watford F.C. (ENG)
+ 17,  Viktor Claesson,                   MF,     46/9  , b. 1992,  FC Krasnodar (RUS)
+ 19,  Mattias Svanberg,                  MF,      9/1  , b. 1999,  Bologna F.C. 1909 (ITA)
+ 20,  Kristoffer Olsson,                 MF,     25/0  , b. 1995,  FC Krasnodar (RUS)
+ 21,  Dejan Kulusevski,                  MF,     13/1  , b. 2000,  Juventus FC (ITA)
+ 22,  Robin Quaison,                     MF,     26/9  , b. 1993,  1. FSV Mainz 05 (GER)
+ 26,  Jens Cajuste,                      MF,      4/0  , b. 1999,  FC Midtjylland (DEN)
+
+  9,  Marcus Berg,                       FW,     86/24 , b. 1986,  FC Krasnodar (RUS)
+ 11,  Alexander Isak,                    FW,     22/6  , b. 1999,  Real Sociedad (ESP)
+ 25,  Jordan Larsson,                    FW,      6/1  , b. 1997,  FC Spartak Moscow (RUS)
+

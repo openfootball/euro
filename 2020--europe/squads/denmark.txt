@@ -1,0 +1,34 @@
+==========================
+=  Denmark - Euro 2021
+
+
+  1,  Kasper Schmeichel,                 GK,     65/0  , b. 1986,  Leicester City F.C. (ENG)
+ 16,  Jonas Lössl,                       GK,      1/0  , b. 1989,  FC Midtjylland (DEN)
+ 22,  Frederik Rønnow,                   GK,      8/0  , b. 1992,  FC Schalke 04 (GER)
+
+  2,  Joachim Andersen,                  DF,      5/0  , b. 1996,  Fulham F.C. (ENG)
+  3,  Jannik Vestergaard,                DF,     22/1  , b. 1992,  Southampton F.C. (ENG)
+  4,  Simon Kjær,                        DF,    107/3  , b. 1989,  A.C. Milan (ITA)
+  5,  Joakim Mæhle,                      DF,     10/2  , b. 1997,  Atalanta B.C. (ITA)
+  6,  Andreas Christensen,               DF,     41/1  , b. 1996,  Chelsea F.C. (ENG)
+ 13,  Mathias Jørgensen,                 DF,     35/2  , b. 1990,  F.C. Copenhagen (DEN)
+ 17,  Jens Stryger Larsen,               DF,     36/2  , b. 1991,  Udinese Calcio (ITA)
+ 26,  Nicolai Boilesen,                  DF,     20/1  , b. 1992,  F.C. Copenhagen (DEN)
+
+  7,  Robert Skov,                       MF,     10/5  , b. 1996,  TSG 1899 Hoffenheim (GER)
+  8,  Thomas Delaney,                    MF,     54/5  , b. 1991,  Borussia Dortmund (GER)
+ 10,  Christian Eriksen,                 MF,    108/36 , b. 1992,  Inter Milan (ITA)
+ 15,  Christian Nørgaard,                MF,      4/0  , b. 1994,  Brentford F.C. (ENG)
+ 18,  Daniel Wass,                       MF,     30/0  , b. 1989,  Valencia CF (ESP)
+ 23,  Pierre-Emile Højbjerg,             MF,     41/4  , b. 1995,  Tottenham Hotspur F.C. (ENG)
+ 24,  Mathias Jensen,                    MF,      6/1  , b. 1996,  Brentford F.C. (ENG)
+ 25,  Anders Christiansen,               MF,      4/0  , b. 1990,  Malmö FF (SWE)
+
+  9,  Martin Braithwaite,                FW,     50/9  , b. 1991,  FC Barcelona (ESP)
+ 11,  Andreas Skov Olsen,                FW,      6/3  , b. 1999,  Bologna F.C. 1909 (ITA)
+ 12,  Kasper Dolberg,                    FW,     26/7  , b. 1997,  OGC Nice (FRA)
+ 14,  Mikkel Damsgaard,                  FW,      3/2  , b. 2000,  U.C. Sampdoria (ITA)
+ 19,  Jonas Wind,                        FW,      7/3  , b. 1999,  F.C. Copenhagen (DEN)
+ 20,  Yussuf Poulsen,                    FW,     54/8  , b. 1994,  RB Leipzig (GER)
+ 21,  Andreas Cornelius,                 FW,     28/6  , b. 1993,  Parma Calcio 1913 (ITA)
+

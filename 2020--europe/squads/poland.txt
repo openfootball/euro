@@ -1,0 +1,33 @@
+==========================
+=  Poland - Euro 2021
+
+
+  1,  Wojciech Szczęsny,                 GK,     53/0  , b. 1990,  Juventus FC (ITA)
+ 12,  Łukasz Skorupski,                  GK,      4/0  , b. 1991,  Bologna F.C. 1909 (ITA)
+ 22,  Łukasz Fabiański,                  GK,     56/0  , b. 1985,  West Ham United F.C. (ENG)
+
+  2,  Kamil Piątkowski,                  DF,      2/0  , b. 2000,  Raków Częstochowa (POL)
+  4,  Tomasz Kędziora,                   DF,     23/0  , b. 1994,  FC Dynamo Kyiv (UKR)
+  5,  Jan Bednarek,                      DF,     30/1  , b. 1996,  Southampton F.C. (ENG)
+ 13,  Maciej Rybus,                      DF,     62/2  , b. 1989,  FC Lokomotiv Moscow (RUS)
+ 15,  Kamil Glik,                        DF,     83/6  , b. 1988,  Benevento Calcio (ITA)
+ 18,  Bartosz Bereszyński,               DF,     32/0  , b. 1992,  U.C. Sampdoria (ITA)
+ 25,  Michał Helik,                      DF,      3/0  , b. 1995,  Barnsley F.C. (ENG)
+ 26,  Tymoteusz Puchacz,                 DF,      2/0  , b. 1999,  Lech Poznań (POL)
+
+  3,  Paweł Dawidowicz,                  MF,      3/0  , b. 1995,  Hellas Verona F.C. (ITA)
+  6,  Kacper Kozłowski,                  MF,      3/0  , b. 2003,  Pogoń Szczecin (POL)
+  8,  Karol Linetty,                     MF,     32/2  , b. 1995,  Torino F.C. (ITA)
+ 10,  Grzegorz Krychowiak,               MF,     80/4  , b. 1990,  FC Lokomotiv Moscow (RUS)
+ 14,  Mateusz Klich,                     MF,     31/2  , b. 1990,  Leeds United F.C. (ENG)
+ 16,  Jakub Moder,                       MF,     10/2  , b. 1999,  Brighton & Hove Albion F.C. (ENG)
+ 17,  Przemysław Płacheta,               MF,      4/0  , b. 1998,  Norwich City F.C. (ENG)
+ 19,  Przemysław Frankowski,             MF,     12/1  , b. 1995,  Chicago Fire FC (USA)
+ 20,  Piotr Zieliński,                   MF,     60/7  , b. 1994,  S.S.C. Napoli (ITA)
+ 21,  Kamil Jóźwiak,                     MF,     14/2  , b. 1998,  Derby County F.C. (ENG)
+
+  9,  Robert Lewandowski,                FW,    119/66 , b. 1988,  FC Bayern Munich (GER)
+ 11,  Karol Świderski,                   FW,      4/2  , b. 1997,  PAOK FC (GRE)
+ 23,  Dawid Kownacki,                    FW,      7/1  , b. 1997,  Fortuna Düsseldorf (GER)
+ 24,  Jakub Świerczok,                   FW,      5/1  , b. 1992,  Piast Gliwice (POL)
+

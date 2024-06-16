@@ -1,0 +1,34 @@
+==========================
+=  Slovakia - Euro 2021
+
+
+  1,  Martin Dúbravka,                   GK,     25/0  , b. 1989,  Newcastle United F.C. (ENG)
+ 12,  Dušan Kuciak,                      GK,     14/0  , b. 1985,  Lechia Gdańsk (POL)
+ 23,  Marek Rodák,                       GK,      6/0  , b. 1996,  Fulham F.C. (ENG)
+
+  2,  Peter Pekarík,                     DF,    101/2  , b. 1986,  Hertha BSC (GER)
+  3,  Denis Vavro,                       DF,     10/0  , b. 1996,  SD Huesca (ESP)
+  4,  Martin Valjent,                    DF,      9/0  , b. 1995,  RCD Mallorca (ESP)
+  5,  Ľubomír Šatka,                     DF,     14/0  , b. 1995,  Lech Poznań (POL)
+ 14,  Milan Škriniar,                    DF,     40/2  , b. 1995,  Inter Milan (ITA)
+ 15,  Tomáš Hubočan,                     DF,     70/0  , b. 1985,  AC Omonia (CYP)
+ 16,  Dávid Hancko,                      DF,     14/1  , b. 1997,  AC Sparta Prague (CZE)
+ 24,  Martin Koscelník,                  DF,      5/0  , b. 1995,  FC Slovan Liberec (CZE)
+
+  6,  Ján Greguš,                        MF,     35/4  , b. 1991,  Minnesota United FC (USA)
+  7,  Vladimír Weiss,                    MF,     69/7  , b. 1989,  ŠK Slovan Bratislava (SVK)
+  8,  Ondrej Duda,                       MF,     45/5  , b. 1994,  1. FC Köln (GER)
+ 10,  Tomáš Suslov,                      MF,      3/0  , b. 2002,  FC Groningen (NED)
+ 11,  László Bénes,                      MF,      5/1  , b. 1997,  FC Augsburg (GER)
+ 13,  Patrik Hrošovský,                  MF,     36/0  , b. 1992,  K.R.C. Genk (BEL)
+ 17,  Marek Hamšík,                      MF,    126/26 , b. 1987,  IFK Göteborg (SWE)
+ 18,  Lukáš Haraslín,                    MF,     15/1  , b. 1996,  U.S. Sassuolo Calcio (ITA)
+ 19,  Juraj Kucka,                       MF,     83/10 , b. 1987,  Parma Calcio 1913 (ITA)
+ 22,  Stanislav Lobotka,                 MF,     28/3  , b. 1994,  S.S.C. Napoli (ITA)
+ 25,  Jakub Hromada,                     MF,      2/0  , b. 1996,  SK Slavia Prague (CZE)
+
+  9,  Róbert Boženík,                    FW,     16/4  , b. 1999,  Feyenoord (NED)
+ 20,  Róbert Mak,                        FW,     66/14 , b. 1991,  Ferencvárosi TC (HUN)
+ 21,  Michal Ďuriš,                      FW,     56/7  , b. 1988,  AC Omonia (CYP)
+ 26,  Ivan Schranz,                      FW,      8/1  , b. 1993,  FK Jablonec (CZE)
+

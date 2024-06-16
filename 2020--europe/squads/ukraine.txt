@@ -1,0 +1,34 @@
+==========================
+=  Ukraine - Euro 2021
+
+
+  1,  Heorhiy Bushchan,                  GK,      6/0  , b. 1994,  FC Dynamo Kyiv (UKR)
+ 12,  Andriy Pyatov,                     GK,     97/0  , b. 1984,  FC Shakhtar Donetsk (UKR)
+ 23,  Anatoliy Trubin,                   GK,      2/0  , b. 2001,  FC Shakhtar Donetsk (UKR)
+
+  2,  Eduard Sobol,                      DF,     20/0  , b. 1995,  Club Brugge KV (BEL)
+  4,  Serhiy Kryvtsov,                   DF,     23/0  , b. 1991,  FC Shakhtar Donetsk (UKR)
+ 13,  Illya Zabarnyi,                    DF,      8/0  , b. 2002,  FC Dynamo Kyiv (UKR)
+ 16,  Vitaliy Mykolenko,                 DF,     15/0  , b. 1999,  FC Dynamo Kyiv (UKR)
+ 17,  Oleksandr Zinchenko,               DF,     39/6  , b. 1996,  Manchester City F.C. (ENG)
+ 21,  Oleksandr Karavayev,               DF,     33/1  , b. 1992,  FC Dynamo Kyiv (UKR)
+ 22,  Mykola Matviyenko,                 DF,     36/0  , b. 1996,  FC Shakhtar Donetsk (UKR)
+ 24,  Oleksandr Tymchyk,                 DF,      4/0  , b. 1997,  FC Dynamo Kyiv (UKR)
+ 25,  Denys Popov,                       DF,      1/0  , b. 1999,  FC Dynamo Kyiv (UKR)
+
+  3,  Heorhiy Sudakov,                   MF,      3/0  , b. 2002,  FC Shakhtar Donetsk (UKR)
+  5,  Serhiy Sydorchuk,                  MF,     36/3  , b. 1991,  FC Dynamo Kyiv (UKR)
+  6,  Taras Stepanenko,                  MF,     62/3  , b. 1989,  FC Shakhtar Donetsk (UKR)
+  8,  Ruslan Malinovskyi,                MF,     37/6  , b. 1993,  Atalanta B.C. (ITA)
+ 10,  Mykola Shaparenko,                 MF,     12/0  , b. 1998,  FC Dynamo Kyiv (UKR)
+ 11,  Marlos,                            MF,     25/1  , b. 1988,  FC Shakhtar Donetsk (UKR)
+ 14,  Yevhenii Makarenko,                MF,     12/0  , b. 1991,  K.V. Kortrijk (BEL)
+ 15,  Viktor Tsyhankov,                  MF,     26/6  , b. 1997,  FC Dynamo Kyiv (UKR)
+ 18,  Roman Bezus,                       MF,     23/5  , b. 1990,  K.A.A. Gent (BEL)
+
+  7,  Andriy Yarmolenko,                 FW,     94/40 , b. 1989,  West Ham United F.C. (ENG)
+  9,  Roman Yaremchuk,                   FW,     24/8  , b. 1995,  K.A.A. Gent (BEL)
+ 19,  Artem Besedin,                     FW,     16/2  , b. 1996,  FC Dynamo Kyiv (UKR)
+ 20,  Oleksandr Zubkov,                  FW,     11/1  , b. 1996,  Ferencvárosi TC (HUN)
+ 26,  Artem Dovbyk,                      FW,      2/0  , b. 1997,  SC Dnipro-1 (UKR)
+

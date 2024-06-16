@@ -1,0 +1,34 @@
+==========================
+=  Wales - Euro 2021
+
+
+  1,  Wayne Hennessey,                   GK,     96/0  , b. 1987,  Crystal Palace F.C. (ENG)
+ 12,  Danny Ward,                        GK,     13/0  , b. 1993,  Leicester City F.C. (ENG)
+ 21,  Adam Davies,                       GK,      2/0  , b. 1992,  Stoke City F.C. (ENG)
+
+  2,  Chris Gunter,                      DF,    101/0  , b. 1989,  Charlton Athletic F.C. (ENG)
+  3,  Neco Williams,                     DF,     11/1  , b. 2001,  Liverpool F.C. (ENG)
+  4,  Ben Davies,                        DF,     60/0  , b. 1993,  Tottenham Hotspur F.C. (ENG)
+  5,  Tom Lockyer,                       DF,     13/0  , b. 1994,  Luton Town F.C. (ENG)
+  6,  Joe Rodon,                         DF,     14/0  , b. 1997,  Tottenham Hotspur F.C. (ENG)
+ 14,  Connor Roberts,                    DF,     26/1  , b. 1995,  Swansea City A.F.C. (WAL)
+ 15,  Ethan Ampadu,                      DF,     23/0  , b. 2000,  Sheffield United F.C. (ENG)
+ 17,  Rhys Norrington-Davies,            DF,      5/0  , b. 1999,  Stoke City F.C. (ENG)
+ 22,  Chris Mepham,                      DF,     18/0  , b. 1997,  AFC Bournemouth (ENG)
+ 24,  Ben Cabango,                       DF,      3/0  , b. 2000,  Swansea City A.F.C. (WAL)
+
+  7,  Joe Allen,                         MF,     59/2  , b. 1990,  Stoke City F.C. (ENG)
+  8,  Harry Wilson,                      MF,     26/5  , b. 1997,  Cardiff City F.C. (WAL)
+ 10,  Aaron Ramsey,                      MF,     63/16 , b. 1990,  Juventus FC (ITA)
+ 16,  Joe Morrell,                       MF,     15/0  , b. 1997,  Luton Town F.C. (ENG)
+ 18,  Jonny Williams,                    MF,     28/1  , b. 1993,  Cardiff City F.C. (WAL)
+ 19,  David Brooks,                      MF,     18/2  , b. 1997,  AFC Bournemouth (ENG)
+ 20,  Daniel James,                      MF,     20/4  , b. 1997,  Manchester United F.C. (ENG)
+ 23,  Dylan Levitt,                      MF,      8/0  , b. 2000,  NK Istra 1961 (CRO)
+ 25,  Rubin Colwill,                     MF,      1/0  , b. 2002,  Cardiff City F.C. (WAL)
+ 26,  Matthew Smith,                     MF,     14/0  , b. 1999,  Doncaster Rovers F.C. (ENG)
+
+  9,  Tyler Roberts,                     FW,     14/0  , b. 1999,  Leeds United F.C. (ENG)
+ 11,  Gareth Bale,                       FW,     92/33 , b. 1989,  Tottenham Hotspur F.C. (ENG)
+ 13,  Kieffer Moore,                     FW,     17/5  , b. 1992,  Cardiff City F.C. (WAL)
+

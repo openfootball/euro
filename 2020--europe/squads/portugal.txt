@@ -1,0 +1,34 @@
+==========================
+=  Portugal - Euro 2021
+
+
+  1,  Rui Patrício,                      GK,     93/0  , b. 1988,  Wolverhampton Wanderers F.C. (ENG)
+ 12,  Anthony Lopes,                     GK,     13/0  , b. 1990,  Olympique Lyonnais (FRA)
+ 22,  Rui Silva,                         GK,      1/0  , b. 1994,  Granada CF (ESP)
+
+  2,  Nélson Semedo,                     DF,     18/0  , b. 1993,  Wolverhampton Wanderers F.C. (ENG)
+  3,  Pepe,                              DF,    115/7  , b. 1983,  FC Porto (POR)
+  4,  Rúben Dias,                        DF,     28/2  , b. 1997,  Manchester City F.C. (ENG)
+  5,  Raphaël Guerreiro,                 DF,     46/2  , b. 1993,  Borussia Dortmund (GER)
+  6,  José Fonte,                        DF,     46/0  , b. 1983,  Lille OSC (FRA)
+ 20,  Diogo Dalot,                       DF,      0/0  , b. 1999,  A.C. Milan (ITA)
+ 25,  Nuno Mendes,                       DF,      5/0  , b. 2002,  Sporting CP (POR)
+
+  8,  João Moutinho,                     MF,    131/7  , b. 1986,  Wolverhampton Wanderers F.C. (ENG)
+ 10,  Bernardo Silva,                    MF,     55/7  , b. 1994,  Manchester City F.C. (ENG)
+ 11,  Bruno Fernandes,                   MF,     29/4  , b. 1994,  Manchester United F.C. (ENG)
+ 13,  Danilo Pereira,                    MF,     47/2  , b. 1991,  Paris Saint-Germain F.C. (FRA)
+ 14,  William Carvalho,                  MF,     66/4  , b. 1992,  Real Betis (ESP)
+ 16,  Renato Sanches,                    MF,     26/2  , b. 1997,  Lille OSC (FRA)
+ 17,  Gonçalo Guedes,                    MF,     23/6  , b. 1996,  Valencia CF (ESP)
+ 18,  Rúben Neves,                       MF,     21/0  , b. 1997,  Wolverhampton Wanderers F.C. (ENG)
+ 19,  Pedro Gonçalves,                   MF,      2/0  , b. 1998,  Sporting CP (POR)
+ 24,  Sérgio Oliveira,                   MF,     11/0  , b. 1992,  FC Porto (POR)
+ 26,  João Palhinha,                     MF,      4/1  , b. 1995,  Sporting CP (POR)
+
+  7,  Cristiano Ronaldo,                 FW,    175/104, b. 1985,  Juventus FC (ITA)
+  9,  André Silva,                       FW,     39/16 , b. 1995,  Eintracht Frankfurt (GER)
+ 15,  Rafa Silva,                        FW,     21/0  , b. 1993,  S.L. Benfica (POR)
+ 21,  Diogo Jota,                        FW,     14/6  , b. 1996,  Liverpool F.C. (ENG)
+ 23,  João Félix,                        FW,     17/3  , b. 1999,  Atlético Madrid (ESP)
+

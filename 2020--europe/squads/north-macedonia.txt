@@ -1,0 +1,34 @@
+==========================
+=  North Macedonia - Euro 2021
+
+
+  1,  Stole Dimitrievski,                GK,     42/0  , b. 1993,  Rayo Vallecano (ESP)
+ 12,  Risto Jankov,                      GK,      0/0  , b. 1998,  FK Rabotnički (MKD)
+ 22,  Damjan Shishkovski,                GK,      6/0  , b. 1995,  Doxa Katokopias FC (CYP)
+
+  2,  Egzon Bejtulai,                    DF,     21/0  , b. 1994,  KF Shkëndija (MKD)
+  3,  Gjoko Zajkov,                      DF,     17/1  , b. 1995,  R. Charleroi S.C. (BEL)
+  4,  Kire Ristevski,                    DF,     47/0  , b. 1990,  Újpest FC (HUN)
+  6,  Visar Musliu,                      DF,     31/1  , b. 1994,  Fehérvár FC (HUN)
+ 13,  Stefan Ristovski,                  DF,     65/2  , b. 1992,  GNK Dinamo Zagreb (CRO)
+ 14,  Darko Velkovski,                   DF,     27/1  , b. 1995,  HNK Rijeka (CRO)
+
+  5,  Arijan Ademi,                      MF,     21/4  , b. 1991,  GNK Dinamo Zagreb (CRO)
+  8,  Ezgjan Alioski,                    MF,     44/8  , b. 1992,  Leeds United F.C. (ENG)
+ 11,  Ferhan Hasani,                     MF,     41/2  , b. 1990,  FK Partizani Tirana (ALB)
+ 15,  Tihomir Kostadinov,                MF,     10/0  , b. 1996,  MFK Ružomberok (SVK)
+ 16,  Boban Nikolov,                     MF,     34/2  , b. 1994,  U.S. Lecce (ITA)
+ 17,  Enis Bardhi,                       MF,     34/6  , b. 1995,  Levante UD (ESP)
+ 20,  Stefan Spirovski,                  MF,     40/1  , b. 1990,  AEK Larnaca FC (CYP)
+ 21,  Eljif Elmas,                       MF,     27/7  , b. 1999,  S.S.C. Napoli (ITA)
+ 25,  Darko Churlinov,                   MF,      3/1  , b. 2000,  VfB Stuttgart (GER)
+ 26,  Milan Ristovski,                   MF,      1/1  , b. 1998,  FC Spartak Trnava (SVK)
+
+  7,  Ivan Trichkovski,                  FW,     64/7  , b. 1987,  AEK Larnaca FC (CYP)
+  9,  Aleksandar Trajkovski,             FW,     65/18 , b. 1992,  RCD Mallorca (ESP)
+ 10,  Goran Pandev,                      FW,    119/37 , b. 1983,  Genoa C.F.C. (ITA)
+ 18,  Vlatko Stojanovski,                FW,      8/2  , b. 1997,  FC Chambly (FRA)
+ 19,  Krste Velkoski,                    FW,     16/0  , b. 1988,  FK Sarajevo (BIH)
+ 23,  Marjan Radeski,                    FW,     17/1  , b. 1995,  Akademija Pandev (MKD)
+ 24,  Daniel Avramovski,                 FW,      6/0  , b. 1995,  Kayserispor (TUR)
+

@@ -1,0 +1,34 @@
+==========================
+=  Hungary - Euro 2021
+
+
+  1,  Péter Gulácsi,                     GK,     39/0  , b. 1990,  RB Leipzig (GER)
+ 12,  Dénes Dibusz,                      GK,     15/0  , b. 1990,  Ferencvárosi TC (HUN)
+ 22,  Ádám Bogdán,                       GK,     21/0  , b. 1987,  Ferencvárosi TC (HUN)
+
+  2,  Ádám Lang,                         DF,     39/1  , b. 1993,  AC Omonia (CYP)
+  3,  Ákos Kecskés,                      DF,      2/0  , b. 1996,  FC Lugano (SUI)
+  4,  Attila Szalai,                     DF,     13/0  , b. 1998,  Fenerbahçe S.K. (TUR)
+  5,  Attila Fiola,                      DF,     35/1  , b. 1990,  Fehérvár FC (HUN)
+  6,  Willi Orbán,                       DF,     22/5  , b. 1992,  RB Leipzig (GER)
+  7,  Loïc Négo,                         DF,     11/2  , b. 1991,  Fehérvár FC (HUN)
+ 14,  Gergő Lovrencsics,                 DF,     41/1  , b. 1988,  Ferencvárosi TC (HUN)
+ 21,  Endre Botka,                       DF,     10/0  , b. 1994,  Ferencvárosi TC (HUN)
+ 26,  Bendegúz Bolla,                    DF,      2/0  , b. 1999,  Fehérvár FC (HUN)
+
+  8,  Ádám Nagy,                         MF,     48/1  , b. 1995,  Bristol City F.C. (ENG)
+ 10,  Tamás Cseri,                       MF,      3/0  , b. 1988,  Mezőkövesdi SE (HUN)
+ 13,  András Schäfer,                    MF,      6/1  , b. 1999,  FC DAC 1904 Dunajská Streda (SVK)
+ 15,  László Kleinheisler,               MF,     34/3  , b. 1994,  NK Osijek (CRO)
+ 16,  Dániel Gazdag,                     MF,      6/1  , b. 1996,  Philadelphia Union (USA)
+ 17,  Roland Varga,                      MF,     22/3  , b. 1990,  MTK Budapest FC (HUN)
+ 18,  Dávid Sigér,                       MF,     13/1  , b. 1990,  Ferencvárosi TC (HUN)
+ 19,  Kevin Varga,                       MF,      8/1  , b. 1996,  Kasımpaşa S.K. (TUR)
+
+  9,  Ádám Szalai,                       FW,     71/23 , b. 1987,  1. FSV Mainz 05 (GER)
+ 11,  Filip Holender,                    FW,     15/1  , b. 1994,  FK Partizan (SRB)
+ 20,  Roland Sallai,                     FW,     22/4  , b. 1997,  SC Freiburg (GER)
+ 23,  Nemanja Nikolić,                   FW,     38/8  , b. 1987,  Fehérvár FC (HUN)
+ 24,  Szabolcs Schön,                    FW,      1/0  , b. 2000,  FC Dallas (USA)
+ 25,  János Hahn,                        FW,      2/0  , b. 1995,  Paksi FC (HUN)
+

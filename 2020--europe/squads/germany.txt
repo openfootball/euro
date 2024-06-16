@@ -1,0 +1,34 @@
+==========================
+=  Germany - Euro 2021
+
+
+  1,  Manuel Neuer,                      GK,    100/0  , b. 1986,  FC Bayern Munich (GER)
+ 12,  Bernd Leno,                        GK,      8/0  , b. 1992,  Arsenal F.C. (ENG)
+ 22,  Kevin Trapp,                       GK,      5/0  , b. 1990,  Eintracht Frankfurt (GER)
+
+  2,  Antonio Rüdiger,                   DF,     41/1  , b. 1993,  Chelsea F.C. (ENG)
+  3,  Marcel Halstenberg,                DF,      8/1  , b. 1991,  RB Leipzig (GER)
+  4,  Matthias Ginter,                   DF,     40/2  , b. 1994,  Borussia Mönchengladbach (GER)
+  5,  Mats Hummels,                      DF,     72/5  , b. 1988,  Borussia Dortmund (GER)
+ 15,  Niklas Süle,                       DF,     31/1  , b. 1995,  FC Bayern Munich (GER)
+ 16,  Lukas Klostermann,                 DF,     13/0  , b. 1996,  RB Leipzig (GER)
+ 20,  Robin Gosens,                      DF,      7/1  , b. 1994,  Atalanta B.C. (ITA)
+ 23,  Emre Can,                          DF,     34/1  , b. 1994,  Borussia Dortmund (GER)
+ 24,  Robin Koch,                        DF,      8/0  , b. 1996,  Leeds United F.C. (ENG)
+ 26,  Christian Günter,                  DF,      3/0  , b. 1993,  SC Freiburg (GER)
+
+  6,  Joshua Kimmich,                    MF,     55/3  , b. 1995,  FC Bayern Munich (GER)
+  8,  Toni Kroos,                        MF,    102/17 , b. 1990,  Real Madrid CF (ESP)
+ 10,  Serge Gnabry,                      MF,     22/16 , b. 1995,  FC Bayern Munich (GER)
+ 13,  Jonas Hofmann,                     MF,      3/0  , b. 1992,  Borussia Mönchengladbach (GER)
+ 14,  Jamal Musiala,                     MF,      3/0  , b. 2003,  FC Bayern Munich (GER)
+ 17,  Florian Neuhaus,                   MF,      6/2  , b. 1997,  Borussia Mönchengladbach (GER)
+ 18,  Leon Goretzka,                     MF,     32/13 , b. 1995,  FC Bayern Munich (GER)
+ 19,  Leroy Sané,                        MF,     30/7  , b. 1996,  FC Bayern Munich (GER)
+ 21,  İlkay Gündoğan,                    MF,     46/11 , b. 1990,  Manchester City F.C. (ENG)
+
+  7,  Kai Havertz,                       FW,     14/3  , b. 1999,  Chelsea F.C. (ENG)
+  9,  Kevin Volland,                     FW,     11/1  , b. 1992,  AS Monaco FC (MCO)
+ 11,  Timo Werner,                       FW,     39/16 , b. 1996,  Chelsea F.C. (ENG)
+ 25,  Thomas Müller,                     FW,    102/39 , b. 1989,  FC Bayern Munich (GER)
+

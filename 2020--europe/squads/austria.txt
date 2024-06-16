@@ -1,0 +1,34 @@
+==========================
+=  Austria - Euro 2021
+
+
+  1,  Alexander Schlager,                GK,      6/0  , b. 1996,  LASK (AUT)
+ 12,  Pavao Pervan,                      GK,      7/0  , b. 1987,  VfL Wolfsburg (GER)
+ 13,  Daniel Bachmann,                   GK,      2/0  , b. 1994,  Watford F.C. (ENG)
+
+  2,  Andreas Ulmer,                     DF,     24/0  , b. 1985,  FC Red Bull Salzburg (AUT)
+  3,  Aleksandar Dragović,               DF,     90/2  , b. 1991,  Bayer 04 Leverkusen (GER)
+  4,  Martin Hinteregger,                DF,     55/4  , b. 1992,  Eintracht Frankfurt (GER)
+  5,  Stefan Posch,                      DF,     11/1  , b. 1997,  TSG 1899 Hoffenheim (GER)
+  8,  David Alaba,                       DF,     81/14 , b. 1992,  FC Bayern Munich (GER)
+ 15,  Philipp Lienhart,                  DF,      4/0  , b. 1996,  SC Freiburg (GER)
+ 21,  Stefan Lainer,                     DF,     29/1  , b. 1992,  Borussia Mönchengladbach (GER)
+ 26,  Marco Friedl,                      DF,      3/0  , b. 1998,  SV Werder Bremen (GER)
+
+  6,  Stefan Ilsanker,                   MF,     51/0  , b. 1989,  Eintracht Frankfurt (GER)
+  9,  Marcel Sabitzer,                   MF,     50/8  , b. 1994,  RB Leipzig (GER)
+ 10,  Florian Grillitsch,                MF,     23/1  , b. 1995,  TSG 1899 Hoffenheim (GER)
+ 14,  Julian Baumgartlinger,             MF,     83/1  , b. 1988,  Bayer 04 Leverkusen (GER)
+ 16,  Christopher Trimmel,               MF,     13/0  , b. 1987,  1. FC Union Berlin (GER)
+ 17,  Louis Schaub,                      MF,     21/6  , b. 1994,  FC Luzern (SUI)
+ 18,  Alessandro Schöpf,                 MF,     26/5  , b. 1994,  FC Schalke 04 (GER)
+ 19,  Christoph Baumgartner,             MF,     10/3  , b. 1999,  TSG 1899 Hoffenheim (GER)
+ 20,  Karim Onisiwo,                     MF,     11/1  , b. 1992,  1. FSV Mainz 05 (GER)
+ 22,  Valentino Lazaro,                  MF,     31/3  , b. 1996,  Borussia Mönchengladbach (GER)
+ 23,  Xaver Schlager,                    MF,     20/1  , b. 1997,  VfL Wolfsburg (GER)
+ 24,  Konrad Laimer,                     MF,      9/1  , b. 1997,  RB Leipzig (GER)
+
+  7,  Marko Arnautović,                  FW,     88/26 , b. 1989,  Shanghai Port F.C. (CHN)
+ 11,  Michael Gregoritsch,               FW,     26/4  , b. 1994,  FC Augsburg (GER)
+ 25,  Saša Kalajdžić,                    FW,      7/3  , b. 1997,  VfB Stuttgart (GER)
+

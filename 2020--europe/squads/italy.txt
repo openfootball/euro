@@ -1,0 +1,34 @@
+==========================
+=  Italy - Euro 2021
+
+
+  1,  Salvatore Sirigu,                  GK,     26/0  , b. 1987,  Torino F.C. (ITA)
+ 21,  Gianluigi Donnarumma,              GK,     26/0  , b. 1999,  A.C. Milan (ITA)
+ 26,  Alex Meret,                        GK,      2/0  , b. 1997,  S.S.C. Napoli (ITA)
+
+  2,  Giovanni Di Lorenzo,               DF,      7/0  , b. 1993,  S.S.C. Napoli (ITA)
+  3,  Giorgio Chiellini,                 DF,    107/8  , b. 1984,  Juventus FC (ITA)
+  4,  Leonardo Spinazzola,               DF,     14/0  , b. 1993,  A.S. Roma (ITA)
+ 13,  Emerson Palmieri,                  DF,     15/0  , b. 1994,  Chelsea F.C. (ENG)
+ 15,  Francesco Acerbi,                  DF,     14/1  , b. 1988,  S.S. Lazio (ITA)
+ 19,  Leonardo Bonucci,                  DF,    102/7  , b. 1987,  Juventus FC (ITA)
+ 23,  Alessandro Bastoni,                DF,      5/0  , b. 1999,  Inter Milan (ITA)
+ 24,  Alessandro Florenzi,               DF,     43/2  , b. 1991,  Paris Saint-Germain F.C. (FRA)
+ 25,  Rafael Tolói,                      DF,      3/0  , b. 1990,  Atalanta B.C. (ITA)
+
+  5,  Manuel Locatelli,                  MF,     10/1  , b. 1998,  U.S. Sassuolo Calcio (ITA)
+  6,  Marco Verratti,                    MF,     40/3  , b. 1992,  Paris Saint-Germain F.C. (FRA)
+  7,  Gaetano Castrovilli,               MF,      2/0  , b. 1997,  ACF Fiorentina (ITA)
+  8,  Jorginho,                          MF,     28/5  , b. 1991,  Chelsea F.C. (ENG)
+ 12,  Matteo Pessina,                    MF,      5/2  , b. 1997,  Atalanta B.C. (ITA)
+ 14,  Federico Chiesa,                   MF,     25/1  , b. 1997,  Juventus FC (ITA)
+ 16,  Bryan Cristante,                   MF,     11/1  , b. 1995,  A.S. Roma (ITA)
+ 18,  Nicolò Barella,                    MF,     23/5  , b. 1997,  Inter Milan (ITA)
+ 20,  Federico Bernardeschi,             MF,     30/6  , b. 1994,  Juventus FC (ITA)
+
+  9,  Andrea Belotti,                    FW,     33/12 , b. 1993,  Torino F.C. (ITA)
+ 10,  Lorenzo Insigne,                   FW,     41/8  , b. 1991,  S.S.C. Napoli (ITA)
+ 11,  Domenico Berardi,                  FW,     11/5  , b. 1994,  U.S. Sassuolo Calcio (ITA)
+ 17,  Ciro Immobile,                     FW,     46/13 , b. 1990,  S.S. Lazio (ITA)
+ 22,  Giacomo Raspadori,                 FW,      1/0  , b. 2000,  U.S. Sassuolo Calcio (ITA)
+

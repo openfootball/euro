@@ -1,0 +1,35 @@
+==========================
+=  Switzerland - Euro 2021
+
+
+  1,  Yann Sommer,                       GK,     61/0  , b. 1988,  Borussia Mönchengladbach (GER)
+ 12,  Yvon Mvogo,                        GK,      4/0  , b. 1994,  PSV Eindhoven (NED)
+ 21,  Jonas Omlin,                       GK,      2/0  , b. 1994,  Montpellier HSC (FRA)
+ 21,  Gregor Kobel,                      GK,      0/0  , b. 1997,  VfB Stuttgart (GER)
+
+  2,  Kevin Mbabu,                       DF,     12/0  , b. 1995,  VfL Wolfsburg (GER)
+  3,  Silvan Widmer,                     DF,     16/1  , b. 1993,  FC Basel (SUI)
+  4,  Nico Elvedi,                       DF,     26/1  , b. 1996,  Borussia Mönchengladbach (GER)
+  5,  Manuel Akanji,                     DF,     29/0  , b. 1995,  Borussia Dortmund (GER)
+ 13,  Ricardo Rodriguez,                 DF,     81/9  , b. 1992,  Torino F.C. (ITA)
+ 17,  Loris Benito,                      DF,     12/1  , b. 1992,  FC Girondins de Bordeaux (FRA)
+ 22,  Fabian Schär,                      DF,     60/8  , b. 1991,  Newcastle United F.C. (ENG)
+ 24,  Bećir Omeragić,                    DF,      4/0  , b. 2002,  FC Zürich (SUI)
+ 25,  Eray Cömert,                       DF,      6/0  , b. 1998,  FC Basel (SUI)
+ 26,  Jordan Lotomba,                    DF,      2/0  , b. 1998,  OGC Nice (FRA)
+
+  6,  Denis Zakaria,                     MF,     32/3  , b. 1996,  Borussia Mönchengladbach (GER)
+  8,  Remo Freuler,                      MF,     29/3  , b. 1992,  Atalanta B.C. (ITA)
+ 10,  Granit Xhaka,                      MF,     94/12 , b. 1992,  Arsenal F.C. (ENG)
+ 11,  Ruben Vargas,                      MF,     12/2  , b. 1998,  FC Augsburg (GER)
+ 14,  Steven Zuber,                      MF,     37/8  , b. 1991,  Eintracht Frankfurt (GER)
+ 15,  Djibril Sow,                       MF,     16/0  , b. 1997,  Eintracht Frankfurt (GER)
+ 16,  Christian Fassnacht,               MF,      8/3  , b. 1993,  BSC Young Boys (SUI)
+ 20,  Edimilson Fernandes,               MF,     22/2  , b. 1996,  1. FSV Mainz 05 (GER)
+ 23,  Xherdan Shaqiri,                   MF,     91/23 , b. 1991,  Liverpool F.C. (ENG)
+
+  7,  Breel Embolo,                      FW,     43/5  , b. 1997,  Borussia Mönchengladbach (GER)
+  9,  Haris Seferovic,                   FW,     74/21 , b. 1992,  S.L. Benfica (POR)
+ 18,  Admir Mehmedi,                     FW,     74/10 , b. 1991,  VfL Wolfsburg (GER)
+ 19,  Mario Gavranović,                  FW,     30/14 , b. 1989,  GNK Dinamo Zagreb (CRO)
+

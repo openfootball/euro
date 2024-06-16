@@ -1,0 +1,32 @@
+==========================
+=  Spain - Euro 2021
+
+
+  1,  David de Gea,                      GK,     45/0  , b. 1990,  Manchester United F.C. (ENG)
+ 13,  Robert Sánchez,                    GK,      0/0  , b. 1997,  Brighton & Hove Albion F.C. (ENG)
+ 23,  Unai Simón,                        GK,      7/0  , b. 1997,  Athletic Bilbao (ESP)
+
+  2,  César Azpilicueta,                 DF,     25/0  , b. 1989,  Chelsea F.C. (ENG)
+  3,  Diego Llorente,                    DF,      8/0  , b. 1993,  Leeds United F.C. (ENG)
+  4,  Pau Torres,                        DF,      8/1  , b. 1997,  Villarreal CF (ESP)
+ 12,  Eric García,                       DF,      8/0  , b. 2001,  Manchester City F.C. (ENG)
+ 14,  José Gayà,                         DF,     14/2  , b. 1995,  Valencia CF (ESP)
+ 18,  Jordi Alba,                        DF,     72/8  , b. 1989,  FC Barcelona (ESP)
+ 24,  Aymeric Laporte,                   DF,      1/0  , b. 1994,  Manchester City F.C. (ENG)
+
+  5,  Sergio Busquets,                   MF,    123/2  , b. 1988,  FC Barcelona (ESP)
+  6,  Marcos Llorente,                   MF,      5/0  , b. 1995,  Atlético Madrid (ESP)
+  8,  Koke,                              MF,     50/0  , b. 1992,  Atlético Madrid (ESP)
+ 10,  Thiago,                            MF,     42/2  , b. 1991,  Liverpool F.C. (ENG)
+ 11,  Ferran Torres,                     MF,     11/6  , b. 2000,  Manchester City F.C. (ENG)
+ 16,  Rodri,                             MF,     20/1  , b. 1996,  Manchester City F.C. (ENG)
+ 17,  Fabián Ruiz,                       MF,     12/1  , b. 1996,  S.S.C. Napoli (ITA)
+ 19,  Dani Olmo,                         MF,     11/3  , b. 1998,  RB Leipzig (GER)
+ 20,  Adama Traoré,                      MF,      5/0  , b. 1996,  Wolverhampton Wanderers F.C. (ENG)
+ 22,  Pablo Sarabia,                     MF,      4/1  , b. 1992,  Paris Saint-Germain F.C. (FRA)
+
+  7,  Álvaro Morata,                     FW,     40/19 , b. 1992,  Juventus FC (ITA)
+  9,  Gerard Moreno,                     FW,     11/5  , b. 1992,  Villarreal CF (ESP)
+ 21,  Mikel Oyarzabal,                   FW,     13/4  , b. 1997,  Real Sociedad (ESP)
+ 26,  Pedri,                             FW,      4/0  , b. 2002,  FC Barcelona (ESP)
+

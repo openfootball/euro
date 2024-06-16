@@ -1,0 +1,33 @@
+==========================
+=  Netherlands - Euro 2021
+
+
+  1,  Maarten Stekelenburg,              GK,     59/0  , b. 1982,  AFC Ajax (NED)
+ 13,  Tim Krul,                          GK,     15/0  , b. 1988,  Norwich City F.C. (ENG)
+ 23,  Marco Bizot,                       GK,      1/0  , b. 1991,  AZ Alkmaar (NED)
+
+  2,  Joël Veltman,                      DF,     27/2  , b. 1992,  Brighton & Hove Albion F.C. (ENG)
+  3,  Matthijs de Ligt,                  DF,     27/2  , b. 1999,  Juventus FC (ITA)
+  4,  Nathan Aké,                        DF,     20/2  , b. 1995,  Manchester City F.C. (ENG)
+  5,  Owen Wijndal,                      DF,      9/0  , b. 1999,  AZ Alkmaar (NED)
+  6,  Stefan de Vrij,                    DF,     45/3  , b. 1992,  Inter Milan (ITA)
+ 12,  Patrick van Aanholt,               DF,     15/0  , b. 1990,  Crystal Palace F.C. (ENG)
+ 17,  Daley Blind,                       DF,     78/2  , b. 1990,  AFC Ajax (NED)
+ 22,  Denzel Dumfries,                   DF,     19/0  , b. 1996,  PSV Eindhoven (NED)
+
+  8,  Georginio Wijnaldum,               MF,     75/22 , b. 1990,  Liverpool F.C. (ENG)
+ 11,  Quincy Promes,                     MF,     48/7  , b. 1992,  FC Spartak Moscow (RUS)
+ 14,  Davy Klaassen,                     MF,     24/5  , b. 1993,  AFC Ajax (NED)
+ 15,  Marten de Roon,                    MF,     23/0  , b. 1991,  Atalanta B.C. (ITA)
+ 16,  Ryan Gravenberch,                  MF,      5/1  , b. 2002,  AFC Ajax (NED)
+ 21,  Frenkie de Jong,                   MF,     27/1  , b. 1997,  FC Barcelona (ESP)
+ 24,  Teun Koopmeiners,                  MF,      1/0  , b. 1998,  AZ Alkmaar (NED)
+ 25,  Jurriën Timber,                    MF,      2/0  , b. 2001,  AFC Ajax (NED)
+
+  7,  Steven Berghuis,                   FW,     26/2  , b. 1991,  Feyenoord (NED)
+  9,  Luuk de Jong,                      FW,     36/8  , b. 1990,  Sevilla FC (ESP)
+ 10,  Memphis Depay,                     FW,     64/26 , b. 1994,  Olympique Lyonnais (FRA)
+ 18,  Donyell Malen,                     FW,      9/2  , b. 1999,  PSV Eindhoven (NED)
+ 19,  Wout Weghorst,                     FW,      6/1  , b. 1992,  VfL Wolfsburg (GER)
+ 26,  Cody Gakpo,                        FW,      0/0  , b. 1999,  PSV Eindhoven (NED)
+

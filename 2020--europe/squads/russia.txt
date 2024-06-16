@@ -1,0 +1,34 @@
+==========================
+=  Russia - Euro 2021
+
+
+  1,  Anton Shunin,                      GK,     12/0  , b. 1987,  FC Dynamo Moscow (RUS)
+ 12,  Yury Dyupin,                       GK,      0/0  , b. 1988,  FC Rubin Kazan (RUS)
+ 16,  Matvei Safonov,                    GK,      1/0  , b. 1999,  FC Krasnodar (RUS)
+
+  2,  Mário Fernandes,                   DF,     29/5  , b. 1990,  PFC CSKA Moscow (RUS)
+  3,  Igor Diveyev,                      DF,      4/0  , b. 1999,  PFC CSKA Moscow (RUS)
+  4,  Vyacheslav Karavayev,              DF,     13/2  , b. 1995,  FC Zenit Saint Petersburg (RUS)
+  5,  Andrei Semyonov,                   DF,     26/0  , b. 1989,  FC Akhmat Grozny (RUS)
+ 13,  Fyodor Kudryashov,                 DF,     44/1  , b. 1987,  Antalyaspor (TUR)
+ 14,  Georgi Dzhikiya,                   DF,     33/1  , b. 1993,  FC Spartak Moscow (RUS)
+ 24,  Roman Yevgenyev,                   DF,      1/0  , b. 1999,  FC Dynamo Moscow (RUS)
+
+  6,  Denis Cheryshev,                   MF,     30/12 , b. 1990,  Valencia CF (ESP)
+  7,  Magomed Ozdoyev,                   MF,     32/4  , b. 1992,  FC Zenit Saint Petersburg (RUS)
+  8,  Dmitri Barinov,                    MF,      5/0  , b. 1996,  FC Lokomotiv Moscow (RUS)
+ 11,  Roman Zobnin,                      MF,     35/0  , b. 1994,  FC Spartak Moscow (RUS)
+ 15,  Aleksei Miranchuk,                 MF,     33/5  , b. 1995,  Atalanta B.C. (ITA)
+ 17,  Aleksandr Golovin,                 MF,     38/5  , b. 1996,  AS Monaco FC (MCO)
+ 18,  Yuri Zhirkov,                      MF,    104/2  , b. 1983,  FC Zenit Saint Petersburg (RUS)
+ 19,  Rifat Zhemaletdinov,               MF,      4/0  , b. 1996,  FC Lokomotiv Moscow (RUS)
+ 20,  Aleksei Ionov,                     MF,     35/4  , b. 1989,  FC Krasnodar (RUS)
+ 21,  Daniil Fomin,                      MF,      4/0  , b. 1997,  FC Dynamo Moscow (RUS)
+ 23,  Daler Kuzyayev,                    MF,     34/2  , b. 1993,  FC Zenit Saint Petersburg (RUS)
+ 25,  Denis Makarov,                     MF,      0/0  , b. 1998,  FC Rubin Kazan (RUS)
+ 26,  Maksim Mukhin,                     MF,      2/0  , b. 2001,  FC Lokomotiv Moscow (RUS)
+
+  9,  Aleksandr Sobolev,                 FW,      6/3  , b. 1997,  FC Spartak Moscow (RUS)
+ 10,  Anton Zabolotny,                   FW,     13/1  , b. 1991,  PFC Sochi (RUS)
+ 22,  Artem Dzyuba,                      FW,     52/29 , b. 1988,  FC Zenit Saint Petersburg (RUS)
+

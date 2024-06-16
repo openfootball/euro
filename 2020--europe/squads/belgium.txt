@@ -1,0 +1,35 @@
+==========================
+=  Belgium - Euro 2021
+
+
+  1,  Thibaut Courtois,                  GK,     84/0  , b. 1992,  Real Madrid CF (ESP)
+ 12,  Thomas Kaminski,                   GK,      0/0  , b. 1992,  Blackburn Rovers F.C. (ENG)
+ 12,  Simon Mignolet,                    GK,     31/0  , b. 1988,  Club Brugge KV (BEL)
+ 13,  Matz Sels,                         GK,      1/0  , b. 1992,  RC Strasbourg Alsace (FRA)
+
+  2,  Toby Alderweireld,                 DF,    109/5  , b. 1989,  Tottenham Hotspur F.C. (ENG)
+  3,  Thomas Vermaelen,                  DF,     80/2  , b. 1985,  Vissel Kobe (JPN)
+  4,  Dedryck Boyata,                    DF,     23/0  , b. 1990,  Hertha BSC (GER)
+  5,  Jan Vertonghen,                    DF,    127/9  , b. 1987,  S.L. Benfica (POR)
+ 15,  Thomas Meunier,                    DF,     47/7  , b. 1991,  Borussia Dortmund (GER)
+ 18,  Jason Denayer,                     DF,     25/1  , b. 1995,  Olympique Lyonnais (FRA)
+ 21,  Timothy Castagne,                  DF,     14/2  , b. 1995,  Leicester City F.C. (ENG)
+
+  6,  Axel Witsel,                       MF,    110/10 , b. 1989,  Borussia Dortmund (GER)
+  7,  Kevin De Bruyne,                   MF,     80/21 , b. 1991,  Manchester City F.C. (ENG)
+  8,  Youri Tielemans,                   MF,     39/4  , b. 1997,  Leicester City F.C. (ENG)
+ 10,  Eden Hazard,                       MF,    107/32 , b. 1991,  Real Madrid CF (ESP)
+ 11,  Yannick Carrasco,                  MF,     46/6  , b. 1993,  Atlético Madrid (ESP)
+ 16,  Thorgan Hazard,                    MF,     35/6  , b. 1993,  Borussia Dortmund (GER)
+ 17,  Hans Vanaken,                      MF,     10/2  , b. 1992,  Club Brugge KV (BEL)
+ 19,  Leander Dendoncker,                MF,     17/0  , b. 1995,  Wolverhampton Wanderers F.C. (ENG)
+ 22,  Nacer Chadli,                      MF,     64/8  , b. 1989,  İstanbul Başakşehir F.K. (TUR)
+ 26,  Dennis Praet,                      MF,     11/1  , b. 1994,  Leicester City F.C. (ENG)
+
+  9,  Romelu Lukaku,                     FW,     93/60 , b. 1993,  Inter Milan (ITA)
+ 14,  Dries Mertens,                     FW,     98/21 , b. 1987,  S.S.C. Napoli (ITA)
+ 20,  Christian Benteke,                 FW,     39/16 , b. 1990,  Crystal Palace F.C. (ENG)
+ 23,  Michy Batshuayi,                   FW,     34/22 , b. 1993,  Crystal Palace F.C. (ENG)
+ 24,  Leandro Trossard,                  FW,      7/2  , b. 1994,  Brighton & Hove Albion F.C. (ENG)
+ 25,  Jérémy Doku,                       FW,      8/2  , b. 2002,  Stade Rennais F.C. (FRA)
+
