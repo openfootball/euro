@@ -33,7 +33,7 @@ Group A:
 (14) Wed Jun/19 18:00         Germany   -   Hungary      @ Stuttgart Arena, Stuttgart
 (13) Wed Jun/19 21:00         Scotland   -   Switzerland  @ Köln Stadion, Köln
 
-(25) Sun Jun/23 21:00         Switzerland - Germany       @ Frankfurt Arena, Frankfurt
+(25) Sun Jun/23 21:00         Switzerland - Germany       @ Waldstadion, Frankfurt
 (26) Sun Jun/23 21:00         Scotland     - Hungary       @ Stuttgart Arena, Stuttgart
 
 
@@ -53,19 +53,22 @@ Group B:
 
 Group C:
 
- (6) Sun Jun/16 18:00        Slovenia   -   Denmark    @ Stuttgart Arena, Stuttgart
- (5) Sun Jun/16 21:00        Serbia   -   England    @ Arena Auf Schalke, Gelsenkirchen
+ (6) Sun Jun/16 18:00        Slovenia   1-1 (0-1)   Denmark    @ Stuttgart Arena, Stuttgart
+             [Janža 77'; Eriksen 17']
+ (5) Sun Jun/16 21:00        Serbia   0-1 (0-1)   England    @ Arena Auf Schalke, Gelsenkirchen
+               [-; Bellingham  13']
 
-(18) Thu Jun/20 15:00        Slovenia   -   Serbia     @ München Football Arena, München
+(18) Thu Jun/20 15:00        Slovenia   -   Serbia     @ München Fußball Arean, München
 (17) Thu Jun/20 18:00        Denmark   -   England    @ Waldstadion, Frankfurt
 
 (29) Tue Jun/25 21:00        England   -   Slovenia   @ Köln Stadion, Köln
-(30) Tue Jun/25 21:00        Denmark   -   Serbia     @ München Football Arena, München
+(30) Tue Jun/25 21:00        Denmark   -   Serbia     @ München Fußball Arena, München
 
 
 Group D:
 
- (7) Sun Jun/16 15:00       Poland    -   Netherlands   @ Volksparkstadion, Hamburg
+ (7) Sun Jun/16 15:00       Poland   1-2 (1-1)   Netherlands   @ Volksparkstadion, Hamburg
+              [Buksa 16'; Gakpo 29' Weghorst 83']
  (8) Mon Jun/17 21:00       Austria  -   France        @ Düsseldorf Arena, Düsseldorf
 
 (19) Fri Jun/21 18:00       Poland       -   Austria       @ Olympiastadion, Berlin
@@ -77,8 +80,8 @@ Group D:
 
 Group E:
 
-(10) Mon Jun/17 15:00      Romania     -   Ukraine       @ München Football Arena, München
- (9) Mon Jun/17 18:00      Belgium     -   Slovakia      @ Frankfurt Arena, Frankfurt
+(10) Mon Jun/17 15:00      Romania     -   Ukraine       @ München Fußball Arena, München
+ (9) Mon Jun/17 18:00      Belgium     -   Slovakia      @ Waldstadion, Frankfurt
 
 (21) Fri Jun/21 15:00      Slovakia   -  Ukraine       @ Düsseldorf Arena, Düsseldorf
 (22) Sat Jun/22 21:00      Belgium     -   Romania       @ Köln Stadion, Köln
