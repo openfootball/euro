@@ -30,13 +30,15 @@ Matchday 3 | Sun Jun/23 - Wed Jun/26
 
 Group A:
 
- (1) Fri Jun/14 21:00         Germany   -   Scotland     @ München Fußball Arena, München
- (2) Sat Jun/15 15:00         Hungary   -   Switzerland  @ Köln Stadion, Köln
+ (1) Fri Jun/14 21:00         Germany   5-1 (3-0)   Scotland     @ München Fußball Arena, München
+           [Wirtz 10' Musiala 19' Havertz 45+1' (pen.) Füllkrug 68' Can 90+3'; Rüdiger 87' (o.g.)]
+ (2) Sat Jun/15 15:00         Hungary   1-3 (0-2)   Switzerland  @ Köln Stadion, Köln
+           [Varga 66'; Duah 12' Aebischer 45' Embolo 90+3']
 
 (14) Wed Jun/19 18:00         Germany   -   Hungary      @ Stuttgart Arena, Stuttgart
 (13) Wed Jun/19 21:00         Scotland   -   Switzerland  @ Köln Stadion, Köln
 
-(25) Sun Jun/23 21:00         Switzerland - Germany       @ Frankfurt Arena, Frankfurt
+(25) Sun Jun/23 21:00         Switzerland - Germany       @ Waldstadion, Frankfurt
 (26) Sun Jun/23 21:00         Scotland     - Hungary       @ Stuttgart Arena, Stuttgart
 
 ...
