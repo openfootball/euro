@@ -48,6 +48,41 @@ Final
 ```
 
 
+```
+=  England - Euro 2024
+
+
+  1,  Jordan Pickford,                   GK,     61/0  , b. 1994,  Everton F.C. (ENG)
+ 13,  Aaron Ramsdale,                    GK,      5/0  , b. 1998,  Arsenal F.C. (ENG)
+ 23,  Dean Henderson,                    GK,      1/0  , b. 1997,  Crystal Palace F.C. (ENG)
+
+  2,  Kyle Walker,                       DF,     83/1  , b. 1990,  Manchester City F.C. (ENG)
+  3,  Luke Shaw,                         DF,     31/3  , b. 1995,  Manchester United F.C. (ENG)
+  5,  John Stones,                       DF,     72/3  , b. 1994,  Manchester City F.C. (ENG)
+  6,  Marc Guéhi,                        DF,     11/0  , b. 2000,  Crystal Palace F.C. (ENG)
+  8,  Trent Alexander-Arnold,            DF,     25/3  , b. 1998,  Liverpool F.C. (ENG)
+ 12,  Kieran Trippier,                   DF,     48/1  , b. 1990,  Newcastle United F.C. (ENG)
+ 14,  Ezri Konsa,                        DF,      4/0  , b. 1997,  Aston Villa F.C. (ENG)
+ 15,  Lewis Dunk,                        DF,      6/0  , b. 1991,  Brighton & Hove Albion F.C. (ENG)
+ 22,  Joe Gomez,                         DF,     15/0  , b. 1997,  Liverpool F.C. (ENG)
+
+  4,  Declan Rice,                       MF,     51/3  , b. 1999,  Arsenal F.C. (ENG)
+ 10,  Jude Bellingham,                   MF,     29/3  , b. 2003,  Real Madrid CF (ESP)
+ 11,  Phil Foden,                        MF,     34/4  , b. 2000,  Manchester City F.C. (ENG)
+ 16,  Conor Gallagher,                   MF,     13/0  , b. 2000,  Chelsea F.C. (ENG)
+ 24,  Cole Palmer,                       MF,      4/1  , b. 2002,  Chelsea F.C. (ENG)
+ 25,  Adam Wharton,                      MF,      1/0  , b. 2004,  Crystal Palace F.C. (ENG)
+ 26,  Kobbie Mainoo,                     MF,      3/0  , b. 2005,  Manchester United F.C. (ENG)
+
+  7,  Bukayo Saka,                       FW,     33/11 , b. 2001,  Arsenal F.C. (ENG)
+  9,  Harry Kane,                        FW,     91/63 , b. 1993,  FC Bayern Munich (GER)
+ 17,  Ivan Toney,                        FW,      3/1  , b. 1996,  Brentford F.C. (ENG)
+ 18,  Anthony Gordon,                    FW,      3/0  , b. 2001,  Newcastle United F.C. (ENG)
+ 19,  Ollie Watkins,                     FW,     12/3  , b. 1995,  Aston Villa F.C. (ENG)
+ 20,  Jarrod Bowen,                      FW,      8/0  , b. 1996,  West Ham United F.C. (ENG)
+ 21,  Eberechi Eze,                      FW,      4/0  , b. 1998,  Crystal Palace F.C. (ENG)
+```
+
 
 ## Build Your Own `euro.db` Copy
 
