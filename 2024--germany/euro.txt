@@ -56,7 +56,7 @@ Group C:
  (6) Sun Jun/16 18:00        Slovenia   1-1 (0-1)   Denmark    @ Stuttgart Arena, Stuttgart
              [Janža 77'; Eriksen 17']
  (5) Sun Jun/16 21:00        Serbia   0-1 (0-1)   England    @ Arena Auf Schalke, Gelsenkirchen
-               [-; Bellingham  13']
+               [-; Bellingham 13']
 
 (18) Thu Jun/20 15:00        Slovenia   -   Serbia     @ München Fußball Arean, München
 (17) Thu Jun/20 18:00        Denmark   -   England    @ Waldstadion, Frankfurt
