@@ -70,7 +70,7 @@ Group D:
  (7) Sun Jun/16 15:00       Poland   1-2 (1-1)   Netherlands   @ Volksparkstadion, Hamburg
               [Buksa 16'; Gakpo 29' Weghorst 83']
  (8) Mon Jun/17 21:00       Austria  0-1 (0-1)    France        @ Düsseldorf Arena, Düsseldorf
-              [Wöber 38' (o.g.)]
+              [-; Wöber 38' (o.g.)]
 (19) Fri Jun/21 18:00       Poland       -   Austria       @ Olympiastadion, Berlin
 (20) Fri Jun/21 21:00       Netherlands -   France        @ Leipzig Stadion, Leipzig
 
@@ -81,9 +81,9 @@ Group D:
 Group E:
 
 (10) Mon Jun/17 15:00      Romania     3-0 (1-0)   Ukraine       @ München Fußball Arena, München
-              [Stanciu 29'; Marin 53' Dragus 57']
+              [Stanciu 29' R. Marin 53' Drăguș 57']
  (9) Mon Jun/17 18:00      Belgium     0-1 (0-1)   Slovakia      @ Waldstadion, Frankfurt
-              [Schranz 7']
+              [-; Schranz 7']
 (21) Fri Jun/21 15:00      Slovakia   -  Ukraine       @ Düsseldorf Arena, Düsseldorf
 (22) Sat Jun/22 21:00      Belgium     -   Romania       @ Köln Stadion, Köln
 
