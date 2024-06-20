@@ -30,8 +30,10 @@ Group A:
  (2) Sat Jun/15 15:00         Hungary   1-3 (0-2)   Switzerland  @ Köln Stadion, Köln
            [Varga 66'; Duah 12' Aebischer 45' Embolo 90+3']
 
-(14) Wed Jun/19 18:00         Germany   -   Hungary      @ Stuttgart Arena, Stuttgart
-(13) Wed Jun/19 21:00         Scotland   -   Switzerland  @ Köln Stadion, Köln
+(14) Wed Jun/19 18:00         Germany  2-0 (1-0)  Hungary      @ Stuttgart Arena, Stuttgart
+          [Musiala 22' Gündoğan 67']
+(13) Wed Jun/19 21:00         Scotland   1-1 (1-1)  Switzerland  @ Köln Stadion, Köln
+          [McTominay 13'; Shaqiri 26']
 
 (25) Sun Jun/23 21:00         Switzerland - Germany       @ Waldstadion, Frankfurt
 (26) Sun Jun/23 21:00         Scotland     - Hungary       @ Stuttgart Arena, Stuttgart
@@ -43,8 +45,8 @@ Group B:
            [Morata 29' Fabián 32' Carvajal 45+2']
  (4) Sat Jun/15 21:00         Italy   2-1 (2-1)   Albania    @ BVB Stadion Dortmund, Dortmund
            [Bastoni 11' Barella 16'; Bajrami 1']
-
-(15) Wed Jun/19 15:00         Croatia   -   Albania    @ Volksparkstadion, Hamburg
+(15) Wed Jun/19 15:00         Croatia  2-2 (0-1) Albania    @ Volksparkstadion, Hamburg
+           [Kramarić 74' Gjasula 76' (o.g.); Laçi 11 Gjasula  90+5']
 (16) Thu Jun/20 21:00         Spain   -   Italy      @ Arena Auf Schalke, Gelsenkirchen
 
 (27) Mon Jun/24 21:00         Albania   -   Spain      @ Düsseldorf Arena, Düsseldorf
