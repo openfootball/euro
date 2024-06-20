@@ -45,6 +45,13 @@ Group A:
 
 (14) Wed Jun/19 18:00         Germany   2-0 (1-0)   Hungary      @ Stuttgart Arena, Stuttgart
          [Musiala 22' Gündoğan 67']
+  Germany:  Neuer – Kimmich, Rüdiger [Y], Tah, Mittelstädt [Y] – Andrich (72' Can), 
+            Kroos – Musiala (72' Führich), Gündogan (84' Undav), 
+            Wirtz (58' Sane) – Havertz (58' Füllkrug).
+  Hungary:  Gulacsi – Fiola, Orban, Dardai – Bolla (75' Adam), A. Nagy (64' Kleinheisler), 
+            Schäfer, Kerkez (75' Zs. Nagy) – Szoboszlai, Sallai (87' Csoboth [Y]) – 
+            B. Varga [Y] (87' Gazdag).
+
 (13) Wed Jun/19 21:00         Scotland  1-1 (1-1)   Switzerland  @ Köln Stadion, Köln
          [McTominay 13'; Shaqiri 26']
 
@@ -87,6 +94,13 @@ Group D:
               [Buksa 16'; Gakpo 29' Weghorst 83']
  (8) Mon Jun/17 21:00       Austria  0-1 (0-1)    France        @ Düsseldorf Arena, Düsseldorf
               [-; Wöber 38' (o.g.)]
+  Austria:  Pentz – Posch, Danso [Y], Wöber [Y] (59' Trauner), Mwene [Y] (88' Prass) – 
+            Seiwald, Grillitsch (60' Wimmer) – Laimer [Y] (91' Schmid), Baumgartner [Y], 
+            Sabitzer – Gregoritsch (59' Arnautovic).
+  France:   Maignan – Kounde, Upamecano, Saliba, T. Hernandez – 
+            Griezmann (90' Fofana), Kante, Rabiot (71' Camavinga) – 
+            Dembele [Y] (71' Kolo Muani), Mbappe [Y] (90' Giroud), Thuram.
+
 
 (19) Fri Jun/21 18:00       Poland       -   Austria       @ Olympiastadion, Berlin
 (20) Fri Jun/21 21:00       Netherlands -   France        @ Leipzig Stadion, Leipzig
