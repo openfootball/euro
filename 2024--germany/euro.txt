@@ -68,8 +68,8 @@ Group B:
 
 (15) Wed Jun/19 15:00         Croatia   2-2 (0-1)   Albania    @ Volksparkstadion, Hamburg
            [Kramarić 74' Gjasula 76' (o.g.); Laçi 11' Gjasula 90+5']
-(16) Thu Jun/20 21:00         Spain   -   Italy      @ Arena Auf Schalke, Gelsenkirchen
-
+(16) Thu Jun/20 21:00         Spain   1-0 (0-0)   Italy      @ Arena Auf Schalke, Gelsenkirchen
+           [-; Calafiori 55' (o.g.)]
 (27) Mon Jun/24 21:00         Albania   -   Spain      @ Düsseldorf Arena, Düsseldorf
 (28) Mon Jun/24 21:00         Croatia   -   Italy      @ Leipzig Stadion, Leipzig
 
@@ -81,9 +81,10 @@ Group C:
  (5) Sun Jun/16 21:00        Serbia   0-1 (0-1)   England    @ Arena Auf Schalke, Gelsenkirchen
                [-; Bellingham 13']
 
-(18) Thu Jun/20 15:00        Slovenia   -   Serbia     @ München Fußball Arean, München
-(17) Thu Jun/20 18:00        Denmark   -   England    @ Waldstadion, Frankfurt
-
+(18) Thu Jun/20 15:00        Slovenia   1-1 (0-0)   Serbia     @ München Fußball Arean, München
+             [Karničnik 69'; Jović 90+5']
+(17) Thu Jun/20 18:00        Denmark   1-1 (1-1)   England    @ Waldstadion, Frankfurt
+             [Hjulmand 34'; Kane 18']
 (29) Tue Jun/25 21:00        England   -   Slovenia   @ Köln Stadion, Köln
 (30) Tue Jun/25 21:00        Denmark   -   Serbia     @ München Fußball Arena, München
 
