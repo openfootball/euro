@@ -133,9 +133,10 @@ Group F:
 (12) Tue Jun/18 21:00      Portugal  2-1 (0-0)   Czech Republic  @ Leipzig Stadion, Leipzig
             [Hranáč 69' (o.g.) Conceição 90+2'; Provod 62']
 
-(24) Sat Jun/22 15:00     Georgia   -   Czech Republic  @ Volksparkstadion, Hamburg
-(23) Sat Jun/22 18:00     Turkey   -   Portugal   @ BVB Stadion Dortmund, Dortmund
-
+(24) Sat Jun/22 15:00     Georgia   1-1 (1-0)   Czech Republic  @ Volksparkstadion, Hamburg
+            [Mikautadze 45+4' (pen.); Schick 59']
+(23) Sat Jun/22 18:00     Turkey   0-3 (0-2)   Portugal   @ BVB Stadion Dortmund, Dortmund
+            [; Silva 21' Akaydian 28' (o.g.) Fernandes 55']
 (35) Wed Jun/26 21:00     Georgia   -   Portugal   @ Arena Auf Schalke, Gelsenkirchen
 (36) Wed Jun/26 21:00     Czech Republic -   Turkey  @ Volksparkstadion, Hamburg
 
