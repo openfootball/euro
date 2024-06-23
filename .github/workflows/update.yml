@@ -31,6 +31,5 @@ jobs:
 
     - name: Test run ruby script
       run: |
-        # fix:  require nokogiri on demand only (nokogiri NOT used by apis only pages for now!!!)
-        bundle install --gemfile=./github/workflows/Gemfile
+        bundle install --gemfile=.github/workflows/Gemfile
         ruby .github/workflows/update.rb
