@@ -35,9 +35,17 @@ end
 SportDb::JsonExporter.export_euro( 'euro', out_root: './tmp/json/euro' )
 
 
+##
+##  No such file or directory
+#   @ rb_sysopen - /home/runner/work/euro/euro/../euro.json/2024/euro.json
+
 ### copy to euro.json repo
 src  = './tmp/json/euro/2024/euro.json'
 dest = "#{Dir.pwd}/../euro.json/2024/euro.json" 
+
+## make sure dir exists
+dest_p = File.dirname( dest )
+FileUtils.mkdir_p( dest_p )  unless File.exist?( dest_p )   
 FileUtils.cp( src, dest )
 
 
