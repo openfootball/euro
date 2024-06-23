@@ -8,13 +8,15 @@ require 'sportdb/exporters'
 puts
 puts "work_dir:"
 pp Dir.pwd
+#=> "/home/runner/work/euro/euro"
 
+## note - euro/euro  
 
 
 
 SportDb.open_mem   ## use (setup) in memory db
 
-SportDb.read( '../../../openfootball/euro/2024--germany/euro.txt' ) 
+SportDb.read( "#{Dir.pwd}/2024--germany/euro.txt" ) 
 
 
 puts "table stats:"
@@ -34,10 +36,13 @@ SportDb::JsonExporter.export_euro( 'euro', out_root: './tmp/json/euro' )
 
 
 ### copy to euro.json repo
+src  = './tmp/json/euro/2024/euro.json'
+dest = "#{Dir.pwd}/../euro.json/2024/euro.json" 
+FileUtils.cp( src, dest )
 
-# src  = './tmp/json/euro/2024/euro.json'
-# dest = '/sports/openfootball/euro.json/2024/euro.json' 
-# FileUtils.cp( src, dest )
+
+## print for debugging
+puts  File.open( dest, 'r:utf-8') { |f| f.read }
 
 
 puts "bye"
