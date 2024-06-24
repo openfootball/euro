@@ -7,7 +7,9 @@ require 'sportdb/exporters'
 
 puts
 puts "work_dir:"
-pp Dir.pwd
+
+root_dir = Dir.pwd
+pp root_dir
 #=> "/home/runner/work/euro/euro"
 
 ## note - euro/euro  
@@ -16,7 +18,7 @@ pp Dir.pwd
 
 SportDb.open_mem   ## use (setup) in memory db
 
-SportDb.read( "#{Dir.pwd}/2024--germany/euro.txt" ) 
+SportDb.read( "#{root_dir}/2024--germany/euro.txt" ) 
 
 
 puts "table stats:"
@@ -41,7 +43,7 @@ SportDb::JsonExporter.export_euro( 'euro', out_root: './tmp/json/euro' )
 
 ### copy to euro.json repo
 src  = './tmp/json/euro/2024/euro.json'
-dest = "#{Dir.pwd}/../euro.json/2024/euro.json" 
+dest = "#{root_dir}/openfootball/euro.json/2024/euro.json" 
 
 ## make sure dir exists
 dest_p = File.dirname( dest )
