@@ -55,9 +55,10 @@ Group A:
 (13) Wed Jun/19 21:00         Scotland  1-1 (1-1)   Switzerland  @ Köln Stadion, Köln
          [McTominay 13'; Shaqiri 26']
 
-(25) Sun Jun/23 21:00         Switzerland - Germany       @ Waldstadion, Frankfurt
-(26) Sun Jun/23 21:00         Scotland     - Hungary       @ Stuttgart Arena, Stuttgart
-
+(25) Sun Jun/23 21:00         Switzerland 1-1 (1-0) Germany       @ Waldstadion, Frankfurt
+         [Ndoye 29'; Füllkrug 90+2']
+(26) Sun Jun/23 21:00         Scotland     0-1 (0-0) Hungary       @ Stuttgart Arena, Stuttgart
+         [; Csoboth 90+10']
 
 Group B:
 
