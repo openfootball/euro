@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# gem "yorobot"
+gem "yorobot"
 
 
 gem "sportdb-readers"

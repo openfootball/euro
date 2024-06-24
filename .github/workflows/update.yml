@@ -29,7 +29,18 @@ jobs:
       with:
         ruby-version: '3.2' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
 
-    - name: Test run ruby script
+    - name: run install / add user
+      env:
+        SSH_KEY: ${{ secrets.SSH_KEY }}
       run: |
         bundle install --gemfile=.github/workflows/Gemfile
-        ruby .github/workflows/update.rb
+        yo -f .github/workflows/Flowfile.rb adduser
+
+    - name: Run ssh_clone
+      run:  yo -f .github/workflows/Flowfile.rb clone
+
+    - name: gen json
+      run:  ruby .github/workflows/genjson.rb
+
+    - name: Run ssh_push
+      run:  yo -f .github/workflows/Flowfile.rb push
