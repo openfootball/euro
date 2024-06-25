@@ -71,9 +71,10 @@ Group B:
            [Kramarić 74' Gjasula 76' (o.g.); Laçi 11' Gjasula 90+5']
 (16) Thu Jun/20 21:00         Spain   1-0 (0-0)   Italy      @ Arena Auf Schalke, Gelsenkirchen
            [Calafiori 55' (o.g.)]
-(27) Mon Jun/24 21:00         Albania   -   Spain      @ Düsseldorf Arena, Düsseldorf
-(28) Mon Jun/24 21:00         Croatia   -   Italy      @ Leipzig Stadion, Leipzig
-
+(27) Mon Jun/24 21:00         Albania   0-1 (0-1)   Spain      @ Düsseldorf Arena, Düsseldorf
+           [-;Torres 13']
+(28) Mon Jun/24 21:00         Croatia   1-1 (0-0)   Italy      @ Leipzig Stadion, Leipzig
+           [Modrić 55'; Zaccagni 90+8']
 
 Group C:
 
