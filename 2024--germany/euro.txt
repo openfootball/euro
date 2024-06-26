@@ -87,8 +87,9 @@ Group C:
              [Karničnik 69'; Jović 90+5']
 (17) Thu Jun/20 18:00        Denmark   1-1 (1-1)   England    @ Waldstadion, Frankfurt
              [Hjulmand 34'; Kane 18']
-(29) Tue Jun/25 21:00        England   -   Slovenia   @ Köln Stadion, Köln
-(30) Tue Jun/25 21:00        Denmark   -   Serbia     @ München Fußball Arena, München
+(29) Tue Jun/25 21:00        England   0-0 (0-0)   Slovenia   @ Köln Stadion, Köln
+            
+(30) Tue Jun/25 21:00        Denmark   0-0 (0-0)   Serbia     @ München Fußball Arena, München
 
 
 Group D:
@@ -109,8 +110,10 @@ Group D:
             [Piątek 30'; Trauner 9' Baumgartner 66' Arnautović 78' (pen.)]
 (20) Fri Jun/21 21:00       Netherlands 0-0 (0-0)  France        @ Leipzig Stadion, Leipzig
 
-(31) Tue Jun/25 18:00       Netherlands  -   Austria       @ Olympiastadion, Berlin
-(32) Tue Jun/25 18:00       France        -   Poland        @ BVB Stadion Dortmund, Dortmund
+(31) Tue Jun/25 18:00       Netherlands  2-3 (0-1)   Austria       @ Olympiastadion, Berlin
+            [Gakpo 47' Depay 75'; Malen 6' (o.g.) Schmid 59' Sabitzer 80']
+(32) Tue Jun/25 18:00       France       1-1 (0-0)   Poland        @ BVB Stadion Dortmund, Dortmund
+            [Mbappé 56' (pen.); Lewandowski 79' (pen.)]
 
 
 Group E:
