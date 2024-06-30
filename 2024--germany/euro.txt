@@ -153,8 +153,10 @@ Group F:
 # Knockout phase / Finals
 
 Round of 16
-(38) Sat Jun/29 18:00    Switzerland  -  Italy      @ Olympiastadion, Berlin        # Runner-up Group A  -  Runner-up Group B 
-(37) Sat Jun/29 21:00    Germany  -  Denmark      @ BVB Stadion Dortmund, Dortmund   # Winner Group A    -  Runner-up Group C
+(38) Sat Jun/29 18:00    Switzerland  2-0 (1-0)  Italy      @ Olympiastadion, Berlin        # Runner-up Group A  -  Runner-up Group B 
+          [Freuler 37' Vargas 46';-]
+(37) Sat Jun/29 21:00    Germany  2-0 (0-0)  Denmark      @ BVB Stadion Dortmund, Dortmund   # Winner Group A    -  Runner-up Group C
+          [Havertz 53' (pen.) Musiala 68';-]
 (40) Sun Jun/30 18:00    England  -  Slovakia    @ Arena Auf Schalke, Gelsenkirchen   # Winner Group C   -  3rd Group D/E/F
 (39) Sun Jun/30 21:00    Spain  -  Georgia    @ Köln Stadion, Köln                  # Winner Group B   -  3rd Group A/D/E/F
 (42) Mon Jul/1 18:00     France  -  Belgium    @ Düsseldorf Arena, Düsseldorf      # Runner-up Group D  -  Runner-up Group E
