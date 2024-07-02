@@ -170,10 +170,10 @@ Round of 16
 
 
 # Quarter-finals
-# (45) Fri Jul/5 18:00   Winner Match 39  - Winner Match 37  @ Stuttgart Arena, Stuttgart
-# (46) Fri Jul/5 21:00   Winner Match 41  - Winner Match 42  @ Volksparkstadion, Hamburg
+# (45) Fri Jul/5 18:00   Spain - Germany # Winner Match 39  - Winner Match 37  @ Stuttgart Arena, Stuttgart
+# (46) Fri Jul/5 21:00   Portugal - France # Winner Match 41  - Winner Match 42  @ Volksparkstadion, Hamburg
 
-# (48) Sat Jul/6 18:00   Winner Match 40  - Winner Match 38  @ Düsseldorf Arena, Düsseldorf
+# (48) Sat Jul/6 18:00   England - Switzerland # Winner Match 40  - Winner Match 38  @ Düsseldorf Arena, Düsseldorf
 # (47) Sat Jul/6 21:00   Winner Match 43  - Winner Match 44  @ Olympiastadion, Berlin
 
 
