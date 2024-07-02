@@ -164,7 +164,8 @@ Round of 16
 (42) Mon Jul/1 18:00     France  1-0 (0-0)  Belgium    @ Düsseldorf Arena, Düsseldorf      # Runner-up Group D  -  Runner-up Group E
           [Vertonghen 85' (o.g.);-]
 (41) Mon Jul/1 21:00     Portugal  3-0 pen. 0-0 a.e.t. (0-0, 0-0)  Slovenia     @ Waldstadion, Frankfurt           # Winner Group F    -   3rd Group A/B/C
-(43) Tue Jul/2 18:00     Romania  -  Netherlands   @ München Fußball Arena, München   # Winner Group E    -  3rd Group A/B/C/D
+(43) Tue Jul/2 18:00     Romania  0-3 (0-1)  Netherlands   @ München Fußball Arena, München   # Winner Group E    -  3rd Group A/B/C/D
+          [-; Gakpo 20' Malen 83' 90+3']
 (44) Tue Jul/2 21:00     Austria  -  Turkey   @ Leipzig Stadion, Leipzig             # Winner Group D   -  Runner-up Group F
 
 
