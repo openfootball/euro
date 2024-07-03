@@ -161,7 +161,7 @@ Round of 16
 (40) Sun Jun/30 18:00    England  2-1 (0-1)  Slovakia    @ Arena Auf Schalke, Gelsenkirchen   # Winner Group C - 3rd Group D/E/F
           [Bellingham 90+5' Kane 91'; Schranz 25']
 (39) Sun Jun/30 21:00    Spain  4-1 (1-1)  Georgia    @ Köln Stadion, Köln                  # Winner Group B - 3rd Group A/D/E/F
-          [Rodri 39' Ruiz 51' Williams' 75 Olmo 83'; Le Normand 18' (o.g.)]
+          [Rodri 39' Ruiz 51' Williams 75' Olmo 83'; Le Normand 18' (o.g.)]
 
 (42) Mon Jul/1 18:00     France  1-0 (0-0)  Belgium    @ Düsseldorf Arena, Düsseldorf      # Runner-up Group D - Runner-up Group E
           [Vertonghen 85' (o.g.)]
