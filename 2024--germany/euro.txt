@@ -174,11 +174,14 @@ Round of 16
 
 
 Quarter-finals
-(45) Fri Jul/5 18:00   Spain        -  Germany        @ Stuttgart Arena, Stuttgart     # Winner Match 39 - Winner Match 37  
-(46) Fri Jul/5 21:00   Portugal     -  France         @ Volksparkstadion, Hamburg      # Winner Match 41 - Winner Match 42  
+(45) Fri Jul/5 18:00   Spain        2-1 (0-0) Germany        @ Stuttgart Arena, Stuttgart     # Winner Match 39 - Winner Match 37  
+          [Olmo 51' Merino 119'; Wirtz 89']
+(46) Fri Jul/5 21:00   Portugal    3-5 pen. 0-0 a.e.t. (0-0, 0-0)  France         @ Volksparkstadion, Hamburg      # Winner Match 41 - Winner Match 42  
 
-(48) Sat Jul/6 18:00   England      -  Switzerland    @ Düsseldorf Arena, Düsseldorf    # Winner Match 40 - Winner Match 38  
-(47) Sat Jul/6 21:00   Netherlands  -  Turkey         @ Olympiastadion, Berlin         # Winner Match 43 - Winner Match 44  
+(48) Sat Jul/6 18:00   England      5-3 pen. 1-1 a.e.t. (1-1, 0-0)  Switzerland    @ Düsseldorf Arena, Düsseldorf    # Winner Match 40 - Winner Match 38  
+         [Saka 80'; Embolo 75']
+(47) Sat Jul/6 21:00   Netherlands  2-1 (0-1)  Turkey         @ Olympiastadion, Berlin         # Winner Match 43 - Winner Match 44  
+         [Vrij 70' Müldür 76' (o.g.); Akaydin 35']
 
 
 # Semi-finals
