@@ -184,9 +184,9 @@ Quarter-finals
          [Vrij 70' Müldür 76' (o.g.); Akaydin 35']
 
 
-# Semi-finals
-# (49) Tue Jul/9 21:00   Winner Match 45  - Winner Match 46  @ München Fußball Arena, München
-# (50) Wed Jul/10 21:00  Winner Match 47  - Winner Match 48  @ BVB Stadion Dortmund, Dortmund
+Semi-finals
+(49) Tue Jul/9 21:00    Spain  -  France           @ München Fußball Arena, München   # Winner Match 45  - Winner Match 46
+(50) Wed Jul/10 21:00   Netherlands  -  England    @ BVB Stadion Dortmund, Dortmund   # Winner Match 47  - Winner Match 48
 
 # Final
 # (51) Sun Jul/14 21:00     Winner Match 49 - Winner Match 50       @ Olympiastadion, Berlin
