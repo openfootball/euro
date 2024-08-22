@@ -14,7 +14,7 @@ Matchday 2 | Jun/11 - Jun/14
 Matchday 3 | Jun/15 - Jun/18
 
 
-Group A:
+Group A
 
 Jun/7 18:00   Switzerland     0-1  Czech Republic   @ St. Jakob-Park, Basel
 Jun/7 20:45   Portugal        2-0  Turkey           @ Stade de Genève, Geneva
@@ -26,7 +26,7 @@ Jun/15 20:45   Switzerland   2-0  Portugal         @ St. Jakob-Park, Basel
 Jun/15 20:45   Turkey        3-2  Czech Republic   @ Stade de Genève, Geneva
 
 
-Group B:
+Group B
 
 Jun/8 18:00   Austria      0-1  Croatia   @ Ernst-Happel-Stadion, Wien
 Jun/8 20:45   Germany      2-0  Poland    @ Wörtherseestadion, Klagenfurt
@@ -38,7 +38,7 @@ Jun/16 20:45   Poland      0-1   Croatia  @ Wörtherseestadion, Klagenfurt
 Jun/16 20:45   Austria     0-1   Germany  @ Ernst-Happel-Stadion, Wien
 
 
-Group C:
+Group C
 
 Jun/09 18:00  Romania      0-0    France
 Jun/09 20:45  Netherlands  3-0    Italy
@@ -50,7 +50,7 @@ Jun/17 20:45  Netherlands  2-0    Romania
 Jun/17 20:45  France       0-2    Italy
 
 
-Group D:
+Group D
 
 Jun/10 18:00  Spain       4-1    Russia
 Jun/10 20:45  Greece      0-2    Sweden

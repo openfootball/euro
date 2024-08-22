@@ -1,4 +1,4 @@
-= Euro 2024  
+= Euro 2024
 
 # 24 teams in 10 venues (in 10 host cities), June 14th to July 14th
 # all times are local, CEST (UTC+2)
@@ -13,43 +13,43 @@ Group A  |  Germany   Scotland     Hungary   Switzerland
 Group B  |  Spain     Croatia      Italy     Albania
 Group C  |  Slovenia  Denmark      Serbia    England
 Group D  |  Poland    Netherlands  Austria   France
-Group E  |  Belgium   Slovakia     Romania   Ukraine 
+Group E  |  Belgium   Slovakia     Romania   Ukraine
 Group F  |  Turkey    Georgia      Portugal  Czech Republic
- 
 
 
-Matchday 1 | Fri Jun/14 - Tue Jun/18   
-Matchday 2 | Wed Jun/19 - Sat Jun/22   
-Matchday 3 | Sun Jun/23 - Wed Jun/26        
+
+Matchday 1 | Fri Jun/14 - Tue Jun/18
+Matchday 2 | Wed Jun/19 - Sat Jun/22
+Matchday 3 | Sun Jun/23 - Wed Jun/26
 
 
-Group A:
+Group A
 
  (1) Fri Jun/14 21:00         Germany   5-1 (3-0)  Scotland     @ München Fußball Arena, München
         [Wirtz 10' Musiala 19' Havertz 45+1' (pen.) Füllkrug 68' Can 90+3'; Rüdiger 87' (o.g.)]
   Germany:    Neuer - Kimmich, Rüdiger, Tah [Y], Mittelstädt – Andrich [Y] (46' Groß),
-              Kroos (80' Can) – Musiala (74' Müller), Gündogan, 
+              Kroos (80' Can) – Musiala (74' Müller), Gündogan,
               Wirtz (63' Sane) – Havertz (63' Füllkrug).
-  Scotland:   Gunn – Porteous [R 44'], Hendry, Tierney (78' McKenna) – Ralston [Y], 
-              McTominay, McGregor (67' Gilmour), Robertson – Christie (82' Shankland), 
+  Scotland:   Gunn – Porteous [R 44'], Hendry, Tierney (78' McKenna) – Ralston [Y],
+              McTominay, McGregor (67' Gilmour), Robertson – Christie (82' Shankland),
               Adams (46' Hanley), McGinn (67' McLean).
 
  (2) Sat Jun/15 15:00         Hungary   1-3 (0-2)   Switzerland  @ Köln Stadion, Köln
            [Varga 66'; Duah 12' Aebischer 45' Embolo 90+3']
-  Hungary:     Gulacsi – Lang (46' Bolla [Y]), Orban, Szalai [Y] (79' Dardai) – Fiola, 
+  Hungary:     Gulacsi – Lang (46' Bolla [Y]), Orban, Szalai [Y] (79' Dardai) – Fiola,
                Nagy (67' Kleinheisler), Schäfer, Kerkez (79' Adam) – Sallai, Varga, Szoboszlai.
-  Switzerland: Sommer – Schär, Akanji, Rodriguez – Widmer [Y] (68' Stergiou), Xhaka, 
-               Freuler [Y] (86' Sierro), Aebischer – Ndoye (86' Rieder), Duah (68' Amdouni), 
+  Switzerland: Sommer – Schär, Akanji, Rodriguez – Widmer [Y] (68' Stergiou), Xhaka,
+               Freuler [Y] (86' Sierro), Aebischer – Ndoye (86' Rieder), Duah (68' Amdouni),
                Vargas (73' Embolo).
 
 
 (14) Wed Jun/19 18:00         Germany   2-0 (1-0)   Hungary      @ Stuttgart Arena, Stuttgart
          [Musiala 22' Gündoğan 67']
-  Germany:  Neuer – Kimmich, Rüdiger [Y], Tah, Mittelstädt [Y] – Andrich (72' Can), 
-            Kroos – Musiala (72' Führich), Gündogan (84' Undav), 
+  Germany:  Neuer – Kimmich, Rüdiger [Y], Tah, Mittelstädt [Y] – Andrich (72' Can),
+            Kroos – Musiala (72' Führich), Gündogan (84' Undav),
             Wirtz (58' Sane) – Havertz (58' Füllkrug).
-  Hungary:  Gulacsi – Fiola, Orban, Dardai – Bolla (75' Adam), A. Nagy (64' Kleinheisler), 
-            Schäfer, Kerkez (75' Zs. Nagy) – Szoboszlai, Sallai (87' Csoboth [Y]) – 
+  Hungary:  Gulacsi – Fiola, Orban, Dardai – Bolla (75' Adam), A. Nagy (64' Kleinheisler),
+            Schäfer, Kerkez (75' Zs. Nagy) – Szoboszlai, Sallai (87' Csoboth [Y]) –
             B. Varga [Y] (87' Gazdag).
 
 (13) Wed Jun/19 21:00         Scotland  1-1 (1-1)   Switzerland  @ Köln Stadion, Köln
@@ -60,7 +60,7 @@ Group A:
 (26) Sun Jun/23 21:00         Scotland     0-1 (0-0) Hungary       @ Stuttgart Arena, Stuttgart
          [-; Csoboth 90+10']
 
-Group B:
+Group B
 
  (3) Sat Jun/15 18:00         Spain   3-0 (3-0)    Croatia    @ Olympiastadion, Berlin
            [Morata 29' Fabián 32' Carvajal 45+2']
@@ -76,7 +76,7 @@ Group B:
 (28) Mon Jun/24 21:00         Croatia   1-1 (0-0)   Italy      @ Leipzig Stadion, Leipzig
            [Modrić 55'; Zaccagni 90+8']
 
-Group C:
+Group C
 
  (6) Sun Jun/16 18:00        Slovenia   1-1 (0-1)   Denmark    @ Stuttgart Arena, Stuttgart
              [Janža 77'; Eriksen 17']
@@ -87,28 +87,28 @@ Group C:
              [Karničnik 69'; Jović 90+5']
 (17) Thu Jun/20 18:00        Denmark   1-1 (1-1)   England    @ Waldstadion, Frankfurt
              [Hjulmand 34'; Kane 18']
-(29) Tue Jun/25 21:00        England   0-0 (0-0)   Slovenia   @ Köln Stadion, Köln
-            
-(30) Tue Jun/25 21:00        Denmark   0-0 (0-0)   Serbia     @ München Fußball Arena, München
+(29) Tue Jun/25 21:00        England   0-0    Slovenia   @ Köln Stadion, Köln
+
+(30) Tue Jun/25 21:00        Denmark   0-0    Serbia     @ München Fußball Arena, München
 
 
-Group D:
+Group D
 
  (7) Sun Jun/16 15:00       Poland   1-2 (1-1)   Netherlands   @ Volksparkstadion, Hamburg
               [Buksa 16'; Gakpo 29' Weghorst 83']
  (8) Mon Jun/17 21:00       Austria  0-1 (0-1)    France        @ Düsseldorf Arena, Düsseldorf
               [-; Wöber 38' (o.g.)]
-  Austria:  Pentz – Posch, Danso [Y], Wöber [Y] (59' Trauner), Mwene [Y] (88' Prass) – 
-            Seiwald, Grillitsch (60' Wimmer) – Laimer [Y] (91' Schmid), Baumgartner [Y], 
+  Austria:  Pentz – Posch, Danso [Y], Wöber [Y] (59' Trauner), Mwene [Y] (88' Prass) –
+            Seiwald, Grillitsch (60' Wimmer) – Laimer [Y] (91' Schmid), Baumgartner [Y],
             Sabitzer – Gregoritsch (59' Arnautovic).
-  France:   Maignan – Kounde, Upamecano, Saliba, T. Hernandez – 
-            Griezmann (90' Fofana), Kante, Rabiot (71' Camavinga) – 
+  France:   Maignan – Kounde, Upamecano, Saliba, T. Hernandez –
+            Griezmann (90' Fofana), Kante, Rabiot (71' Camavinga) –
             Dembele [Y] (71' Kolo Muani), Mbappe [Y] (90' Giroud), Thuram.
 
 
 (19) Fri Jun/21 18:00       Poland       1-3 (1-1)   Austria       @ Olympiastadion, Berlin
             [Piątek 30'; Trauner 9' Baumgartner 66' Arnautović 78' (pen.)]
-(20) Fri Jun/21 21:00       Netherlands 0-0 (0-0)  France        @ Leipzig Stadion, Leipzig
+(20) Fri Jun/21 21:00       Netherlands  0-0   France        @ Leipzig Stadion, Leipzig
 
 (31) Tue Jun/25 18:00       Netherlands  2-3 (0-1)   Austria       @ Olympiastadion, Berlin
             [Gakpo 47' Depay 75'; Malen 6' (o.g.) Schmid 59' Sabitzer 80']
@@ -116,7 +116,7 @@ Group D:
             [Mbappé 56' (pen.); Lewandowski 79' (pen.)]
 
 
-Group E:
+Group E
 
 (10) Mon Jun/17 15:00      Romania     3-0 (1-0)   Ukraine       @ München Fußball Arena, München
               [Stanciu 29' R. Marin 53' Drăguș 57']
@@ -129,10 +129,10 @@ Group E:
               [Tielemans 2' De Bruyne 80']
 (33) Wed Jun/26 18:00      Slovakia   1-1 (1-1)  Romania       @ Waldstadion, Frankfurt
               [Duda 24'; R. Marin 37' (pen.)]
-(34) Wed Jun/26 18:00      Ukraine     0-0 (0-0)     Belgium       @ Stuttgart Arena, Stuttgart
-              
+(34) Wed Jun/26 18:00      Ukraine     0-0     Belgium       @ Stuttgart Arena, Stuttgart
 
-Group F:
+
+Group F
 
 (11) Tue Jun/18 18:00      Turkey    3-1 (1-1)   Georgia   @ BVB Stadion Dortmund, Dortmund
             [Müldür 25' Güler 65' Aktürkoğlu 90+7'; Mikautadze 32']
@@ -153,7 +153,7 @@ Group F:
 # Knockout phase / Finals
 
 Round of 16
-(38) Sat Jun/29 18:00    Switzerland  2-0 (1-0)  Italy      @ Olympiastadion, Berlin        # Runner-up Group A - Runner-up Group B 
+(38) Sat Jun/29 18:00    Switzerland  2-0 (1-0)  Italy      @ Olympiastadion, Berlin        # Runner-up Group A - Runner-up Group B
           [Freuler 37' Vargas 46']
 (37) Sat Jun/29 21:00    Germany  2-0 (0-0)  Denmark      @ BVB Stadion Dortmund, Dortmund   # Winner Group A - Runner-up Group C
           [Havertz 53' (pen.) Musiala 68']
@@ -165,7 +165,7 @@ Round of 16
 
 (42) Mon Jul/1 18:00     France  1-0 (0-0)  Belgium    @ Düsseldorf Arena, Düsseldorf      # Runner-up Group D - Runner-up Group E
           [Vertonghen 85' (o.g.)]
-(41) Mon Jul/1 21:00     Portugal  3-0 pen. 0-0 a.e.t. (0-0, 0-0)  Slovenia     @ Waldstadion, Frankfurt           # Winner Group F - 3rd Group A/B/C
+(41) Mon Jul/1 21:00     Portugal  3-0 pen. 0-0 a.e.t. (0-0)  Slovenia     @ Waldstadion, Frankfurt           # Winner Group F - 3rd Group A/B/C
 
 (43) Tue Jul/2 18:00     Romania  0-3 (0-1)  Netherlands   @ München Fußball Arena, München   # Winner Group E - 3rd Group A/B/C/D
           [-; Gakpo 20' Malen 83', 90+3']
@@ -174,13 +174,13 @@ Round of 16
 
 
 Quarter-finals
-(45) Fri Jul/5 18:00   Spain        2-1 (0-0) Germany        @ Stuttgart Arena, Stuttgart     # Winner Match 39 - Winner Match 37  
+(45) Fri Jul/5 18:00   Spain        2-1 (0-0) Germany        @ Stuttgart Arena, Stuttgart     # Winner Match 39 - Winner Match 37
           [Olmo 51' Merino 119'; Wirtz 89']
-(46) Fri Jul/5 21:00   Portugal    3-5 pen. 0-0 a.e.t. (0-0, 0-0)  France         @ Volksparkstadion, Hamburg      # Winner Match 41 - Winner Match 42  
+(46) Fri Jul/5 21:00   Portugal    3-5 pen. 0-0 a.e.t. (0-0)  France         @ Volksparkstadion, Hamburg      # Winner Match 41 - Winner Match 42
 
-(48) Sat Jul/6 18:00   England      5-3 pen. 1-1 a.e.t. (1-1, 0-0)  Switzerland    @ Düsseldorf Arena, Düsseldorf    # Winner Match 40 - Winner Match 38  
+(48) Sat Jul/6 18:00   England      5-3 pen. 1-1 a.e.t. (1-1, 0-0)  Switzerland    @ Düsseldorf Arena, Düsseldorf    # Winner Match 40 - Winner Match 38
          [Saka 80'; Embolo 75']
-(47) Sat Jul/6 21:00   Netherlands  2-1 (0-1)  Turkey         @ Olympiastadion, Berlin         # Winner Match 43 - Winner Match 44  
+(47) Sat Jul/6 21:00   Netherlands  2-1 (0-1)  Turkey         @ Olympiastadion, Berlin         # Winner Match 43 - Winner Match 44
          [Vrij 70' Müldür 76' (o.g.); Akaydin 35']
 
 

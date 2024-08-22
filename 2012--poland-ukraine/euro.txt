@@ -14,7 +14,7 @@ Matchday 2 | Jun/12 - Jun/15
 Matchday 3 | Jun/16 - Jun/19
 
 
-Group A:
+Group A
 
 (1)  Jun/8 18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
 (2)  Jun/8 20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
@@ -26,7 +26,7 @@ Group A:
 (18) Jun/16 20:45  Greece          1-0  Russia     @ National Stadium Warszawa, Warszawa
 
 
-Group B:
+Group B
 
 (3) Jun/9 18:00  Netherlands    0-1  Denmark     @ Metalist Stadium, Kharkiv
 (4) Jun/9 20:45  Germany        1-0  Portugal    @ Arena Lviv, Lviv
@@ -38,7 +38,7 @@ Group B:
 (20) Jun/17 20:45  Denmark      1-2  Germany      @ Arena Lviv, Lviv
 
 
-Group C:
+Group C
 
 (5)  Jun/10 18:00  Spain     1-1  Italy
 (6)  Jun/10 20:45  Ireland   1-3  Croatia
@@ -50,7 +50,7 @@ Group C:
 (22) Jun/18 20:45  Italy  2-0  Ireland
 
 
-Group D:
+Group D
 
 (7) Jun/11 18:00  France  1-1  England
 (8) Jun/11 20:45  Ukraine  2-1  Sweden

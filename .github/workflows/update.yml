@@ -2,10 +2,10 @@
 name:  Update euro.json datasets (Read in Football.TXT & Generate JSON)
 
 
-on:  
-  push:
-    paths:
-      - '2024--germany/euro.txt'
+on:
+#  push:
+#    paths:
+#      - '2024--germany/euro.txt'
 #  schedule:
     # note: * is a special character in YAML so you have to quote this string
     #  see cron guru for more examples / help on syntax

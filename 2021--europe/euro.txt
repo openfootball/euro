@@ -21,7 +21,7 @@ Matchday 3 | Jun/20 - Jun/23         # 4 v 1, 2 v 3
 
 
 
-Group A:
+Group A
 
 (1)  June/11   21:00    Turkey   0-3 (0-0)   Italy         @ Stadio Olimpico, Rome
         [-; Demiral 53' (o.g.) Immobile 66' Insigne 79']
@@ -40,7 +40,7 @@ Group A:
                [Pessina 39']
 
 
-Group B:
+Group B
 
 (3)  June/12  18:00     Denmark    0-1 (0-0)   Finland     @ Parken Stadium, Copenhagen
          [-; Pohjanpalo 60']
@@ -59,7 +59,7 @@ Group B:
 
 
 
-Group C:
+Group C
 
 (6)  June/13  18:00    Austria      3-1 (1-1)   North Macedonia   @ Arena Națională, Bucharest   # 19:00 UTC+3
          [Lainer 18' Gregoritsch 78' Arnautović 89'; Pandev 28']
@@ -69,7 +69,7 @@ Group C:
 (18) June/17  15:00    Ukraine      2-1 (2-0)   North Macedonia   @ Arena Națională, Bucharest   # 16:00 UTC+3
          [Yarmolenko 29' Yaremchuk 34'; Alioski 57']
 (17) June/17  21:00    Netherlands   2-0 (1-0)   Austria           @ Johan Cruyff Arena, Amsterdam
-         [Depay 11' (pen.) Dumfries 67']   
+         [Depay 11' (pen.) Dumfries 67']
 
 (29) June/21  18:00    North Macedonia   0-3 (0-1)   Netherlands   @ Johan Cruyff Arena, Amsterdam
           [-; Depay 24' Wijnaldum 50', 58']
@@ -78,7 +78,7 @@ Group C:
 
 
 
-Group D:
+Group D
 
 (7)  June/13  15:00    England         1-0 (0-0)  Croatia         @ Wembley Stadium, London  # 14:00 UTC+1
         [Sterling 57']
@@ -88,7 +88,7 @@ Group D:
 (19) June/18  18:00    Croatia          1-1 (0-1)  Czech Republic  @ Hampden Park, Glasgow  # 17:00 UTC+1
             [Perišić 47'; Schick 37' (pen.)]
 (20) June/18  21:00    England          0-0 (0-0)  Scotland        @ Wembley Stadium, London  # 20:00 UTC+1
-                
+
 (31) June/22  21:00    Croatia         3-1 (1-1)  Scotland        @ Hampden Park, Glasgow  # 20:00 UTC+1
                  [Vlašić 17' Modrić 62' Perišić 77'; McGregor 42']
 (32) June/22  21:00    Czech Republic  0-1 (0-1)  England         @ Wembley Stadium, London  # 20:00 UTC+1
@@ -96,12 +96,12 @@ Group D:
 
 
 
-Group E:
+Group E
 
 (10) June/14  18:00    Poland          1-2 (0-1)  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 19:00 UTC+3
         [Linetty 46'; Szczęsny 18' (o.g.) Škriniar 69']
 (9)  June/14  21:00    Spain           0-0 (0-0)        Sweden          @ La Cartuja, Seville
-       
+
 (21) June/18  15:00    Sweden          1-0 (0-0)  Slovakia        @ Krestovsky Stadium, Saint Petersburg   # 16:00 UTC+3
               [Forsberg 77' (pen.)]
 (22) June/19  21:00    Spain            1-1 (1-0)  Poland          @ La Cartuja, Seville
@@ -113,7 +113,7 @@ Group E:
                 [Forsberg 2', 59' Claesson 90+4'; Lewandowski 61', 84']
 
 
-Group F:
+Group F
 
 (11) June/15  18:00    Hungary         0-3 (0-0)  Portugal        @ Puskás Aréna, Budapest
                [-; Guerreiro 84' Ronaldo 87' (pen.), 90+2']
@@ -157,7 +157,7 @@ Round of 16
 
 (44) June/29 18:00    England  2-0 (0-0)  Germany   @ Wembley Stadium, London  # (17:00 UTC+1)
                    [Sterling 75' Kane 86']
- 
+
 (43) June/29 21:00     Sweden  1-2 a.e.t. (1-1, 1-1)  Ukraine  @ Hampden Park, Glasgow  # (20:00 UTC+1)
                    [Forsberg  43'; Zinchenko 27' Dovbyk 120+1']
 
