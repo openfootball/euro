@@ -1,5 +1,30 @@
 # Euro / European Championship Cup
 
+## Update
+
+- [x] 1960 - rsssf, wiki
+- [ ] 1964
+- [ ] 1968
+- [ ] 1972
+- [ ] 1976
+- [ ] 1980
+- [ ] 1984
+- [ ] 1988
+- [ ] 1992
+- [ ] 1996
+- [ ] 2000
+- [ ] 2004
+- [ ] 2008
+- [ ] 2012
+- [ ] 2016
+- [ ] 2021
+- [ ] 2024
+
+
+
+
+## More
+
 Official site - [`www.uefa.com/uefaeuro`](http://www.uefa.com/uefaeuro)
 
 - 16 teams
@@ -37,6 +62,13 @@ Euro 2008 Austria-Switzerland
 - [UEFA Euro 2016](http://en.wikipedia.org/wiki/UEFA_Euro_2016)
 - [UEFA Euro 2012](http://en.wikipedia.org/wiki/UEFA_Euro_2012)
 - [UEFA Euro 2008](http://en.wikipedia.org/wiki/UEFA_Euro_2008)
+- <https://en.wikipedia.org/wiki/1960_European_Nations'_Cup>
+
+
+UEFA
+
+
+RSSSF
 
 ### Qualifying
 
@@ -50,6 +82,21 @@ Euro 2008 Austria-Switzerland
 
 
 
+## UEFA
+
+- <https://www.uefa.com/uefaeuro/history/seasons/1960/>
+
+
+### RSSSF
+
+- <https://www.rsssf.org/tables/60e.html>  - European Championship 1960
+
+
+
+
+### Wikidata
+
+- add here
 
 
 

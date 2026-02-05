@@ -1,0 +1,153 @@
+= European Championship 1960
+
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/60e.html
+
+
+== Qualifying Stage
+
+▪ Qualifying Round
+05.04.1959 @ Dublin (Dalymount Park)
+Ireland          	2-0  Czechoslovakia
+  (Tuohy 22, Cantwell 42pen)
+10.05.1959 @ Bratislava (Tehelné Pole)
+Czechoslovakia   	4-0  Ireland
+  (Stacho 4pen, Bubernik 52, Pavlovic 66, Dolinsky 75)
+  
+▪ 1/8 Finals
+28.09.1958 @ Moskva (Luzhniki)
+Soviet Union     	3-1  Hungary
+  (Ilyin 4, Metreveli 20, Ivanov 32; Göröcs 84)
+27.09.1959 @ Budapest (Nép)
+Hungary          	0-1  Soviet Union
+  (Voinov 58)
+
+28.06.1959 @ Chorzów (Slaski)
+Poland           	2-4  Spain
+  (Pol 34, Brychczy 62; Suárez 40 52, Di Stéfano 41 56)
+14.10.1959 @ Madrid (Santiago Bernabéu)
+Spain            	3-0  Poland
+  (Di Stéfano 30, Gensana Merola 69, Gento 85)
+
+02.11.1958 @ Bucuresti (23 August)
+Romania          	3-0  Turkey
+  (Oaida 62, Constantin 77, Dinulescu 81)
+26.04.1959 @ Istanbul (Inönü)
+Turkey           	2-0  Romania
+  (Küçükandonyadis 13 54)
+
+23.09.1959 @ Kobenhavn (Parken)
+Denmark          	2-2  Czechoslovakia
+  (Pedersen 18, Hansen 20; Kacani 30, Dolinsky 43)
+18.10.1959 @ Brno (Mestský)
+Czechoslovakia   	5-1  Denmark
+  (Bubernik 38 56, Scherer 49 87, Dolinsky 63; Kramer 35)
+
+01.10.1958 @ Paris (Parc des Princes)
+France           	7-1  Greece
+  (Kopa 23, Fontaine 25 85, Cisowski 29 68, Vincent 61 87; Ifandis 48)
+03.12.1958 @ Athinai (OAKA - Maroussi)
+Greece           	1-1  France
+  (Marche 85og; Bruey 71)
+
+20.05.1959 @ Oslo (Ullevĺl)
+Norway           	0-1  Austria
+  (Hof 32)
+23.09.1959 @ Wien (Prater)
+Austria          	5-2  Norway
+  (Nemec 2 21, Hof 25pen 75, Skerlan 59; Řdegaard 55 ?)
+
+21.06.1959 @ Ost-Berlin (Walter-Ulbricht)
+East Germany     	0-2  Portugal
+  (Da Fonseca 12, Coluna 67)
+28.06.1959 @ Porto (As Antas)
+Portugal         	3-2  East Germany
+  (Coluna 45 62, Cavém 68; Vogt 47, Kohle 72)
+
+31.05.1959 @ Beograd (FK Partizan)
+Yugoslavia       	2-0  Bulgaria
+  (Galic, Tasic)
+25.10.1959 @ Sofia (Vassil Levski)
+Bulgaria         	1-1  Yugoslavia
+  (Diev 50; Mujic 9)
+
+▪ Quarterfinals
+29.05.1960 @ Moskva
+Soviet Union            w/o  Spain
+09.06.1960 @ Madrid
+Spain                   o/w  Soviet Union
+[Spain withdrew. Soviet Union had a walkover.  The entire tie
+ apparently was awarded a 3-0 win to the Soviet Union.]
+
+22.05.1960 @ Bucuresti (23 August)
+Romania          	0-2  Czechoslovakia
+  (Masopust 9, Bubník 45)
+29.05.1960 @ Bratislava (Tehelné Pole)
+Czechoslovakia   	3-0  Romania
+  (Buberník 1 15, Bubnik 18)
+
+13.12.1959 @ Paris (Olympique de Colombes)
+France           	5-2  Austria
+  (Fontaine 7 18 70, Vincent 38 82; Horak 40, Pichler 65)
+27.03.1960 @ Wien (Prater)
+Austria          	2-4  France
+  (Nemec 26, Probst 64; Marcel 46, Rahis 59, Heutte 77, Kopa 83pen)
+
+08.05.1960 @ Oeiras/Lisboa (Nacional Do Jamor) 
+Portugal         	2-1  Yugoslavia
+  (Santana 30, Matateu 70; Kostic 89)
+22.05.1960 @ Beograd (FK Partizan)
+Yugoslavia       	5-1  Portugal
+  (Sekularac 8, Cebinac 44, Kostic 50 88, Galic 79; Cavém 29)
+
+
+
+== Final Tournament (in France)
+
+# Draw held in Paris on 31 May 1960.
+
+▪ Semifinals  
+July 6 @ Marseille, Stade Vélodrome   #(att: 28000)
+Soviet Union     3-0  Czechoslovakia
+   (V.Ivanov 34, 56, Ponedelnik 65)
+Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
+              Metreveli, V.Ivanov, Ponedelnik, Bubukin, Meskhi
+Czechoslovakia: Schroiff, Safránek, Novák, Buberník, Popluhár, Masopust,
+                Vojta, Moravcík, Kvasnák, Bubník, Dolínski
+  ref: Jionni (Italy)
+
+July 6 @ Paris, Parc des Princes    #(att: 27000)
+Yugoslavia       5-4  France
+  (Galic 11, Zanetic 55, Knez 75, Jerkovic 77, 78; 
+    Vincent 12, Heutte 43, 62, Wiesnieski 52)
+Yugoslavia: Soskic, Durkovic, Jusufi, Zanetic, Zebec, Perusic, Knez,
+            Jerkovic, Galic, Sekularac, Kostic
+France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller, 
+        Wiesnieski, Stievenard, Vincent
+  ref: Grandain (Belgium)
+
+▪ Match for third place 
+July 9 @ Marseille, Stade Vélodrome   #(att: 9400)
+Czechoslovakia   2-0  France
+  (Bubník 58, Pavlovic 88)
+Czechoslovakia: Schroiff, Safránek, Novák, Masopust, Popluhár, Buberník,  
+                Pavlovic, Vojta, Molnár, Bubník, Dolínski
+France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis, 
+        Wiesnieski, Stievenard, Vincent
+  ref: Jionni (Italy)
+  
+▪ Final 
+July 10 @ Paris, Parc des Princes    #(att: 18,000)    
+Soviet Union     2-1  Yugoslavia      (aet)
+  (Metreveli 49, Ponedelnik 114; Galic 41)
+Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
+              Metreveli, V.Ivanov, Ponedelnik, Bubukin, Meskhi
+Yugoslavia: Vidinic, Durkovic, Jusufi, Zanetic, Miladinovic, Perusic,
+            Jerkovic, Sekularac, Galic, Matus, Kostic
+  ref: Ellis (England)
+
+
+# Topscorer overall: Fontaine (France) 6 goals
+# Topscorers final tournament: Heutte (France), V.Ivanov and Ponedelnik (Soviet Union), 
+#                             Galic and Jerkovic (Yugoslavia) 2 goals

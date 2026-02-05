@@ -1,0 +1,87 @@
+
+##
+## wikitext football (match) boxes
+###  for source, see https://en.wikipedia.org/wiki/1960_European_Nations'_Cup_final_tournament
+
+
+==Semi-finals==
+
+===France vs Yugoslavia===
+{{Football box
+|date={{Start date|1960|7|6|df=y}}
+|time=20:00
+|team1={{fb-rt|FRA}}
+|score={{score link|1960 European Nations' Cup final tournament#France vs Yugoslavia|4–5}}
+|report=https://www.uefa.com/uefaeuro/match/4022/
+|team2={{fb|YUG}}
+|goals1=
+*[[Jean Vincent|Vincent]] {{goal|12}}
+*[[François Heutte|Heutte]] {{goal|43||62}}
+*[[Maryan Wisniewski|Wisniewski]] {{goal|53}}
+|goals2=
+*[[Milan Galić|Galić]] {{goal|11}}
+*[[Ante Žanetić|Žanetić]] {{goal|55}}
+*[[Tomislav Knez|Knez]] {{goal|75}}
+*[[Dražan Jerković|Jerković]] {{goal|78||79}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=26,370
+|referee=[[Gaston Grandain]] ([[Royal Belgian Football Association|Belgium]])
+}}
+
+
+===Czechoslovakia vs Soviet Union===
+{{Football box
+|date={{Start date|1960|7|6|df=y}}
+|time=21:30
+|team1={{fb-rt|TCH}}
+|score={{score link|1960 European Nations' Cup final tournament#Czechoslovakia vs Soviet Union|0–3}}
+|report=https://www.uefa.com/uefaeuro/match/4023/
+|team2={{fb|URS}}
+|goals1=
+|goals2=
+*[[Valentin Ivanov (footballer, born 1934)|Ivanov]] {{goal|34||56}}
+*[[Viktor Ponedelnik|Ponedelnik]] {{goal|66}}
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=25,184
+|referee=[[Cesare Jonni]] ([[Italian Football Federation|Italy]])
+}}
+
+==Third place play-off==
+{{Football box
+|date={{Start date|1960|7|9|df=y}}
+|time=21:30
+|team1={{fb-rt|TCH}}
+|score={{score link|1960 European Nations' Cup final tournament#Third place play-off|2–0}}
+|report=https://www.uefa.com/uefaeuro/match/4024/
+|team2={{fb|FRA}}
+|goals1=
+*[[Vlastimil Bubník|Bubník]] {{goal|58}}
+*[[Ladislav Pavlovič|Pavlovič]] {{goal|88}}
+|goals2=
+|stadium=[[Stade Vélodrome]], [[Marseille]]
+|attendance=9,438
+|referee=[[Cesare Jonni]] ([[Italian Football Federation|Italy]])
+}}
+
+==Final==
+
+## note - on its own (included) page
+
+{{Football box
+|date={{Start date|1960|7|10|df=y}}
+|time=20:30 <noinclude>[[Central European Time|CET]]</noinclude>
+|team1={{fb-rt|URS}}
+|score={{score link|1960 European Nations' Cup final tournament#Final|2–1|1960 European Nations' Cup final}}
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/4025/
+|team2={{fb|YUG}}
+|goals1=
+*[[Slava Metreveli|Metreveli]] {{goal|49}}
+*[[Viktor Ponedelnik|Ponedelnik]] {{goal|113}}
+|goals2=
+*[[Milan Galić|Galić]] {{goal|43}}
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=17,966
+|referee=[[Arthur Edward Ellis|Arthur Ellis]] ([[The Football Association|England]])
+}}
+

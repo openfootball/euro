@@ -16,6 +16,7 @@ Example:
 ```
 = Euro 2024
 
+
 Group A  |  Germany   Scotland     Hungary   Switzerland
 Group B  |  Spain     Croatia      Italy     Albania
 Group C  |  Slovenia  Denmark      Serbia    England
@@ -27,27 +28,29 @@ Matchday 1 | Fri Jun/14 - Tue Jun/18
 Matchday 2 | Wed Jun/19 - Sat Jun/22   
 Matchday 3 | Sun Jun/23 - Wed Jun/26        
 
-
+ 
 ▪ Group A
 
 Fri Jun/14 
    21.00         Germany v Scotland   5-1 (3-0)    @ München Fußball Arena, München
-                   (Wirtz 10' Musiala 19' Havertz 45+1' (pen.) Füllkrug 68' Can 90+3'; Rüdiger 87' (o.g.))
-  Germany:    Neuer - Kimmich, Rüdiger, Tah [Y], Mittelstädt – Andrich [Y] (46' Groß),
-              Kroos (80' Can) – Musiala (74' Müller), Gündogan, 
-              Wirtz (63' Sane) – Havertz (63' Füllkrug)
-  Scotland:   Gunn – Porteous [R 44'], Hendry, Tierney (78' McKenna) – Ralston [Y], 
-              McTominay, McGregor (67' Gilmour), Robertson – Christie (82' Shankland), 
-              Adams (46' Hanley), McGinn (67' McLean)
+                   (Wirtz 10' Musiala 19' Havertz 45+1'(p) Füllkrug 68' Can 90+3'; 
+                    Rüdiger 87'(og))
+  Germany:    Neuer - Kimmich, Rüdiger, Tah [Y], Mittelstädt – Andrich [Y] (Groß 46'),
+              Kroos (Can 80') – Musiala (Müller 74'), Gündogan, 
+              Wirtz (Sane 63') – Havertz (Füllkrug 63')
+  Scotland:   Gunn – Porteous [R 44'], Hendry, Tierney (McKenna 78' ) – Ralston [Y], 
+              McTominay, McGregor (Gilmour 67'), Robertson – Christie (Shankland 82'), 
+              Adams (Hanley 46'), McGinn (McLean 67')
 
  Sat Jun/15 
     15.00        Hungary v Switzerland   1-3 (0-2)  @ Köln Stadion, Köln
-                  (Varga 66'; Duah 12' Aebischer 45' Embolo 90+3')
-  Hungary:     Gulacsi – Lang (46' Bolla [Y]), Orban, Szalai [Y] (79' Dardai) – Fiola, 
-               Nagy (67' Kleinheisler), Schäfer, Kerkez (79' Adam) – Sallai, Varga, Szoboszlai
-  Switzerland: Sommer – Schär, Akanji, Rodriguez – Widmer [Y] (68' Stergiou), Xhaka, 
-               Freuler [Y] (86' Sierro), Aebischer – Ndoye (86' Rieder), Duah (68' Amdouni), 
-               Vargas (73' Embolo)
+                  (Varga 66'; 
+                   Duah 12' Aebischer 45' Embolo 90+3')
+  Hungary:     Gulacsi – Lang (Bolla 46' [Y]), Orban, Szalai [Y] (Dardai 79') – Fiola, 
+               Nagy (Kleinheisler 67'), Schäfer, Kerkez (Adam 79') – Sallai, Varga, Szoboszlai
+  Switzerland: Sommer – Schär, Akanji, Rodriguez – Widmer [Y] (Stergiou 68' ), Xhaka, 
+               Freuler [Y] (Sierro 86'), Aebischer – Ndoye (Rieder 86'), Duah (Amdouni 68'), 
+               Vargas (Embolo 73')
 
 ...
 
@@ -56,8 +59,6 @@ Fri Jun/14
 Sun Jul/14 
   21.00   Spain v England   2-1 (0-0)        @ Olympiastadion, Berlin   
             (Williams 47' Oyarzabal 86'; Palmer 73')
-
-
 ```
 
 
