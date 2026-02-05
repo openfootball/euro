@@ -1,9 +1,11 @@
 # RSSSF 
 
-Yes, You Can. Convert RSSSF pages to the Football.TXT.
+Yes, you can. Convert RSSSF pages to the (structured) Football.TXT format 
+(for easy parsing and exporting to JSON, CSV, SQL and friends).
 Samples include:
 
 - [European Championship 1960](60e.txt)
+- [European Championship 1964](64e.txt)
 
 
 
@@ -26,7 +28,8 @@ Czechoslovakia   	4-0 Ireland
 What's changed? <br>
 -  Start round lines with a round marker `▪`; optional - no need to UPCASE for emphasis
 -  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`
-   - Move the goal minutes e.g. `22`, `42pen` after the player name 
+   - Move the goal minutes e.g. `22`, `42pen` after the player name; for own goals (og)
+     change from `85og (Marche)` to `Marche 85og`  
 -  Start geo names, that is,  city/location and ground/stadium/venue with
    the geo marker `@`
 

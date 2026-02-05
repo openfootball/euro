@@ -1,0 +1,279 @@
+= European Championship 1964
+
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/64e.html
+
+== Qualifying Stage
+
+# Draw held in Zürich on 10 January 1962.
+
+
+▪ First Round
+01.11.1962 @ Madrid (Santiago Bernabéu)
+Spain            	6-0 Romania
+  (Guillot Fabián 7 27 70, Veloso Fidalgo 9, Collar Monterrubio 17, Macri 81og)
+25.11.1962 @ Bucuresti (23 August)
+Romania          	3-1 Spain
+  (Tataru 2, Manolache 8, Constantin 61; Veloso 65)
+
+10.10.1962 @ Chorzów (Slaski)
+Poland           	0-2 Northern Ireland
+  (Dougan 19, Humphries 54)
+28.11.1962 @ Belfast (Windsor Park)
+Northern Ireland 	2-0 Poland
+  (Crossan 9, Bingham 64)
+
+12.08.1962 @ Dublin (Dalymount Park)
+Rep.of Ireland   	4-2 Iceland
+  (Cantwell (2), Fogarty, Tuohy; Jonsson 37 86)
+02.09.1962 @ Reykjavik (Laugardalsvöllur)
+Iceland          	1-1 Rep.of Ireland
+  (Arnason 57; Tuohy)
+
+07.11.1962 @ Sofia (Vassil Levski)
+Bulgaria         	3-1 Portugal
+  (Asparuchov 65 76, Diev 84; Eusebio 49)
+16.12.1962 @ Lisboa
+Portugal         	3-1 Bulgaria
+  (Hernani (2), Coluna; Iliev)
+
+##
+##  todo: check play-off status - is kind of replay???  agg 4-4
+
+## via wikipedia
+#  4–4 on aggregate. A replay was played on a neutral ground to determine the winner.
+#   use [replay]  match status - why? why not?
+#     match is kind of 3rd leg
+#   Bulgaria won 5–4 on aggregate and advanced to the round of 16.
+
+
+23.01.1963 @ Roma, Italy (Olimpico)
+Bulgaria         	1-0 Portugal			[Play-off]
+  (Asparuchov 87)
+
+
+03.10.1962 @ Sheffield (Hillsborough)
+England          	1-1 France
+  (Flowers 57p;  Goujon 8)
+27.02.1963 @ Paris (Parc des Princes)
+France           	5-2 England
+  (Wisnieski 3 75, Douis 32, Cossou 43 82; Smith 57, Tambling 74)
+
+21.11.1962 @ Ost-Berlin (Walter-Ulbricht)
+East Germany     	2-1 Czechoslovakia
+(Erler 60, Liebrecht 80p, Kucera 90)
+31.03.1963 @ Praha (Sparta)
+Czechoslovakia   	1-1 East Germany
+  (Masek 66; Ducke 85)
+
+07.11.1962 @ Budapest (Nép)
+Hungary          	3-1 Wales
+  (Albert 5, Tichy 34, Sandor 48; Medwin 19)
+20.03.1963 @ Cardiff (Ninian Park)
+Wales            	1-1 Hungary
+  (Jones; Tichy)
+
+28.06.1962 @ Kobenhavn (Parken)
+Denmark          	6-1 Malta
+  (Madsen 9 14 49, Clausen 22, Enoksen 71, Bertelsen 80; Theobald 57)
+08.12.1962 @ La Valetta
+Malta            	1-3 Denmark
+  (Urpani; Madsen, Christensen, Berthelsen)
+
+#
+# Greece withdrew. Albania had a walkover.
+#
+#  todo - add walkover match - why? why not?
+#
+#  note - A walkover (w/o) occurs when one team is declared the winner
+#          because the opponent is unable or unwilling to play.
+#  
+# - w/o (Walkover):            Home team was awarded the win.
+# - o/w (Opponent Walkover):   Away (Opponent) team was awarded the win
+#
+#
+# 21 June 1962   Greece 		v Albania   [Cancelled]
+# 31 March 1963  Albania 	    v Greece    [Cancelled]
+# note - Greece withdrew. Albania had a walkover and advanced to the round of 16.
+
+
+11.11.1962 @ Amsterdam (Olympisch)
+Netherlands      	3-1 Switzerland
+  (Van Der Linden 20, Swart 74, Groot 85; Hertig 42)
+31.03.1963 @ Bern (Wankdorf)
+Switzerland      	1-1 Netherlands
+  (Alleman 75; Kruijver 6)
+
+21.06.1962 @ Oslo (Ullevĺl)
+Norway           	0-2 Sweden
+  (Martinsson 10 40)
+04.11.1962 @ Malmö (Idrottsplats)
+Sweden           	1-1 Norway
+  (Eriksson; Krogh 61)
+
+04.11.1962 @ Belgrade (FK Partizan)
+Yugoslavia       	3-2 Belgium
+  (Skoblar 12 32p, Vasovic 88; Stockman 26, Jurion 58)
+31.03.1963 @ Brussels (Heysel)
+Belgium          0-1 Yugoslavia
+  (Galic 20)
+
+02.12.1962 @ Bologna (Renato Dall'Ara)
+Italy            	6-0 Turkey
+  (Rivera 15 47, Orlando 22 29 35 85)
+27.03.1963 @ Istanbul (Inönü)
+Turkey           	0-1 Italy
+  (Sormani 86)
+
+
+# Austria bye.
+# Luxembourg bye.
+# Soviet Union bye.
+#
+#
+#  todo - how to deal with byes. keep as comment or ???
+#   use
+#     Byes:   Austria, Luxembourg, Soviet Union
+#
+#  note - bye refers to a team automatically advancing to the next round without competing. 
+
+
+▪ 1/8 Finals
+
+30.05.1963 @ Bilbao (San Mamés)
+Spain            	1-1 Northern Ireland
+  (Amancio 60, Irvine 76)
+30.10.1963 @ Belfast (Windsor Park)
+Northern Ireland 	0-1 Spain
+  (Gento 66)
+
+25.09.1963 @ Wien (Prater)
+Austria          	0-0 Rep.of Ireland
+13.10.1963 @ Dublin (Dalymount Park)
+Rep.of Ireland      	3-2 Austria
+  (Cantwell 45 89, Fogarty 66; Koleznik 38, Flögel 85)
+
+29.09.1963 @ Sofia (Vassil Levski)
+Bulgaria         	1-0 France
+  (Diev 24)
+26.10.1963 @ Paris (Parc des Princes)
+France           	3-1 Bulgaria
+  (Goujon 44 81, Herbin 78; Yakimov 75)
+
+19.10.1963 @ Ost-Berlin (Walter-Ulbricht)
+East Germany     	1-2 Hungary
+  (Nöldner 51; Bene 18, Rakosi 88)
+03.11.1963 @ Budapest (Nép)
+Hungary          	3-3 East Germany
+  (Bene 7, Sandor 17, Solymosi 51p; Heine 12, Ducke 26, Erler 81)
+
+29.06.1963 @ Kobenhavn (Parken)
+Denmark          	4-0 Albania
+  (Petersen 18p, Madsen 25, Clausen 36, Enoksen 49)
+30.10.1963 in Tirana (Qemal Stafa)
+Albania          	1-0 Denmark
+  (Pano 3)
+
+11.09.1963 @ Amsterdam (Olympisch)
+Netherlands      	1-1 Luxembourg
+  (Nuninga 5; May 33)
+30.10.1963 @ Rotterdam, Netherlands (Feijenoord)
+Luxembourg       	2-1 Netherlands
+  (Dimmer 20 67; Kruijver 31)
+
+19.06.1963 @ Beograd (FK Partizan)
+Yugoslavia       	0-0 Sweden
+18.09.1963 @ Malmö (Idrottsplats)
+Sweden           	3-2 Yugoslavia
+  (Persson 30 60, Bild 72; Galic, Zambata)
+
+13.10.1963 @ Moskva (Luzhniki)
+Soviet Union     	2-0 Italy
+  (Ponedelnik 22, Chislenko 42)
+10.11.1963 @ Roma (Olimpico)
+Italy            	1-1 Soviet Union
+  (Rivera 89, Gusarov 33)
+
+
+▪ Quarterfinals
+
+Mar 11 @ Sevilla
+Spain            5-1 Ireland
+  (Amancio 5, 29, Fusté 14, Marcelino 34, 62; McEvoy 19)
+Apr 8 @ Dublin
+Ireland          0-2 Spain
+  (Zaballa 24, 85)
+
+Apr 25 @ Paris
+France           1-3 Hungary
+  (Cossou 74; Albert 14, Tichy 16, 69)
+May 23 @ Budapest
+Hungary          2-1 France
+  (Sipos 25, Bene 55; Combin 2)
+
+Dec 4, 1963 @ Luxembourg
+Luxembourg       3-3 Denmark
+  (May 1, Pilot 24, Klein 49; O.Madsen 10, 32, 46)
+Dec 10, 1963 @ Křbenhavn
+Denmark          2-2 Luxembourg
+  (O.Madsen 15, 70; Leonard 12, Schmit 84)
+Dec 18, 1963 @ Amsterdam
+Denmark          1-0 Luxembourg   
+  (O.Madsen 43)
+
+May 13 @ Stockholm
+Sweden           1-1 Soviet Union
+  (Hamrin 86; V.Ivanov 63)
+May 27 @ Moskva
+Soviet Union     3-1 Sweden
+  (Ponedelnik 28, 57, Voronin 83; Hamrin 78)
+
+
+== Final Tournament (in Spain)
+
+# Draw held in Madrid on 6 May 1964.
+
+▪ Semifinals 
+June 17 @ Madrid, Santiago Bernabéu     #(att: 125000)
+Spain            2-1 Hungary         (aet)
+  (Pereda 35, Amancio 115; Bene 84)
+Spain: Iribar, Rivilla, Calleja, Zoco, Olivella, Fusté, Amancio,
+       Pereda, Marcelino, Suárez, Lapetra
+Hungary: Szentmihalyi, Mátrai, Mészöly, Sárosi, Nagy, Sipos, Bene,
+         Komora, Albert, Tichy, Fenyvesi
+  ref: Blavier (Belgium)
+
+June 17 @ Barcelona, Nou Camp     #(att: 38000)
+Soviet Union     3-0 Denmark
+   (Voronin 19, Ponedelnik 40, V.Ivanov 87)
+Soviet Union: Yashin, Chustikov, Shesternev, Mudrik, Voronin, Anichkin,
+              Chislenko, V.Ivanov, Ponedelnik, Gusarov, Khusainov
+Denmark: L.Nielsen, J.Hansen, K.Hansen, B.Hansen I, Larsen, E.Nielsen,
+         Bertelsen, Sřrensen, O.Madsen, Thorst, Danielsen 
+  ref: Lo Bello (Italy)
+
+▪ Match for third place 
+June 20 @ Barcelona, Nou Camp     #(att: 4000)
+Hungary          3-1 Denmark         (aet)
+  (Bene 11, Novák 107p, 110; Bertelsen 81)
+Hungary: Szentmihalyi, Novák, Mészöly, Ihász, Solymosi, Sipos, Farkas,
+         Varga, Albert, Bene, Fenyvesi
+Denmark: L.Nielsen, Wolmar, K.Hansen, B.Hansen I, Larsen, E.Nielsen,
+         Bertelsen, Sřrensen, O.Madsen, Thorst, Danielsen 
+  ref: Mellet (Switzerland)
+
+▪ Final
+June 21 @ Madrid, Santiago Bernabéu   #(att: 105000)
+Spain            2-1 Soviet Union
+  (Pereda 6, Marcelino 84; Khusainov 8)
+Spain: Iribar, Rivilla, Olivella, Calleja, Zoco, Fusté, Amancio,
+       Pereda, Marcelino, Suárez, Lapetra
+Soviet Union: Yashin, Chustikov, Shesternev, Mudrik, Voronin, Anichkin, 
+              Chislenko, V.Ivanov, Ponedelnik, Korneev, Khusainov
+  ref: Holland (England)
+
+
+# Topscorer overall: O.Madsen (Denmark) 11 goals
+# Topscorers final tournament: Pereda (Spain), Bene and Novák (Hungary) 2 goals 
+                         

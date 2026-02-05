@@ -10,10 +10,10 @@
 ▪ Qualifying Round
 05.04.1959 @ Dublin (Dalymount Park)
 Ireland          	2-0  Czechoslovakia
-  (Tuohy 22, Cantwell 42pen)
+  (Tuohy 22, Cantwell 42p)
 10.05.1959 @ Bratislava (Tehelné Pole)
 Czechoslovakia   	4-0  Ireland
-  (Stacho 4pen, Bubernik 52, Pavlovic 66, Dolinsky 75)
+  (Stacho 4p, Bubernik 52, Pavlovic 66, Dolinsky 75)
   
 ▪ 1/8 Finals
 28.09.1958 @ Moskva (Luzhniki)
@@ -56,7 +56,7 @@ Norway           	0-1  Austria
   (Hof 32)
 23.09.1959 @ Wien (Prater)
 Austria          	5-2  Norway
-  (Nemec 2 21, Hof 25pen 75, Skerlan 59; Řdegaard 55 ?)
+  (Hof 3 25p, Nemec 21 67, Skerlan 59; Ødegaard 19 35)
 
 21.06.1959 @ Ost-Berlin (Walter-Ulbricht)
 East Germany     	0-2  Portugal
@@ -67,10 +67,10 @@ Portugal         	3-2  East Germany
 
 31.05.1959 @ Beograd (FK Partizan)
 Yugoslavia       	2-0  Bulgaria
-  (Galic, Tasic)
+  (Galic 1, Tasic 87)
 25.10.1959 @ Sofia (Vassil Levski)
 Bulgaria         	1-1  Yugoslavia
-  (Diev 50; Mujic 9)
+  (Diev 50; Mujic 56)
 
 ▪ Quarterfinals
 29.05.1960 @ Moskva
@@ -92,7 +92,7 @@ France           	5-2  Austria
   (Fontaine 7 18 70, Vincent 38 82; Horak 40, Pichler 65)
 27.03.1960 @ Wien (Prater)
 Austria          	2-4  France
-  (Nemec 26, Probst 64; Marcel 46, Rahis 59, Heutte 77, Kopa 83pen)
+  (Nemec 26, Probst 64; Marcel 46, Rahis 59, Heutte 77, Kopa 83p)
 
 08.05.1960 @ Oeiras/Lisboa (Nacional Do Jamor) 
 Portugal         	2-1  Yugoslavia
