@@ -26,12 +26,12 @@ Czechoslovakia   	4-0 Ireland
 ```
 
 What's changed? <br>
--  Start round lines with a round marker `▪`; optional - no need to UPCASE for emphasis
+-  Start round lines with a round marker `▪`; optional - no need to UPCASE for emphasis.
+-  Start geo names, that is,  city/location and ground/stadium/venue with
+   the geo marker `@`.
 -  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`
    - Move the goal minutes e.g. `22`, `42pen` after the player name; for own goals (og)
-     change from `85og (Marche)` to `Marche 85og`  
--  Start geo names, that is,  city/location and ground/stadium/venue with
-   the geo marker `@`
+     change from `85og (Marche)` to `Marche 85og` without enclosing the player name in parentheses.  
 
 
 Football.TXT:
@@ -46,6 +46,7 @@ Ireland          	2-0 Czechoslovakia
 Czechoslovakia   	4-0 Ireland
   (Stacho 4pen, Bubernik 52, Pavlovic 66, Dolinsky 75)
 ```
+
 
 
 
