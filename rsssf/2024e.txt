@@ -1,0 +1,597 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/2024e.html
+
+
+=European Championship 2024=
+==Qualifying Stage==
+
+▪ Group A
+25.03.23 @ Glasgow        Scotland           3–0 Cyprus
+25.03.23 @ Málaga         Spain              3–0 Norway
+28.03.23 @ Batumi         Georgia            1–1 Norway
+28.03.23 @ Glasgow        Scotland           2–0 Spain
+17.06.23 @ Oslo           Norway             1–2 Scotland
+17.06.23 @ Larnaka        Cyprus             1–2 Georgia
+20.06.23 @ Oslo           Norway             3–1 Cyprus
+20.06.23 @ Glasgow        Scotland           2–0 Georgia
+ 8.09.23 @ Tbilisi        Georgia            1–7 Spain
+ 8.09.23 @ Larnaka        Cyprus             0–3 Scotland
+12.09.23 @ Oslo           Norway             2–1 Georgia
+12.09.23 @ Granada        Spain              6–0 Cyprus
+12.10.23 @ Larnaka        Cyprus             0–4 Norway
+12.10.23 @ Sevilla        Spain              2–0 Scotland
+15.10.23 @ Tbilisi        Georgia            4–0 Cyprus
+15.10.23 @ Oslo           Norway             0–1 Spain
+16.11.23 @ Tbilisi        Georgia            2–2 Scotland
+16.11.23 @ Lemasos        Cyprus             1–3 Spain
+19.11.23 @ Glasgow        Scotland           3–3 Norway
+19.11.23 @ Valladolid     Spain              3–1 Georgia
+
+# 1.SPAIN               8  7  0  1  25- 5  21 
+# 2.SCOTLAND            8  5  2  1  17- 8  17 
+# 3.Norway              8  3  2  3  14-12  11 
+# 4.Georgia             8  2  2  4  12-18   8
+# 5.Cyprus              8  0  0  8   3-28   0
+
+
+▪ Group B
+24.03.23 @ Saint-Denis    France             4–0 Netherlands
+24.03.23 @ Faro/Loulé     Gibraltar          0–3 Greece
+27.03.23 @ Rotterdam      Netherlands        3–0 Gibraltar
+27.03.23 @ Dublin         Ireland            0–1 France
+16.06.23 @ Faro/Loulé     Gibraltar          0–3 France
+16.06.23 @ Athinai        Greece             2–1 Ireland
+19.06.23 @ Saint-Denis    France             1–0 Greece
+19.06.23 @ Dublin         Ireland            3–0 Gibraltar
+ 7.09.23 @ Paris          France             2–0 Ireland
+ 7.09.23 @ Eindhoven      Netherlands        3–0 Greece
+10.09.23 @ Athinai        Greece             5–0 Gibraltar
+10.09.23 @ Dublin         Ireland            1–2 Netherlands
+13.10.23 @ Amsterdam      Netherlands        1–2 France
+13.10.23 @ Dublin         Ireland            0–2 Greece
+16.10.23 @ Faro/Loulé     Gibraltar          0–4 Ireland
+16.10.23 @ Athinai        Greece             0–1 Netherlands
+18.11.23 @ Nice           France            14–0 Gibraltar
+18.11.23 @ Amsterdam      Netherlands        1–0 Ireland
+21.11.23 @ Faro/Loulé     Gibraltar          0–6 Netherlands
+21.11.23 @ Athinai        Greece             2–2 France
+
+# 1.FRANCE              8  7  1  0  29- 3  22 
+# 2.NETHERLANDS         8  6  0  2  17- 7  18 
+# 3.Greece              8  4  1  3  14- 8  13 
+# 4.Ireland             8  2  0  6   9-10   6
+# 5.Gibraltar           8  0  0  8   0-41   0
+
+
+▪ Group C
+23.03.23 @ Napoli         Italy              1–2 England
+23.03.23 @ Skopje         North Macedonia    2–1 Malta
+26.03.23 @ London         England            2–0 Ukraine
+26.03.23 @ Ta' Qali       Malta              0–2 Italy
+16.06.23 @ Ta' Qali       Malta              0–4 England
+16.06.23 @ Skopje         North Macedonia    2–3 Ukraine
+19.06.23 @ Trnava         Ukraine            1–0 Malta
+19.06.23 @ Manchester     England            7–0 North Macedonia
+ 9.09.23 @ Wrocław        Ukraine            1–1 England
+ 9.09.23 @ Skopje         North Macedonia    1–1 Italy
+12.09.23 @ Milano         Italy              2–1 Ukraine
+12.09.23 @ Ta' Qali       Malta              0–2 North Macedonia
+14.10.23 @ Praha          Ukraine            2–0 North Macedonia
+14.10.23 @ Bari           Italy              4–0 Malta
+17.10.23 @ London         England            3–1 Italy
+17.10.23 @ Ta' Qali       Malta              1–3 Ukraine
+17.11.23 @ London         England            2–0 Malta
+17.11.23 @ Roma           Italy              5–2 North Macedonia
+20.11.23 @ Skopje         North Macedonia    1–1 England
+20.11.23 @ Leverkusen     Ukraine            0–0 Italy
+
+# 1.ENGLAND             8  6  2  0  22- 4  20
+# 2.ITALY               8  4  2  2  16- 9  14
+# 3.Ukraine             8  4  2  2  11- 8  14
+# 4.North Macedonia     8  2  2  4  10-20   8
+# 5.Malta               8  0  0  8   2-20   0
+
+
+▪ Group D
+25.03.23 @ Yerevan        Armenia            1–2 Turkey
+25.03.23 @ Split          Croatia            1–1 Wales
+28.03.23 @ Bursa          Turkey             0–2 Croatia
+28.03.23 @ Cardiff        Wales              1–0 Latvia
+16.06.23 @ Rīga           Latvia             2–3 Turkey
+16.06.23 @ Cardiff        Wales              2–4 Armenia
+19.06.23 @ Yerevan        Armenia            2–1 Latvia
+19.06.23 @ Samsun         Turkey             2–0 Wales
+ 8.09.23 @ Rijeka         Croatia            5–0 Latvia
+ 8.09.23 @ Eskişehir      Turkey             1–1 Armenia
+11.09.23 @ Yerevan        Armenia            0–1 Croatia
+11.09.23 @ Rīga           Latvia             0–2 Wales
+12.10.23 @ Rīga           Latvia             2–0 Armenia
+12.10.23 @ Osijek         Croatia            0–1 Turkey
+15.10.23 @ Konya          Turkey             4–0 Latvia
+15.10.23 @ Cardiff        Wales              2–1 Croatia
+18.11.23 @ Yerevan        Armenia            1–1 Wales
+18.11.23 @ Rīga           Latvia             0–2 Croatia
+21.11.23 @ Zagreb         Croatia            1–0 Armenia
+21.11.23 @ Cardiff        Wales              1–1 Turkey
+
+# 1.TURKEY              8  5  2  1  14- 7  17 
+# 2.CROATIA             8  5  1  2  13- 4  16 
+# 3.Wales               8  3  3  2  10-10  12 
+# 4.Armenia             8  2  2  4   9-11   8 
+# 5.Latvia              8  1  0  7   5-19   3
+
+
+▪ Group E
+24.03.23 @ Praha          Czech Republic     3–1 Poland
+24.03.23 @ Chișinău       Moldova            1–1 Faroe Islands
+27.03.23 @ Chișinău       Moldova            0–0 Czech Republic
+27.03.23 @ Warszawa       Poland             1–0 Albania
+17.06.23 @ Tiranë         Albania            2–0 Moldova
+17.06.23 @ Tórshavn       Faroe Islands      0–3 Czech Republic
+20.06.23 @ Tórshavn       Faroe Islands      1–3 Albania
+20.06.23 @ Chișinău       Moldova            3–2 Poland
+ 7.09.23 @ Praha          Czech Republic     1–1 Albania
+ 7.09.23 @ Warszawa       Poland             2–0 Faroe Islands
+10.09.23 @ Tórshavn       Faroe Islands      0–1 Moldova
+10.09.23 @ Tiranë         Albania            2–0 Poland
+12.10.23 @ Tiranë         Albania            3–0 Czech Republic
+12.10.23 @ Tórshavn       Faroe Islands      0–2 Poland
+15.10.23 @ Plzeň          Czech Republic     1–0 Faroe Islands
+15.10.23 @ Warszawa       Poland             1–1 Moldova
+17.11.23 @ Chișinău       Moldova            1–1 Albania
+17.11.23 @ Warszawa       Poland             1–1 Czech Republic
+20.11.23 @ Tiranë         Albania            0–0 Faroe Islands
+20.11.23 @ Olomouc        Czech Republic     3–0 Moldova
+
+# 1.ALBANIA             8  4  3  1  12- 4  15
+# 2.CZECH REPUBLIC      8  4  3  1  12- 6  15
+# 3.Poland              8  3  2  3  10-10  11
+# 4.Moldova             8  2  4  2   7-10  10
+# 5.Faroe Islands       8  0  2  6   2-13   2
+
+
+▪ Group F
+24.03.23 @ Linz           Austria            4–1 Azerbaijan
+24.03.23 @ Solna          Sweden             0–3 Belgium
+27.03.23 @ Linz           Austria            2–1 Estonia
+27.03.23 @ Solna          Sweden             5–0 Azerbaijan
+17.06.23 @ Bakı           Azerbaijan         1–1 Estonia
+17.06.23 @ Brussel        Belgium            1–1 Austria
+20.06.23 @ Wien           Austria            2–0 Sweden
+20.06.23 @ Tallinn        Estonia            0–3 Belgium
+ 9.09.23 @ Bakı           Azerbaijan         0–1 Belgium
+ 9.09.23 @ Tallinn        Estonia            0–5 Sweden
+12.09.23 @ Bruxelles      Belgium            5–0 Estonia
+12.09.23 @ Solna          Sweden             1–3 Austria
+13.10.23 @ Tallinn        Estonia            0–2 Azerbaijan
+13.10.23 @ Wien           Austria            2–3 Belgium
+16.10.23 @ Bakı           Azerbaijan         0–1 Austria
+16.10.23 @ Brussel        Belgium            1–1 Sweden
+16.11.23 @ Bakı           Azerbaijan         3–0 Sweden
+16.11.23 @ Tallinn        Estonia            0–2 Austria
+19.11.23 @ Bruxelles      Belgium            5–0 Azerbaijan
+19.11.23 @ Solna          Sweden             2–0 Estonia
+
+# 1.BELGIUM             8  6  2  0  22- 4  20 
+# 2.AUSTRIA             8  6  1  1  17- 7  19 
+# 3.Sweden              8  3  1  4  14-12  10 
+# 4.Azerbaijan          8  2  1  5   7-17   7 
+# 5.Estonia             8  0  1  7   2-22   1
+ 
+
+▪ Group G
+24.03.23 @ Razgrad        Bulgaria           0–1 Montenegro
+24.03.23 @ Beograd        Serbia             2–0 Lithuania
+27.03.23 @ Budapest       Hungary            3–0 Bulgaria
+27.03.23 @ Podgorica      Montenegro         0–2 Serbia
+17.06.23 @ Kaunas         Lithuania          1–1 Bulgaria
+17.06.23 @ Podgorica      Montenegro         0–0 Hungary
+20.06.23 @ Razgrad        Bulgaria           1–1 Serbia
+20.06.23 @ Budapest       Hungary            2–0 Lithuania
+ 7.09.23 @ Kaunas         Lithuania          2–2 Montenegro
+ 7.09.23 @ Beograd        Serbia             1–2 Hungary
+10.09.23 @ Podgorica      Montenegro         2–1 Bulgaria
+10.09.23 @ Kaunas         Lithuania          1–3 Serbia
+14.10.23 @ Sofia          Bulgaria           0–2 Lithuania
+14.10.23 @ Budapest       Hungary            2–1 Serbia
+17.10.23 @ Kaunas         Lithuania          2–2 Hungary
+17.10.23 @ Beograd        Serbia             3–1 Montenegro
+16.11.23 @ Sofia          Bulgaria           2–2 Hungary
+16.11.23 @ Podgorica      Montenegro         2–0 Lithuania
+19.11.23 @ Budapest       Hungary            3–1 Montenegro
+19.11.23 @ Leskovac       Serbia             2–2 Bulgaria
+
+# 1.HUNGARY             8  5  3  0  16- 7  18
+# 2.SERBIA              8  4  2  2  15- 9  14 
+# 3.Montenegro          8  3  2  3   9-11  11 
+# 4.Lithuania           8  1  3  4   8-14   6 
+# 5.Bulgaria            8  0  4  4   7-14   4
+
+
+▪ Group H
+23.03.23 @ Astana         Kazakhstan         1–2 Slovenia
+23.03.23 @ København      Denmark            3–1 Finland
+23.03.23 @ Serravalle     San Marino         0–2 Northern Ireland
+26.03.23 @ Astana         Kazakhstan         3–2 Denmark
+26.03.23 @ Ljubljana      Slovenia           2–0 San Marino
+26.03.23 @ Belfast        Northern Ireland   0–1 Finland
+16.06.23 @ Helsinki       Finland            2–0 Slovenia
+16.06.23 @ København      Denmark            1–0 Northern Ireland
+16.06.23 @ Parma          San Marino         0–3 Kazakhstan
+19.06.23 @ Helsinki       Finland            6–0 San Marino
+19.06.23 @ Belfast        Northern Ireland   0–1 Kazakhstan
+19.06.23 @ Ljubljana      Slovenia           1–1 Denmark
+ 7.09.23 @ Astana         Kazakhstan         0–1 Finland
+ 7.09.23 @ København      Denmark            4–0 San Marino
+ 7.09.23 @ Ljubljana      Slovenia           4–2 Northern Ireland
+10.09.23 @ Astana         Kazakhstan         1–0 Northern Ireland
+10.09.23 @ Helsinki       Finland            0–1 Denmark
+10.09.23 @ Serravalle     San Marino         0–4 Slovenia
+14.10.23 @ Belfast        Northern Ireland   3–0 San Marino
+14.10.23 @ Ljubljana      Slovenia           3–0 Finland
+14.10.23 @ København      Denmark            3–1 Kazakhstan
+17.10.23 @ Helsinki       Finland            1–2 Kazakhstan
+17.10.23 @ Belfast        Northern Ireland   0–1 Slovenia
+17.10.23 @ Serravalle     San Marino         1–2 Denmark
+17.11.23 @ Astana         Kazakhstan         3–1 San Marino
+17.11.23 @ Helsinki       Finland            4–0 Northern Ireland
+17.11.23 @ København      Denmark            2–1 Slovenia
+20.11.23 @ Belfast        Northern Ireland   2–0 Denmark
+20.11.23 @ Serravalle     San Marino         1–2 Finland
+20.11.23 @ Ljubljana      Slovenia           2–1 Kazakhstan
+
+# 1.DENMARK            10  7  1  2  19-10  22
+# 2.SLOVENIA           10  7  1  2  20- 9  22
+# 3.Finland            10  6  0  4  18-10  18
+# 4.Kazakhstan         10  6  0  4  16-12  18
+# 5.Northern Ireland   10  3  0  7   9-13   9
+# 6.San Marino         10  0  0 10   3-31   0
+
+
+▪ Group I
+25.03.23 @ Novi Sad       Belarus            0–5 Switzerland
+25.03.23 @ Tel-Aviv       Israel             1–1 Kosovo
+25.03.23 @ Andorra La V.  Andorra            0–2 Romania
+28.03.23 @ Prishtinë      Kosovo             1–1 Andorra
+28.03.23 @ București      Romania            2–1 Belarus
+28.03.23 @ Genève         Switzerland        3–0 Israel
+16.06.23 @ Andorra La V.  Andorra            1–2 Switzerland
+16.06.23 @ Budapest       Belarus            1–2 Israel
+16.06.23 @ Prishtinë      Kosovo             0–0 Romania
+19.06.23 @ Budapest       Belarus            2–1 Kosovo
+19.06.23 @ Jerusalem      Israel             2–1 Andorra
+19.06.23 @ Luzern         Switzerland        2–2 Romania
+ 9.09.23 @ Andorra La V.  Andorra            0–0 Belarus
+ 9.09.23 @ Prishtinë      Kosovo             2–2 Switzerland
+ 9.09.23 @ București      Romania            1–1 Israel
+12.09.23 @ Tel-Aviv       Israel             1–0 Belarus
+12.09.23 @ București      Romania            2–0 Kosovo
+12.09.23 @ Sion           Switzerland        3–0 Andorra
+12.10.23 @ Andorra La V.  Andorra            0–3 Kosovo
+12.10.23 @ Budapest       Belarus            0–0 Romania
+15.10.23 @ Sankt Gallen     Switzerland        3–3 Belarus
+15.10.23 @ București      Romania            4–0 Andorra
+12.11.23 @ Prishtinë      Kosovo             1–0 Israel
+15.11.23 @ Felcsút        Israel             1–1 Switzerland
+18.11.23 @ Budapest       Belarus            1–0 Andorra
+18.11.23 @ Felcsút        Israel             1–2 Romania
+18.11.23 @ Basel          Switzerland        1–1 Kosovo
+21.11.23 @ Andorra La V.  Andorra            0–2 Israel
+21.11.23 @ Prishtinë      Kosovo             0–1 Belarus
+21.11.23 @ București      Romania            1–0 Switzerland
+
+# 1.ROMANIA            10  6  4  0  16- 5  22 
+# 2.SWITZERLAND        10  4  5  1  22-11  17 
+# 3.Israel             10  4  3  3  11-11  15 
+# 4.Belarus            10  3  3  4   9-14  12 
+# 5.Kosovo             10  2  5  3  10-10  11 
+# 6.Andorra            10  0  2  8   3-20   2
+
+
+▪ Group J
+23.03.23 @ Zenica         Bosnia Herzegovina 3–0 Iceland
+23.03.23 @ Lisboa         Portugal           4–0 Liechtenstein
+23.03.23 @ Trnava         Slovakia           0–0 Luxembourg
+26.03.23 @ Vaduz          Liechtenstein      0–7 Iceland
+26.03.23 @ Luxembourg     Luxembourg         0–6 Portugal
+26.03.23 @ Bratislava     Slovakia           2–0 Bosnia Herzegovina
+17.06.23 @ Luxembourg     Luxembourg         2–0 Liechtenstein
+17.06.23 @ Reykjavík      Iceland            1–2 Slovakia
+17.06.23 @ Lisboa         Portugal           3–0 Bosnia Herzegovina
+20.06.23 @ Zenica         Bosnia Herzegovina 0–2 Luxembourg
+20.06.23 @ Reykjavík      Iceland            0–1 Portugal
+20.06.23 @ Vaduz          Liechtenstein      0–1 Slovakia
+ 8.09.23 @ Zenica         Bosnia Herzegovina 2–1 Liechtenstein
+ 8.09.23 @ Luxembourg     Luxembourg         3–1 Iceland
+ 8.09.23 @ Bratislava     Slovakia           0–1 Portugal
+11.09.23 @ Reykjavík      Iceland            1–0 Bosnia Herzegovina
+11.09.23 @ Faro/Loulé     Portugal           9–0 Luxembourg
+11.09.23 @ Bratislava     Slovakia           3–0 Liechtenstein
+13.10.23 @ Reykjavík      Iceland            1–1 Luxembourg
+13.10.23 @ Vaduz          Liechtenstein      0–2 Bosnia Herzegovina
+13.10.23 @ Porto          Portugal           3–2 Slovakia
+16.10.23 @ Zenica         Bosnia Herzegovina 0–5 Portugal
+16.10.23 @ Reykjavík      Iceland            4–0 Liechtenstein
+16.10.23 @ Luxembourg     Luxembourg         0–1 Slovakia
+16.11.23 @ Vaduz          Liechtenstein      0–2 Portugal
+16.11.23 @ Luxembourg     Luxembourg         4–1 Bosnia Herzegovina
+16.11.23 @ Bratislava     Slovakia           4–2 Iceland
+19.11.23 @ Zenica         Bosnia Herzegovina 1–2 Slovakia
+19.11.23 @ Vaduz          Liechtenstein      0–1 Luxembourg
+19.11.23 @ Lisboa         Portugal           2–0 Iceland
+ 
+# 1.PORTUGAL           10 10  0  0  36- 2  30
+# 2.SLOVAKIA           10  7  1  2  17- 8  22 
+# 3.Luxembourg         10  5  2  3  13-19  17
+# 4.Iceland            10  3  1  6  17-16  10
+# 5.Bosnia Herzegovina 10  3  0  7   9-20   9
+# 6.Liechtenstein      10  0  0 10   1-28   0
+
+
+==UEFA Nations League Playoffs==
+===League A===
+
+# Group 1: Croatia            qualified directly
+# Group 2: Spain              qualified directly
+# Group 3: Italy              qualified directly
+# Group 4: Netherlands        qualified directly
+# Further Ranking:
+#      5: Denmark             qualified directly
+#      6: Portugal            qualified directly
+#      7: Belgium             qualified directly
+#      8: Hungary             qualified directly
+#      9: Switzerland         qualified directly
+#     10: Germany             qualified directly
+#     11: Poland
+#     12: France              qualified directly
+#     13: Austria             qualified directly
+#     14: Czech Republic      qualified directly
+#     15: England             qualified directly
+#     16: Wales
+
+▪ League A Playoffs, Semifinals
+21.03.24 @ Warszawa       Poland             5-1 Estonia
+21.03.24 @ Cardiff        Wales              4-1 Finland
+
+▪ League A Playoffs, Final
+26.03.24 @ Cardiff        Wales              0-0 Poland             (aet, 4-5 pen)
+
+
+===League B===
+
+# Group 1: Scotland           qualified directly
+# Group 2: Israel
+# Group 3: Bosnia-Herzegovina
+# Group 4: Serbia             qualified directly
+# Further Ranking:
+#      5: Finland             to League A Playoffs
+#      6: Ukraine            
+#      7: Iceland          
+#      8: Norway             
+#      9: Slovenia            qualified directly
+#     10: Ireland            
+#     11: Albania             qualified directly
+#     12: Montenegro 
+#     13: Romania             qualified directly
+#     14: Sweden
+#     15: Armenia
+
+▪ League B Playoffs, Semifinals
+21.03.24 @ Budapest       Israel             1-4 Iceland
+21.03.24 @ Zenica         Bosnia Herzegovina 1-2 Ukraine
+
+▪ League B Playoffs, Final
+26.03.24 @ Wrocław        Ukraine            2-1 Iceland
+
+
+===League C===
+
+# Group 1: Turkey             qualified directly
+# Group 2: Greece
+# Group 3: Kazakhstan
+# Group 4: Georgia
+# Further Ranking:
+#      5: Luxembourg    
+#      6: Azerbaijan
+#      7: Kosovo
+#      8: Bulgaria
+#      9: Faroe Islands           
+#     10: North Macedonia  
+#     11: Slovakia           qualified directly
+#     12: North Ireland   
+#     13: Cyprus      
+#     14: Belarus       
+#     15: Lithuania
+#     16: Gibraltar      
+
+
+▪ League C Playoffs, Semifinals
+21.03.24 @ Tbilisi        Georgia            2-0 Luxembourg
+21.03.24 @ Athinai        Greece             5-0 Kazakhstan
+
+▪ League C Playoffs, Final
+26.03.24 @ Tbilisi        Georgia            0-0 Greece             (aet, 4-2 pen)
+
+===League D===
+
+# Group 1: Latvia
+# Group 2: Estonia            to League A Playoffs
+# Further Ranking:
+#      3: Moldova    
+#      4: Malta
+#      5: Andorra
+#      6: San Marino     
+#      7: Liechtenstein
+
+
+==Final Tournament==
+# in Germany, June 14 – July 14, 2024
+
+# Stadiums
+# Berlin        | @ Olympiastadion,      71000
+# München       | @ Allianz Arena,       66000
+# Dortumund     | @ Westfalenstadion,    62000
+# Stuttgart     | @ Neckarstadion,       51000
+# Gelsenkirchen | @ Arena AufSchalke,    50000
+# Hamburg       | @ Volksparkstadion,    49000
+# Düsseldorf    | @ Düsseldorf Arena,    47000
+# Frankfurt     | @ Waldstadion,         47000
+# Köln          | @ RheinEnergieStadion, 43000
+# Leipzig       | @ Red Bull Arena,      40000    
+
+
+▪ Group A
+
+14.06.24 @ München        Germany            5–1 Scotland
+                         (Wirtz 10, Musiala 19, Havertz 45+1pen, Fullkrug 68, 
+                          Can 90+3; Rudiger 87og)
+15.06.24 @ Köln           Hungary            1–3 Switzerland
+                         (Varga 66; Duah 12, Aebischer 45, Embolo 90+3)
+19.06.24 @ Stuttgart      Germany            2–0 Hungary
+                         (Musiala 22, Gundogan 67)
+19.06.24 @ Köln           Scotland           1–1 Switzerland
+                         (McTominay 13; Shaqiri 26)
+23.06.24 @ Frankfurt      Switzerland        1–1 Germany
+                         (Ndoye 28; Fullkrug 90+2)
+23.06.24 @ Stuttgart      Scotland           0–1 Hungary
+                         (Csoboth 90+10)
+
+# 1.GERMANY             3  2  1  0   8- 2   7 
+# 2.SWITZERLAND         3  1  2  0   5- 3   5
+# 3.Hungary             3  1  0  2   2- 5   3 
+# 4.Scotland            3  0  1  2   2- 7   1
+
+▪ Group B
+
+15.06.24 @ Berlin         Spain              3–0 Croatia
+                         (Morata 29, Fabian Ruiz 32, Dani Carvajal 45+2)
+15.06.24 @ Dortmund       Italy              2–1 Albania
+                         (Bastoni 11, Barella 16; Bajrami 1)
+19.06.24 @ Hamburg        Croatia            2–2 Albania
+                         (Kramaric 74, Gjasula 76og; Laci 11, Gjasula 90+5)
+20.06.24 @ Gelsenkirchen  Spain              1–0 Italy
+                         (Calafiori 55og)
+24.06.24 @ Düsseldorf     Albania            0–1 Spain
+                         (Ferran Torres 13)
+24.06.24 @ Leipzig        Croatia            1–1 Italy
+                         (Modric 55; Zaccagni 90+8)
+
+# 1.SPAIN               3  3  0  0   5- 0   9 
+# 2.ITALY               3  1  1  1   3- 3   4
+# 3.Croatia             3  0  2  1   3- 6   2 
+# 4.Albania             3  0  1  2   3- 5   1
+
+▪ Group C
+
+16.06.24 @ Stuttgart      Slovenia           1–1 Denmark
+                         (Janza 77; Eriksen 17)
+16.06.24 @ Gelsenkirchen  Serbia             0–1 England
+                         (Bellingham 13)
+20.06.24 @ München        Slovenia           1–1 Serbia
+                         (Karnicnik 69; Jovic 90+5)
+20.06.24 @ Frankfurt      Denmark            1–1 England
+                         (Hjulmand 34; Kane 18)
+25.06.24 @ Köln           England            0–0 Slovenia
+25.06.24 @ München        Denmark            0–0 Serbia
+
+# 1.ENGLAND             3  1  2  0   2- 1   5
+# 2.DENMARK             3  0  3  0   2- 2   3
+# 3.SLOVENIA            3  0  3  0   2- 2   3
+# 4.Serbia              3  0  2  1   1- 2   2
+
+▪ Group D
+
+16.06.24 @ Hamburg        Poland             1–2 Netherlands
+                         (Buksa 16; Gakpo 29, Weghorst 83)
+17.06.24 @ Düsseldorf     Austria            0–1 France
+                         (Wober 38og)
+21.06.24 @ Berlin         Poland             1–3 Austria
+                         (Piatek 30; Trauner 9, Baumgartner 66, Arnautovic 78pen)
+21.06.24 @ Leipzig        Netherlands        0–0 France
+25.06.24 @ Berlin         Netherlands        2–3 Austria
+                         (Gakpo 47, Depay 75; Malen 6og, Schmid 59, Sabitzer 80)
+25.06.24 @ Dortmund       France             1–1 Poland
+                         (Mbappé 56pen; Lewandowski 79pen)
+
+# 1.AUSTRIA             3  2  0  1   6- 4   6
+# 2.FRANCE              3  1  2  0   2- 1   5
+# 3.NETHERLANDS         3  1  1  1   4- 4   4
+# 4.Poland              3  0  1  2   3- 6   1
+
+▪ Group E
+
+17.06.24 @ München        Romania            3–0 Ukraine
+                         (Stanciu 29, R. Marin 53, Dragus 57)
+17.06.24 @ Frankfurt      Belgium            0–1 Slovakia
+                         (Schranz 7)
+21.06.24 @ Düsseldorf     Slovakia           1–2 Ukraine
+                         (Schranz 17; Shaparenko 54, Yaremchuk 80)
+22.06.24 @ Köln           Belgium            2–0 Romania
+                         (Tielemans 2, De Bruyne 80)
+26.06.24 @ Frankfurt      Slovakia           1–1 Romania
+                         (Duda 24; R. Marin 37pen)
+26.06.24 @ Stuttgart      Ukraine            0–0 Belgium
+
+# 1.ROMANIA             3  1  1  1   4- 3   4 
+# 2.BELGIUM             3  1  1  1   2- 1   4
+# 3.SLOVAKIA            3  1  1  1   3- 3   4
+# 4.Ukraine             3  1  1  1   2- 4   4
+
+▪ Group F
+
+18.06.24 @ Dortmund       Turkey             3–1 Georgia
+                         (Muldur 25, Guler 65, Akturkoglu 90+7; Mikautadze 32)
+18.06.24 @ Leipzig        Portugal           2–1 Czech Republic
+                         (Hranac 69og, Conceicao 90+2; Provod 62)
+22.06.24 @ Hamburg        Georgia            1–1 Czech Republic
+                         (Mikautadze 45+4pen; Schick 59)
+22.06.24 @ Dortmund       Turkey             0–3 Portugal
+                         (B. Silva 21, Akaydin 28og, Fernandes 56)
+26.06.24 @ Gelsenkirchen  Georgia            2–0 Portugal
+                         (Kvaratskhelia 2, Mikautadze 57pen)
+26.06.24 @ Hamburg        Czech Republic     1–2 Turkey
+                         (Soucek 66; Calhanoglu 51, Tosun 90+4)
+
+# 1.PORTUGAL            3  2  0  1   5- 3   6
+# 2.TURKEY              3  2  0  1   5- 5   6
+# 3.GEORGIA             3  1  1  1   4- 4   4
+# 4.Czech Republic      3  0  1  2   3- 5   1
+
+▪ 1/8 Finals
+29.06.24 @ Berlin         Switzerland        2–0 Italy
+                         (Freuler 37, Vargas 46)
+29.06.24 @ Dortmund       Germany            2–0 Denmark
+                         (Havertz 53pen, Musiala 68)
+30.06.24 @ Gelsenkirchen  England            2–1 Slovakia           (aet)
+                         (Bellingham 90+5, Kane 91; Schranz 25)
+30.06.24 @ Köln           Spain              4–1 Georgia
+                         (Rodri 39, Fabian Ruiz 51, Williams 75, Dani Olmo 83; 
+                          Le Normand 18og)
+ 1.07.24 @ Düsseldorf     France             1–0 Belgium
+                         (Vertonghen 85og)
+ 1.07.24 @ Frankfurt      Portugal           0–0 Slovenia           (aet, 3-0 pen)
+ 2.07.24 @ München        Romania            0–3 Netherlands
+                         (Gakpo 20, Malen 83, 90+3)
+ 2.07.24 @ Leipzig        Austria            1–2 Turkey
+                         (Gregoritsch 66; Demiral 1, 59)
+
+▪ Quarterfinals
+ 5.07.24 @ Stuttgart      Spain              2–1 Germany            (aet)
+                         (Dani Olmo 51, Merino 119; Wirtz 89)
+ 5.07.24 @ Hamburg        Portugal           0–0 France             (aet, 3-5 pen)
+ 6.07.24 @ Düsseldorf     England            1–1 Switzerland        (aet, 5-3 pen)
+                         (Saka 80; Embolo 75)
+ 6.07.24 @ Berlin         Netherlands        2–1 Turkey
+                         (De Vrij 70, Muldur 76og; Akaydin 35)
+
+▪ Semifinals
+ 9.07.24 @ München        Spain              2–1 France
+                         (Yamal 21, Dani Olmo 25; Kolo Muani 9)
+10.07.24 @ Dortmund       Netherlands        1–2 England
+                         (Simons 7; Kane 18pen, Watkins 90)
+
+▪ Final
+14.07.24 @ Berlin         Spain              2–1 England
+                         (Williams 47, Oyarzabal 86; Palmer 73)
+

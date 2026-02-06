@@ -1,12 +1,10 @@
-= European Championship 1964
-
 ###
 #  converted from rsssf page/style to Football.TXT
 #    for source, see https://www.rsssf.org/tables/64e.html
 
-== Qualifying Stage
-
-# Draw held in Zürich on 10 January 1962.
+=European Championship 1964=
+==Qualifying Stage==
+# draw held in Zürich on 10 January 1962
 
 
 ▪ First Round
@@ -242,9 +240,8 @@ Soviet Union     3-1 Sweden
   (Ponedelnik 28, 57, Voronin 83; Hamrin 78)
 
 
-== Final Tournament (in Spain)
-
-# Draw held in Madrid on 6 May 1964.
+==Final Tournament==
+# in Spain; draw held in Madrid on 6 May 1964
 
 ▪ Semifinals 
 June 17 @ Madrid, Santiago Bernabéu     att: 125000

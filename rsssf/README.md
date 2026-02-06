@@ -6,6 +6,7 @@ Samples include:
 
 - [European Championship 1960](60e.txt)
 - [European Championship 1964](64e.txt)
+- [European Championship 2024](2024e.txt)
 
 
 
@@ -56,6 +57,7 @@ Czechoslovakia   	4-0 Ireland
   (Stacho 4pen, Bubernik 52, Pavlovic 66, Dolinsky 75)
 
 ▪ 1/8 Finals
+
 28.09.1958 @ Moskva (Luzhniki)
 Soviet Union     	3-1  Hungary
   (Ilyin 4, Metreveli 20, Ivanov 32; Göröcs 84)

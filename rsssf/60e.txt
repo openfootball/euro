@@ -1,11 +1,10 @@
-= European Championship 1960 =
-
 ###
 #  converted from rsssf page/style to Football.TXT
 #    for source, see https://www.rsssf.org/tables/60e.html
 
 
-== Qualifying Stage ==
+=European Championship 1960=
+==Qualifying Stage==
 
 ▪ Qualifying Round
 05.04.1959 @ Dublin (Dalymount Park)
@@ -103,9 +102,8 @@ Yugoslavia       	5-1  Portugal
 
 
 
-== Final Tournament (in France) ==
-
-# Draw held in Paris on 31 May 1960.
+==Final Tournament==
+# in France; draw held in Paris on 31 May 1960
 
 ▪ Semifinals  
 July 6 @ Marseille, Stade Vélodrome   att: 28000
