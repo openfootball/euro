@@ -31,26 +31,31 @@ Rep.of Ireland   	4-2 Iceland
 Iceland          	1-1 Rep.of Ireland
   (Arnason 57; Tuohy)
 
-07.11.1962 @ Sofia (Vassil Levski)
+
+
+
+07.11.1962 @ Sofia (Vassil Levski) ▪ 1st Leg
 Bulgaria         	3-1 Portugal
   (Asparuchov 65 76, Diev 84; Eusebio 49)
-16.12.1962 @ Lisboa
+16.12.1962 @ Lisboa ▪ 2nd Leg
 Portugal         	3-1 Bulgaria
   (Hernani (2), Coluna; Iliev)
+23.01.1963 @ Roma, Italy (Olimpico) ▪ Replay
+Bulgaria         	1-0 Portugal
+  (Asparuchov 87)
 
 ##
 ##  todo: check play-off status - is kind of replay???  agg 4-4
-
+# 
 ## via wikipedia
 #  4–4 on aggregate. A replay was played on a neutral ground to determine the winner.
 #   use [replay]  match status - why? why not?
 #     match is kind of 3rd leg
 #   Bulgaria won 5–4 on aggregate and advanced to the round of 16.
+#
+#  note - use inline round that gets concat(endated)
+#                      to ▪ First Round, Replay
 
-
-23.01.1963 @ Roma, Italy (Olimpico)
-Bulgaria         	1-0 Portugal			[Play-off]
-  (Asparuchov 87)
 
 
 03.10.1962 @ Sheffield (Hillsborough)
@@ -97,6 +102,12 @@ Malta            	1-3 Denmark
 # 31 March 1963  Albania 	    v Greece    [Cancelled]
 # note - Greece withdrew. Albania had a walkover and advanced to the round of 16.
 
+21.06.1962 
+  Greece 		o/w  Albania   
+31.03..1963  
+  Albania 	w/o  Greece    
+[Greece withdrew. Albania had a walkover.]
+
 
 11.11.1962 @ Amsterdam (Olympisch)
 Netherlands      	3-1 Switzerland
@@ -131,12 +142,13 @@ Turkey           	0-1 Italy
 # Luxembourg bye.
 # Soviet Union bye.
 #
-#
 #  todo - how to deal with byes. keep as comment or ???
 #   use
-#     Byes:   Austria, Luxembourg, Soviet Union
 #
 #  note - bye refers to a team automatically advancing to the next round without competing. 
+
+Byes:   Austria, Luxembourg, Soviet Union
+
 
 
 ▪ 1/8 Finals
@@ -235,7 +247,7 @@ Soviet Union     3-1 Sweden
 # Draw held in Madrid on 6 May 1964.
 
 ▪ Semifinals 
-June 17 @ Madrid, Santiago Bernabéu     #(att: 125000)
+June 17 @ Madrid, Santiago Bernabéu     att: 125000
 Spain            2-1 Hungary         (aet)
   (Pereda 35, Amancio 115; Bene 84)
 Spain: Iribar, Rivilla, Calleja, Zoco, Olivella, Fusté, Amancio,
@@ -244,7 +256,7 @@ Hungary: Szentmihalyi, Mátrai, Mészöly, Sárosi, Nagy, Sipos, Bene,
          Komora, Albert, Tichy, Fenyvesi
   ref: Blavier (Belgium)
 
-June 17 @ Barcelona, Nou Camp     #(att: 38000)
+June 17 @ Barcelona, Nou Camp     att: 38000
 Soviet Union     3-0 Denmark
    (Voronin 19, Ponedelnik 40, V.Ivanov 87)
 Soviet Union: Yashin, Chustikov, Shesternev, Mudrik, Voronin, Anichkin,
@@ -254,7 +266,7 @@ Denmark: L.Nielsen, J.Hansen, K.Hansen, B.Hansen I, Larsen, E.Nielsen,
   ref: Lo Bello (Italy)
 
 ▪ Match for third place 
-June 20 @ Barcelona, Nou Camp     #(att: 4000)
+June 20 @ Barcelona, Nou Camp     att: 4000
 Hungary          3-1 Denmark         (aet)
   (Bene 11, Novák 107p, 110; Bertelsen 81)
 Hungary: Szentmihalyi, Novák, Mészöly, Ihász, Solymosi, Sipos, Farkas,
@@ -264,7 +276,7 @@ Denmark: L.Nielsen, Wolmar, K.Hansen, B.Hansen I, Larsen, E.Nielsen,
   ref: Mellet (Switzerland)
 
 ▪ Final
-June 21 @ Madrid, Santiago Bernabéu   #(att: 105000)
+June 21 @ Madrid, Santiago Bernabéu   att: 105000
 Spain            2-1 Soviet Union
   (Pereda 6, Marcelino 84; Khusainov 8)
 Spain: Iribar, Rivilla, Olivella, Calleja, Zoco, Fusté, Amancio,

@@ -108,7 +108,7 @@ Yugoslavia       	5-1  Portugal
 # Draw held in Paris on 31 May 1960.
 
 ▪ Semifinals  
-July 6 @ Marseille, Stade Vélodrome   #(att: 28000)
+July 6 @ Marseille, Stade Vélodrome   att: 28000
 Soviet Union     3-0  Czechoslovakia
    (V.Ivanov 34, 56, Ponedelnik 65)
 Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
@@ -117,7 +117,7 @@ Czechoslovakia: Schroiff, Safránek, Novák, Buberník, Popluhár, Masopust,
                 Vojta, Moravcík, Kvasnák, Bubník, Dolínski
   ref: Jionni (Italy)
 
-July 6 @ Paris, Parc des Princes    #(att: 27000)
+July 6 @ Paris, Parc des Princes    att: 27000
 Yugoslavia       5-4  France
   (Galic 11, Zanetic 55, Knez 75, Jerkovic 77, 78; 
     Vincent 12, Heutte 43, 62, Wiesnieski 52)
@@ -128,7 +128,7 @@ France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller,
   ref: Grandain (Belgium)
 
 ▪ Match for third place 
-July 9 @ Marseille, Stade Vélodrome   #(att: 9400)
+July 9 @ Marseille, Stade Vélodrome   att: 9400
 Czechoslovakia   2-0  France
   (Bubník 58, Pavlovic 88)
 Czechoslovakia: Schroiff, Safránek, Novák, Masopust, Popluhár, Buberník,  
@@ -138,7 +138,7 @@ France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis,
   ref: Jionni (Italy)
   
 ▪ Final 
-July 10 @ Paris, Parc des Princes    #(att: 18,000)    
+July 10 @ Paris, Parc des Princes    att: 18000    
 Soviet Union     2-1  Yugoslavia      (aet)
   (Metreveli 49, Ponedelnik 114; Galic 41)
 Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,

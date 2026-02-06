@@ -88,9 +88,10 @@ What's changed? <br>
 Same as above:
 -  Start round lines with a round marker `▪`; optional - no need to UPCASE for emphasis
 -  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`.
-   - Move the goal minutes e.g. `22`, `42pen` after the player name.
+   - Move the goal minutes e.g. `49`, `114` after the player name.
 -  Start geo names, that is,  city/location and ground/stadium/venue with
    the geo marker `@`.
+
 Plus:
 -  Start a match header ALWAYS with a date e.g. `July 10` followed by the geo names, that is,  city/location and ground/stadium/venue with
    the geo marker `@`.
@@ -114,3 +115,67 @@ Yugoslavia: Vidinic, Durkovic, Jusufi, Zanetic, Miladinovic, Perusic,
             Jerkovic, Sekularac, Galic, Matus, Kostic
   ref: Ellis (England)
 ```
+
+
+
+
+### More Football.TXT Format Notes
+
+#### Byes
+
+Change byes - that is, teams that automatically advance 
+to the next round without competing - in literal "comment-style" ...
+
+RSSSF (Before):
+```
+Austria bye.
+Luxembourg bye.
+Soviet Union bye.
+```
+
+... to a byes prop line.
+
+
+Football.TXT:
+
+```
+Byes:   Austria, Luxembourg, Soviet Union
+```
+
+or if you don't care about parsing the byes (into structured data) 
+to comment lines e.g:
+
+```
+# Austria bye.
+# Luxembourg bye.
+# Soviet Union bye.
+```
+
+
+
+
+#### Replays
+
+Change match replays with a `[Play-off]` tag...
+
+RSSSF (Before):
+```
+23.01.1963 in Roma, Italy (Olimpico)
+Bulgaria         	1-0 Portugal			[Play-off]
+  [87 Asparuchov]
+```
+
+... to an inline round header addition (`▪ Replay`) in the match header.
+Note - the inline round header will (automagically) get concat(entated)
+with the "top-level" round header e.g. `▪ First Round`, thus, resulting in
+`▪ First Round, Replay`.
+
+Football.TXT:
+
+```
+23.01.1963 @ Roma, Italy (Olimpico) ▪ Replay
+Bulgaria         	1-0 Portugal		
+  (Asparuchov 87)
+```
+
+
