@@ -1,0 +1,251 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/68e.html
+
+=European Championship 1968=
+==Qualifying Stage==
+# draw held in Zürich on 23 February 1966
+
+▪ Group 1 
+Ireland          0-0 Spain              
+Ireland          2-1 Turkey             
+Spain            2-0 Ireland            
+Turkey           0-0 Spain              
+Turkey           2-1 Ireland
+Ireland          0-2 Czechoslovakia
+Spain            2-0 Turkey
+Czechoslovakia   3-0 Turkey
+Czechoslovakia   1-0 Spain
+Spain            2-1 Czechoslovakia
+Turkey           0-0 Czechoslovakia
+Czechoslovakia   1-2 Ireland
+
+# 1.SPAIN            6  3  2  1   6- 2  8
+# 2.Czechoslovakia   6  3  1  2   8- 4  7
+# 3.Ireland          6  2  1  3   5- 8  5
+# 4.Turkey           6  1  2  3   3- 8  4
+
+
+▪ Group 2
+Portugal         1-2 Sweden             
+Bulgaria         4-2 Norway             
+Sweden           1-1 Portugal           
+Norway           1-2 Portugal           
+Sweden           0-2 Bulgaria
+Norway           0-0 Bulgaria
+Norway           3-1 Sweden
+Sweden           5-2 Norway
+Bulgaria         3-0 Sweden
+Portugal         2-1 Norway
+Bulgaria         1-0 Portugal
+Portugal         0-0 Bulgaria
+
+# 1.BULGARIA         6  4  2  0  10- 2 10
+# 2.Portugal         6  2  2  2   6- 6  6
+# 3.Sweden           6  2  1  3   9-12  5
+# 4.Norway           6  1  1  4   9-14  3
+
+
+▪ Group 3
+Finland          0-0 Austria            
+Greece           2-1 Finland            
+Finland          1-1 Greece             
+Soviet Union     4-3 Austria            
+Soviet Union     4-0 Greece
+Soviet Union     2-0 Finland
+Finland          2-5 Soviet Union
+Austria          2-1 Finland
+Greece           4-1 Austria
+Austria          1-0 Soviet Union
+Greece           0-1 Soviet Union
+Austria            v Greece          [abandoned at 1-1; game declared void]
+
+# 1.SOVIET UNION     6  5  0  1  16- 6 10
+# 2.Greece           5  2  1  2   7- 8  5
+# 3.Austria          5  2  1  2   7- 9  5
+# 4.Finland          6  0  2  4   5-12  2
+
+
+▪ Group 4 
+West Germany     6-0 Albania            
+Yugoslavia       1-0 West Germany       
+Albania          0-2 Yugoslavia         
+West Germany     3-1 Yugoslavia
+Yugoslavia       4-0 Albania
+Albania          0-0 West Germany
+
+# 1.YUGOSLAVIA       4  3  0  1   8- 3  6
+# 2.West Germany     4  2  1  1   9- 2  5
+# 3.Albania          4  0  1  3   0-12  1
+
+
+▪ Group 5 
+Netherlands      2-2 Hungary            
+Hungary          6-0 Denmark            
+Netherlands      2-0 Denmark            
+East Germany     4-3 Netherlands        
+Hungary          2-1 Netherlands
+Denmark          0-2 Hungary
+Denmark          1-1 East Germany
+Netherlands      1-0 East Germany
+Hungary          3-1 East Germany
+Denmark          3-2 Netherlands
+East Germany     3-2 Denmark
+East Germany     1-0 Hungary
+
+# 1.HUNGARY          6  4  1  1  15- 5  9
+# 2.East Germany     6  3  1  2  10-10  7 
+# 3.Netherlands      6  2  1  3  11-11  5
+# 4.Denmark          6  1  1  4   6-16  3
+
+
+▪ Group 6 
+Romania          4-2 Switzerland        
+Italy            3-1 Romania            
+Cyprus           1-5 Romania            
+Cyprus           0-2 Italy              
+Romania          7-0 Cyprus
+Switzerland      7-1 Romania
+Italy            5-0 Cyprus
+Switzerland      5-0 Cyprus
+Switzerland      2-2 Italy
+Italy            4-0 Switzerland
+Cyprus           2-1 Switzerland
+Romania          0-1 Italy
+
+# 1.ITALY            6  5  1  0  17- 3 11
+# 2.Romania          6  3  0  3  18-14  6
+# 3.Switzerland      6  2  1  3  17-13  5
+# 4.Cyprus           6  1  0  5   3-25  2
+
+
+▪ Group 7 
+Poland           4-0 Luxembourg         
+France           2-1 Poland             
+Belgium          2-1 France             
+Luxembourg       0-3 France             
+Luxembourg       0-0 Poland
+Luxembourg       0-5 Belgium
+Poland           3-1 Belgium
+Poland           1-4 France
+Belgium          2-4 Poland
+France           1-1 Belgium
+Belgium          3-0 Luxembourg
+France           3-1 Luxembourg
+
+# 1.FRANCE           6  4  1  1  14- 6  9
+# 2.Belgium          6  3  1  2  14- 9  7
+# 3.Poland           6  3  1  2  13- 9  7
+# 4.Luxembourg       6  0  1  5   1-18  1
+
+
+▪ Group 8
+# also Home Championships 66/67, 67/68
+Northern Ireland 0-2 England            
+Wales            1-1 Scotland           
+England          5-1 Wales              
+Scotland         2-1 Northern Ireland    
+Northern Ireland 0-0 Wales              
+England          2-3 Scotland
+Wales            0-3 England
+Northern Ireland 1-0 Scotland
+England          2-0 Northern Ireland
+Scotland         3-2 Wales
+Scotland         1-1 England
+Wales            2-0 Northern Ireland
+
+# 1.ENGLAND          6  4  1  1  15- 5  9
+# 2.Scotland         6  3  2  1  10- 8  8
+# 3.Wales            6  1  2  3   6-12  4
+# 4.Northern Ireland 6  1  1  4   2- 8  3
+
+
+▪ Quarterfinals 
+# draw held in Paris on 16 Jan 1968
+
+Apr 6 @ Sofia
+Bulgaria         3-2 Italy
+  (Kotkov 12pen, Dermendjiev 66, Jekov 73; Penev 61og, Prati 83)
+Apr 20 @ Napoli
+Italy            2-0 Bulgaria
+  (Parti 14, Domenghini 68)
+
+May 4 @ Budapest
+Hungary          2-0 Soviet Union
+  (Farkas 22, Göröcs 83)
+May 11 @ Moskva
+Soviet Union     3-0 Hungary
+  (Banishevsky 22, Khurtsilava 59, Byshovets 72)
+
+Apr 3 @ London
+England          1-0 Spain
+  (B.Charlton 84)
+May 8 @ Madrid
+Spain            1-2 England
+  (Amancio 48; Peters 55, Hunter 81)
+
+Apr 6 @ Marseille
+France           1-1 Yugoslavia
+  (Di Nallo 78; Musemic 66)
+Apr 24 @ Beograd
+Yugoslavia       5-1 France
+  (Petkovic 3, 33, Musemic 12, 80, Dzajic 24; Di Nallo 34)
+
+
+
+==Final Tournament==
+# in Italy, draw held in Paris on 16 Jan 1968
+
+▪ Semifinals 
+June 5 @ Napoli, San Paolo    att: 69_000
+Italy            0-0 Soviet Union    (aet)
+  Italy: Zoff, Burgnich, Facchetti, Bercellino, Castano, Ferrini, Domenghini,
+        Juliano, Mazzola, Rivera, Prati
+  Soviet Union: Psenichnikov, Afonin, Istomin, Kaplichni, Shesternev, Lenev,
+                Malofeev, Byshovets, Banishevsky, Logofet, Evriuzhikin 
+  ref: Tschenscher (West Germany)
+  [Italy progresses on coin toss.]
+
+June 5 @ Firenze, Stadio Comunale   att: 22_000
+Yugoslavia       1-0 England
+  (Dzajic 86)
+  sent off: Mullery 90
+  Yugoslavia: Pantelic, Fazlagic, Damjanovic, Pavlovic, Paunovic, Holcer, 
+              Petkovic, Osim, Musemic, Trivic, Dzajic
+  England: Banks, Newton, Wilson, Mullery, Labone, Moore, Ball, Peters, 
+           B.Charlton, Hunt, Hunter 
+  ref: Ortiz de Mendibil (Spain) 
+
+▪ Match for third place 
+June 8 @ Roma, Stadio Olimpico    att: 18_000 
+England          2-0 Soviet Union
+  (B.Charlton 39, Hurst 63)
+  England: Banks, Wright, Wilson, Stiles, Labone, Moore, Hunter, Peters, 
+           B.Charlton, Hurst, Hunt
+  Soviet Union: Psenichnikov, Afonin, Istomin, Kaplichni, Shesternev, Lenev,
+                Malofeev, Banishevsky, Byshovets, Logofet, Evriuzhikin 
+  ref: Zsolt (Hungary)
+
+▪ Final
+June 8 @ Roma, Stadio Olimpico   att: 69_000 
+Italy            1-1 Yugoslavia      (aet)
+  (Domenghini 80; Dzajic 39)
+  Italy: Zoff, Burgnich, Facchetti, Ferrini, Guarneri, Castano, Domenghini,
+         Juliano, Anastasi, Lodetti, Prati
+  Yugoslavia: Pantelic, Fazlagic, Damjanovic, Pavlovic, Paunovic, Holcer, 
+              Petkovic, Trivic, Musemic, Acimovic, Dzajic
+  ref: Dienst (Switzerland)
+
+▪ Final, Replay
+June 10 @ Roma, Stadio Olimpico    att: 50_000
+Italy            2-0 Yugoslavia
+  (Riva 11, Anastasi 32)
+  Italy: Zoff, Burgnich, Facchetti, Salvadore, Guarneri, Rosato, Domenghini,
+         Mazzola, Anastasi, De Sisti, Riva
+  Yugoslavia: Pantelic, Fazlagic, Damjanovic, Pavlovic, Paunovic, Holcer, 
+              Hosic, Trivic, Musemic, Acimovic, Dzajic
+  ref: Ortiz de Mendibil (Spain)
+
+
+# Topscorer overall: Riva (Italy) 7 goals
+# Topscorer final tournament: Dzajic (Yugoslavia) 2 goals

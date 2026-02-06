@@ -6,6 +6,7 @@ Samples include:
 
 - [European Championship 1960](60e.txt)
 - [European Championship 1964](64e.txt)
+- [European Championship 1968](68e.txt)
 - [European Championship 2024](2024e.txt)
 
 
