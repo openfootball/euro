@@ -1,0 +1,249 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/72e.html
+
+
+=European Championship 1972=
+==Qualifying Stage==
+# groups drawn on Mar 20, 1970, in Roma (Italy)
+
+▪ Group 1 
+Czechoslovakia   1-1 Finland            
+Romania          3-0 Finland            
+Wales            0-0 Romania            
+Wales            1-3 Czechoslovakia     
+Czechoslovakia   1-0 Romania
+Finland          0-1 Wales
+Finland          0-4 Czechoslovakia
+Finland          0-4 Romania
+Wales            3-0 Finland
+Czechoslovakia   1-0 Wales
+Romania          2-1 Czechoslovakia
+Romania          2-0 Wales
+
+# 1.ROMANIA          6  4  1  1  11- 2  9
+# 2.Czechoslovakia   6  4  1  1  11- 4  9
+# 3.Wales            6  2  1  3   5- 6  5
+# 4.Finland          6  0  1  5   1-16  1
+
+
+▪ Group 2
+Norway           1-3 Hungary            
+France           3-1 Norway             
+Bulgaria         1-1 Norway             
+Hungary          1-1 France             
+Bulgaria         3-0 Hungary
+Norway           1-4 Bulgaria
+Norway           1-3 France
+Hungary          2-0 Bulgaria
+France           0-2 Hungary
+Hungary          4-0 Norway
+France           2-1 Bulgaria
+Bulgaria         2-1 France
+
+# 1.HUNGARY          6  4  1  1  12- 5  9
+# 2.Bulgaria         6  3  1  2  11- 7  7
+# 3.France           6  3  1  2  10- 8  7
+# 4.Norway           6  0  1  5   5-18  1
+
+
+▪ Group 3
+Malta            1-1 Greece             
+Greece           0-1 Switzerland        
+Malta            1-2 Switzerland        
+Malta            0-1 England            
+England          3-0 Greece
+Switzerland      5-0 Malta
+England          5-0 Malta
+Switzerland      1-0 Greece
+Greece           2-0 Malta
+Switzerland      2-3 England
+England          1-1 Switzerland
+Greece           0-2 England
+
+# 1.ENGLAND          6  5  1  0  15- 3 11
+# 2.Switzerland      6  4  1  1  12- 5  9
+# 3.Greece           6  1  1  4   3- 8  3
+# 4.Malta            6  0  1  5   2-16  1
+
+
+▪ Group 4 
+Spain            3-0 Northern Ireland   
+Cyprus           0-3 Northern Ireland   
+Northern Ireland 5-0 Cyprus             
+Cyprus           0-2 Spain              
+Soviet Union     2-1 Spain
+Soviet Union     6-1 Cyprus
+Soviet Union     1-0 Northern Ireland
+Northern Ireland 1-1 Soviet Union
+Spain            0-0 Soviet Union
+Cyprus           1-3 Soviet union
+Spain            7-0 Cyprus
+Northern Ireland 1-1 Spain
+
+# 1.SOVIET UNION     6  4  2  0  13- 4 10
+# 2.Spain            6  3  2  1  14- 3  8
+# 3.Northern Ireland 6  2  2  2  10- 6  6
+# 4.Cyprus           6  0  0  6   2-26  0
+
+
+▪ Group 5
+Denmark          0-1 Portugal           
+Scotland         1-0 Denmark            
+Belgium          2-0 Denmark            
+Belgium          3-0 Scotland           
+Belgium          3-0 Portugal
+Portugal         2-0 Scotland
+Portugal         5-0 Denmark
+Denmark          1-2 Belgium
+Denmark          1-0 Scotland
+Scotland         2-1 Portugal
+Scotland         1-0 Belgium
+Portugal         1-1 Belgium
+
+# 1.BELGIUM          6  4  1  1  11- 3  9
+# 2.Portugal         6  3  1  2  10- 6  7
+# 3.Scotland         6  3  0  3   4- 7  6
+# 4.Denmark          6  1  0  5   2-11  2
+
+
+▪ Group 6
+Ireland          1-1 Sweden             
+Sweden           1-0 Ireland            
+Austria          1-2 Italy              
+Italy            3-0 Ireland            
+Ireland          1-2 Italy
+Sweden           1-0 Austria
+Ireland          1-4 Austria
+Sweden           0-0 Italy
+Austria          1-0 Sweden
+Italy            3-0 Sweden
+Austria          6-0 Ireland
+Italy            2-2 Austria
+
+# 1.ITALY            6  4  2  0  12- 4 10
+# 2.Austria          6  3  1  2  14- 6  7
+# 3.Sweden           6  2  2  2   3- 5  6
+# 4.Ireland          6  0  1  5   3-17  1
+
+
+▪ Group 7 
+Netherlands      1-1 Yugoslavia         
+East Germany     1-0 Netherlands        
+Luxembourg       0-5 East Germany       
+Netherlands      6-0 Luxembourg         
+Yugoslavia       2-0 Netherlands
+East Germany     2-1 Luxembourg
+East Germany     1-2 Yugoslavia
+Luxembourg       0-2 Yugoslavia
+Netherlands      3-2 East Germany
+Yugoslavia       0-0 East Germany
+Yugoslavia       0-0 Luxembourg
+Luxembourg       0-8 Netherlands     @ Eindhoven, Netherlands
+
+# 1.YUGOSLAVIA       6  3  3  0   7- 2  9
+# 2.Netherlands      6  3  1  2  18- 6  7
+# 3.East Germany     6  3  1  2  11- 6  7
+# 4.Luxembourg       6  0  1  5   1-23  1
+
+
+▪ Group 8 
+Poland           3-0 Albania            
+West Germany     1-1 Turkey             
+Turkey           2-1 Albania            
+Albania          0-1 West Germany       
+Turkey           0-3 West Germany
+Albania          1-1 Poland
+West Germany     2-0 Albania
+Poland           5-1 Turkey
+Poland           1-3 West Germany
+Albania          3-0 Turkey
+West Germany     0-0 Poland
+Turkey           1-0 Poland
+
+# 1.WEST GERMANY     6  4  2  0  10- 2 10
+# 2.Poland           6  2  2  2  10- 6  6
+# 3.Turkey           6  2  1  3   5-13  5
+# 4.Albania          6  1  1  4   5- 9  3
+
+
+# knock-out stage drawn on Jan 12, 1972, in Zürich (Switzerland)
+
+▪ Quarterfinals 
+
+Apr 29 @ London
+England          1-3 West Germany
+  (Lee 77; U.Hoeneß 26, Netzer 85pen, G.Müller 89)
+May 13 @ Berlin
+West Germany     0-0 England
+
+Apr 29 @ Milano
+Italy            0-0 Belgium
+May 13 @ Bruxelles
+Belgium          2-1 Italy
+  (Van Moer 23, Van Himst 72; Riva 85pen)
+
+Apr 29 @ Budapest
+Hungary          1-1 Romania
+  (Branikovits 11; Satmareanu 55)
+May 14 @ Bucurest
+Romania          2-2 Hungary
+  (Dobrin 14, Neagu 82; Szöke 5, Kocsis 35)
+May 17 @ Beograd
+Hungary          2-1 Romania  
+  (Kocsis 27, 89; Neagu 34)
+
+Apr 30 @ Beograd
+Yugoslavia       0-0 Soviet Union
+May 13 @ Moskva
+Soviet Union     3-0 Yugoslavia
+  (Kolotov 53, Banishevski 74, Kozinkevich 90)
+
+==Final Tournament==
+# in Belgium
+
+▪ Semifinals  
+June 14 @ Antwerpen, Bosuil    att: 56_000
+West Germany     2-1 Belgium
+  (G.Müller 24, 71; Polleunis 83)
+West Germany: Maier, Höttges, Beckenbauer, Schwarzenbeck, Breitner, U.Hoeneß (Grabowski 58), 
+              Wimmer, Netzer, Heynckes, G.Müller, E.Kremers
+Belgium: Piot, Heylens, Van den Daele, Thissen, Dolmans, Dockx, Verheyen,
+         M.Martens (Polleunis 70), Semmeling, Van Himst, Lambert 
+  ref: Mullen (Scotland)
+
+June 14 @ Brussel, Astridpark    att: 2_000
+Soviet Union     1-0 Hungary
+  (Konkov 53)  
+Soviet Union: Rudakov, Dzodzuashvili, Kaplichny, Istomin, Khurtsilava, Kolotov, 
+              Troshkin, Baidachni, Banishevski (G.Nodia 70), Konkov, Onishenko
+Hungary: Géczi, Fábián, Páncsics, Bálint, P.Juhász, I.Juhász, Kocsis (Albert 60),
+         Kü, Szöke, Bene (A.Dunai 60), Zámbö 
+  ref: Glöckner (East Germany)
+  [missed penalty: Zámbö 85 (saved)]
+
+▪ Match for third place 
+June 17 @ Liège, Stade Sclessin    att: 9_000
+Belgium          2-1 Hungary
+  (Lambert 24, Van Himst 28; Kü 53pen)
+Belgium: Piot, Heylens, Van den Daele, Thissen, Dolmans, Dockx, Verheyen,
+         Polleunis, Semmeling, Van Himst, Lambert 
+Hungary: Géczi, Fábián, Páncsics, Bálint, P.Juhász, I.Juhász, Kü, Abert,
+         Kozma, A.Dunai, Zámbö (Szücs 46)
+  ref: Boström (Sweden)
+
+▪ Final
+June 18 @ Bruxelles, Stade Heysel   att: 50_000
+West Germany     3-0 Soviet Union
+  (G.Müller 27, 58, Wimmer 52)
+West Germany: Maier, Höttges, Beckenbauer, Schwarzenbeck, Breitner, U.Hoeneß,
+              Wimmer, Netzer, Heynckes, G.Müller, E.Kremers
+Soviet Union: Rudakov, Dzodzuashvili, Kaplichny, Istomin, Khurtsilava, Kolotov, 
+              Troshkin, Baidachni, Banishevsky (Kozinkevich 66), Konkov (Dolmatov 46), 
+              Onishenko
+  ref: Marschall (Austria)
+
+
+# Topscorer overall: G.Müller (West Germany) 11 goals
+# Topscorer final tournament: G.Müller (West Germany) 4 goals
+
