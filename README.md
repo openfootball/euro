@@ -24,12 +24,9 @@ Group D  |  Poland    Netherlands  Austria   France
 Group E  |  Belgium   Slovakia     Romania   Ukraine 
 Group F  |  Turkey    Georgia      Portugal  Czech Republic
 
-Matchday 1 | Fri Jun/14 - Tue Jun/18   
-Matchday 2 | Wed Jun/19 - Sat Jun/22   
-Matchday 3 | Sun Jun/23 - Wed Jun/26        
 
  
-▪ Group A
+▪ Group A, Match 1
 
 Fri Jun/14 
    21.00         Germany v Scotland   5-1 (3-0)    @ München Fußball Arena, München
