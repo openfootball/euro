@@ -23,6 +23,15 @@ Ireland          	2-0 Czechoslovakia
 10.05.1959 in Bratislava (Tehelné Pole)
 Czechoslovakia   	4-0 Ireland
   [4pen Stacho,  52 Bubernik, 66 Pavlovic, 75 Dolinsky]
+
+1/8 FINALS
+
+28.09.1958 in Moskva (Luzhniki)
+Soviet Union     	3-1 Hungary
+  [4 Ilyin, 20 Metreveli, 32 Ivanov; 84 Göröcs]
+27.09.1959 Budapest (Nép)
+Hungary          	0-1 Soviet Union
+  [58 Voinov]
 ```
 
 What's changed? <br>
@@ -45,8 +54,63 @@ Ireland          	2-0 Czechoslovakia
 10.05.1959 @ Bratislava (Tehelné Pole)
 Czechoslovakia   	4-0 Ireland
   (Stacho 4pen, Bubernik 52, Pavlovic 66, Dolinsky 75)
+
+▪ 1/8 Finals
+28.09.1958 @ Moskva (Luzhniki)
+Soviet Union     	3-1  Hungary
+  (Ilyin 4, Metreveli 20, Ivanov 32; Göröcs 84)
+27.09.1959 @ Budapest (Nép)
+Hungary          	0-1  Soviet Union
+  (Voinov 58)
 ```
 
 
+Let's try the final.
 
 
+RSSSF (Before):
+
+```
+FINAL
+
+Paris, Parc des Princes, July 10
+Soviet Union     2-1 Yugoslavia      [aet]
+  [Metreveli 49, Ponedelnik 114; Galic 41]
+  [ref: Ellis (England); att: 18,000]
+Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
+              Metreveli, V.Ivanov, Ponedelnik, Bubukin, Meskhi
+Yugoslavia: Vidinic, Durkovic, Jusufi, Zanetic, Miladinovic, Perusic,
+            Jerkovic, Sekularac, Galic, Matus, Kostic
+```
+
+
+What's changed? <br>
+Same as above:
+-  Start round lines with a round marker `▪`; optional - no need to UPCASE for emphasis
+-  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`.
+   - Move the goal minutes e.g. `22`, `42pen` after the player name.
+-  Start geo names, that is,  city/location and ground/stadium/venue with
+   the geo marker `@`.
+Plus:
+-  Start a match header ALWAYS with a date e.g. `July 10` followed by the geo names, that is,  city/location and ground/stadium/venue with
+   the geo marker `@`.
+- Enclose the right-hand-side part of a split-up score e.g. `aet` with parentheses, that is, `()` instead of square brackets `[]`. 
+- Remove the the enclosing square brackets from the props `ref:, att:`; optional - move the att(endance) prop into the match header; separate by two spaces (or use a comma).
+
+
+NOTE - the comma `,` is reserved as a separator, thus, in numbers use the underscore `_`
+as (optional) thousands separator e.g. change `18,000` to `18_000` or `18000`. 
+
+Football.TXT:
+
+```
+▪ Final 
+July 10 @ Paris, Parc des Princes    att: 18_000    
+Soviet Union     2-1  Yugoslavia      (aet)
+  (Metreveli 49, Ponedelnik 114; Galic 41)
+Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
+              Metreveli, V.Ivanov, Ponedelnik, Bubukin, Meskhi
+Yugoslavia: Vidinic, Durkovic, Jusufi, Zanetic, Miladinovic, Perusic,
+            Jerkovic, Sekularac, Galic, Matus, Kostic
+  ref: Ellis (England)
+```
