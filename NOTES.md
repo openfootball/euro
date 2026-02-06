@@ -4,9 +4,9 @@
 
 - [x] 1960 - rsssf, wiki
 - [x] 1964 - rsssf
-- [ ] 1968
-- [ ] 1972
-- [ ] 1976
+- [x] 1968 - rsssf
+- [x] 1972 - rsssf
+- [x] 1976
 - [ ] 1980
 - [ ] 1984
 - [ ] 1988
@@ -18,7 +18,7 @@
 - [ ] 2012
 - [ ] 2016
 - [ ] 2021
-- [ ] 2024
+- [x] 2024 - rsssf
 
 
 
@@ -99,23 +99,5 @@ RSSSF
 - add here
 
 
-
-## Readme Attic
-
-
-```
-= Euro 2012          # in Poland-Ukraine
-
-Group A  |  Poland       Greece   Russia   Czech Republic
-Group B  |  Netherlands  Denmark  Germany  Portugal
-Group C  |  Spain        Italy    Ireland  Croatia
-Group D  |  Ukraine      Sweden   France   England
-
-Group A:
-
-(1) Jun/8 18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
-(2) Jun/8 20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
-...
-```
 
 
