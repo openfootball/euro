@@ -7,7 +7,7 @@
 - [x] 1968 - rsssf
 - [x] 1972 - rsssf
 - [x] 1976
-- [ ] 1980
+- [x] 1980
 - [ ] 1984
 - [ ] 1988
 - [ ] 1992
@@ -17,7 +17,7 @@
 - [ ] 2008
 - [ ] 2012
 - [ ] 2016
-- [ ] 2021
+- [x] 2021
 - [x] 2024 - rsssf
 
 
@@ -97,6 +97,30 @@ RSSSF
 ### Wikidata
 
 - add here
+
+
+
+
+
+### More
+
+**Euro 2024 Notes**
+
+
+Wikipedia
+- <https://en.wikipedia.org/wiki/UEFA_Euro_2024>
+
+UEFA (Official)
+- Match Schedule <https://editorial.uefa.com/resources/0288-1999ab91ad50-899894098aed-1000/uefa_euro_2024_match_schedule.pdf>
+- <https://www.uefa.com/euro2024/>
+
+
+
+**Euro 2020 / 2021  Notes**
+
+
+Wikipedia
+- <https://en.wikipedia.org/wiki/UEFA_Euro_2020>
 
 
 

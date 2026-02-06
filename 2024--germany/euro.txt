@@ -62,7 +62,7 @@ Sun Jun 23
   21:00         Switzerland 1-1 (1-0) Germany       @ Waldstadion, Frankfurt
                            (Ndoye 29'; Füllkrug 90+2')
   21:00         Scotland     0-1 (0-0) Hungary       @ Stuttgart Arena, Stuttgart
-                           (-; Csoboth 90+10')
+                           (Csoboth 90+10')
 
 ▪ Group B
 Sat Jun 15 
@@ -79,7 +79,7 @@ Thu Jun 20
            (Calafiori 55' (o.g.))
 Mon Jun 24 
   21:00         Albania   0-1 (0-1)   Spain      @ Düsseldorf Arena, Düsseldorf
-           (-;Torres 13')
+           (Torres 13')
   21:00         Croatia   1-1 (0-0)   Italy      @ Leipzig Stadion, Leipzig
            (Modrić 55'; Zaccagni 90+8')
 
@@ -88,7 +88,7 @@ Sun Jun 16
   18:00        Slovenia   1-1 (0-1)   Denmark    @ Stuttgart Arena, Stuttgart
              (Janža 77'; Eriksen 17')
   21:00        Serbia   0-1 (0-1)   England    @ Arena Auf Schalke, Gelsenkirchen
-               (-; Bellingham 13')
+               (Bellingham 13')
 
 Thu Jun 20 
   15:00        Slovenia   1-1 (0-0)   Serbia     @ München Fußball Arean, München
@@ -107,7 +107,7 @@ Sun Jun 16
               (Buksa 16'; Gakpo 29' Weghorst 83')
 Mon Jun 17 
   21:00       Austria  0-1 (0-1)    France        @ Düsseldorf Arena, Düsseldorf
-              (-; Wöber 38' (o.g.))
+              (Wöber 38' (o.g.))
   Austria:  Pentz - Posch, Danso [Y], Wöber [Y] (Trauner 59'), Mwene [Y] (Prass 88') -
             Seiwald, Grillitsch (Wimmer 60') - Laimer [Y] (Schmid 91'), Baumgartner [Y],
             Sabitzer - Gregoritsch (Arnautovic 59')
@@ -133,7 +133,7 @@ Mon Jun 17
   15:00      Romania     3-0 (1-0)   Ukraine       @ München Fußball Arena, München
               (Stanciu 29' R. Marin 53' Drăguș 57')
   18:00      Belgium     0-1 (0-1)   Slovakia      @ Waldstadion, Frankfurt
-              (-; Schranz 7')
+              (Schranz 7')
 
 Fri Jun 21 
   15:00      Slovakia   1-2 (1-0) Ukraine       @ Düsseldorf Arena, Düsseldorf
@@ -158,7 +158,7 @@ Sat Jun 22
    15:00     Georgia   1-1 (1-0)   Czech Republic  @ Volksparkstadion, Hamburg
             (Mikautadze 45+4' (pen.); Schick 59')
    18:00     Turkey   0-3 (0-2)   Portugal   @ BVB Stadion Dortmund, Dortmund
-            (-; Silva 21' Akaydian 28' (o.g.) Fernandes 55')
+            (Silva 21' Akaydian 28' (o.g.) Fernandes 55')
 Wed Jun 26 
    21:00     Georgia   2-0 (1-0)   Portugal   @ Arena Auf Schalke, Gelsenkirchen
             (Kvaratskhelia 2' Mikautadze 57' (pen.))
@@ -189,7 +189,7 @@ Mon Jul 1
 
 Tue Jul 2 
   18:00     Romania  0-3 (0-1)  Netherlands   @ München Fußball Arena, München   # Winner Group E - 3rd Group A/B/C/D
-          (-; Gakpo 20' Malen 83', 90+3')
+          (Gakpo 20' Malen 83', 90+3')
   21:00     Austria  1-2 (0-1)  Turkey   @ Leipzig Stadion, Leipzig             # Winner Group D - Runner-up Group F
           (Gregoritsch 66'; Demiral 1', 59')
 

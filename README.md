@@ -45,10 +45,11 @@ Fri Jun 14
                   (Varga 66'; 
                    Duah 12' Aebischer 45' Embolo 90+3')
   Hungary:     Gulacsi – Lang (Bolla 46' [Y]), Orban, Szalai [Y] (Dardai 79') – Fiola, 
-               Nagy (Kleinheisler 67'), Schäfer, Kerkez (Adam 79') – Sallai, Varga, Szoboszlai
+               Nagy (Kleinheisler 67'), Schäfer, Kerkez (Adam 79') – Sallai, Varga,
+               Szoboszlai
   Switzerland: Sommer – Schär, Akanji, Rodriguez – Widmer [Y] (Stergiou 68' ), Xhaka, 
-               Freuler [Y] (Sierro 86'), Aebischer – Ndoye (Rieder 86'), Duah (Amdouni 68'), 
-               Vargas (Embolo 73')
+               Freuler [Y] (Sierro 86'), Aebischer – Ndoye (Rieder 86'), 
+               Duah (Amdouni 68'),  Vargas (Embolo 73')
 
 ...
 
@@ -63,35 +64,35 @@ Sun Jul 14
 ```
 =  England - Euro 2024
 
-  1,  Jordan Pickford,             GK,     61/0  , b. 1994,  Everton FC (ENG)
- 13,  Aaron Ramsdale,              GK,      5/0  , b. 1998,  Arsenal FC (ENG)
- 23,  Dean Henderson,              GK,      1/0  , b. 1997,  Crystal Palace FC (ENG)
+  1,  Jordan Pickford,           GK,     61/0  , b. 1994,  Everton FC (ENG)
+ 13,  Aaron Ramsdale,            GK,      5/0  , b. 1998,  Arsenal FC (ENG)
+ 23,  Dean Henderson,            GK,      1/0  , b. 1997,  Crystal Palace FC (ENG)
 
-  2,  Kyle Walker,                 DF,     83/1  , b. 1990,  Manchester City FC (ENG)
-  3,  Luke Shaw,                   DF,     31/3  , b. 1995,  Manchester United FC (ENG)
-  5,  John Stones,                 DF,     72/3  , b. 1994,  Manchester City FC (ENG)
-  6,  Marc Guéhi,                  DF,     11/0  , b. 2000,  Crystal Palace FC (ENG)
-  8,  Trent Alexander-Arnold,      DF,     25/3  , b. 1998,  Liverpool FC (ENG)
- 12,  Kieran Trippier,             DF,     48/1  , b. 1990,  Newcastle United FC (ENG)
- 14,  Ezri Konsa,                  DF,      4/0  , b. 1997,  Aston Villa FC (ENG)
- 15,  Lewis Dunk,                  DF,      6/0  , b. 1991,  Brighton & Hove Albion FC (ENG)
- 22,  Joe Gomez,                   DF,     15/0  , b. 1997,  Liverpool FC (ENG)
+  2,  Kyle Walker,               DF,     83/1  , b. 1990,  Manchester City FC (ENG)
+  3,  Luke Shaw,                 DF,     31/3  , b. 1995,  Manchester United FC (ENG)
+  5,  John Stones,               DF,     72/3  , b. 1994,  Manchester City FC (ENG)
+  6,  Marc Guéhi,                DF,     11/0  , b. 2000,  Crystal Palace FC (ENG)
+  8,  Trent Alexander-Arnold,    DF,     25/3  , b. 1998,  Liverpool FC (ENG)
+ 12,  Kieran Trippier,           DF,     48/1  , b. 1990,  Newcastle United FC (ENG)
+ 14,  Ezri Konsa,                DF,      4/0  , b. 1997,  Aston Villa FC (ENG)
+ 15,  Lewis Dunk,                DF,      6/0  , b. 1991,  Brighton & Hove Albion FC (ENG)
+ 22,  Joe Gomez,                 DF,     15/0  , b. 1997,  Liverpool FC (ENG)
 
-  4,  Declan Rice,                 MF,     51/3  , b. 1999,  Arsenal FC (ENG)
- 10,  Jude Bellingham,             MF,     29/3  , b. 2003,  Real Madrid CF (ESP)
- 11,  Phil Foden,                  MF,     34/4  , b. 2000,  Manchester City FC (ENG)
- 16,  Conor Gallagher,             MF,     13/0  , b. 2000,  Chelsea FC (ENG)
- 24,  Cole Palmer,                 MF,      4/1  , b. 2002,  Chelsea FC (ENG)
- 25,  Adam Wharton,                MF,      1/0  , b. 2004,  Crystal Palace FC (ENG)
- 26,  Kobbie Mainoo,               MF,      3/0  , b. 2005,  Manchester United FC (ENG)
+  4,  Declan Rice,               MF,     51/3  , b. 1999,  Arsenal FC (ENG)
+ 10,  Jude Bellingham,           MF,     29/3  , b. 2003,  Real Madrid CF (ESP)
+ 11,  Phil Foden,                MF,     34/4  , b. 2000,  Manchester City FC (ENG)
+ 16,  Conor Gallagher,           MF,     13/0  , b. 2000,  Chelsea FC (ENG)
+ 24,  Cole Palmer,               MF,      4/1  , b. 2002,  Chelsea FC (ENG)
+ 25,  Adam Wharton,              MF,      1/0  , b. 2004,  Crystal Palace FC (ENG)
+ 26,  Kobbie Mainoo,             MF,      3/0  , b. 2005,  Manchester United FC (ENG)
 
-  7,  Bukayo Saka,                 FW,     33/11 , b. 2001,  Arsenal FC (ENG)
-  9,  Harry Kane,                  FW,     91/63 , b. 1993,  FC Bayern Munich (GER)
- 17,  Ivan Toney,                  FW,      3/1  , b. 1996,  Brentford FC (ENG)
- 18,  Anthony Gordon,              FW,      3/0  , b. 2001,  Newcastle United FC (ENG)
- 19,  Ollie Watkins,               FW,     12/3  , b. 1995,  Aston Villa FC (ENG)
- 20,  Jarrod Bowen,                FW,      8/0  , b. 1996,  West Ham United FC (ENG)
- 21,  Eberechi Eze,                FW,      4/0  , b. 1998,  Crystal Palace FC (ENG)
+  7,  Bukayo Saka,               FW,     33/11 , b. 2001,  Arsenal FC (ENG)
+  9,  Harry Kane,                FW,     91/63 , b. 1993,  FC Bayern Munich (GER)
+ 17,  Ivan Toney,                FW,      3/1  , b. 1996,  Brentford FC (ENG)
+ 18,  Anthony Gordon,            FW,      3/0  , b. 2001,  Newcastle United FC (ENG)
+ 19,  Ollie Watkins,             FW,     12/3  , b. 1995,  Aston Villa FC (ENG)
+ 20,  Jarrod Bowen,              FW,      8/0  , b. 1996,  West Ham United FC (ENG)
+ 21,  Eberechi Eze,              FW,      4/0  , b. 1998,  Crystal Palace FC (ENG)
 ```
 
 
