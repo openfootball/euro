@@ -1,0 +1,84 @@
+= Euro 1996    # in England
+
+# England qualifies as host.
+
+
+# Venues:
+#  Empire Stadium, Wembley (80_000; London) 
+#  Elland Road (43_000; Leeds)
+#  Old Trafford (43_000; Manchester) 
+#  Hillsborough (41_000; Sheffield)
+#  Anfield (40_000; Liverpool)
+#  Villa Park (40_000; Birmingham) 
+#  St James' Park (32_000; Newcastle) 
+#  City Ground (28_000; Nottingham) 
+
+
+Group A   | England   Netherlands     Scotland    Switzerland
+Group B   | France    Spain           Bulgaria    Romania
+Group C   | Germany   Czech Republic  Italy       Russia
+Group D   | Portugal  Croatia         Denmark     Turkey 
+
+
+
+▪ Group A
+June 8   @ London            England          1-1 Switzerland
+June 10  @ Birmingham        Netherlands      0-0 Scotland 
+June 13  @ Birmingham        Switzerland      0-2 Netherlands 
+June 15  @ London            Scotland         0-2 England    
+June 18  @ Birmingham        Scotland         1-0 Switzerland 
+June 18  @ London            Netherlands      1-4 England   
+
+▪ Group B
+June 9   @ Leeds             Spain            1-1 Bulgaria  
+June 10  @ Newcastle         Romania          0-1 France    
+June 13  @ Newcastle         Bulgaria         1-0 Romania  
+June 15  @ Leeds             France           1-1 Spain   
+June 18  @ Newcastle         France           3-1 Bulgaria 
+June 18  @ Leeds             Romania          1-2 Spain  
+
+▪ Group C  
+June 9   @ Manchester        Germany          2-0 Czech Republic
+June 11  @ Liverpool         Italy            2-1 Russia   
+June 14  @ Liverpool         Czech Republic   2-1 Italy  
+June 16  @ Manchester        Russia           0-3 Germany  
+June 19  @ Liverpool         Russia           3-3 Czech Republic 
+June 19  @ Manchester        Italy            0-0 Germany    
+
+▪ Group D
+June 9   @ Sheffield         Denmark          1-1 Portugal  
+June 11  @ Nottingham        Turkey           0-1 Croatia  
+June 14  @ Nottingham        Portugal         1-0 Turkey  
+June 16  @ Sheffield         Denmark          0-3 Croatia 
+June 19  @ Nottingham        Croatia          0-3 Portugal 
+June 19  @ Sheffield         Denmark          3-0 Turkey   
+
+
+▪ Quarter-finals
+June 22 @ London           
+  England          0-0 Spain           (asdet, 4-2 pen)
+June 22 @ Liverpool
+  France           0-0 Netherlands     (asdet, 5-4 pen)
+
+June 23 @ Manchester
+  Germany          2-1 Croatia   
+June 23 @ Birmingham
+  Portugal         0-1 Czech Republic 
+
+
+▪ Semi-finals 
+June 26 @ Manchester
+  France           0-0 Czech Republic   (asdet, 5-6 pen)
+June 26 @ London
+  England          1-1 Germany          (asdet, 5-6 pen)
+
+# note - no match for third place
+
+▪ Final
+June 30 @ London
+  Germany          2-1 Czech Republic   (asdet)
+    (Bierhoff 73',95'; Berger 59'(pen))
+    Germany: Köpke, Sammer, Babbel, Helmer, Strunz, Hässler, Eilts (Bode 46'),
+         Scholl (Bierhoff 69'), Ziege, Klinsmann, Kuntz
+    Czech Republic: Kouba, Kadlec, Hornak, Suchoparek, Poborsky (Smicer 88'),
+                Nedved, Rada, Berger, Bejbl, Nemec, Kuka
