@@ -1,0 +1,59 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/eurochamp.html
+
+
+=European Championship, Finals=
+
+# Has been played since 1960, originally as "Nations Cup".  
+# From 1960 until 1976, 4 teams qualified for the final tournament, 
+# from 1980 until 1992, 8 teams made it there, 
+# and from 1996 to 2012 16 teams  entered the final showpiece.  
+# Since 2016, 24 teams qualify for the final event. 
+# However, 2020/21 saw a temporary return to the traditional format
+# of 4 teams contesting the title at a single venue, in London,
+# albeit after an additional second group phase and two knock-out rounds
+# (the "Phase Platini")
+# played all over Europe, in which six countries played all their group
+# matches at home (Denmark, England, Germany, Italy,
+# the Netherlands and Spain) while others were subjected to absurd travel trajectories.
+
+
+
+▪ Final
+1960    Soviet Union        2-1 Yugoslavia               (AET)
+          [Final tournament in France]
+1964    Spain               2-1 Soviet Union
+          [Final tournament in Spain]
+1968    Italy               1-1 Yugoslavia               (AET)
+        Italy               2-0 Yugoslavia               ▪ Replay
+          [Final tournament in Italy]
+1972    West Germany        3-0 Soviet Union
+          [Final tournament in Belgium]
+1976    Czechoslovakia      2-2 West Germany              (AET, 5-3 pen)
+          [Final tournament in Yugoslavia]
+1980    West Germany        2-1 Belgium
+          [Final tournament in Italy]
+1984    France              2-0 Spain
+          [Final tournament in France]
+1988    Netherlands         2-0 Soviet Union
+          [Final tournament in West Germany]
+1992    Denmark             2-0 Germany
+          [Final tournament in Sweden]
+1996    Germany             2-1 Czech Republic            (ASDET)
+          [Final tournament in England]
+2000    France              2-1 Italy                     (ASDET)
+          [Final tournament in Belgium and the Netherlands]
+2004    Greece              1-0 Portugal
+          [Final tournament in Portugal]
+2008    Spain               1-0 Germany
+          [Final tournament in Austria and Switzerland]
+2012    Spain               4-0 Italy
+          [Final tournament in Poland and Ukraine]
+2016    Portugal            1-0 France                     (AET)
+          [Final tournament in France]
+2021    Italy               1-1 England                    (AET, 3-2 pen)
+          [Final tournament in England]
+2024    Spain               2-1 England
+          [Final tournament in Germany]
+

@@ -1,0 +1,39 @@
+= Euro 1984   # in France
+
+
+Group 1 | France    Denmark    Belgium       Yugoslavia
+Group 2 | Spain     Portugal   West Germany  Romania
+
+
+▪ Group 1 
+France           1-0 Denmark         
+Belgium          2-0 Yugoslavia         
+France           5-0 Belgium           
+Denmark          5-0 Yugoslavia       
+France           3-2 Yugoslavia
+Denmark          3-2 Belgium
+
+▪ Group 2
+West Germany     0-0 Portugal          
+Spain            1-1 Romania            
+West Germany     2-1 Romania          
+Portugal         1-1 Spain            
+West Germany     0-1 Spain
+Portugal         1-0 Romania
+
+▪ Semi-finals
+France           3-2 Portugal   (aet)           @ Marseille
+Spain            1-1 Denmark    (aet, 5-4 pen)  @ Lyon
+
+# note - no match for third place
+
+▪ Final
+June 27 @ Paris
+France           2-0 Spain
+    (Platini 57', Bellone 90')
+  France: Bats, Battiston (Amoros), Le Roux, Bossis, Domergue, Giresse, Tigana,
+          Fernandez, Platini, Lacombe, Genghini (Bellone)
+  Spain: Arconada, Urquiaga, Salva (Roberto), Gallego, Señor, Francisco, Victor,
+         Camacho, Julio Alberto (Sarabia), Santillana, Carrasco
+
+
