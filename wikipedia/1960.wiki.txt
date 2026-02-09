@@ -69,7 +69,7 @@
 
 {{Football box
 |date={{Start date|1960|7|10|df=y}}
-|time=20:30 <noinclude>[[Central European Time|CET]]</noinclude>
+|time=20:30 [[Central European Time|CET]]
 |team1={{fb-rt|URS}}
 |score={{score link|1960 European Nations' Cup final tournament#Final|2–1|1960 European Nations' Cup final}}
 |aet=yes

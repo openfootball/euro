@@ -56,9 +56,9 @@ June 19  @ Sheffield         Denmark          3-0 Turkey
 
 ▪ Quarter-finals
 June 22 @ London           
-  England          0-0 Spain           (asdet, 4-2 pen)
+  England          0-0 Spain           (aet, 4-2 pen)
 June 22 @ Liverpool
-  France           0-0 Netherlands     (asdet, 5-4 pen)
+  France           0-0 Netherlands     (aet, 5-4 pen)
 
 June 23 @ Manchester
   Germany          2-1 Croatia   
@@ -68,15 +68,14 @@ June 23 @ Birmingham
 
 ▪ Semi-finals 
 June 26 @ Manchester
-  France           0-0 Czech Republic   (asdet, 5-6 pen)
+  France           0-0 Czech Republic   (aet, 5-6 pen)
 June 26 @ London
-  England          1-1 Germany          (asdet, 5-6 pen)
+  England          1-1 Germany          (aet, 5-6 pen)
 
-# note - no match for third place
 
 ▪ Final
 June 30 @ London
-  Germany          2-1 Czech Republic   (asdet)
+  Germany          2-1 Czech Republic   (aet/gg)
     (Bierhoff 73',95'; Berger 59'(pen))
     Germany: Köpke, Sammer, Babbel, Helmer, Strunz, Hässler, Eilts (Bode 46'),
          Scholl (Bierhoff 69'), Ziege, Klinsmann, Kuntz
