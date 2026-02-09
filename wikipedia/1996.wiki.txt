@@ -15,14 +15,14 @@
 |date={{Start date|1996|6|22|df=y}}
 |time=15:00
 |team1={{fb-rt|ESP}}
-|score={{score link|UEFA Euro 1996 knockout stage#Spain vs England|0–0}}
+|score=0–0
 |aet=yes
 |report=https://www.uefa.com/uefaeuro/match/52911/
 |team2={{fb|ENG}}
 |goals1=
 |goals2=
 |stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
-|attendance=75,440<ref name="esp-eng report">{{cite news |first=Glenn |last=Moore |title=Fortune favours brave England |url=https://www.independent.co.uk/sport/fortune-favours-brave-england-1338488.html |work=The Independent |publisher=Independent Print |date=24 June 1996 |access-date=20 June 2012 }}</ref>
+|attendance=75,440
 |referee=[[Marc Batta]] ([[French Football Federation|France]])
 |penalties1=
 *[[Fernando Hierro|Hierro]] {{penmiss}}
@@ -43,14 +43,14 @@
 |date={{Start date|1996|6|22|df=y}}
 |time=18:30
 |team1={{fb-rt|FRA|1974}}
-|score={{score link|UEFA Euro 1996 knockout stage#France vs Netherlands|0–0}}
+|score=0–0
 |aet=yes
 |report=https://www.uefa.com/uefaeuro/match/52912/
 |team2={{fb|NED}}
 |goals1=
 |goals2=
 |stadium=[[Anfield]], [[Liverpool]]
-|attendance=37,465<ref name="fra-ned report">{{cite news |first=Simon |last=Turnbull |title=Fitful France advance |url=https://www.independent.co.uk/sport/fitful-france-advance-1338498.html |work=The Independent |publisher=Independent Print |date=24 June 1996 |access-date=20 June 2012 }}</ref>
+|attendance=37,465
 |referee=[[Antonio Jesús López Nieto|Antonio López Nieto]] ([[Royal Spanish Football Federation|Spain]])
 |penalties1=
 *[[Zinedine Zidane|Zidane]] {{pengoal}}
@@ -72,7 +72,7 @@
 |date={{Start date|1996|6|23|df=y}}
 |time=15:00
 |team1={{fb-rt|GER}}
-|score={{score link|UEFA Euro 1996 knockout stage#Germany vs Croatia|2–1}}
+|score=2–1
 |report=https://www.uefa.com/uefaeuro/match/52913/
 |team2={{fb|CRO}}
 |goals1=
@@ -81,7 +81,7 @@
 |goals2=
 *[[Davor Šuker|Šuker]] {{goal|51}}
 |stadium=[[Old Trafford]], [[Manchester]]
-|attendance=43,412<ref name="ger-cro report">{{cite news |first=Phil |last=Shaw |title=Croatia punished by Sammer |url=https://www.independent.co.uk/sport/croatia-punished-by-sammer-1338496.html |work=The Independent |publisher=Independent Print |date=24 June 1996 |access-date=20 June 2012 }}</ref>
+|attendance=43,412
 |referee=[[Leif Sundell]] ([[Swedish Football Association|Sweden]])
 }}
 
@@ -91,14 +91,14 @@
 |date={{Start date|1996|6|23|df=y}}
 |time=18:30
 |team1={{fb-rt|CZE}}
-|score={{score link|UEFA Euro 1996 knockout stage#Czech Republic vs Portugal|1–0}}
+|score=1–0
 |report=https://www.uefa.com/uefaeuro/match/52914/
 |team2={{fb|POR}}
 |goals1=
 *[[Karel Poborský|Poborský]] {{goal|53}}
 |goals2=
 |stadium=[[Villa Park]], [[Birmingham]]
-|attendance=26,832<ref name="cze-por report 96">{{cite news |first=Jon |last=Culley |title=Poborsky piques Portugal |url=https://www.independent.co.uk/sport/poborsky-piques-portugal-1338497.html |work=The Independent |publisher=Independent Print |date=24 June 1996 |access-date=20 June 2012 }}</ref>
+|attendance=26,832
 |referee=[[Hellmut Krug]] ([[German Football Association|Germany]])
 }}
 
@@ -109,14 +109,14 @@
 |date={{Start date|1996|6|26|df=y}}
 |time=16:00
 |team1={{fb-rt|FRA|1974}}
-|score={{score link|UEFA Euro 1996 knockout stage#France vs Czech Republic|0–0}}
+|score=0–0
 |aet=yes
 |report=https://www.uefa.com/uefaeuro/match/52915/
 |team2={{fb|CZE}}
 |goals1=
 |goals2=
 |stadium=[[Old Trafford]], [[Manchester]]
-|attendance=43,877<ref name="fra-cze report">{{cite news |first=Phil |last=Shaw |title=France are sent home by Kadlec |url=https://www.independent.co.uk/sport/france-are-sent-home-by-kadlec-1339054.html |work=The Independent |publisher=Independent Print |date=27 June 1996 |access-date=21 June 2012 }}</ref>
+|attendance=43,877
 |referee=[[Leslie Mottram]] ([[Scottish Football Association|Scotland]])
 |penalties1=
 *[[Zinedine Zidane|Zidane]] {{pengoal}}
@@ -141,7 +141,7 @@
 |date={{Start date|1996|6|26|df=y}}
 |time=19:30
 |team1={{fb-rt|GER}}
-|score={{score link|UEFA Euro 1996 knockout stage#Germany vs England|1–1}}
+|score=1–1
 |aet=yes
 |report=https://www.uefa.com/uefaeuro/match/52916/
 |team2={{fb|ENG}}
@@ -150,7 +150,7 @@
 |goals2=
 *[[Alan Shearer|Shearer]] {{goal|3}}
 |stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
-|attendance=75,862<ref name="ger-eng report">{{cite news |first=Glenn |last=Moore |title=Shoot-out breaks England hearts |url=https://www.independent.co.uk/sport/shootout-breaks-england-hearts-1339059.html |work=The Independent |publisher=Independent Print |date=27 June 1996 |access-date=20 June 2012 }}</ref>
+|attendance=75,862
 |referee=[[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
 |penalties1=
 *[[Thomas Häßler|Häßler]] {{pengoal}}
@@ -177,7 +177,7 @@
 |date={{Start date|1996|6|30|df=y}}
 |time=19:00 [[British Summer Time|BST]]
 |team1={{fb-rt|CZE}}
-|score={{score link|UEFA Euro 1996 knockout stage#Final|1–2|UEFA Euro 1996 final}}
+|score=1–2
 |agget=yes
 |report=https://www.uefa.com/uefaeuro/match/52917/
 |team2={{fb|GER}}

@@ -1,0 +1,103 @@
+= Euro 2000   # in Belgium and the Netherlands
+
+# Belgium and the Netherlands qualify as hosts.
+
+
+# Stadiums: 
+# Amsterdam ArenA (50_000)
+# Feyenoord Stadion Rotterdam (50_000)
+# Philips Stadion Eindhoven (30_000)
+# Gelre Dome Arnhem (30_000)
+# Koning Boudewijn Stadion/Stade Roi Baudouin Brussel/Bruxelles (50_000)
+# Jan Breydel Stadion Brugge (30_000)
+# Stade Communal Charleroi (30_000)
+# Sclessin Liège (30_000)
+
+
+Group A |  Portugal     Romania     England    Germany
+Group B |  Italy        Turkey      Belgium    Sweden
+Group C |  Spain        Yugoslavia  Norway     Slovenia
+Group D |  Netherlands  France      Czech Republic   Denmark
+
+▪ Group A
+12.06. 18.00 @ Liège       Germany            1-1 Romania
+                              (Scholl 28; Moldovan 5)
+       20.45 @ Eindhoven   Portugal           3-2 England
+                              (Figo 22, João Pinto 37, Nuno Gomes 59; 
+                               Scholes 3, McManaman 18)
+17.06. 18.00 @ Arnhem      Romania            0-1 Portugal
+                              (Costinha 90)
+       20.45 @ Charleroi   England            1-0 Germany
+                              (Shearer 53)
+20.06. 20.45 @ Charleroi   England            2-3 Romania
+                              (Shearer 40pen, Owen 45; 
+                               Chivu 22, Munteanu 48, Ganea 88pen)
+       20.45 @ Rotterdam   Portugal           3-0 Germany
+                              (Conceição 35,54,71)
+
+ 
+▪ Group B
+10.06. 20.45 @ Brussel     Belgium            2-1 Sweden
+                              (Goor 43, E.Mpenza 46; Mjällby 53)
+11.06. 14.30 @ Arnhem      Turkey             1-2 Italy
+                              (Okan Buruk 61; Conte 52, F.Inzaghi 70pen)
+14.06. 20.45 @ Bruxelles   Italy              2-0 Belgium
+                              (Totti 6, Fiore 66)
+15.06. 20.45 @ Eindhoven   Sweden             0-0 Turkey
+19.06. 20.45 @ Brussel     Turkey             2-0 Belgium
+                              (Hakan Sükür 45, 70)
+       20.45 @ Eindhoven   Italy              2-1 Sweden
+                              (Di Biagio 39, Del Piero 88; Larsson 77)
+
+
+▪ Group C 
+13.06. 18.00 @ Rotterdam   Spain              0-1 Norway
+                              (Iversen 66)
+       20.45 @ Charleroi   Yugoslavia         3-3 Slovenia
+                              (Milosevic 67, 73, Drulovic 70; 
+                               Zahovic 23,57, Pavlin 52)
+18.06. 18.00 @ Amsterdam   Slovenia           1-2 Spain
+                              (Zahovic 58; Raúl 4, Etxebarría 60)
+       20.45 @ Liège       Norway             0-1 Yugoslavia
+                              (Milosevic 8)
+21.06. 18.00 @ Brugge      Yugoslavia         3-4 Spain
+                              (Milosevic 30, Govedarica 51, Komljenovic 75; 
+                               Alfonso 39,90, Munitis 52, Mendieta 90pen) 
+       18.00 @ Arnhem      Slovenia           0-0 Norway
+
+
+▪ Group D
+11.06. 18.00 @ Brugge      France             3-0 Denmark
+                              (Blanc 16, Henry 64, Wiltord 90)
+       20.45 @ Amsterdam   Netherlands        1-0 Czech Republic
+                              (F.de Boer 89pen)
+16.06. 18.00 @ Brugge      Czech Republic     1-2 France
+                              (Poborsky 35pen; Henry 7, Djorkaeff 60)
+       20.45 @ Rotterdam   Denmark            0-3 Netherlands
+                              (Kluivert 57, R.de Boer 66, Zenden 77)
+21.06. 20.45 @ Amsterdam   France             2-3 Netherlands
+                              (Dugarry 8, Trezeguet 31; 
+                               Kluivert 14, F.de Boer 51, Zenden 59)
+       20.45 @ Liège       Denmark            0-2 Czech Republic
+                              (Smicer 64,67)
+
+
+▪ Quarter-finals
+24.06. 18.00 @ Amsterdam   Portugal           2-0 Turkey
+                              (Nuno Gomes 44,56)
+       20.45 @ Bruxelles   Italy              2-0 Romania
+                              (Totti 33, Inzaghi 42)
+25.06. 18.00 @ Rotterdam   Netherlands        6-1 Yugoslavia 
+                              (Kluivert 24,38,54, Govedarica 51og, Overmars 78,90;
+                               Milosevic 90)
+       20.45 @ Brugge      France             2-1 Spain
+                              (Zidane 33, Djorkaeff 44; Mendieta 38pen)
+
+▪ Semi-finals
+28.06. 20.45 @ Brussel     Portugal           1-2 France                  (aet/gg)
+                              (Nuno Gomes 19; Henry 51, Zidane 117pen)
+29.06. 18.00 @ Amsterdam   Italy              0-0 Netherlands             (aet, 3-1 pen)
+
+▪ Final
+ 2.07. 20.00 @ Rotterdam   France             2-1 Italy                   (aet/gg)
+                              (Wiltord 90, Trezeguet 103; Delvecchio 55)

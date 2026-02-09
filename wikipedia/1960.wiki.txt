@@ -11,7 +11,7 @@
 |date={{Start date|1960|7|6|df=y}}
 |time=20:00
 |team1={{fb-rt|FRA}}
-|score={{score link|1960 European Nations' Cup final tournament#France vs Yugoslavia|4–5}}
+|score=4–5
 |report=https://www.uefa.com/uefaeuro/match/4022/
 |team2={{fb|YUG}}
 |goals1=
@@ -34,7 +34,7 @@
 |date={{Start date|1960|7|6|df=y}}
 |time=21:30
 |team1={{fb-rt|TCH}}
-|score={{score link|1960 European Nations' Cup final tournament#Czechoslovakia vs Soviet Union|0–3}}
+|score=0–3
 |report=https://www.uefa.com/uefaeuro/match/4023/
 |team2={{fb|URS}}
 |goals1=
@@ -51,7 +51,7 @@
 |date={{Start date|1960|7|9|df=y}}
 |time=21:30
 |team1={{fb-rt|TCH}}
-|score={{score link|1960 European Nations' Cup final tournament#Third place play-off|2–0}}
+|score=2–0
 |report=https://www.uefa.com/uefaeuro/match/4024/
 |team2={{fb|FRA}}
 |goals1=
@@ -71,7 +71,7 @@
 |date={{Start date|1960|7|10|df=y}}
 |time=20:30 [[Central European Time|CET]]
 |team1={{fb-rt|URS}}
-|score={{score link|1960 European Nations' Cup final tournament#Final|2–1|1960 European Nations' Cup final}}
+|score=2–1
 |aet=yes
 |report=https://www.uefa.com/uefaeuro/match/4025/
 |team2={{fb|YUG}}
