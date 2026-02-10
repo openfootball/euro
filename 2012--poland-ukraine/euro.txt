@@ -9,76 +9,88 @@ Group B  |  Netherlands  Denmark  Germany  Portugal
 Group C  |  Spain        Italy    Ireland  Croatia
 Group D  |  Ukraine      Sweden   France   England
 
-Matchday 1 | Jun/8  - Jun/11
-Matchday 2 | Jun/12 - Jun/15
-Matchday 3 | Jun/16 - Jun/19
+Matchday 1 | Jun 8  - Jun 11
+Matchday 2 | Jun 12 - Jun 15
+Matchday 3 | Jun 16 - Jun 19
 
 
-Group A
+▪ Group A
+Jun 8 
+  18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
+  20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
 
-(1)  Jun/8 18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
-(2)  Jun/8 20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+Jun 12 
+  18:00  Greece  1-2  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+  20:45  Poland  1-1  Russia             @ National Stadium Warszawa, Warszawa
 
-(9)  Jun/12 18:00  Greece  1-2  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
-(10) Jun/12 20:45  Poland  1-1  Russia             @ National Stadium Warszawa, Warszawa
-
-(17) Jun/16 20:45  Czech Republic  1-0  Poland     @ Municipal Stadium Wrocław, Wrocław
-(18) Jun/16 20:45  Greece          1-0  Russia     @ National Stadium Warszawa, Warszawa
-
-
-Group B
-
-(3) Jun/9 18:00  Netherlands    0-1  Denmark     @ Metalist Stadium, Kharkiv
-(4) Jun/9 20:45  Germany        1-0  Portugal    @ Arena Lviv, Lviv
-
-(11) Jun/13 18:00  Denmark      2-3  Portugal    @ Arena Lviv, Lviv
-(12) Jun/13 20:45  Netherlands  1-2  Germany     @ Metalist Stadium, Kharkiv
-
-(19) Jun/17 20:45  Portugal     2-1  Netherlands  @ Metalist Stadium, Kharkiv
-(20) Jun/17 20:45  Denmark      1-2  Germany      @ Arena Lviv, Lviv
+Jun 16 
+  20:45  Czech Republic  1-0  Poland     @ Municipal Stadium Wrocław, Wrocław
+         Greece          1-0  Russia     @ National Stadium Warszawa, Warszawa
 
 
-Group C
+▪ Group B
+Jun 9
+  18:00  Netherlands    0-1  Denmark     @ Metalist Stadium, Kharkiv
+  20:45  Germany        1-0  Portugal    @ Arena Lviv, Lviv
 
-(5)  Jun/10 18:00  Spain     1-1  Italy
-(6)  Jun/10 20:45  Ireland   1-3  Croatia
+Jun 13 
+  18:00  Denmark      2-3  Portugal    @ Arena Lviv, Lviv
+  20:45  Netherlands  1-2  Germany     @ Metalist Stadium, Kharkiv
 
-(13) Jun/14 18:00  Italy  1-1  Croatia
-(14) Jun/14 20:45  Spain  4-0  Ireland
-
-(21) Jun/18 20:45  Croatia  0-1  Spain
-(22) Jun/18 20:45  Italy  2-0  Ireland
+Jun 17
+  20:45  Portugal     2-1  Netherlands  @ Metalist Stadium, Kharkiv
+         Denmark      1-2  Germany      @ Arena Lviv, Lviv
 
 
-Group D
+▪ Group C
+Jun 10 
+  18:00  Spain     1-1  Italy
+  20:45  Ireland   1-3  Croatia
 
-(7) Jun/11 18:00  France  1-1  England
-(8) Jun/11 20:45  Ukraine  2-1  Sweden
+Jun 14 
+  18:00  Italy  1-1  Croatia
+  20:45  Spain  4-0  Ireland
 
-(15) Jun/15 20:45  Sweden  2-3  England
-(16) Jun/15 18:00  Ukraine  0-2  France
+Jun 18 
+  20:45  Croatia  0-1  Spain
+         Italy  2-0  Ireland
 
-(23) Jun/19 20:45  England  1-0  Ukraine
-(24) Jun/19 20:45  Sweden  2-0  France
+
+▪ Group D
+Jun 11 
+  18:00  France  1-1  England
+  20:45  Ukraine  2-1  Sweden
+
+Jun 15 
+  20:45  Sweden  2-3  England
+  18:00  Ukraine  0-2  France
+
+Jun 19
+   20:45  England  1-0  Ukraine
+          Sweden  2-0  France
 
 
 #############################
 # Knockout phase / Finals
 
-Quarter-finals
-
-(25) Jun/21 20:45  Czech Republic  0-1             Portugal
-(26) Jun/22 20:45  Germany  4-2             Greece
-(27) Jun/23 20:45  Spain  2-0             France
-(28) Jun/24 20:45  England  2-4 pen. 0-0 a.e.t. (0-0)  Italy
-
-
-Semi-finals
-
-(29) Jun/27 20:45   Portugal 2-4 pen. 0-0 a.e.t. (0-0)   Spain
-(30) Jun/28 20:45   Germany   1-2              Italy
+▪ Quarter-finals
+Jun 21 
+  20:45  Czech Republic  0-1             Portugal
+Jun 22 
+  20:45  Germany  4-2             Greece
+Jun 23
+  20:45  Spain  2-0             France
+Jun 24 
+  20:45  England  2-4 pen. 0-0 a.e.t. (0-0)  Italy
 
 
-Final
+▪ Semi-finals
+Jun 27 
+  20:45   Portugal 2-4 pen. 0-0 a.e.t. (0-0)   Spain
+Jun 28 
+  20:45   Germany   1-2              Italy
 
-(31) Jul/1 20:45   Spain  4-0  Italy
+
+▪ Final
+Jul 1 
+  20:45   Spain  4-0  Italy

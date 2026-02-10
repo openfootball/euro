@@ -9,78 +9,90 @@ Group B  |  Austria        Croatia         Germany      Poland
 Group C  |  Netherlands    Italy           Romania      France
 Group D  |  Greece         Sweden          Spain        Russia
 
-Matchday 1 | Jun/7  - Jun/10
-Matchday 2 | Jun/11 - Jun/14
-Matchday 3 | Jun/15 - Jun/18
+Matchday 1 | Jun 7  - Jun 10
+Matchday 2 | Jun 11 - Jun 14
+Matchday 3 | Jun 15 - Jun 18
 
 
-Group A
+▪ Group A
+Jun 7 
+  18:00   Switzerland     0-1  Czech Republic   @ St. Jakob-Park, Basel
+  20:45   Portugal        2-0  Turkey           @ Stade de Genève, Geneva
 
-Jun/7 18:00   Switzerland     0-1  Czech Republic   @ St. Jakob-Park, Basel
-Jun/7 20:45   Portugal        2-0  Turkey           @ Stade de Genève, Geneva
+Jun 11 
+  18:00   Czech Republic  1-3  Portugal        @ Stade de Genève, Geneva
+  20:45   Switzerland     1-2  Turkey          @ St. Jakob-Park, Basel
 
-Jun/11 18:00   Czech Republic  1-3  Portugal        @ Stade de Genève, Geneva
-Jun/11 20:45   Switzerland     1-2  Turkey          @ St. Jakob-Park, Basel
-
-Jun/15 20:45   Switzerland   2-0  Portugal         @ St. Jakob-Park, Basel
-Jun/15 20:45   Turkey        3-2  Czech Republic   @ Stade de Genève, Geneva
-
-
-Group B
-
-Jun/8 18:00   Austria      0-1  Croatia   @ Ernst-Happel-Stadion, Wien
-Jun/8 20:45   Germany      2-0  Poland    @ Wörtherseestadion, Klagenfurt
-
-Jun/12 18:00   Croatia     2-1   Germany  @ Wörtherseestadion, Klagenfurt
-Jun/12 20:45   Austria     1-1   Poland   @ Ernst-Happel-Stadion, Wien
-
-Jun/16 20:45   Poland      0-1   Croatia  @ Wörtherseestadion, Klagenfurt
-Jun/16 20:45   Austria     0-1   Germany  @ Ernst-Happel-Stadion, Wien
+Jun 15 
+  20:45   Switzerland   2-0  Portugal         @ St. Jakob-Park, Basel
+          Turkey        3-2  Czech Republic   @ Stade de Genève, Geneva
 
 
-Group C
+▪ Group B
+Jun 8 
+  18:00   Austria      0-1  Croatia   @ Ernst-Happel-Stadion, Wien
+  20:45   Germany      2-0  Poland    @ Wörtherseestadion, Klagenfurt
 
-Jun/09 18:00  Romania      0-0    France
-Jun/09 20:45  Netherlands  3-0    Italy
+Jun 12 
+  18:00   Croatia     2-1   Germany  @ Wörtherseestadion, Klagenfurt
+  20:45   Austria     1-1   Poland   @ Ernst-Happel-Stadion, Wien
 
-Jun/13 18:00  Italy        1-1    Romania
-Jun/13 20:45  Netherlands  4-1    France
-
-Jun/17 20:45  Netherlands  2-0    Romania
-Jun/17 20:45  France       0-2    Italy
+Jun 16 
+  20:45   Poland      0-1   Croatia  @ Wörtherseestadion, Klagenfurt
+          Austria     0-1   Germany  @ Ernst-Happel-Stadion, Wien
 
 
-Group D
+▪ Group C
+Jun 9 
+  18:00  Romania      0-0    France
+  20:45  Netherlands  3-0    Italy
 
-Jun/10 18:00  Spain       4-1    Russia
-Jun/10 20:45  Greece      0-2    Sweden
+Jun 13 
+  18:00  Italy        1-1    Romania
+  20:45  Netherlands  4-1    France
 
-Jun/14 18:00  Sweden      1-2    Spain
-Jun/14 20:45  Greece      0-1    Russia
+Jun 17 
+  20:45  Netherlands  2-0    Romania
+         France       0-2    Italy
 
-Jun/18 20:45  Greece      1-2    Spain
-Jun/18 20:45  Russia      2-0    Sweden
+
+▪ Group D
+Jun 10 
+  18:00  Spain       4-1    Russia
+  20:45  Greece      0-2    Sweden
+
+Jun 14 
+  18:00  Sweden      1-2    Spain
+  20:45  Greece      0-1    Russia
+
+Jun 18 
+  20:45  Greece      1-2    Spain
+         Russia      2-0    Sweden
 
 
 #################
 # Knockout phase / Finals
 
 
-Quarter-finals
-
-Th Jun/19 20:45   Portugal    2-3    Germany
-Fr Jun/20 20:45   Croatia     1-3 pen. 1-1 a.e.t. (0-0)   Turkey
-Sa Jun/21 20:45   Netherlands   1-3 a.e.t. (1-1)    Russia
-Su Jun/22 20:45   Spain         4-2 pen. 0-0 a.e.t. (0-0)   Italy
-
-
-Semi-finals
-
-We Jun/25 20:45  Germany   3-2   Turkey
-Th Jun/26 20:45  Russia    0-3   Spain
+▪ Quarter-finals
+Th Jun 19 
+  20:45   Portugal    2-3    Germany
+Fr Jun 20 
+  20:45   Croatia     1-3 pen. 1-1 a.e.t. (0-0)   Turkey
+Sa Jun 21 
+  20:45   Netherlands   1-3 a.e.t. (1-1)    Russia
+Su Jun 22 
+  20:45   Spain         4-2 pen. 0-0 a.e.t. (0-0)   Italy
 
 
-Final
+▪ Semi-finals
+We Jun 25 
+  20:45  Germany   3-2   Turkey
+Th Jun 26 
+  20:45  Russia    0-3   Spain
 
-Su Jun/29 20:45   Germany  0-1   Spain
+
+▪ Final
+Su Jun 29 
+  20:45   Germany  0-1   Spain
 

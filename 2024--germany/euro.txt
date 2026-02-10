@@ -18,9 +18,9 @@ Group F  |  Turkey    Georgia      Portugal  Czech Republic
 
 
 
-Matchday 1 | Fri Jun/14 - Tue Jun/18
-Matchday 2 | Wed Jun/19 - Sat Jun/22
-Matchday 3 | Sun Jun/23 - Wed Jun/26
+Matchday 1 | Fri Jun 14 - Tue Jun 18
+Matchday 2 | Wed Jun 19 - Sat Jun 22
+Matchday 3 | Sun Jun 23 - Wed Jun 26
 
 
 ▪ Group A
@@ -61,7 +61,7 @@ Wed Jun 19
 Sun Jun 23 
   21:00         Switzerland 1-1 (1-0) Germany       @ Waldstadion, Frankfurt
                            (Ndoye 29'; Füllkrug 90+2')
-  21:00         Scotland     0-1 (0-0) Hungary       @ Stuttgart Arena, Stuttgart
+               Scotland     0-1 (0-0) Hungary       @ Stuttgart Arena, Stuttgart
                            (Csoboth 90+10')
 
 ▪ Group B
@@ -80,7 +80,7 @@ Thu Jun 20
 Mon Jun 24 
   21:00         Albania   0-1 (0-1)   Spain      @ Düsseldorf Arena, Düsseldorf
            (Torres 13')
-  21:00         Croatia   1-1 (0-0)   Italy      @ Leipzig Stadion, Leipzig
+               Croatia   1-1 (0-0)   Italy      @ Leipzig Stadion, Leipzig
            (Modrić 55'; Zaccagni 90+8')
 
 ▪ Group C
@@ -97,8 +97,7 @@ Thu Jun 20
              (Hjulmand 34'; Kane 18')
 Tue Jun 25 
   21:00        England   0-0    Slovenia   @ Köln Stadion, Köln
-
-  21:00        Denmark   0-0    Serbia     @ München Fußball Arena, München
+               Denmark   0-0    Serbia     @ München Fußball Arena, München
 
 
 ▪ Group D
@@ -124,7 +123,7 @@ Fri Jun 21
 Tue Jun 25 
   18:00       Netherlands  2-3 (0-1)   Austria       @ Olympiastadion, Berlin
             (Gakpo 47' Depay 75'; Malen 6' (o.g.) Schmid 59' Sabitzer 80')
-  18:00       France       1-1 (0-0)   Poland        @ BVB Stadion Dortmund, Dortmund
+             France       1-1 (0-0)   Poland        @ BVB Stadion Dortmund, Dortmund
             (Mbappé 56' (pen.); Lewandowski 79' (pen.))
 
 
@@ -144,7 +143,7 @@ Sat Jun 22
 Wed Jun 26 
   18:00      Slovakia   1-1 (1-1)  Romania       @ Waldstadion, Frankfurt
               (Duda 24'; R. Marin 37' (pen.))
-  18:00      Ukraine     0-0     Belgium       @ Stuttgart Arena, Stuttgart
+             Ukraine     0-0     Belgium       @ Stuttgart Arena, Stuttgart
 
 
 ▪ Group F
@@ -162,7 +161,7 @@ Sat Jun 22
 Wed Jun 26 
    21:00     Georgia   2-0 (1-0)   Portugal   @ Arena Auf Schalke, Gelsenkirchen
             (Kvaratskhelia 2' Mikautadze 57' (pen.))
-   21:00     Czech Republic 1-2 (0-0)   Turkey  @ Volksparkstadion, Hamburg
+            Czech Republic 1-2 (0-0)   Turkey  @ Volksparkstadion, Hamburg
             (Souček 66'; Çalhanoğlu 51' Tosun 90+4')
 
 
