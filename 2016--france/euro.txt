@@ -1,4 +1,7 @@
-= Euro 2016       # in France
+= Euro 2016       # in France, June 10 - July 10
+
+# 24 teams in 10 venues (in 9 host cities)
+# All times are local, CEST (UTC+2). 
 
 
 #############################################
@@ -99,10 +102,9 @@ Jun 18
   18:00   Iceland           1-1  Hungary           @ Stade Vélodrome, Marseille
   21:00   Portugal          0-0  Austria           @ Parc des Princes, Paris
 
-Jun 21 
-  18:00   Iceland           2-1  Austria           @ Stade de France, Saint-Denis
 Jun 22 
-  18:00   Hungary           3-3  Portugal          @ Parc Olympique Lyonnais, Lyon
+  18:00   Iceland           2-1  Austria           @ Stade de France, Saint-Denis 
+          Hungary           3-3  Portugal          @ Parc Olympique Lyonnais, Lyon
 
 
 #############################

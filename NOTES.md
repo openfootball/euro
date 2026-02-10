@@ -1,5 +1,6 @@
 # Euro / European Championship Cup
 
+<!--
 ## Update
 
 - [x] 1960 - rsssf, wiki
@@ -13,45 +14,36 @@
 - [x] 1992
 - [x] 1996
 - [x] 2000
-- [ ] 2004
+- [x] 2004
 - [x] 2008
 - [x] 2012
 - [x] 2016
 - [x] 2021
 - [x] 2024 - rsssf
+-->
 
-
-## Todos
-
-- [ ]  double check euro 2016 france / group f, match 3
-- [ ]  check for timezones
-       - only euro 2021 with multiple timezones?
-         - england ->  BST (british summer time)
-         - otherwise ->  CET/CEST (central european time)  ??
-       - start of summer time in ??? (alreay summer time in 1960? or starting 1968??)
 
 
 **Timezones**
 
 - 1960 (France) - All times are local, CET (UTC+1).
 - 1964 (Spain) - All times are local, CET (UTC+1).
-- 1968 (Italy) - All times are local, CEST (UTC+2).   -- note - start of summer time!!!
-- 1972 (Belgium)  - ??
-- 1976 (Yugoslavia) - ??
-- 1980 (Italy) - ??
-- 1984 (France) - ??
-- 1988 (West Germany) - ??
-- 1992 (Sweden) - ??
-- 1996 (England) - ??
-- 2000 (Belgium+Netherlands) - ??
-- 2004 (Portugal) - ??
-- 2008 (Austria+Switzerland) - ??
-- 2012 (Poland+Ukraine) - ??
-- 2016 (France) - ??
-- 2021 
+- 1968 (Italy) - All times are local, CEST (UTC+2).   -- note - summer time!!!
+- 1972 (Belgium)  - All times are local, CET (UTC+1). 
+- 1976 (Yugoslavia) - All times are local, CET (UTC+1).
+- 1980 (Italy) - All times are local, CEST (UTC+2).   -- note - summer time is back!!
+- 1984 (France) - All times are local, CEST (UTC+2).
+- 1988 (West Germany) - All times are local, CEST (UTC+2).
+- 1992 (Sweden) - All times are local, CEST (UTC+2).
+- 1996 (England) - All times are local, BST (UTC+1).  -- British Summer Time (BST)!!
+- 2000 (Belgium+Netherlands) - All times are local, CEST (UTC+2).
+- 2004 (Portugal) - All times are local, WEST (UTC+1).  -- Western European Summer Time (WEST)!!
+- 2008 (Austria+Switzerland) - All times are local, CEST (UTC+2).
+- 2012 (Poland+Ukraine) - All times are local, CEST (UTC+2).  -- plus local times in Ukraine are EEST!
+- 2016 (France) - All times are local, CEST (UTC+2).    
+- 2021  - All times are local, CEST (UTC+2).  -- plus local times in BST, UTC+3, UTC+4!!
 - 2024 (Germany) - All times are local, CEST (UTC+2).
-
-
+- 2028 (England/Republic of Ireland/Scotland/Wales) - All times are local, BST/IST (UTC+1).  -- British Summer Time (BST)/Irish Summer Time (IST)!!
 
 
 
@@ -90,11 +82,25 @@ the Netherlands and Spain) while others were subjected to absurd travel trajecto
 ```
 
 
+### Special Score Lines (After Extra Time+Golden Goal/Silver Goal)
 
-**Euro 2028 -- 18th Ed.**
+- aet  - classic / traditional / standard
+- aet/gg  - golden goal (or sudden death)    in 1996, 2000 
+- aet/sg  - silver goal (!) in 2004
+
+<!-- -->
+
+- Golden Goal (1993 – 2004) -- Match ended immediately upon the first goal scored ("Sudden Death").
+- Silver Goal (2002 – 2004) -- If a team led at the end of the first 15-minute half of extra time, they were declared the winner.
+- Traditional ET (2004 – Present)	-- The full 30 minutes are played regardless of scoring.
+
+
+
+**Euro 2028 England/Republic of Ireland/Scotland/Wales -- 18th Ed.**
 
 ```
-?? teams
+24 teams in 9 venues (in 8 host cities), June 9 – July 9
+All times are local, BST/IST (UTC+1).
 ```
 
 **Euro 2024 Germany -- 17th Ed.**
@@ -108,11 +114,9 @@ all times are local, CEST (UTC+2)
 
 ```
 24 teams in 11 cities across Europe, June 11th to July 11th
-all times are local, CEST (UTC+2)
+all times are local, CEST (UTC+2)  -- plus local times in BST, UTC+3, UTC+4!!
 ```
 
-- 13 (??) Cities/xx Countries   -- was planned for 13 but actually 11 !!
-- NEW: hosted in 13 (??) cities across Europe
 
 
 **Euro 2016 France -- 15th Ed.**
@@ -120,38 +124,20 @@ all times are local, CEST (UTC+2)
 - June 10 - July 10
 - NEW: 24 teams instead of 16 teams
 
-```
-note: timezone for matches (play_at) is *always* CET (central european time)
-
-- 10 Stadiums
-```
-
 
 **Euro 2012 Poland+Ukraine -- 14th Ed.**
 
 - June 8 – July 1 
-
-```
-note: timezone for matches (play_at) is *always* CET (central european time)
-
-
 - 16 Teams (in 4 Groups - 4x4)
 - 8 Stadiums (4 Poland + 4 Ukraine)
-```
 
 
 **Euro 2008 Austria+Switzerland - 13th Ed.**
 
 - June 7-29 (22 days)
-
-```
-fix - is CEST (central european summer time) !!!
-note: timezone for matches (play_at) is *always* CET (central european time)
-
-
 - 16 teams
 - 8 stadiums (4 in Austria/4 in Switzerland)
-```
+
 
 
 
@@ -179,10 +165,8 @@ note: timezone for matches (play_at) is *always* CET (central european time)
 
 ## UEFA
 
-- <https://www.uefa.com/euro2024/>
-  - Euro 2024 - Official Match Schedule <https://editorial.uefa.com/resources/0288-1999ab91ad50-899894098aed-1000/uefa_euro_2024_match_schedule.pdf>
-
-
+- <https://www.uefa.com/uefaeuro/history/seasons/2024/>
+- ...
 - <https://www.uefa.com/uefaeuro/history/seasons/1960/>
 
 
@@ -195,11 +179,8 @@ note: timezone for matches (play_at) is *always* CET (central european time)
 
 ## Wikidata
 
-- add here
-
-
-
-
-
+- <https://www.wikidata.org/wiki/Q189571> - UEFA Euro 2016  (France)
+  - <https://www.wikidata.org/wiki/Q21708188> - UEFA Euro 2016 Group F
+  - <https://www.wikidata.org/wiki/Q21715205> - UEFA Euro 2016 finals: Portugal v France
 
 

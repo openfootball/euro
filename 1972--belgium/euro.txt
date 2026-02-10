@@ -1,8 +1,11 @@
-= Euro 1972    # in Belgium
+= Euro 1972    # in Belgium, June 14–18
+
+# 4 teams in 4 venues (in 3 host cities)
+# All times are local, CET (UTC+1). 
 
 
 ▪ Semi-finals  
-June 14 @ Antwerpen, Bosuil   
+June 14 20:00 @ Antwerpen, Bosuil   
 West Germany     2-1 Belgium
   (G.Müller 24, 71; Polleunis 83)
   West Germany: Maier, Höttges, Beckenbauer, Schwarzenbeck, Breitner, U.Hoeneß (Grabowski 58), 
@@ -10,7 +13,7 @@ West Germany     2-1 Belgium
   Belgium: Piot, Heylens, Van den Daele, Thissen, Dolmans, Dockx, Verheyen,
            M.Martens (Polleunis 70), Semmeling, Van Himst, Lambert 
 
-June 14 @ Brussel, Astridpark 
+June 14 20:00 @ Brussel, Astridpark 
 Soviet Union     1-0 Hungary
   (Konkov 53)  
   Soviet Union: Rudakov, Dzodzuashvili, Kaplichny, Istomin, Khurtsilava, Kolotov, 
@@ -20,7 +23,7 @@ Soviet Union     1-0 Hungary
 
 
 ▪ Third place play-off
-June 17 @ Liège, Stade Sclessin    
+June 17 20:00 @ Liège, Stade Sclessin    
 Belgium          2-1 Hungary
   (Lambert 24, Van Himst 28; Kü 53pen)
   Belgium: Piot, Heylens, Van den Daele, Thissen, Dolmans, Dockx, Verheyen,
@@ -30,7 +33,7 @@ Belgium          2-1 Hungary
 
 
 ▪ Final
-June 18 @ Bruxelles, Stade Heysel  
+June 18 16:00 @ Bruxelles, Stade Heysel  
 West Germany     3-0 Soviet Union
   (G.Müller 27, 58, Wimmer 52)
   West Germany: Maier, Höttges, Beckenbauer, Schwarzenbeck, Breitner, U.Hoeneß,

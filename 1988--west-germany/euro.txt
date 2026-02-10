@@ -1,4 +1,7 @@
-= Euro 1988   # in West Germany
+= Euro 1988   # in West Germany, June 10–25
+
+# 8 teams in 8 venues (in 8 host cities)
+# All times are local, CEST (UTC+2).
 
 # note - West Germany qualify as hosts
 
@@ -36,14 +39,14 @@ June 18 @ Gelsenkirchen  Ireland          0-1 Netherlands
                             (Kieft 82')
 
 ▪ Semi-finals
-June 21 @ Hamburg        West Germany     1-2 Netherlands
+June 21 20:15 @ Hamburg        West Germany     1-2 Netherlands
                            (Matthäus 55' (pen); R.Koeman 74' (pen), Van Basten 89')                       
-June 22 @ Stuttgart      Soviet Union     2-0 Italy
+June 22 20:15 @ Stuttgart      Soviet Union     2-0 Italy
                            (Litovchenko 60', Protasov 62')
 
 
 ▪ Final
-June 25 @ München       Netherlands      2-0 Soviet Union
+June 25 15:30 @ München       Netherlands      2-0 Soviet Union
                          (Gullit 33', Van Basten 54')
   Netherlands: Van Breukelen, Van Aerle, Rijkaard, R.Koeman, Van Tiggelen,
                Vanenburg, Wouters, A.Mühren, E.Koeman, Gullit, Van Basten

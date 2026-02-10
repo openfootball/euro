@@ -1,11 +1,11 @@
 = Euro 1968      # Italy, June 5-10
 
-
 # In all matches but the final, extra time and a coin toss were used
 # to decide the winner if necessary.
 # If the final remained level after extra time,
 # a replay would be used to determine the winner.
 
+# 4 teams	in 3 venues (in 3 host cities)
 # All times are local, CEST (UTC+2).
 
 

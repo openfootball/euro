@@ -1,4 +1,7 @@
-= Euro 1996    # in England
+= Euro 1996    # in England,  June 8–30
+
+# 16 teams in 8 venues (in 8 host cities)
+# All times are local, BST (UTC+1).
 
 # England qualifies as host.
 
@@ -55,26 +58,26 @@ June 19  @ Sheffield         Denmark          3-0 Turkey
 
 
 ▪ Quarter-finals
-June 22 @ London           
+June 22 15:00 @ London           
   England          0-0 Spain           (aet, 4-2 pen)
-June 22 @ Liverpool
+June 22 18:30 @ Liverpool
   France           0-0 Netherlands     (aet, 5-4 pen)
 
-June 23 @ Manchester
+June 23 15:00 @ Manchester
   Germany          2-1 Croatia   
-June 23 @ Birmingham
+June 23 18:30 @ Birmingham
   Portugal         0-1 Czech Republic 
 
 
 ▪ Semi-finals 
-June 26 @ Manchester
+June 26 16:00 @ Manchester
   France           0-0 Czech Republic   (aet, 5-6 pen)
-June 26 @ London
+June 26 19:30 @ London
   England          1-1 Germany          (aet, 5-6 pen)
 
 
 ▪ Final
-June 30 @ London
+June 30 19:00 @ London
   Germany          2-1 Czech Republic   (aet/gg)
     (Bierhoff 73',95'; Berger 59'(pen))
     Germany: Köpke, Sammer, Babbel, Helmer, Strunz, Hässler, Eilts (Bode 46'),

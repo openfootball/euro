@@ -1,4 +1,7 @@
-= Euro 2008     # in Austria-Switzerland
+= Euro 2008     # in Austria-Switzerland, June 7–29
+
+# 16 teams in 8 venues (in 8 host cities)
+# All times are local, CEST (UTC+2).
 
 
 ####################
@@ -44,30 +47,30 @@ Jun 16
 
 ▪ Group C
 Jun 9 
-  18:00  Romania      0-0    France
-  20:45  Netherlands  3-0    Italy
+  18:00  Romania      0-0    France   @ Letzigrund, Zürich
+  20:45  Netherlands  3-0    Italy    @ Stade de Suisse, Bern
 
 Jun 13 
-  18:00  Italy        1-1    Romania
-  20:45  Netherlands  4-1    France
+  18:00  Italy        1-1    Romania  @ Letzigrund, Zürich
+  20:45  Netherlands  4-1    France   @ Stade de Suisse, Bern
 
 Jun 17 
-  20:45  Netherlands  2-0    Romania
-         France       0-2    Italy
+  20:45  Netherlands  2-0    Romania  @ Stade de Suisse, Bern
+         France       0-2    Italy    @ Letzigrund, Zürich
 
 
 ▪ Group D
 Jun 10 
-  18:00  Spain       4-1    Russia
-  20:45  Greece      0-2    Sweden
+  18:00  Spain       4-1    Russia   @ Tivoli-Neu, Innsbruck
+  20:45  Greece      0-2    Sweden   @ Stadion Wals-Siezenheim, Salzburg
 
 Jun 14 
-  18:00  Sweden      1-2    Spain
-  20:45  Greece      0-1    Russia
+  18:00  Sweden      1-2    Spain   @ Tivoli-Neu, Innsbruck
+  20:45  Greece      0-1    Russia  @ Stadion Wals-Siezenheim, Salzburg
 
 Jun 18 
-  20:45  Greece      1-2    Spain
-         Russia      2-0    Sweden
+  20:45  Greece      1-2    Spain   @ Stadion Wals-Siezenheim, Salzburg
+         Russia      2-0    Sweden  @ Tivoli-Neu, Innsbruck
 
 
 #################
@@ -75,24 +78,27 @@ Jun 18
 
 
 ▪ Quarter-finals
-Th Jun 19 
-  20:45   Portugal    2-3    Germany
+Th Jun 19  
+  20:45   Portugal    2-3    Germany    @ St. Jakob-Park, Basel
 Fr Jun 20 
-  20:45   Croatia     1-3 pen. 1-1 a.e.t. (0-0)   Turkey
+  20:45   Croatia     1-3 pen. 1-1 a.e.t. (0-0)   Turkey   @ Ernst-Happel-Stadion, Wien
 Sa Jun 21 
-  20:45   Netherlands   1-3 a.e.t. (1-1)    Russia
+  20:45   Netherlands   1-3 a.e.t. (1-1)    Russia   @ St. Jakob-Park, Basel
 Su Jun 22 
-  20:45   Spain         4-2 pen. 0-0 a.e.t. (0-0)   Italy
+  20:45   Spain         4-2 pen. 0-0 a.e.t. (0-0)   Italy   @ Ernst-Happel-Stadion, Wien
 
 
 ▪ Semi-finals
 We Jun 25 
-  20:45  Germany   3-2   Turkey
-Th Jun 26 
-  20:45  Russia    0-3   Spain
+  20:45  Germany   3-2   Turkey  @ St. Jakob-Park, Basel
+           (Schweinsteiger 26' Klose 79' Lahm 90';
+             Boral 22' Şentürk 86')
 
+Th Jun 26 
+  20:45  Russia    0-3   Spain   @ Ernst-Happel-Stadion, Wien       
+            (Xavi 50' Güiza 73' Silva 82')
 
 ▪ Final
 Su Jun 29 
-  20:45   Germany  0-1   Spain
-
+  20:45   Germany  0-1   Spain   @ Ernst-Happel-Stadion, Wien
+              (Torres 33')

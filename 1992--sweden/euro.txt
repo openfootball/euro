@@ -1,5 +1,7 @@
-= Euro 1992   # in Sweden
+= Euro 1992   # in Sweden, June 10–26
 
+# 8 teams in 4 venues (in 4 host cities)
+# All times are local, CEST (UTC+2).
 
 # Note
 # Due to political changes, the Soviet Union competed in the final tournament
@@ -32,12 +34,12 @@ Scotland         3-0 CIS
 Netherlands      3-1 Germany
 
 ▪ Semi-finals
-Sweden           2-3                   Germany   @ Stockholm
-Netherlands      2-2 a.e.t., 4-5 pen.  Denmark   @ Göteborg 
+June 21 20:15   Sweden           2-3                   Germany   @ Stockholm
+June 22 20:15   Netherlands      2-2 a.e.t., 4-5 pen.  Denmark   @ Göteborg 
 
 
 ▪ Final
-June 26 @ Göteborg
+June 26 20:15 @ Göteborg
 Denmark          2-0 Germany
     (Jensen 18', Vilfort 78')
   Denmark: Schmeichel, Sivebaek (Christiansen), K. Nielsen, L. Olsen, Piechnik,

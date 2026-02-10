@@ -1,10 +1,12 @@
-= Euro 1976   # in Yugoslavia
+= Euro 1976   # in Yugoslavia, June 16–20
 
+# 4 teams in 2 venues (in 2 host cities)
+# All times are local, CET (UTC+1).
 
 
 ▪ Semi-finals 
 
-June 16 @ Zagreb, Maksimir Stadion
+June 16 20:15 @ Zagreb, Maksimir Stadion
 Czechoslovakia   3-1 a.e.t.  Netherlands     
     (Ondrus 20, Nehoda 114, Vesely 119; Ondrus 77og)
   Sent off: Pollák 60, Neeskens 76, Van Hanegem 115
@@ -13,7 +15,7 @@ Czechoslovakia   3-1 a.e.t.  Netherlands
   Netherlands: Schrijvers, Suurbier, Van Kraay, Rijsbergen (Van Hanegem 37), Krol, 
                Neeskens, Jansen, W.van de Kerkhof, Rep (Geels 65), Cruijff, Rensenbrink
 
-June 17 @ Beograd, Crvena zvezda
+June 17 20:15 @ Beograd, Crvena zvezda
 West Germany     4-2 a.e.t.  Yugoslavia      
       (Flohe 65, D.Müller 82, 115, 119; Popivoda 19, Dzajic 32)
   West Germany: Maier, Dietz, Schwarzenbeck, Beckenbauer, Vogts, Danner (Flohe 46),
@@ -23,7 +25,7 @@ West Germany     4-2 a.e.t.  Yugoslavia
 
 
 ▪ Third place play-off
-June 19 @ Zagreb, Maksimir Stadion
+June 19 20:15 @ Zagreb, Maksimir Stadion
 Netherlands      3-2 a.e.t.   Yugoslavia      
       (Geels 27, 107, W.van de Kerkhof 39; Katalisnki 43, Dzajic 82)
   Netherlands: Schrijvers, Suurbier, Van Kraay, Krol, Jansen (Meutstege 46), Peters,
@@ -33,7 +35,7 @@ Netherlands      3-2 a.e.t.   Yugoslavia
 
 
 ▪ Final
-June 20 @ Beograd, Crvena zvezda  
+June 20 20:15 @ Beograd, Crvena zvezda  
 Czechoslovakia   2-2 a.e.t., 5-3 pen.  West Germany    
   (Svehlík 8, Dobiás 25; D.Müller 28, Hölzenbein 89)
   Penalties: 1-0 Masny,  1-1 Bonhof; 

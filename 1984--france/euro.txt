@@ -1,5 +1,7 @@
-= Euro 1984   # in France
+= Euro 1984   # in France, June 12–27
 
+# 8 teams in 7 venues (in 7 host cities)
+# All times are local, CEST (UTC+2).
 
 Group 1 | France    Denmark    Belgium       Yugoslavia
 Group 2 | Spain     Portugal   West Germany  Romania
@@ -21,13 +23,14 @@ Portugal         1-1 Spain
 West Germany     0-1 Spain
 Portugal         1-0 Romania
 
+
 ▪ Semi-finals
-France           3-2 a.e.t.            Portugal  @ Marseille
-Spain            1-1 a.e.t., 5-4 pen.  Denmark   @ Lyon
+June 23 20:00    France           3-2 a.e.t.            Portugal  @ Marseille
+June 24 20:00    Spain            1-1 a.e.t., 5-4 pen.  Denmark   @ Lyon
 
 
 ▪ Final
-June 27 @ Paris
+June 27 20:00 @ Paris
 France           2-0 Spain
     (Platini 57', Bellone 90')
   France: Bats, Battiston (Amoros), Le Roux, Bossis, Domergue, Giresse, Tigana,

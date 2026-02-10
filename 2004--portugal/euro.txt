@@ -1,0 +1,106 @@
+= Euro 2004    # in Portugal,  June 12 – July 4
+
+# 16 teams in 10 venues (in 8 host cities)
+# All times are local, WEST (UTC+1).
+
+# Portugal qualified as hosts.
+
+# Stadiums: 
+#  Lisboa (Estádio da Luz, Estádio José Alvalade)
+#  Porto (Estádio do Dragão, Estádio do Bessa)
+#  Aveiro (Estádio Municipal)
+#  Braga (Estádio Municipal),
+#  Coimbra (Estádio Municipal)
+#  Faro/Loulé (Estádio Algarve)
+#  Guimarães (Estádio D. Alfonso Henriques)
+#  Leiria (Estádio Mogalhães Pessoa)
+
+
+Group A |  Portugal     Greece      Spain       Russia
+Group B |  France       England     Croatia     Switzerland
+Group C |  Sweden       Denmark     Italy       Bulgaria
+Group D |  Czech Republic  Netherlands   Germany   Latvia
+
+
+▪ Group A
+June 12   Portugal           1-2 Greece
+           (Cristiano Ronaldo 90+3; Giorgos Karagounis 7,
+            Angelos Basinas 51pen)
+         Spain              1-0 Russia
+           (Juan Carlos Valerón 60)
+June 16   Greece             1-1 Spain
+           (Angelos Charisteas 66; Fernando Morientes 28)
+         Russia             0-2 Portugal
+           (Maniche Ribeiro 7, Manuel Rui Costa 89)
+June 20   Spain              0-1 Portugal
+           (Nuno Gomes 57)
+         Russia             2-1 Greece
+           (Dmitry Kirichenko 2, Dmitry Bulykin 17; Zisis Vryzas 43)
+
+
+▪ Group B
+June 13   Switzerland        0-0 Croatia
+         France             2-1 England
+           (Zinedine Zidane 90+1, 90+3pen; Frank Lampard 38)
+June 17   England            3-0 Switzerland
+           (Wayne Rooney 23, 75, Steven Gerrard 82)
+         Croatia            2-2 France
+           (Milan Rapaic 48pen, Dado Prso 52; Igor Tudor 22og,
+            David Trezeguet 64)
+June 21   Croatia            2-4 England
+           (Niko Kovac 5, Igor Tudor 73; Paul Scholes 40, 
+            Wayne Rooney 45+1, 68, Frank Lampard 79)
+         Switzerland        1-3 France
+           (Johann Vonlanthen 26; Zinedine Zidane 20, Thierry Henry 76, 84)
+
+
+▪ Group C
+June 14   Denmark            0-0 Italy
+         Sweden             5-0 Bulgaria
+           (Fredrik Ljungberg 32, Henrik Larsson 57, 58,
+            Zlatan Ibrahimovic 78pen, Marcus Allbäck 90+1)
+June 18   Bulgaria           0-2 Denmark
+           (Jon Dahl Tomasson 44, Jesper Grønkjær 90+2)
+         Italy              1-1 Sweden
+           (Antonio Cassano 37; Zlatan Ibrahimovic 85)
+June 22   Italy              2-1 Bulgaria
+           (Simone Perrotta 48, Antonio Cassano 90+4; Martin Petrov 45pen)
+         Denmark            2-2 Sweden
+           (Jon Dahl Tomasson 28, 66; Henrik Larsson 47pen, Mattias Jonson 89)
+
+
+▪ Group D
+June 15   Germany            1-1 Netherlands
+           (Torsten Frings 30; Ruud van Nistelrooy 81)
+         Czech Republic     2-1 Latvia
+           (Milan Baros 73, Marek Heinz 85; Maris Verpakovskis 45+1)
+June 19   Germany            0-0 Latvia
+         Netherlands        2-3 Czech Republic
+           (Wilfred Bouma 4, Ruud van Nistelrooy 19; Jan Koller 23,
+            Milan Baros 71, Vladimir Smicer 88)
+June 23   Netherlands        3-0 Latvia
+           (Ruud van Nistelrooy 27pen, 35, Roy Makaay 84)
+         Germany            1-2 Czech Republic
+           (Michael Ballack 21; Marek Heinz 30, Milan Baros 77)
+
+
+▪ Quarter-finals
+June 24 19:45  Portugal           2-2 England      (aet, 6-5 pen)  @ Estádio da Luz, Lisbon
+                (Helder Postiga 83, Manuel Rui Costa 110; Michael Owen 3,
+                 Frank Lampard 115)
+June 25 19:45  France             0-1 Greece                       @ Estádio José Alvalade, Lisbon
+                 (Angelos Charisteas 65)
+June 26 19:45  Sweden             0-0 Netherlands  (aet, 4-5 pen)  @ Estádio Algarve, Faro/Loulé
+June 27 19:45  Czech Republic     3-0 Denmark                      @ Estádio do Dragão, Porto
+                (Jan Koller 49, Milan Baros 63, 65)
+
+▪ Semi-finals
+June 30 19:45   Portugal           2-1 Netherlands                 @ Estádio José Alvalade, Lisbon
+                 (Cristiano Ronaldo 26, Maniche Ribeiro 58; Jorge Andrade 62og)
+July 1 19:45   Greece             1-0 Czech Republic   (aet/sg)    @ Estádio do Dragão, Porto
+                 (Traianos Dellas 105+1)
+
+▪ Final
+July 4 19:45   Portugal           0-1 Greece     @ Estádio da Luz, Lisbon
+                (Angelos Charisteas 57)
+

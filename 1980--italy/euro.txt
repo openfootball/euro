@@ -1,4 +1,8 @@
-= Euro 1980   # in Italy
+= Euro 1980   # in Italy, June 11–22
+
+# 8 teams in 4 venues (in 4 host cities)
+# All times are local, CEST (UTC+2).
+
 
 Group 1 |  West Germany   Czechoslovakia   Netherlands   Greece
 Group 2 |  Belgium        Italy            England       Spain
@@ -6,7 +10,7 @@ Group 2 |  Belgium        Italy            England       Spain
 
 ▪ Group 1 
 
-June 11 @ Roma, Stadio Olimpico
+June 11 17:45 @ Roma, Stadio Olimpico
 West Germany     1-0 Czechoslovakia
   (K.H.Rummenigge 57)
   West Germany: Schumacher, Kaltz, Cullmann, K.H.Förster, Dietz, B.Förster (Magath 60),
@@ -14,7 +18,7 @@ West Germany     1-0 Czechoslovakia
   Czechoslovakia: Netolicka, Barmos, Ondrus, Jurkemik, Gögh, Kozák, Stambachr, Panenka,
                   Vízek, Nehoda, Gajdusek (Masny 66)
 
-June 11 @ Napoli, San Paolo 
+June 11 20:30 @ Napoli, San Paolo 
 Netherlands      1-0 Greece
   (Kist 65pen)
   Netherlands: Schrijvers (Doesburg 15), Wijnstekers, Krol, Van de Korput, Hovenkamp,
@@ -23,7 +27,7 @@ Netherlands      1-0 Greece
   Greece: Konstantinou, Kirastas, Iosifidis, Foiros, Kapsis, Terzanidis, Livathinos, Kouis,
           Kostikos (Galakos 78), Mavros, Ardizoglou (Anastopoulos 68)
 
-June 14 @ Napoli, San Paolo
+June 14 17:45 @ Napoli, San Paolo
 West Germany     3-2 Netherlands       
   (K.Allofs 20, 60, 66; Rep 80pen, W.van de Kerkhof 86)
   West Germany: Schumacher, Kaltz, Stielike, Dietz (Matthäus 75), K.H.Förster, Schuster,
@@ -31,7 +35,7 @@ West Germany     3-2 Netherlands
   Netherlands: Schrijvers, Hovenkamp (Nanninga 46), Wijnstekers, Krol, Van de Korput, 
                Stevens, Haan, W.van de Kerkhof, Kist, R.van de Kerkhof, Rep 
 
-June 14 @ Roma, Stadio Olimpico
+June 14 20:30 @ Roma, Stadio Olimpico
 Czechoslovakia   3-1 Greece   
   (Panenka 6, Vízek 26, Nehoda 62; Anastopoulos 14)
   Czechoslovakia: Seman, Barmos, Ondrus, Jurkemik, Gögh, Kozák, Berger (Licka 23), Panenka,
@@ -39,7 +43,7 @@ Czechoslovakia   3-1 Greece
   Greece: Konstantinou, Kirastas, Iosifidis, Foiros, Kapsis, Terzanidis (Galakos 46), 
           Livathinos, Kouis, Kostikos (Xanthopoulos 57), Mavros, Anastopoulos
          
-June 17 @ Milano, Giuseppe Meazza
+June 17 17:45 @ Milano, Giuseppe Meazza
 Czechoslovakia   1-1 Netherlands
   (Nehoda 16; Kist 59)
   Czechoslovakia: Netolicka, Barmos, Ondrus, Vojácek, Jurkemik, Gögh, Kozák, 
@@ -48,7 +52,7 @@ Czechoslovakia   1-1 Netherlands
                Thijssen, W.van de Kerkhof, R.van de Kerkhof (Kist 16), Rep (Nanninga 46),
                Haan
 
-June 17 @ Torino, Stadio Comunale
+June 17 20:30 @ Torino, Stadio Comunale
 West Germany     0-0 Greece
   West Germany: Schumacher, Kaltz, Stielike, K.H.Förster, B.Förster (Votava 46), Briegel,
                 Cullmann, H.Müller, K.H.Rummenigge (Del'Haye 66), Hrubesch, Memering
@@ -58,7 +62,7 @@ West Germany     0-0 Greece
 
 ▪ Group 2 
 
-June 12 @ Torino, Stadio Comunale
+June 12 17:45 @ Torino, Stadio Comunale
 Belgium          1-1 England   
   (Ceulemans 30; Wilkins 26)
   Belgium: Pfaff - Gerets, Renquin, Vandereycken, L.Millecamps, Meeuws, Van der Elst, 
@@ -66,14 +70,14 @@ Belgium          1-1 England
   England: Clemence, Neal, Sansom, Wilkins, Watson, Thompson, Coppell (McDermott 81),
            Keegan, Johnson (Kennedy 70), Brooking, Woodcock 
         
-June 12 @ Milano, Giuseppe Meazza
+June 12 20:30 @ Milano, Giuseppe Meazza
 Spain            0-0 Italy
   Italy: Zoff, Gentile, Tardelli, Cabrini (Benetti 56), Collovati, Scirea, Causio, Oriali,
          Graziani, Antognoni, Bettega 
   Spain: Arconada, Tendillo, Gordillo, Zamora, Migueli, Alexanko, Dani (Juanito 53),
          Saura, Satrustegui, Asensi, Quini 
          
-June 15 @ Milano, Giuseppe Meazza
+June 15 17:45 @ Milano, Giuseppe Meazza
 Spain            1-2 Belgium 
   (Quini 36; Gerets 17, Cools 65)
   Spain: Arconada, Tendillo (Carrasco 79), Gordillo, Zamora, Migueli, Alexanko, Juanito,
@@ -81,7 +85,7 @@ Spain            1-2 Belgium
   Belgium: Pfaff, Gerets, Renquin, Vandereycken, L.Millecamps, Meeuws, Van der Elst,
            Van Moer (Mommens 80), Vandenbergh (R.Verheyen 81), Cools, Ceulemans 
           
-June 15 @ Torino, Stadio Comunale
+June 15 20:30 @ Torino, Stadio Comunale
 Italy            1-0 England           
   (Tardelli 79)
   Italy: Zoff, Gentile, Tardelli, Benetti, Collovati, Scirea, Causio (G.Baresi 88), Oriali,
@@ -89,7 +93,7 @@ Italy            1-0 England
   England: Shilton, Neal, Sansom, Wilkins, Watson, Thompson, Coppell, Keegan, Birtles 
            (Mariner 75), Woodcock, Kennedy 
 
-June 18 @ Napoli, San Paolo
+June 18 17:45 @ Napoli, San Paolo
 Spain            1-2 England
   (Dani 48pen; Brooking 19, Woodcock 61)  
   Spain: Arconada, Cundi, Gordillo, Zamora, Olmo, Alexanko, Juanito (Carrasco 46), Uria,
@@ -97,7 +101,7 @@ Spain            1-2 England
   England: Clemence, Anderson (Cherry 83), Mills, Wilkins, Watson, Thompson, 
            Hoddle (Mariner 76), Keegan, Woodcock, Brooking, McDermott 
 
-June 18 @ Roma, Stadio Olimpico
+June 18 20:30 @ Roma, Stadio Olimpico
 Italy            0-0 Belgium
   Italy: Zoff, Gentile, Tardelli, Benetti, Collovati, Scirea, Causio, Oriali (Altobelli 46),
          Graziani, Antognoni (G.Baresi 36), Bettega 
@@ -106,7 +110,7 @@ Italy            0-0 Belgium
 
 
 ▪ Third place play-off
-June 21 @ Napoli, San Paolo
+June 21 20:30 @ Napoli, San Paolo
 Czechoslovakia   1-1, 9-8 pen. Italy         # note - no extra time played
   (Jurkemik 54; Graziani 73)
   Penalties: 0-1 Causio, 1-1 Masny; 
@@ -125,7 +129,7 @@ Czechoslovakia   1-1, 9-8 pen. Italy         # note - no extra time played
 
 
 ▪ Final 
-June 22 @ Roma, Stadio Olimpico
+June 22 20:30 @ Roma, Stadio Olimpico
 West Germany     2-1 Belgium
   (Hrubesch 10, 88; Vandereycken 72pen)
   West Germany: Schumacher, Kaltz, K.H.Förster, Stielike, Dietz, Briegel (Cullmann 55),
