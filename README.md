@@ -10,8 +10,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), Euro 2024,
-etc.
+Free open public domain football data for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), Euro 2024, Euro 2028, etc.
+
 Example:
 
 ```
@@ -27,7 +27,7 @@ Group F  |  Turkey    Georgia      Portugal  Czech Republic
 
 
  
-▪ Group A, Match 1
+▪ Group A, Matchday 1
 
 Fri Jun 14 
    21.00         Germany v Scotland   5-1 (3-0)    @ München Fußball Arena, München

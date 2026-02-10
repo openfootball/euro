@@ -1,0 +1,34 @@
+
+## final
+
+{{Football box
+|date={{Start date|1976|6|20|df=y}}
+|time=20:15
+|team1={{fb-rt|TCH}}
+|score=2–2
+|aet=yes
+|report=[https://www.uefa.com/uefaeuro/match/3693/ Report]<br>Positions{{sfn|Kier|2018|pp=396–399}}
+|team2={{fb|FRG}}
+|goals1=
+*[[Ján Švehlík|Švehlík]] {{goal|8}}
+*[[Karol Dobiaš|Dobiaš]] {{goal|25}}
+|goals2=
+*[[Dieter Müller|Müller]] {{goal|28}}
+*[[Bernd Hölzenbein|Hölzenbein]] {{goal|89}}
+|stadium=[[Red Star Stadium]], [[Belgrade]]
+|attendance=30,790
+|referee=[[Sergio Gonella]] ([[Italian Football Federation|Italy]])
+|penalties1=
+*[[Marián Masný|Masný]] {{pengoal}}
+*[[Zdeněk Nehoda|Nehoda]] {{pengoal}}
+*[[Anton Ondruš|Ondruš]] {{pengoal}}
+*[[Ladislav Jurkemik|Jurkemik]] {{pengoal}}
+*[[Antonín Panenka|Panenka]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2=
+*{{pengoal}} [[Rainer Bonhof|Bonhof]]
+*{{pengoal}} [[Heinz Flohe|Flohe]]
+*{{pengoal}} [[Hans Bongartz|Bongartz]]
+*{{penmiss}} [[Uli Hoeneß|Hoeneß]]
+}}
+

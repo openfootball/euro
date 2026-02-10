@@ -1,0 +1,74 @@
+
+## add semi-finals and final
+##
+##  note: agget=yes    => after golden goal extra time
+
+
+==Semi-finals==
+===France vs Portugal===
+{{Football box
+|date={{Start date|2000|6|28|df=y}}
+|time=20:45
+|team1={{fb-rt|FRA|1974}}
+|score=2–1
+|agget= yes
+|report=https://www.uefa.com/uefaeuro/match/65183/
+|team2={{fb|POR}}
+|goals1=
+*[[Thierry Henry|Henry]] {{goal|51}}
+*[[Zinedine Zidane|Zidane]] {{golden goal|117|pen.}}
+|goals2=
+*[[Nuno Gomes]] {{goal|19}}
+|stadium=[[King Baudouin Stadium]], [[Brussels]]
+|attendance=48,000
+|referee=[[Günter Benkö]] ([[Austrian Football Association|Austria]])
+}}
+
+
+===Italy vs Netherlands===
+{{Football box
+|date={{Start date|2000|6|29|df=y}}
+|time=18:00
+|team1={{fb-rt|ITA}}
+|score=0–0
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/65184/
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+|stadium=[[Johan Cruyff Arena|Amsterdam Arena]], [[Amsterdam]]
+|attendance=50,000
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|penalties1=
+*[[Luigi Di Biagio|Di Biagio]] {{pengoal}}
+*[[Gianluca Pessotto|Pessotto]] {{pengoal}}
+*[[Francesco Totti|Totti]] {{pengoal}}
+*[[Paolo Maldini|Maldini]] {{penmiss}}
+|penaltyscore=3–1
+|penalties2=
+*{{penmiss}} [[Frank de Boer|F. de Boer]]
+*{{penmiss}} [[Jaap Stam|Stam]]
+*{{pengoal}} [[Patrick Kluivert|Kluivert]]
+*{{penmiss}} [[Paul Bosvelt|Bosvelt]]
+}}
+
+
+==Final==
+{{Football box
+|date={{Start date|2000|7|2|df=y}}
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1={{fb-rt|FRA|1974}}
+|score=2–1
+|agget=yes
+|report=https://www.uefa.com/uefaeuro/match/65299/
+|team2={{fb|ITA}}
+|goals1=
+*[[Sylvain Wiltord|Wiltord]] {{goal|90+4}}
+*[[David Trezeguet|Trezeguet]] {{golden goal|103}}
+|goals2=
+*[[Marco Delvecchio|Delvecchio]] {{goal|55}}
+|stadium=[[De Kuip]], [[Rotterdam]]
+|attendance=48,100
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+}}
+

@@ -4,6 +4,19 @@
 # All times are local, CEST (UTC+2). 
 
 
+# Stadiums:
+#   Paris (Saint-Denis),  Stade de France
+#   Paris,                Parc des Princes
+#   Marseille,            Stade Vélodrome
+#   Lyon,                 Parc Olympique Lyonnais
+#   Lille,                Stade Pierre-Mauroy
+#   Bordeaux,             Nouveau Stade de Bordeaux
+#   Saint-Étienne,        Stade Geoffroy-Guichard
+#   Lens,                 Stade Bollaert-Delelis
+#   Nice,                 Stade de Nice (Allianz Riviera)
+#   Toulouse,             Stadium Municipal
+
+
 #############################################
 # Group phase
 
@@ -21,90 +34,90 @@ Matchday 3 | Jun 19 - Jun 22
 
 ▪ Group A
 Jun 10  
-  21:00   France            2-1  Romania           @ Stade de France, Saint-Denis
+  21:00   France            2-1  Romania           @ Paris (Stade de France)
 Jun 11  
-  15:00   Albania           0-1  Switzerland       @ Stade Bollaert-Delelis, Lens
+  15:00   Albania           0-1  Switzerland       @ Lens
 
 Jun 15 
-  18:00   Romania           1-1  Switzerland       @ Parc des Princes, Paris
-  21:00   France            2-0  Albania           @ Stade Vélodrome, Marseille
+  18:00   Romania           1-1  Switzerland       @ Paris (Parc des Princes)
+  21:00   France            2-0  Albania           @ Marseille
 
 Jun 19 
-  21:00   Romania           0-1  Albania           @ Stade Pierre-Mauroy, Lille
-          Switzerland       0-0  France            @ Parc Olympique Lyonnais, Lyon
+  21:00   Romania           0-1  Albania           @ Lille
+          Switzerland       0-0  France            @ Lyon
 
 
 ▪ Group B
 Jun 11 
-  18:00    Wales             2-1  Slovakia          @ Nouveau Stade de Bordeaux, Bordeaux
-  21:00    England           1-1  Russia            @ Stade Vélodrome, Marseille
+  18:00    Wales             2-1  Slovakia          @ Bordeaux
+  21:00    England           1-1  Russia            @ Marseille
 
 Jun 15 
-  15:00   Russia            1-2  Slovakia          @ Stade Pierre-Mauroy, Lille
+  15:00   Russia            1-2  Slovakia          @ Lille
 Jun 16 
-  15:00   England           2-1  Wales             @ Stade Bollaert-Delelis, Lens
+  15:00   England           2-1  Wales             @ Lens
 
 Jun 20 
-  21:00   Russia            0-3  Wales             @ Stadium Municipal, Toulouse
-          Slovakia          0-0  England           @ Stade Geoffroy-Guichard, Saint-Étienne
+  21:00   Russia            0-3  Wales             @ Toulouse
+          Slovakia          0-0  England           @ Saint-Étienne
 
 
 ▪ Group C
 Jun 12 
-  18:00    Poland            1-0  Northern Ireland  @ Allianz Riviera, Nice
-  21:00    Germany           2-0  Ukraine           @ Stade Pierre-Mauroy, Lille
+  18:00    Poland            1-0  Northern Ireland  @ Nice
+  21:00    Germany           2-0  Ukraine           @ Lille
 
 Jun 16 
-  18:00   Ukraine           0-2  Northern Ireland  @ Parc Olympique Lyonnais, Lyon
-  21:00   Germany           0-0  Poland            @ Stade de France, Saint-Denis
-
+  18:00   Ukraine           0-2  Northern Ireland  @ Lyon
+  21:00   Germany           0-0  Poland            @ Paris (Stade de France)
+  
 Jun 21 
-  18:00   Northern Ireland  0-1  Germany           @ Parc des Princes, Paris
-          Ukraine           0-1  Poland            @ Stade Vélodrome, Marseille
+  18:00   Northern Ireland  0-1  Germany           @ Paris (Parc des Princes)
+          Ukraine           0-1  Poland            @ Marseille
 
 
 ▪ Group D
 Jun 12 
-  15:00    Turkey            0-1  Croatia           @ Parc des Princes, Paris
+  15:00    Turkey            0-1  Croatia           @ Paris (Parc des Princes)
 Jun 13
-  15:00    Spain             1-0  Czech Republic    @ Stadium Municipal, Toulouse
+  15:00    Spain             1-0  Czech Republic    @ Toulouse
 
 Jun 17 
-  18:00   Czech Republic    2-2  Croatia           @ Stade Geoffroy-Guichard, Saint-Étienne
-  21:00   Spain             3-0  Turkey            @ Allianz Riviera, Nice
+  18:00   Czech Republic    2-2  Croatia           @ Saint-Étienne
+  21:00   Spain             3-0  Turkey            @ Nice
 
 Jun 21 
-  21:00   Croatia           2-1  Spain             @ Nouveau Stade de Bordeaux, Bordeaux
-          Czech Republic    0-2  Turkey            @ Stade Bollaert-Delelis, Lens
+  21:00   Croatia           2-1  Spain             @ Bordeaux
+          Czech Republic    0-2  Turkey            @ Lens
 
 
 ▪ Group E
 Jun 13 
-  18:00   Ireland           1-1  Sweden            @ Stade de France, Saint-Denis
-  21:00   Belgium           0-2  Italy             @ Parc Olympique Lyonnais, Lyon
+  18:00   Ireland           1-1  Sweden            @ Paris (Stade de France)
+  21:00   Belgium           0-2  Italy             @ Lyon
 
 Jun 17 
-  15:00   Italy             1-0  Sweden            @ Stadium Municipal, Toulouse
+  15:00   Italy             1-0  Sweden            @ Toulouse
 Jun 18 
-  15:00   Belgium           3-0  Ireland           @ Nouveau Stade de Bordeaux, Bordeaux
+  15:00   Belgium           3-0  Ireland           @ Bordeaux
 
 Jun 21 
-  21:00   Italy             0-1  Ireland           @ Stade Pierre-Mauroy, Lille
-          Sweden            0-1  Belgium           @ Allianz Riviera, Nice
+  21:00   Italy             0-1  Ireland           @ Lille
+          Sweden            0-1  Belgium           @ Nice
 
 
 ▪ Group F
 Jun 14 
-  18:00   Austria           0-2  Hungary           @ Nouveau Stade de Bordeaux, Bordeaux
-  21:00   Portugal          1-1  Iceland           @ Stade Geoffroy-Guichard, Saint-Étienne
+  18:00   Austria           0-2  Hungary           @ Bordeaux
+  21:00   Portugal          1-1  Iceland           @ Saint-Étienne
 
 Jun 18 
-  18:00   Iceland           1-1  Hungary           @ Stade Vélodrome, Marseille
-  21:00   Portugal          0-0  Austria           @ Parc des Princes, Paris
+  18:00   Iceland           1-1  Hungary           @ Marseille
+  21:00   Portugal          0-0  Austria           @ Paris (Parc des Princes)
 
 Jun 22 
-  18:00   Iceland           2-1  Austria           @ Stade de France, Saint-Denis 
-          Hungary           3-3  Portugal          @ Parc Olympique Lyonnais, Lyon
+  18:00   Iceland           2-1  Austria           @ Paris (Stade de France) 
+          Hungary           3-3  Portugal          @ Lyon
 
 
 #############################
@@ -112,38 +125,38 @@ Jun 22
 
 ▪ Round of 16
 Jun 25 
-  15:00   Switzerland  4-5 pen. 1-1 a.e.t. (0-0)  Poland            @ Stade Geoffroy-Guichard, Saint-Étienne
-  18:00   Wales        1-0                  Northern Ireland  @ Parc des Princes, Paris
-  21:00   Croatia      0-1 a.e.t. (0-0)    Portugal          @ Stade Bollaert-Delelis, Lens
+  15:00   Switzerland  4-5 pen. 1-1 a.e.t. (0-0)  Poland            @ Saint-Étienne
+  18:00   Wales        1-0                  Northern Ireland  @ Paris (Parc des Princes)
+  21:00   Croatia      0-1 a.e.t. (0-0)    Portugal          @ Lens
 
 Jun 26 
-  15:00   France       2-1              Ireland           @ Parc Olympique Lyonnais, Lyon
-  18:00   Germany      3-0              Slovakia          @ Stade Pierre-Mauroy, Lille
-   21:00   Hungary      0-4              Belgium           @ Stadium Municipal, Toulouse
+  15:00   France       2-1              Ireland           @ Lyon
+  18:00   Germany      3-0              Slovakia          @ Lille
+   21:00   Hungary      0-4              Belgium           @ Toulouse
 
 Jun 27 
-  18:00   Italy        2-0              Spain             @ Stade de France, Saint-Denis
-  21:00   England      1-2              Iceland           @ Allianz Riviera, Nice
+  18:00   Italy        2-0              Spain             @ Paris (Stade de France)
+  21:00   England      1-2              Iceland           @ Nice
 
 
 ▪ Quarter-finals
 Jun 30 
-  21:00   Poland       3-5 pen. 1-1 a.e.t. (0-0)   Portugal          @ Stade Vélodrome, Marseille
+  21:00   Poland       3-5 pen. 1-1 a.e.t. (0-0)   Portugal          @ Marseille
 Jul 1 
-  21:00   Wales        3-1              Belgium           @ Stade Pierre-Mauroy, Lille
+  21:00   Wales        3-1              Belgium           @ Lille
 Jul 2 
-  21:00   Germany      6-5 pen. 1-1 a.e.t. (0-0)   Italy             @ Nouveau Stade de Bordeaux, Bordeaux
+  21:00   Germany      6-5 pen. 1-1 a.e.t. (0-0)   Italy             @ Bordeaux
 Jul 3 
-  21:00   France       5-2              Iceland           @ Stade de France, Saint-Denis
+  21:00   France       5-2              Iceland           @ Paris (Stade de France)
 
 
 ▪ Semi-finals
 Jul 6 
-  21:00   Portugal     2-0              Wales             @ Parc Olympique Lyonnais, Lyon
+  21:00   Portugal     2-0              Wales             @ Lyon
 Jul 7 
-  21:00   Germany      0-2              France            @ Stade Vélodrome, Marseille
+  21:00   Germany      0-2              France            @ Marseille
 
 
 ▪ Final
 Jul 10 
-  21:00   Portugal     1-0 a.e.t. (0-0)     France            @ Stade de France, Saint-Denis
+  21:00   Portugal     1-0 a.e.t. (0-0)     France            @ Paris (Stade de France)

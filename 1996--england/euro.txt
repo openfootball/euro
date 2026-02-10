@@ -7,14 +7,14 @@
 
 
 # Venues:
-#  Empire Stadium, Wembley (80_000; London) 
-#  Elland Road (43_000; Leeds)
-#  Old Trafford (43_000; Manchester) 
-#  Hillsborough (41_000; Sheffield)
-#  Anfield (40_000; Liverpool)
-#  Villa Park (40_000; Birmingham) 
-#  St James' Park (32_000; Newcastle) 
-#  City Ground (28_000; Nottingham) 
+#   London,      Empire Stadium, Wembley (80_000) 
+#   Leeds,       Elland Road (43_000)
+#   Manchester,  Old Trafford (43_000) 
+#   Sheffield,   Hillsborough (41_000)
+#   Liverpool,   Anfield (40_000)
+#   Birmingham,  Villa Park (40_000) 
+#   Newcastle,   St James' Park (32_000) 
+#   Nottingham,  City Ground (28_000) 
 
 
 Group A   | England   Netherlands     Scotland    Switzerland

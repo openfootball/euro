@@ -1,0 +1,35 @@
+
+## final
+
+{{Football box
+|date={{start date|2021|7|11|df=y}}
+|time=21:00 (20:00 [[British Summer Time|BST]])
+|team1={{fb-rt|ITA}}
+|score=1–1
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/2024491/
+|team2={{fb|ENG}}
+|goals1=
+*[[Leonardo Bonucci|Bonucci]] {{goal|67}}
+|goals2=
+*[[Luke Shaw|Shaw]] {{goal|2}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=67,173
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|penalties1=
+*[[Domenico Berardi|Berardi]] {{pengoal}}
+*[[Andrea Belotti|Belotti]] {{penmiss}}
+*[[Leonardo Bonucci|Bonucci]] {{pengoal}}
+*[[Federico Bernardeschi|Bernardeschi]] {{pengoal}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{penmiss}}
+|penaltyscore=3–2
+|penalties2=
+*{{pengoal}} [[Harry Kane|Kane]]
+*{{pengoal}} [[Harry Maguire|Maguire]]
+*{{penmiss}} [[Marcus Rashford|Rashford]]
+*{{penmiss}} [[Jadon Sancho|Sancho]]
+*{{penmiss}} [[Bukayo Saka|Saka]]
+}}
+
+
+

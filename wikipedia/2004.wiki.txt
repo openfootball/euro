@@ -1,0 +1,44 @@
+
+## add semi-finals 
+##
+##   ##  note: asget=yes    => after silver goal extra time
+
+==Semi-finals==
+===Portugal vs Netherlands===
+{{Football box
+|date={{Start date|2004|6|30|df=y}}
+|time=19:45
+|team1={{fb-rt|POR}}
+|score=2–1
+|report=https://www.uefa.com/uefaeuro/match/79107/
+|team2={{fb|NED}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|26}}
+*[[Maniche]] {{goal|58}}
+|goals2=
+*[[Jorge Andrade|Andrade]] {{goal|63|o.g.}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]]
+|attendance=46,679
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+}}
+
+===Greece vs Czech Republic===
+{{Football box
+|date={{Start date|2004|7|1|df=y}}
+|time=19:45
+|team1={{fb-rt|GRE}}
+|score=1–0
+|asget=yes
+|report=https://www.uefa.com/uefaeuro/match/79108/
+|team2={{fb|CZE}}
+|goals1=
+*[[Traianos Dellas|Dellas]] {{silver goal|105+1}}
+|goals2=
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=42,449
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+}}
+
+
+
+

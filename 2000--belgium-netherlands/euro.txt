@@ -7,14 +7,14 @@
 
 
 # Stadiums: 
-# Amsterdam ArenA (50_000)
-# Feyenoord Stadion Rotterdam (50_000)
-# Philips Stadion Eindhoven (30_000)
-# Gelre Dome Arnhem (30_000)
-# Koning Boudewijn Stadion/Stade Roi Baudouin Brussel/Bruxelles (50_000)
-# Jan Breydel Stadion Brugge (30_000)
-# Stade Communal Charleroi (30_000)
-# Sclessin Liège (30_000)
+#  Amsterdam  ArenA (50_000)
+#  Rotterdam  Feyenoord Stadion  (50_000)
+#  Eindhoven  Philips Stadion  (30_000)
+#  Arnhem     Gelre Dome  (30_000)
+#  Brussel/Bruxelles   Koning Boudewijn Stadion/Stade Roi Baudouin  (50_000)
+#  Brugge     Jan Breydel Stadion  (30_000)
+#  Charleroi   Stade Communal  (30_000)
+#  Liège       Sclessin  (30_000)
 
 
 Group A |  Portugal     Romania     England    Germany
