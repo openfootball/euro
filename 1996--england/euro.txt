@@ -1,4 +1,4 @@
-= Euro 1996    # in England,  June 8–30
+= Euro 1996    # in England,  June 8-30
 
 # 16 teams in 8 venues (in 8 host cities)
 # All times are local, BST (UTC+1).

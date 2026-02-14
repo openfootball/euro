@@ -1,4 +1,4 @@
-= Euro 1980   # in Italy, June 11–22
+= Euro 1980   # in Italy, June 11-22
 
 # 8 teams in 4 venues (in 4 host cities)
 # All times are local, CEST (UTC+2).

@@ -1,4 +1,4 @@
-= Euro 1984   # in France, June 12–27
+= Euro 1984   # in France, June 12-27
 
 # 8 teams in 7 venues (in 7 host cities)
 # All times are local, CEST (UTC+2).

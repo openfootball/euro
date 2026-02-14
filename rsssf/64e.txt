@@ -46,10 +46,10 @@ Bulgaria          1-0 Portugal
 ##  todo: check play-off status - is kind of replay???  agg 4-4
 # 
 ## via wikipedia
-#  4–4 on aggregate. A replay was played on a neutral ground to determine the winner.
+#  4-4 on aggregate. A replay was played on a neutral ground to determine the winner.
 #   use [replay]  match status - why? why not?
 #     match is kind of 3rd leg
-#   Bulgaria won 5–4 on aggregate and advanced to the round of 16.
+#   Bulgaria won 5-4 on aggregate and advanced to the round of 16.
 #
 #  note - use inline round that gets concat(endated)
 #                      to ▪ First Round, Replay

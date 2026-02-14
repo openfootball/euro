@@ -1,4 +1,4 @@
-= Euro 2004    # in Portugal,  June 12 – July 4
+= Euro 2004    # in Portugal,  June 12 - July 4
 
 # 16 teams in 10 venues (in 8 host cities)
 # All times are local, WEST (UTC+1).

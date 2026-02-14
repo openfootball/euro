@@ -1,4 +1,4 @@
-= Euro 2008     # in Austria-Switzerland, June 7–29
+= Euro 2008     # in Austria-Switzerland, June 7-29
 
 # 16 teams in 8 venues (in 8 host cities)
 # All times are local, CEST (UTC+2).

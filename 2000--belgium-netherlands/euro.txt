@@ -1,4 +1,4 @@
-= Euro 2000   # in Belgium and the Netherlands, June 10 – July 2
+= Euro 2000   # in Belgium and the Netherlands, June 10 - July 2
 
 # 16 teams in 8 venues (in 8 host cities)
 # All times are local, CEST (UTC+2). 

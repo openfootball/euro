@@ -1,4 +1,4 @@
-= Euro 1992   # in Sweden, June 10–26
+= Euro 1992   # in Sweden, June 10-26
 
 # 8 teams in 4 venues (in 4 host cities)
 # All times are local, CEST (UTC+2).
