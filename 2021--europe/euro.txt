@@ -5,7 +5,7 @@
 
 
 # Stadiums:
-#  London (England),          Wembley Stadium,  90_000	
+#  London (England),          Wembley Stadium,  90_000 
 #  Rome (Italy),              Stadio Olimpico,   70_634
 #  Munich (Germany),          Allianz Arena,  70_000
 #  Baku (Azerbaijan),         Olympic Stadium,  68_000
@@ -13,10 +13,10 @@
 #  Budapest (Hungary),        Puskás Aréna,  67_215
 #  Seville (Spain),           Estadio de La Cartuja,  57_600
 #  Bucharest (Romania),       Arena Națională,   55_600  
-#  Amsterdam (Netherlands),   Johan Cruyff Arena,  54_990  	
-#  Glasgow (Scotland),        Hampden Park,   	  51_866
+#  Amsterdam (Netherlands),   Johan Cruyff Arena,  54_990   
+#  Glasgow (Scotland),        Hampden Park,      51_866
 #  Copenhagen (Denmark),      Parken Stadium,   38_065 
-				
+    
 
 #############################################
 # Group phase

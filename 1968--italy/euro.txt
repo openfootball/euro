@@ -5,7 +5,7 @@
 # If the final remained level after extra time,
 # a replay would be used to determine the winner.
 
-# 4 teams	in 3 venues (in 3 host cities)
+# 4 teams in 3 venues (in 3 host cities)
 # All times are local, CEST (UTC+2).
 
 

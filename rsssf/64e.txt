@@ -9,37 +9,37 @@
 
 ▪ First Round
 01.11.1962 @ Madrid (Santiago Bernabéu)
-Spain            	6-0 Romania
+Spain             6-0 Romania
   (Guillot Fabián 7 27 70, Veloso Fidalgo 9, Collar Monterrubio 17, Macri 81og)
 25.11.1962 @ Bucuresti (23 August)
-Romania          	3-1 Spain
+Romania           3-1 Spain
   (Tataru 2, Manolache 8, Constantin 61; Veloso 65)
 
 10.10.1962 @ Chorzów (Slaski)
-Poland           	0-2 Northern Ireland
+Poland            0-2 Northern Ireland
   (Dougan 19, Humphries 54)
 28.11.1962 @ Belfast (Windsor Park)
-Northern Ireland 	2-0 Poland
+Northern Ireland  2-0 Poland
   (Crossan 9, Bingham 64)
 
 12.08.1962 @ Dublin (Dalymount Park)
-Rep.of Ireland   	4-2 Iceland
+Rep.of Ireland    4-2 Iceland
   (Cantwell (2), Fogarty, Tuohy; Jonsson 37 86)
 02.09.1962 @ Reykjavik (Laugardalsvöllur)
-Iceland          	1-1 Rep.of Ireland
+Iceland           1-1 Rep.of Ireland
   (Arnason 57; Tuohy)
 
 
 
 
 07.11.1962 @ Sofia (Vassil Levski) ▪ 1st Leg
-Bulgaria         	3-1 Portugal
+Bulgaria          3-1 Portugal
   (Asparuchov 65 76, Diev 84; Eusebio 49)
 16.12.1962 @ Lisboa ▪ 2nd Leg
-Portugal         	3-1 Bulgaria
+Portugal          3-1 Bulgaria
   (Hernani (2), Coluna; Iliev)
 23.01.1963 @ Roma, Italy (Olimpico) ▪ Replay
-Bulgaria         	1-0 Portugal
+Bulgaria          1-0 Portugal
   (Asparuchov 87)
 
 ##
@@ -57,31 +57,31 @@ Bulgaria         	1-0 Portugal
 
 
 03.10.1962 @ Sheffield (Hillsborough)
-England          	1-1 France
+England           1-1 France
   (Flowers 57p;  Goujon 8)
 27.02.1963 @ Paris (Parc des Princes)
-France           	5-2 England
+France            5-2 England
   (Wisnieski 3 75, Douis 32, Cossou 43 82; Smith 57, Tambling 74)
 
 21.11.1962 @ Ost-Berlin (Walter-Ulbricht)
-East Germany     	2-1 Czechoslovakia
+East Germany      2-1 Czechoslovakia
 (Erler 60, Liebrecht 80p, Kucera 90)
 31.03.1963 @ Praha (Sparta)
-Czechoslovakia   	1-1 East Germany
+Czechoslovakia    1-1 East Germany
   (Masek 66; Ducke 85)
 
 07.11.1962 @ Budapest (Nép)
-Hungary          	3-1 Wales
+Hungary           3-1 Wales
   (Albert 5, Tichy 34, Sandor 48; Medwin 19)
 20.03.1963 @ Cardiff (Ninian Park)
-Wales            	1-1 Hungary
+Wales             1-1 Hungary
   (Jones; Tichy)
 
 28.06.1962 @ Kobenhavn (Parken)
-Denmark          	6-1 Malta
+Denmark           6-1 Malta
   (Madsen 9 14 49, Clausen 22, Enoksen 71, Bertelsen 80; Theobald 57)
 08.12.1962 @ La Valetta
-Malta            	1-3 Denmark
+Malta             1-3 Denmark
   (Urpani; Madsen, Christensen, Berthelsen)
 
 #
@@ -96,43 +96,43 @@ Malta            	1-3 Denmark
 # - o/w (Opponent Walkover):   Away (Opponent) team was awarded the win
 #
 #
-# 21 June 1962   Greece 		v Albania   [Cancelled]
-# 31 March 1963  Albania 	    v Greece    [Cancelled]
+# 21 June 1962   Greece   v Albania   [Cancelled]
+# 31 March 1963  Albania      v Greece    [Cancelled]
 # note - Greece withdrew. Albania had a walkover and advanced to the round of 16.
 
 21.06.1962 
-  Greece 		o/w  Albania   
+  Greece   o/w  Albania   
 31.03..1963  
-  Albania 	w/o  Greece    
+  Albania  w/o  Greece    
 [Greece withdrew. Albania had a walkover.]
 
 
 11.11.1962 @ Amsterdam (Olympisch)
-Netherlands      	3-1 Switzerland
+Netherlands       3-1 Switzerland
   (Van Der Linden 20, Swart 74, Groot 85; Hertig 42)
 31.03.1963 @ Bern (Wankdorf)
-Switzerland      	1-1 Netherlands
+Switzerland       1-1 Netherlands
   (Alleman 75; Kruijver 6)
 
 21.06.1962 @ Oslo (Ullevĺl)
-Norway           	0-2 Sweden
+Norway            0-2 Sweden
   (Martinsson 10 40)
 04.11.1962 @ Malmö (Idrottsplats)
-Sweden           	1-1 Norway
+Sweden            1-1 Norway
   (Eriksson; Krogh 61)
 
 04.11.1962 @ Belgrade (FK Partizan)
-Yugoslavia       	3-2 Belgium
+Yugoslavia        3-2 Belgium
   (Skoblar 12 32p, Vasovic 88; Stockman 26, Jurion 58)
 31.03.1963 @ Brussels (Heysel)
 Belgium          0-1 Yugoslavia
   (Galic 20)
 
 02.12.1962 @ Bologna (Renato Dall'Ara)
-Italy            	6-0 Turkey
+Italy             6-0 Turkey
   (Rivera 15 47, Orlando 22 29 35 85)
 27.03.1963 @ Istanbul (Inönü)
-Turkey           	0-1 Italy
+Turkey            0-1 Italy
   (Sormani 86)
 
 
@@ -152,57 +152,57 @@ Byes:   Austria, Luxembourg, Soviet Union
 ▪ 1/8 Finals
 
 30.05.1963 @ Bilbao (San Mamés)
-Spain            	1-1 Northern Ireland
+Spain             1-1 Northern Ireland
   (Amancio 60, Irvine 76)
 30.10.1963 @ Belfast (Windsor Park)
-Northern Ireland 	0-1 Spain
+Northern Ireland  0-1 Spain
   (Gento 66)
 
 25.09.1963 @ Wien (Prater)
-Austria          	0-0 Rep.of Ireland
+Austria           0-0 Rep.of Ireland
 13.10.1963 @ Dublin (Dalymount Park)
-Rep.of Ireland      	3-2 Austria
+Rep.of Ireland       3-2 Austria
   (Cantwell 45 89, Fogarty 66; Koleznik 38, Flögel 85)
 
 29.09.1963 @ Sofia (Vassil Levski)
-Bulgaria         	1-0 France
+Bulgaria          1-0 France
   (Diev 24)
 26.10.1963 @ Paris (Parc des Princes)
-France           	3-1 Bulgaria
+France            3-1 Bulgaria
   (Goujon 44 81, Herbin 78; Yakimov 75)
 
 19.10.1963 @ Ost-Berlin (Walter-Ulbricht)
-East Germany     	1-2 Hungary
+East Germany      1-2 Hungary
   (Nöldner 51; Bene 18, Rakosi 88)
 03.11.1963 @ Budapest (Nép)
-Hungary          	3-3 East Germany
+Hungary           3-3 East Germany
   (Bene 7, Sandor 17, Solymosi 51p; Heine 12, Ducke 26, Erler 81)
 
 29.06.1963 @ Kobenhavn (Parken)
-Denmark          	4-0 Albania
+Denmark           4-0 Albania
   (Petersen 18p, Madsen 25, Clausen 36, Enoksen 49)
 30.10.1963 in Tirana (Qemal Stafa)
-Albania          	1-0 Denmark
+Albania           1-0 Denmark
   (Pano 3)
 
 11.09.1963 @ Amsterdam (Olympisch)
-Netherlands      	1-1 Luxembourg
+Netherlands       1-1 Luxembourg
   (Nuninga 5; May 33)
 30.10.1963 @ Rotterdam, Netherlands (Feijenoord)
-Luxembourg       	2-1 Netherlands
+Luxembourg        2-1 Netherlands
   (Dimmer 20 67; Kruijver 31)
 
 19.06.1963 @ Beograd (FK Partizan)
-Yugoslavia       	0-0 Sweden
+Yugoslavia        0-0 Sweden
 18.09.1963 @ Malmö (Idrottsplats)
-Sweden           	3-2 Yugoslavia
+Sweden            3-2 Yugoslavia
   (Persson 30 60, Bild 72; Galic, Zambata)
 
 13.10.1963 @ Moskva (Luzhniki)
-Soviet Union     	2-0 Italy
+Soviet Union      2-0 Italy
   (Ponedelnik 22, Chislenko 42)
 10.11.1963 @ Roma (Olimpico)
-Italy            	1-1 Soviet Union
+Italy             1-1 Soviet Union
   (Rivera 89, Gusarov 33)
 
 

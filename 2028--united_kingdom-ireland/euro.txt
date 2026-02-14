@@ -5,15 +5,15 @@
 # All times are local, BST/IST (UTC+1).
 
 
-# England	London,	    Wembley Stadium	90_000	
-#           London,     Tottenham Hotspur Stadium	62_850	
-#           Manchester,	Etihad Stadium (Manchester City Stadium)	61_470
-#           Liverpool,	Hill Dickinson Stadium (Everton Stadium)	52_769	
-#           Newcastle,	St James' Park	52_264	
-#           Birmingham,	Villa Park	50_000
-# Scotland	Glasgow, 	Hampden Park	51_866	
-# Wales	    Cardiff,	Millennium Stadium (National Stadium of Wales)	73_931	
-# Ireland	Dublin,	    Aviva Stadium (Dublin Arena)	51_711
+# England London,     Wembley Stadium 90_000 
+#           London,     Tottenham Hotspur Stadium 62_850 
+#           Manchester, Etihad Stadium (Manchester City Stadium) 61_470
+#           Liverpool, Hill Dickinson Stadium (Everton Stadium) 52_769 
+#           Newcastle, St James' Park 52_264 
+#           Birmingham, Villa Park 50_000
+# Scotland Glasgow,  Hampden Park 51_866 
+# Wales     Cardiff, Millennium Stadium (National Stadium of Wales) 73_931 
+# Ireland Dublin,     Aviva Stadium (Dublin Arena) 51_711
 
 ▪ Group A
 9 June    A1 v A2    @ Cardiff
@@ -32,8 +32,8 @@
 19 June   B2 v B3    @ Dublin
 
 ▪ Group C
-11 June    C1 v	C2   @ London (Wembley)
-11 June    C3 v	C4   @ Birmingham
+11 June    C1 v C2   @ London (Wembley)
+11 June    C3 v C4   @ Birmingham
 15 June    C1 v C3   @ London (Tottenham)
 15 June    C2 v C4   @ Newcastle upon Tyne
 20 June    C4 v C1   @ Manchester
@@ -48,48 +48,48 @@
 20 June   D2 v D3    @ Newcastle upon Tyne
 
 ▪ Group E
-12 June    E1 v	E2    @ Dublin
+12 June    E1 v E2    @ Dublin
 12 June    E3 v E4    @ Newcastle upon Tyne
 16 June    E1 v E3    @ Dublin
-17 June    E2 v	E4    @ Liverpool
+17 June    E2 v E4    @ Liverpool
 21 June    E4 v E1    @ Dublin
 21 June    E2 v E3    @ London (Tottenham)
 
 ▪ Group F
-13 June    F1 v	F2     @ Glasgow
+13 June    F1 v F2     @ Glasgow
 13 June    F3 v F4     @ Manchester
 17 June    F1 v F3     @ Glasgow
 17 June    F2 v F4     @ Newcastle upon Tyne
-21 June    F4 v	F1     @ Glasgow
+21 June    F4 v F1     @ Glasgow
 21 June    F2 v F3     @ Cardiff
 
 
 ▪ Round of 16
-24 June  (37)   Winner Group A	  v	Runner-up Group C   @ Cardiff
-24 June  (38)   Runner-up Group A v	Runner-up Group B   @ Liverpool
+24 June  (37)   Winner Group A   v Runner-up Group C   @ Cardiff
+24 June  (38)   Runner-up Group A v Runner-up Group B   @ Liverpool
 
-25 June  (39)   Winner Group B	  v	3rd Group A/D/E/F   @ Newcastle upon Tyne
-25 June  (40)   Winner Group C	  v 3rd Group D/E/F     @ Manchester
+25 June  (39)   Winner Group B   v 3rd Group A/D/E/F   @ Newcastle upon Tyne
+25 June  (40)   Winner Group C   v 3rd Group D/E/F     @ Manchester
 
-26 June  (41)   Winner Group F	  v	3rd Group A/B/C     @ Glasgow
-26 June  (42)   Runner-up Group D v	Runner-up Group E   @ London (Tottenham)
+26 June  (41)   Winner Group F   v 3rd Group A/B/C     @ Glasgow
+26 June  (42)   Runner-up Group D v Runner-up Group E   @ London (Tottenham)
 
-27 June  (43)   Winner Group D	  v	Runner-up Group F   @ Birmingham
-27 June  (44)   Winner Group E	  v	3rd Group A/B/C/D   @ Dublin
+27 June  (43)   Winner Group D   v Runner-up Group F   @ Birmingham
+27 June  (44)   Winner Group E   v 3rd Group A/B/C/D   @ Dublin
 
 
 ▪ Quarter-finals
-30 June  (45)   Winner Match 39	  v	Winner Match 37      @ London (Wembley)
-30 June  (46)   Winner Match 41	  v	Winner Match 42      @ Dublin
-1 July   (47)   Winner Match 44	  v	Winner Match 43      @ Glasgow
-1 July   (48)   Winner Match 40	  v	Winner Match 38      @ Cardiff
+30 June  (45)   Winner Match 39   v Winner Match 37      @ London (Wembley)
+30 June  (46)   Winner Match 41   v Winner Match 42      @ Dublin
+1 July   (47)   Winner Match 44   v Winner Match 43      @ Glasgow
+1 July   (48)   Winner Match 40   v Winner Match 38      @ Cardiff
 
 
 ▪ Semi-finals
-4 July  (49)    Winner Match 45	v Winner Match 46    @ London (Wembley)
-5 July  (50)    Winner Match 47	v Winner Match 48    @ London (Wembley)
+4 July  (49)    Winner Match 45 v Winner Match 46    @ London (Wembley)
+5 July  (50)    Winner Match 47 v Winner Match 48    @ London (Wembley)
 
 ▪ Final
-9 July 17:00   Winner Match 49	 v Winner Match 50   @ London (Wembley)
+9 July 17:00   Winner Match 49  v Winner Match 50   @ London (Wembley)
 
 

@@ -5,14 +5,14 @@
 
 
 # Stadiums:
-#   Berlin,        Olympiastadion (Olympiastadion Berlin),   71_000	
+#   Berlin,        Olympiastadion (Olympiastadion Berlin),   71_000 
 #   München,       Allianz Arena (Munich Football Arena),   66_000 
-#   Dortmund,      Westfalenstadion (BVB Stadion Dortmund), 62_000 	
+#   Dortmund,      Westfalenstadion (BVB Stadion Dortmund), 62_000  
 #   Stuttgart,     MHPArena (Stuttgart Arena),             51_000
 #   Gelsenkirchen, Arena Auf Schalke,                    50_000
 #   Hamburg,       Volksparkstadion (Volksparkstadion Hamburg), 49_000
 #   Düsseldorf,    Merkur Spiel-Arena (Düsseldorf Arena), 47_000
-#   Frankfurt, 	   Waldstadion (Frankfurt Arena),         47_000
+#   Frankfurt,     Waldstadion (Frankfurt Arena),         47_000
 #   Köln,          RheinEnergieStadion (Cologne Stadium), 43_000
 #   Leipzig,       Red Bull Arena (Leipzig Stadium),      40_000
 
