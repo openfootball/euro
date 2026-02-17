@@ -16,80 +16,111 @@
 # Ireland Dublin,     Aviva Stadium (Dublin Arena) 51_711
 
 ▪ Group A
-9 June    A1 v A2    @ Cardiff
-10 June   A3 v A4    @ Glasgow
-14 June   A1 v A3    @ Cardiff
-14 June   A2 v A4    @ Liverpool
-18 June   A4 v A1    @ Cardiff
-18 June   A2 v A3    @ London
+June 9    
+  A1 v A2    @ Cardiff
+June 10  
+  A3 v A4    @ Glasgow
+June 14  
+  A1 v A3    @ Cardiff
+  A2 v A4    @ Liverpool
+June 18  
+  A4 v A1    @ Cardiff
+  A2 v A3    @ London
 
 ▪ Group B
-10 June   B1 v B2    @ Manchester
-10 June   B3 v B4    @ Dublin
-14 June   B1 v B3    @ London (Wembley)
-15 June   B2 v B4    @ Birmingham
-19 June   B4 v B1    @ London (Wembley)
-19 June   B2 v B3    @ Dublin
+June 10  
+  B1 v B2    @ Manchester
+  B3 v B4    @ Dublin
+June 14  
+  B1 v B3    @ London (Wembley)
+June 15  
+  B2 v B4    @ Birmingham
+June 19  
+  B4 v B1    @ London (Wembley)
+  B2 v B3    @ Dublin
 
 ▪ Group C
-11 June    C1 v C2   @ London (Wembley)
-11 June    C3 v C4   @ Birmingham
-15 June    C1 v C3   @ London (Tottenham)
-15 June    C2 v C4   @ Newcastle upon Tyne
-20 June    C4 v C1   @ Manchester
-20 June    C2 v C3   @ Liverpool
+June 11   
+  C1 v C2   @ London (Wembley)
+  C3 v C4   @ Birmingham
+June 15   
+  C1 v C3   @ London (Tottenham)
+  C2 v C4   @ Newcastle upon Tyne
+June 20   
+  C4 v C1   @ Manchester
+  C2 v C3   @ Liverpool
 
 ▪ Group D
-11 June   D3 v D4    @ Liverpool
-12 June   D1 v D2    @ London (Tottenham)
-16 June   D1 v D3    @ London (Wembley)
-16 June   D2 v D4    @ Manchester
-20 June   D4 v D1    @ Birmingham
-20 June   D2 v D3    @ Newcastle upon Tyne
+June 11  
+  D3 v D4    @ Liverpool
+June 12  
+  D1 v D2    @ London (Tottenham)
+June 16  
+  D1 v D3    @ London (Wembley)
+  D2 v D4    @ Manchester
+June 20  
+  D4 v D1    @ Birmingham
+  D2 v D3    @ Newcastle upon Tyne
 
 ▪ Group E
-12 June    E1 v E2    @ Dublin
-12 June    E3 v E4    @ Newcastle upon Tyne
-16 June    E1 v E3    @ Dublin
-17 June    E2 v E4    @ Liverpool
-21 June    E4 v E1    @ Dublin
-21 June    E2 v E3    @ London (Tottenham)
+June 12   
+  E1 v E2    @ Dublin
+  E3 v E4    @ Newcastle upon Tyne
+June 16   
+  E1 v E3    @ Dublin
+June 17   
+  E2 v E4    @ Liverpool
+June 21   
+  E4 v E1    @ Dublin
+  E2 v E3    @ London (Tottenham)
 
 ▪ Group F
-13 June    F1 v F2     @ Glasgow
-13 June    F3 v F4     @ Manchester
-17 June    F1 v F3     @ Glasgow
-17 June    F2 v F4     @ Newcastle upon Tyne
-21 June    F4 v F1     @ Glasgow
-21 June    F2 v F3     @ Cardiff
+June 13   
+  F1 v F2     @ Glasgow
+  F3 v F4     @ Manchester
+June 17   
+  F1 v F3     @ Glasgow
+  F2 v F4     @ Newcastle upon Tyne
+June 21   
+  F4 v F1     @ Glasgow
+  F2 v F3     @ Cardiff
 
 
 ▪ Round of 16
-24 June  (37)   Winner Group A   v Runner-up Group C   @ Cardiff
-24 June  (38)   Runner-up Group A v Runner-up Group B   @ Liverpool
+June 24
+  (37)  Winner Group A   v Runner-up Group C   @ Cardiff
+  (38)  Runner-up Group A v Runner-up Group B   @ Liverpool
 
-25 June  (39)   Winner Group B   v 3rd Group A/D/E/F   @ Newcastle upon Tyne
-25 June  (40)   Winner Group C   v 3rd Group D/E/F     @ Manchester
+June 25 
+  (39)  Winner Group B   v 3rd Group A/D/E/F   @ Newcastle upon Tyne
+  (40)  Winner Group C   v 3rd Group D/E/F     @ Manchester
 
-26 June  (41)   Winner Group F   v 3rd Group A/B/C     @ Glasgow
-26 June  (42)   Runner-up Group D v Runner-up Group E   @ London (Tottenham)
+June 26
+  (41)  Winner Group F   v 3rd Group A/B/C     @ Glasgow
+  (42)  Runner-up Group D v Runner-up Group E   @ London (Tottenham)
 
-27 June  (43)   Winner Group D   v Runner-up Group F   @ Birmingham
-27 June  (44)   Winner Group E   v 3rd Group A/B/C/D   @ Dublin
+June 27 
+  (43)  Winner Group D   v Runner-up Group F   @ Birmingham
+  (44)  Winner Group E   v 3rd Group A/B/C/D   @ Dublin
 
 
 ▪ Quarter-finals
-30 June  (45)   Winner Match 39   v Winner Match 37      @ London (Wembley)
-30 June  (46)   Winner Match 41   v Winner Match 42      @ Dublin
-1 July   (47)   Winner Match 44   v Winner Match 43      @ Glasgow
-1 July   (48)   Winner Match 40   v Winner Match 38      @ Cardiff
+June 30
+  (45)  Winner Match 39   v Winner Match 37      @ London (Wembley)
+  (46)  Winner Match 41   v Winner Match 42      @ Dublin
+July 1  
+  (47)  Winner Match 44   v Winner Match 43      @ Glasgow
+  (48)  Winner Match 40   v Winner Match 38      @ Cardiff
 
 
 ▪ Semi-finals
-4 July  (49)    Winner Match 45 v Winner Match 46    @ London (Wembley)
-5 July  (50)    Winner Match 47 v Winner Match 48    @ London (Wembley)
+July 4
+  (49)  Winner Match 45 v Winner Match 46    @ London (Wembley)
+July 5 
+  (50)  Winner Match 47 v Winner Match 48    @ London (Wembley)
 
 ▪ Final
-9 July 17:00   Winner Match 49  v Winner Match 50   @ London (Wembley)
+July 9
+  17:00   Winner Match 49  v Winner Match 50   @ London (Wembley)
 
 

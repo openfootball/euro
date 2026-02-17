@@ -3,6 +3,19 @@
 # 16 teams in 8 venues (in 8 host cities)
 # All times are local, CEST (UTC+2). 
 
+
+# Stadiums:
+#  National Stadium Warszawa, Warszawa
+#  Municipal Stadium Wrocław, Wrocław
+#  Stadion Miejski, Poznań
+#  PGE Arena, Gdańsk
+#  Metalist Stadium, Kharkiv
+#  Arena Lviv, Lviv
+#  Donbas Arena, Donetsk
+#  Olympic Stadium, Kyiv
+ 
+
+
 #############################################
 # Group phase
 
@@ -18,58 +31,58 @@ Matchday 3 | Jun 16 - Jun 19
 
 ▪ Group A
 Jun 8 
-  18:00   Poland   1-1  Greece             @ National Stadium Warszawa, Warszawa
-  20:45   Russia   4-1  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
+  18:00   Poland   1-1  Greece             @ Warszawa
+  20:45   Russia   4-1  Czech Republic     @ Wrocław
 
 Jun 12 
-  18:00   Greece  1-2  Czech Republic     @ Municipal Stadium Wrocław, Wrocław
-  20:45   Poland  1-1  Russia             @ National Stadium Warszawa, Warszawa
+  18:00   Greece  1-2  Czech Republic     @ Wrocław
+  20:45   Poland  1-1  Russia             @ Warszawa
 
 Jun 16 
-  20:45   Czech Republic  1-0  Poland     @ Municipal Stadium Wrocław, Wrocław
-          Greece          1-0  Russia     @ National Stadium Warszawa, Warszawa
+  20:45   Czech Republic  1-0  Poland     @ Wrocław
+          Greece          1-0  Russia     @ Warszawa
 
 
 ▪ Group B
 Jun 9
-  18:00 (19:00 EEST)  Netherlands    0-1  Denmark     @ Metalist Stadium, Kharkiv
-  20:45 (21:45 EEST ) Germany        1-0  Portugal    @ Arena Lviv, Lviv
+  18:00 (19:00 EEST)  Netherlands    0-1  Denmark     @ Kharkiv
+  20:45 (21:45 EEST) Germany        1-0  Portugal    @ Lviv
 
 Jun 13 
-  18:00 (19:00 EEST)  Denmark      2-3  Portugal    @ Arena Lviv, Lviv
-  20:45 (21:45 EEST)  Netherlands  1-2  Germany     @ Metalist Stadium, Kharkiv
+  18:00 (19:00 EEST)  Denmark      2-3  Portugal    @ Lviv
+  20:45 (21:45 EEST)  Netherlands  1-2  Germany     @ Kharkiv
 
 Jun 17
-  20:45 (21:45 EEST)  Portugal     2-1  Netherlands  @ Metalist Stadium, Kharkiv
-                      Denmark      1-2  Germany      @ Arena Lviv, Lviv
+  20:45 (21:45 EEST)  Portugal     2-1  Netherlands  @ Kharkiv
+                      Denmark      1-2  Germany      @ Lviv
 
 
 ▪ Group C
 Jun 10 
-  18:00  Spain     1-1  Italy    @ PGE Arena, Gdańsk
-  20:45  Ireland   1-3  Croatia  @ Stadion Miejski, Poznań
+  18:00  Spain     1-1  Italy    @ Gdańsk
+  20:45  Ireland   1-3  Croatia  @ Poznań
 
 Jun 14 
-  18:00  Italy  1-1  Croatia     @ Stadion Miejski, Poznań
-  20:45  Spain  4-0  Ireland     @ PGE Arena, Gdańsk
+  18:00  Italy  1-1  Croatia     @ Poznań
+  20:45  Spain  4-0  Ireland     @ Gdańsk
 
 Jun 18 
-  20:45  Croatia  0-1  Spain     @ PGE Arena, Gdańsk
-         Italy  2-0  Ireland     @ Stadion Miejski, Poznań
+  20:45  Croatia  0-1  Spain     @ Gdańsk
+         Italy  2-0  Ireland     @ Poznań
 
 
 ▪ Group D
 Jun 11 
-  18:00 (19:00 EEST)  France  1-1  England   @ Donbas Arena, Donetsk
-  20:45 (21:45 EEST)  Ukraine  2-1  Sweden   @ Olympic Stadium, Kyiv
+  18:00 (19:00 EEST)  France  1-1  England   @ Donetsk
+  20:45 (21:45 EEST)  Ukraine  2-1  Sweden   @ Kyiv
 
 Jun 15 
-  18:00 (19:00 EEST)  Ukraine  0-2  France   @ Donbas Arena, Donetsk
-  21:00 (22:00 EEST)  Sweden  2-3  England   @ Olympic Stadium, Kyiv
+  18:00 (19:00 EEST)  Ukraine  0-2  France   @ Donetsk
+  21:00 (22:00 EEST)  Sweden  2-3  England   @ Kyiv
 
 Jun 19
-   20:45 (21:45 EEST)  England  1-0  Ukraine  @ Donbas Arena, Donetsk
-                       Sweden  2-0  France    @ Olympic Stadium, Kyiv 
+   20:45 (21:45 EEST)  England  1-0  Ukraine  @ Donetsk
+                       Sweden  2-0  France    @ Kyiv 
 
 
 #############################
@@ -77,22 +90,22 @@ Jun 19
 
 ▪ Quarter-finals
 Jun 21 
-  20:45  Czech Republic  0-1             Portugal   @ National Stadium, Warsaw
+  20:45  Czech Republic  0-1             Portugal   @ Warsaw
 Jun 22 
-  20:45  Germany  4-2             Greece           @ PGE Arena, Gdańsk
+  20:45  Germany  4-2             Greece           @ Gdańsk
 Jun 23
-  20:45 (21:45 EEST)   Spain  2-0             France   @ Donbas Arena, Donetsk
+  20:45 (21:45 EEST)   Spain  2-0             France   @ Donetsk
 Jun 24 
-  20:45 (21:45 EEST)   England  2-4 pen. 0-0 a.e.t. (0-0)  Italy  @ Olympic Stadium, Kyiv
+  20:45 (21:45 EEST)   England  2-4 pen. 0-0 a.e.t. (0-0)  Italy  @ Kyiv
 
 
 ▪ Semi-finals
 Jun 27 
-  20:45 (21:45 EEST)   Portugal 2-4 pen. 0-0 a.e.t. (0-0)   Spain  @ Donbas Arena, Donetsk
+  20:45 (21:45 EEST)   Portugal 2-4 pen. 0-0 a.e.t. (0-0)   Spain  @ Donetsk
 Jun 28 
-  20:45   Germany   1-2              Italy    @ National Stadium, Warsaw
+  20:45   Germany   1-2              Italy    @ Warsaw
 
 
 ▪ Final
 Jul 1 
-  20:45 (21:45 EEST)   Spain  4-0  Italy   @ Olympic Stadium, Kyiv
+  20:45 (21:45 EEST)   Spain  4-0  Italy   @ Kyiv
