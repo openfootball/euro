@@ -30,7 +30,7 @@ Group F  |  Turkey    Georgia      Portugal  Czech Republic
 ▪ Group A, Matchday 1
 
 Fri Jun 14 
-   21.00         Germany v Scotland   5-1 (3-0)    @ München Fußball Arena, München
+   21:00         Germany v Scotland   5-1 (3-0)    @ München Fußball Arena, München
                    (Wirtz 10' Musiala 19' Havertz 45+1'(p) Füllkrug 68' Can 90+3'; 
                     Rüdiger 87'(og))
   Germany:    Neuer - Kimmich, Rüdiger, Tah [Y], Mittelstädt – Andrich [Y] (Groß 46'),
@@ -41,7 +41,7 @@ Fri Jun 14
               Adams (Hanley 46'), McGinn (McLean 67')
 
  Sat Jun 15 
-    15.00        Hungary v Switzerland   1-3 (0-2)  @ Köln Stadion, Köln
+    15:00        Hungary v Switzerland   1-3 (0-2)  @ Köln Stadion, Köln
                   (Varga 66'; 
                    Duah 12' Aebischer 45' Embolo 90+3')
   Hungary:     Gulacsi – Lang (Bolla 46' [Y]), Orban, Szalai [Y] (Dardai 79') – Fiola, 
@@ -56,7 +56,7 @@ Fri Jun 14
 
 ▪ Final
 Sun Jul 14 
-  21.00   Spain v England   2-1 (0-0)    @ Olympiastadion, Berlin
+  21:00   Spain v England   2-1 (0-0)    @ Olympiastadion, Berlin
               (Williams 47' Oyarzabal 86'; Palmer 73')
 ```
 
