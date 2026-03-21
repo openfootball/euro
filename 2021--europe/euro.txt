@@ -29,9 +29,9 @@ Group E | Spain        Sweden    Poland     Slovakia
 Group F | Hungary      Portugal  France     Germany
 
 
-Matchday 1 | Jun 11 - Jun 15         # 1 v 2, 3 v 4
-Matchday 2 | Jun 16 - Jun 19         # 1 v 3, 2 v 4
-Matchday 3 | Jun 20 - Jun 23         # 4 v 1, 2 v 3
+▪ Matchday 1 | Jun 11 - Jun 15         # 1 v 2, 3 v 4
+▪ Matchday 2 | Jun 16 - Jun 19         # 1 v 3, 2 v 4
+▪ Matchday 3 | Jun 20 - Jun 23         # 4 v 1, 2 v 3
 
 
 
