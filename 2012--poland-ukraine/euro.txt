@@ -1,7 +1,7 @@
 = Euro 2012       # in Poland-Ukraine,  June 8 - July 1
 
 # 16 teams in 8 venues (in 8 host cities)
-# All times are local, CEST (UTC+2). 
+# All times are local, CEST (UTC+2).
 
 
 # Stadiums:
@@ -13,7 +13,7 @@
 #  Arena Lviv, Lviv
 #  Donbas Arena, Donetsk
 #  Olympic Stadium, Kyiv
- 
+
 
 
 #############################################
@@ -24,21 +24,21 @@ Group B  |  Netherlands  Denmark  Germany  Portugal
 Group C  |  Spain        Italy    Ireland  Croatia
 Group D  |  Ukraine      Sweden   France   England
 
-Matchday 1 | Jun 8  - Jun 11
-Matchday 2 | Jun 12 - Jun 15
-Matchday 3 | Jun 16 - Jun 19
+▪ Matchday 1 | Jun 8  - Jun 11
+▪ Matchday 2 | Jun 12 - Jun 15
+▪ Matchday 3 | Jun 16 - Jun 19
 
 
 ▪ Group A
-Jun 8 
+Jun 8
   18:00   Poland   1-1  Greece             @ Warszawa
   20:45   Russia   4-1  Czech Republic     @ Wrocław
 
-Jun 12 
+Jun 12
   18:00   Greece  1-2  Czech Republic     @ Wrocław
   20:45   Poland  1-1  Russia             @ Warszawa
 
-Jun 16 
+Jun 16
   20:45   Czech Republic  1-0  Poland     @ Wrocław
           Greece          1-0  Russia     @ Warszawa
 
@@ -48,7 +48,7 @@ Jun 9
   18:00 (19:00 EEST)  Netherlands    0-1  Denmark     @ Kharkiv
   20:45 (21:45 EEST) Germany        1-0  Portugal    @ Lviv
 
-Jun 13 
+Jun 13
   18:00 (19:00 EEST)  Denmark      2-3  Portugal    @ Lviv
   20:45 (21:45 EEST)  Netherlands  1-2  Germany     @ Kharkiv
 
@@ -58,54 +58,54 @@ Jun 17
 
 
 ▪ Group C
-Jun 10 
+Jun 10
   18:00  Spain     1-1  Italy    @ Gdańsk
   20:45  Ireland   1-3  Croatia  @ Poznań
 
-Jun 14 
+Jun 14
   18:00  Italy  1-1  Croatia     @ Poznań
   20:45  Spain  4-0  Ireland     @ Gdańsk
 
-Jun 18 
+Jun 18
   20:45  Croatia  0-1  Spain     @ Gdańsk
          Italy  2-0  Ireland     @ Poznań
 
 
 ▪ Group D
-Jun 11 
+Jun 11
   18:00 (19:00 EEST)  France  1-1  England   @ Donetsk
   20:45 (21:45 EEST)  Ukraine  2-1  Sweden   @ Kyiv
 
-Jun 15 
+Jun 15
   18:00 (19:00 EEST)  Ukraine  0-2  France   @ Donetsk
   21:00 (22:00 EEST)  Sweden  2-3  England   @ Kyiv
 
 Jun 19
    20:45 (21:45 EEST)  England  1-0  Ukraine  @ Donetsk
-                       Sweden  2-0  France    @ Kyiv 
+                       Sweden  2-0  France    @ Kyiv
 
 
 #############################
 # Knockout phase / Finals
 
 ▪ Quarter-finals
-Jun 21 
+Jun 21
   20:45  Czech Republic  0-1             Portugal   @ Warsaw
-Jun 22 
+Jun 22
   20:45  Germany  4-2             Greece           @ Gdańsk
 Jun 23
   20:45 (21:45 EEST)   Spain  2-0             France   @ Donetsk
-Jun 24 
+Jun 24
   20:45 (21:45 EEST)   England  2-4 pen. 0-0 a.e.t. (0-0)  Italy  @ Kyiv
 
 
 ▪ Semi-finals
-Jun 27 
+Jun 27
   20:45 (21:45 EEST)   Portugal 2-4 pen. 0-0 a.e.t. (0-0)   Spain  @ Donetsk
-Jun 28 
+Jun 28
   20:45   Germany   1-2              Italy    @ Warsaw
 
 
 ▪ Final
-Jul 1 
+Jul 1
   20:45 (21:45 EEST)   Spain  4-0  Italy   @ Kyiv

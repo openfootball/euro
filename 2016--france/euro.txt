@@ -1,7 +1,7 @@
 = Euro 2016       # in France, June 10 - July 10
 
 # 24 teams in 10 venues (in 9 host cities)
-# All times are local, CEST (UTC+2). 
+# All times are local, CEST (UTC+2).
 
 
 # Stadiums:
@@ -27,96 +27,96 @@ Group D | Spain     Czech Republic  Turkey   Croatia
 Group E | Belgium   Italy           Ireland  Sweden
 Group F | Portugal  Iceland         Austria  Hungary
 
-Matchday 1 | Jun 10 - Jun 14
-Matchday 2 | Jun 15 - Jun 18
-Matchday 3 | Jun 19 - Jun 22
+▪ Matchday 1 | Jun 10 - Jun 14
+▪ Matchday 2 | Jun 15 - Jun 18
+▪ Matchday 3 | Jun 19 - Jun 22
 
 
 ▪ Group A
-Jun 10  
+Jun 10
   21:00   France            2-1  Romania           @ Paris (Stade de France)
-Jun 11  
+Jun 11
   15:00   Albania           0-1  Switzerland       @ Lens
 
-Jun 15 
+Jun 15
   18:00   Romania           1-1  Switzerland       @ Paris (Parc des Princes)
   21:00   France            2-0  Albania           @ Marseille
 
-Jun 19 
+Jun 19
   21:00   Romania           0-1  Albania           @ Lille
           Switzerland       0-0  France            @ Lyon
 
 
 ▪ Group B
-Jun 11 
+Jun 11
   18:00    Wales             2-1  Slovakia          @ Bordeaux
   21:00    England           1-1  Russia            @ Marseille
 
-Jun 15 
+Jun 15
   15:00   Russia            1-2  Slovakia          @ Lille
-Jun 16 
+Jun 16
   15:00   England           2-1  Wales             @ Lens
 
-Jun 20 
+Jun 20
   21:00   Russia            0-3  Wales             @ Toulouse
           Slovakia          0-0  England           @ Saint-Étienne
 
 
 ▪ Group C
-Jun 12 
+Jun 12
   18:00    Poland            1-0  Northern Ireland  @ Nice
   21:00    Germany           2-0  Ukraine           @ Lille
 
-Jun 16 
+Jun 16
   18:00   Ukraine           0-2  Northern Ireland  @ Lyon
   21:00   Germany           0-0  Poland            @ Paris (Stade de France)
-  
-Jun 21 
+
+Jun 21
   18:00   Northern Ireland  0-1  Germany           @ Paris (Parc des Princes)
           Ukraine           0-1  Poland            @ Marseille
 
 
 ▪ Group D
-Jun 12 
+Jun 12
   15:00    Turkey            0-1  Croatia           @ Paris (Parc des Princes)
 Jun 13
   15:00    Spain             1-0  Czech Republic    @ Toulouse
 
-Jun 17 
+Jun 17
   18:00   Czech Republic    2-2  Croatia           @ Saint-Étienne
   21:00   Spain             3-0  Turkey            @ Nice
 
-Jun 21 
+Jun 21
   21:00   Croatia           2-1  Spain             @ Bordeaux
           Czech Republic    0-2  Turkey            @ Lens
 
 
 ▪ Group E
-Jun 13 
+Jun 13
   18:00   Ireland           1-1  Sweden            @ Paris (Stade de France)
   21:00   Belgium           0-2  Italy             @ Lyon
 
-Jun 17 
+Jun 17
   15:00   Italy             1-0  Sweden            @ Toulouse
-Jun 18 
+Jun 18
   15:00   Belgium           3-0  Ireland           @ Bordeaux
 
-Jun 21 
+Jun 21
   21:00   Italy             0-1  Ireland           @ Lille
           Sweden            0-1  Belgium           @ Nice
 
 
 ▪ Group F
-Jun 14 
+Jun 14
   18:00   Austria           0-2  Hungary           @ Bordeaux
   21:00   Portugal          1-1  Iceland           @ Saint-Étienne
 
-Jun 18 
+Jun 18
   18:00   Iceland           1-1  Hungary           @ Marseille
   21:00   Portugal          0-0  Austria           @ Paris (Parc des Princes)
 
-Jun 22 
-  18:00   Iceland           2-1  Austria           @ Paris (Stade de France) 
+Jun 22
+  18:00   Iceland           2-1  Austria           @ Paris (Stade de France)
           Hungary           3-3  Portugal          @ Lyon
 
 
@@ -124,39 +124,39 @@ Jun 22
 # Knockout phase / Finals
 
 ▪ Round of 16
-Jun 25 
+Jun 25
   15:00   Switzerland  4-5 pen. 1-1 a.e.t. (0-0)  Poland            @ Saint-Étienne
   18:00   Wales        1-0                  Northern Ireland  @ Paris (Parc des Princes)
   21:00   Croatia      0-1 a.e.t. (0-0)    Portugal          @ Lens
 
-Jun 26 
+Jun 26
   15:00   France       2-1              Ireland           @ Lyon
   18:00   Germany      3-0              Slovakia          @ Lille
    21:00   Hungary      0-4              Belgium           @ Toulouse
 
-Jun 27 
+Jun 27
   18:00   Italy        2-0              Spain             @ Paris (Stade de France)
   21:00   England      1-2              Iceland           @ Nice
 
 
 ▪ Quarter-finals
-Jun 30 
+Jun 30
   21:00   Poland       3-5 pen. 1-1 a.e.t. (0-0)   Portugal          @ Marseille
-Jul 1 
+Jul 1
   21:00   Wales        3-1              Belgium           @ Lille
-Jul 2 
+Jul 2
   21:00   Germany      6-5 pen. 1-1 a.e.t. (0-0)   Italy             @ Bordeaux
-Jul 3 
+Jul 3
   21:00   France       5-2              Iceland           @ Paris (Stade de France)
 
 
 ▪ Semi-finals
-Jul 6 
+Jul 6
   21:00   Portugal     2-0              Wales             @ Lyon
-Jul 7 
+Jul 7
   21:00   Germany      0-2              France            @ Marseille
 
 
 ▪ Final
-Jul 10 
+Jul 10
   21:00   Portugal     1-0 a.e.t. (0-0)     France            @ Paris (Stade de France)
