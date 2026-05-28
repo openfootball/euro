@@ -96,8 +96,11 @@ Sun Jul 14
 ```
 
 
-## Build Your Own `euro.db` Copy
+## Build Your Own `euro.db` Database or `euro.json/.csv` Datasets
 
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
+<!--
 Use the `sportdb` command line tool to build your own `euro.db` copy
 from the plain text fixtures. 
 
@@ -131,7 +134,7 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
-
+-->
 
 
 ## Questions? Comments?
