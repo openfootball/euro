@@ -13,7 +13,7 @@ Ireland           2-0  Czechoslovakia
 10.05.1959 @ Bratislava (Tehelné Pole)
 Czechoslovakia    4-0  Ireland
   (Stacho 4p, Bubernik 52, Pavlovic 66, Dolinsky 75)
-  
+
 ▪ 1/8 Finals
 28.09.1958 @ Moskva (Luzhniki)
 Soviet Union      3-1  Hungary
@@ -73,9 +73,9 @@ Bulgaria          1-1  Yugoslavia
 
 ▪ Quarterfinals
 29.05.1960 @ Moskva
-Soviet Union            w/o  Spain
+Soviet Union            n/p  Spain
 09.06.1960 @ Madrid
-Spain                   o/w  Soviet Union
+Spain                   n/p  Soviet Union
 [Spain withdrew. Soviet Union had a walkover.  The entire tie
  apparently was awarded a 3-0 win to the Soviet Union.]
 
@@ -93,7 +93,7 @@ France            5-2  Austria
 Austria           2-4  France
   (Nemec 26, Probst 64; Marcel 46, Rahis 59, Heutte 77, Kopa 83p)
 
-08.05.1960 @ Oeiras/Lisboa (Nacional Do Jamor) 
+08.05.1960 @ Oeiras/Lisboa (Nacional Do Jamor)
 Portugal          2-1  Yugoslavia
   (Santana 30, Matateu 70; Kostic 89)
 22.05.1960 @ Beograd (FK Partizan)
@@ -105,7 +105,7 @@ Yugoslavia        5-1  Portugal
 ==Final Tournament==
 # in France; draw held in Paris on 31 May 1960
 
-▪ Semifinals  
+▪ Semifinals
 July 6 @ Marseille, Stade Vélodrome   att: 28000
 Soviet Union     3-0  Czechoslovakia
    (V.Ivanov 34, 56, Ponedelnik 65)
@@ -117,26 +117,26 @@ Czechoslovakia: Schroiff, Safránek, Novák, Buberník, Popluhár, Masopust,
 
 July 6 @ Paris, Parc des Princes    att: 27000
 Yugoslavia       5-4  France
-  (Galic 11, Zanetic 55, Knez 75, Jerkovic 77, 78; 
+  (Galic 11, Zanetic 55, Knez 75, Jerkovic 77, 78;
     Vincent 12, Heutte 43, 62, Wiesnieski 52)
 Yugoslavia: Soskic, Durkovic, Jusufi, Zanetic, Zebec, Perusic, Knez,
             Jerkovic, Galic, Sekularac, Kostic
-France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller, 
+France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller,
         Wiesnieski, Stievenard, Vincent
   ref: Grandain (Belgium)
 
-▪ Match for third place 
+▪ Match for third place
 July 9 @ Marseille, Stade Vélodrome   att: 9400
 Czechoslovakia   2-0  France
   (Bubník 58, Pavlovic 88)
-Czechoslovakia: Schroiff, Safránek, Novák, Masopust, Popluhár, Buberník,  
+Czechoslovakia: Schroiff, Safránek, Novák, Masopust, Popluhár, Buberník,
                 Pavlovic, Vojta, Molnár, Bubník, Dolínski
-France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis, 
+France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis,
         Wiesnieski, Stievenard, Vincent
   ref: Jionni (Italy)
-  
-▪ Final 
-July 10 @ Paris, Parc des Princes    att: 18000    
+
+▪ Final
+July 10 @ Paris, Parc des Princes    att: 18000
 Soviet Union     2-1  Yugoslavia      (aet)
   (Metreveli 49, Ponedelnik 114; Galic 41)
 Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
@@ -147,5 +147,5 @@ Yugoslavia: Vidinic, Durkovic, Jusufi, Zanetic, Miladinovic, Perusic,
 
 
 # Topscorer overall: Fontaine (France) 6 goals
-# Topscorers final tournament: Heutte (France), V.Ivanov and Ponedelnik (Soviet Union), 
+# Topscorers final tournament: Heutte (France), V.Ivanov and Ponedelnik (Soviet Union),
 #                             Galic and Jerkovic (Yugoslavia) 2 goals

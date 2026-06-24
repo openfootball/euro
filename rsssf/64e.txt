@@ -44,7 +44,7 @@ Bulgaria          1-0 Portugal
 
 ##
 ##  todo: check play-off status - is kind of replay???  agg 4-4
-# 
+#
 ## via wikipedia
 #  4-4 on aggregate. A replay was played on a neutral ground to determine the winner.
 #   use [replay]  match status - why? why not?
@@ -91,19 +91,19 @@ Malta             1-3 Denmark
 #
 #  note - A walkover (w/o) occurs when one team is declared the winner
 #          because the opponent is unable or unwilling to play.
-#  
+#
 # - w/o (Walkover):            Home team was awarded the win.
 # - o/w (Opponent Walkover):   Away (Opponent) team was awarded the win
 #
 #
-# 21 June 1962   Greece   v Albania   [Cancelled]
-# 31 March 1963  Albania      v Greece    [Cancelled]
+# 21 June 1962   Greece   v Albania   [cancelled]
+# 31 March 1963  Albania      v Greece    [cancelled]
 # note - Greece withdrew. Albania had a walkover and advanced to the round of 16.
 
-21.06.1962 
-  Greece   o/w  Albania   
-31.03..1963  
-  Albania  w/o  Greece    
+21.06.1962
+  Greece   n/p  Albania
+31.03.1963
+  Albania  n/p Greece
 [Greece withdrew. Albania had a walkover.]
 
 
@@ -143,7 +143,7 @@ Turkey            0-1 Italy
 #  todo - how to deal with byes. keep as comment or ???
 #   use
 #
-#  note - bye refers to a team automatically advancing to the next round without competing. 
+#  note - bye refers to a team automatically advancing to the next round without competing.
 
 Byes:   Austria, Luxembourg, Soviet Union
 
@@ -181,7 +181,7 @@ Hungary           3-3 East Germany
 29.06.1963 @ Kobenhavn (Parken)
 Denmark           4-0 Albania
   (Petersen 18p, Madsen 25, Clausen 36, Enoksen 49)
-30.10.1963 in Tirana (Qemal Stafa)
+30.10.1963 @ Tirana (Qemal Stafa)
 Albania           1-0 Denmark
   (Pano 3)
 
@@ -229,7 +229,7 @@ Dec 10, 1963 @ Křbenhavn
 Denmark          2-2 Luxembourg
   (O.Madsen 15, 70; Leonard 12, Schmit 84)
 Dec 18, 1963 @ Amsterdam
-Denmark          1-0 Luxembourg   
+Denmark          1-0 Luxembourg
   (O.Madsen 43)
 
 May 13 @ Stockholm
@@ -243,7 +243,7 @@ Soviet Union     3-1 Sweden
 ==Final Tournament==
 # in Spain; draw held in Madrid on 6 May 1964
 
-▪ Semifinals 
+▪ Semifinals
 June 17 @ Madrid, Santiago Bernabéu     att: 125000
 Spain            2-1 Hungary         (aet)
   (Pereda 35, Amancio 115; Bene 84)
@@ -259,17 +259,17 @@ Soviet Union     3-0 Denmark
 Soviet Union: Yashin, Chustikov, Shesternev, Mudrik, Voronin, Anichkin,
               Chislenko, V.Ivanov, Ponedelnik, Gusarov, Khusainov
 Denmark: L.Nielsen, J.Hansen, K.Hansen, B.Hansen I, Larsen, E.Nielsen,
-         Bertelsen, Sřrensen, O.Madsen, Thorst, Danielsen 
+         Bertelsen, Sřrensen, O.Madsen, Thorst, Danielsen
   ref: Lo Bello (Italy)
 
-▪ Match for third place 
+▪ Match for third place
 June 20 @ Barcelona, Nou Camp     att: 4000
 Hungary          3-1 Denmark         (aet)
   (Bene 11, Novák 107p, 110; Bertelsen 81)
 Hungary: Szentmihalyi, Novák, Mészöly, Ihász, Solymosi, Sipos, Farkas,
          Varga, Albert, Bene, Fenyvesi
 Denmark: L.Nielsen, Wolmar, K.Hansen, B.Hansen I, Larsen, E.Nielsen,
-         Bertelsen, Sřrensen, O.Madsen, Thorst, Danielsen 
+         Bertelsen, Sřrensen, O.Madsen, Thorst, Danielsen
   ref: Mellet (Switzerland)
 
 ▪ Final
@@ -278,11 +278,10 @@ Spain            2-1 Soviet Union
   (Pereda 6, Marcelino 84; Khusainov 8)
 Spain: Iribar, Rivilla, Olivella, Calleja, Zoco, Fusté, Amancio,
        Pereda, Marcelino, Suárez, Lapetra
-Soviet Union: Yashin, Chustikov, Shesternev, Mudrik, Voronin, Anichkin, 
+Soviet Union: Yashin, Chustikov, Shesternev, Mudrik, Voronin, Anichkin,
               Chislenko, V.Ivanov, Ponedelnik, Korneev, Khusainov
   ref: Holland (England)
 
 
 # Topscorer overall: O.Madsen (Denmark) 11 goals
-# Topscorers final tournament: Pereda (Spain), Bene and Novák (Hungary) 2 goals 
-                         
+# Topscorers final tournament: Pereda (Spain), Bene and Novák (Hungary) 2 goals
