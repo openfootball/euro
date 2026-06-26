@@ -121,7 +121,7 @@ Czechoslovakia   1-1 Italy    (9-8 pen)        # note - no extra time played
              5-6 Graziani, 6-6 Gögh,
              6-7 Scirea, 7-7 Gajdusek,
              7-8 Tardelli, 8-8 Kozák,
-             8-8 Collovati (saved), 9-8 Barmos
+                 Collovati (saved), 9-8 Barmos
   Czechoslovakia: Netolicka, Barmos, Jurkemik, Gögh, Vojácek, Ondrus, Vízek (Gajdusek 64),
                   Kozák, Panenka, Nehoda, Masny
   Italy: Zoff, Gentile, Cabrini, G.Baresi, Collovati, Scirea, Causio, Tardelli, Graziani,
