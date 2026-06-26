@@ -113,14 +113,14 @@ Italy            0-0 Belgium
 June 21 20:30 @ Napoli, San Paolo
 Czechoslovakia   1-1 Italy    (9-8 pen)        # note - no extra time played
   (Jurkemik 54; Graziani 73)
-  Penalties: 0-1 Causio, 1-1 Masny;
-             1-2 Altobelli, 2-2 Nehoda;
-             2-3 G.Baresi, 3-3 Ondrus;
-             3-4 Cabrini, 4-4 Jurkemik;
-             4-5 Benetti, 5-5 Panenka;
-             5-6 Graziani, 6-6 Gögh;
-             6-7 Scirea, 7-7 Gajdusek;
-             7-8 Tardelli, 8-8 Kozák;
+  Penalties: 0-1 Causio, 1-1 Masny,
+             1-2 Altobelli, 2-2 Nehoda,
+             2-3 G.Baresi, 3-3 Ondrus,
+             3-4 Cabrini, 4-4 Jurkemik,
+             4-5 Benetti, 5-5 Panenka,
+             5-6 Graziani, 6-6 Gögh,
+             6-7 Scirea, 7-7 Gajdusek,
+             7-8 Tardelli, 8-8 Kozák,
              8-8 Collovati (saved), 9-8 Barmos
   Czechoslovakia: Netolicka, Barmos, Jurkemik, Gögh, Vojácek, Ondrus, Vízek (Gajdusek 64),
                   Kozák, Panenka, Nehoda, Masny
